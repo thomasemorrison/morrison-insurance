@@ -1,6 +1,6 @@
 import ServicePageLayout from "@/components/ServicePageLayout";
 
-const HERO_IMAGE = "https://images.unsplash.com/photo-1497366216548-37526070297c?w=1600&q=80";
+const HERO_IMAGE = "https://d2xsxph8kpxj0f.cloudfront.net/310519663724333063/2Zjkej9iz9N4rHr7kWB8aN/business-hero-SWMKpw9qKWkJetZJKCXE8v.webp";
 
 const schema = JSON.stringify({
   "@context": "https://schema.org",

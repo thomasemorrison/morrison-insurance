@@ -275,7 +275,7 @@ export default function ContactPage() {
                       Office Hours
                     </p>
                     <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.9375rem", color: "var(--charcoal)", fontWeight: 600 }}>
-                      Monday – Friday: 8:30 AM – 5:00 PM
+                      Monday – Friday: 9:00 AM – 4:00 PM
                     </p>
                     <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "oklch(0.52 0.01 250)" }}>
                       Saturday & Sunday: Closed

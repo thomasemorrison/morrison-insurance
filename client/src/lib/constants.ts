@@ -8,8 +8,8 @@ export const BRAND = {
   founded: 1923,
   phone: "(936) 598-2791",
   phoneHref: "tel:+19365982791",
-  email: "hello@morrisoninsurance.com",
-  emailHref: "mailto:hello@morrisoninsurance.com",
+  email: "hello@morrison-ins.net",
+  emailHref: "mailto:hello@morrison-ins.net",
   address: {
     street: "125 Shelbyville St.",
     city: "Center",
@@ -63,5 +63,14 @@ export const IMAGES = {
   landscape: "/manus-storage/morrison-east-texas-landscape_9c3ba0aa.jpg",
   familyHome: "/manus-storage/morrison-family-home_e1b9dc8f.jpg",
   farmRanch: "/manus-storage/morrison-farm-ranch_8c98ce59.jpg",
-  heritage: "/manus-storage/morrison-about-heritage_b386e2b6.jpg",
+  heritage: "https://d2xsxph8kpxj0f.cloudfront.net/310519663724333063/2Zjkej9iz9N4rHr7kWB8aN/morrison-about-heritage-1923-EeoszxSr7eM4ET85sJijzN.webp",
+  courthouse: "/manus-storage/courthouse_fd0b0edd.jpg",
+  businessHero: "https://d2xsxph8kpxj0f.cloudfront.net/310519663724333063/2Zjkej9iz9N4rHr7kWB8aN/business-hero-SWMKpw9qKWkJetZJKCXE8v.webp",
+};
+
+export const STAFF = {
+  jolynn: "/manus-storage/JoLynn_1022264c.jpg",
+  monica: "/manus-storage/Monica_2e9e13ea.jpg",
+  connies: "/manus-storage/Connie_5853ae07.jpg",
+  tem: "/manus-storage/Tem_fb3bb7d5.jpg",
 };

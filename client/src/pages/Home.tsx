@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import { Link } from "wouter";
 import { ArrowRight, Home as HomeIcon, Car, Briefcase, Tractor, Shield, Users, Award, CheckCircle, Phone } from "lucide-react";
-import { BRAND, IMAGES } from "@/lib/constants";
+import { BRAND, IMAGES, STAFF } from "@/lib/constants";
 import QuoteForm from "@/components/QuoteForm";
 
 function useScrollFadeUp(selector = ".fade-up") {
@@ -244,22 +244,35 @@ export default function HomePage() {
             {/* Image side */}
             <div className="fade-up" style={{ position: "relative" }}>
               <img
-                src={IMAGES.heritage}
-                alt="Morrison Insurance heritage — over 100 years serving East Texas"
+                src={IMAGES.courthouse}
+                alt="Shelby County Courthouse, Center, Texas — the heart of our community"
                 style={{
                   width: "100%",
-                  height: "480px",
+                  height: "380px",
                   objectFit: "cover",
                   borderRadius: "0.5rem",
                   boxShadow: "0 20px 60px rgba(0,0,0,0.15)",
+                  marginBottom: "1rem",
+                }}
+              />
+              <img
+                src={IMAGES.heritage}
+                alt="Morrison Insurance heritage — Est. 1923, Center, Texas"
+                style={{
+                  width: "100%",
+                  height: "220px",
+                  objectFit: "cover",
+                  objectPosition: "center 30%",
+                  borderRadius: "0.5rem",
+                  boxShadow: "0 8px 24px rgba(0,0,0,0.12)",
                 }}
               />
               {/* Year badge */}
               <div
                 style={{
                   position: "absolute",
-                  bottom: "-1.5rem",
-                  right: "-1.5rem",
+                  top: "1.25rem",
+                  right: "1.25rem",
                   backgroundColor: "var(--pine)",
                   color: "white",
                   padding: "1.5rem",

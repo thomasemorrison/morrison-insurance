@@ -1,7 +1,8 @@
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
 import NotFound from "@/pages/NotFound";
-import { Route, Switch } from "wouter";
+import { Route, Switch, useLocation } from "wouter";
+import { useEffect } from "react";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Header from "./components/Header";
@@ -15,6 +16,14 @@ import FarmRanchInsurance from "./pages/FarmRanchInsurance";
 import Contact from "./pages/Contact";
 import Resources from "./pages/Resources";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
+
+function ScrollToTop() {
+  const [location] = useLocation();
+  useEffect(() => {
+    window.scrollTo({ top: 0, behavior: "instant" });
+  }, [location]);
+  return null;
+}
 
 function Layout({ children }: { children: React.ReactNode }) {
   return (
@@ -30,7 +39,9 @@ function Layout({ children }: { children: React.ReactNode }) {
 
 function Router() {
   return (
-    <Switch>
+    <>
+      <ScrollToTop />
+      <Switch>
       <Route path="/" component={() => <Layout><Home /></Layout>} />
       <Route path="/about" component={() => <Layout><About /></Layout>} />
       <Route path="/auto-insurance" component={() => <Layout><AutoInsurance /></Layout>} />
@@ -43,6 +54,7 @@ function Router() {
       <Route path="/404" component={() => <Layout><NotFound /></Layout>} />
       <Route component={() => <Layout><NotFound /></Layout>} />
     </Switch>
+    </>
   );
 }
 

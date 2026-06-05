@@ -56,7 +56,6 @@ export default function FarmRanchInsurancePage() {
         "Row crop and hay operations",
         "Rural homesteads with acreage",
         "Hunting leases and rural recreational properties",
-        "Poultry and specialty livestock",
         "Part-time and hobby farms",
       ]}
       realScenariosHeader="When farm coverage matters most"
