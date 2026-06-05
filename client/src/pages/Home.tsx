@@ -91,28 +91,60 @@ export default function HomePage() {
           overflow: "hidden",
         }}
       >
-        {/* Background image */}
+        {/* Dual-photo background: left = storefront side of square, right = courthouse */}
+        {/* Left panel */}
         <div
           style={{
             position: "absolute",
             inset: 0,
-            backgroundImage: `url(${IMAGES.hero})`,
+            right: "35%",
+            backgroundImage: `url(${IMAGES.squareStorefront})`,
             backgroundSize: "cover",
-            backgroundPosition: "center 30%",
+            backgroundPosition: "center center",
             zIndex: 0,
           }}
         />
-        {/* Overlay */}
+        {/* Right panel */}
         <div
           style={{
             position: "absolute",
             inset: 0,
-            background: "linear-gradient(105deg, oklch(0.18 0.06 155 / 0.88) 0%, oklch(0.18 0.06 155 / 0.65) 55%, oklch(0.18 0.06 155 / 0.25) 100%)",
+            left: "65%",
+            backgroundImage: `url(${IMAGES.squareCourthouse})`,
+            backgroundSize: "cover",
+            backgroundPosition: "center 20%",
+            zIndex: 0,
+          }}
+        />
+        {/* Diagonal seam between panels */}
+        <div
+          style={{
+            position: "absolute",
+            inset: 0,
+            background: "linear-gradient(105deg, transparent 60%, oklch(0.18 0.06 155 / 0.4) 65%, oklch(0.18 0.06 155 / 0.0) 72%)",
             zIndex: 1,
           }}
         />
+        {/* Left overlay — deep green for text legibility */}
+        <div
+          style={{
+            position: "absolute",
+            inset: 0,
+            background: "linear-gradient(105deg, oklch(0.18 0.06 155 / 0.90) 0%, oklch(0.18 0.06 155 / 0.78) 45%, oklch(0.18 0.06 155 / 0.30) 68%, oklch(0.18 0.06 155 / 0.10) 100%)",
+            zIndex: 2,
+          }}
+        />
+        {/* Subtle vignette on right */}
+        <div
+          style={{
+            position: "absolute",
+            inset: 0,
+            background: "linear-gradient(to left, oklch(0.18 0.06 155 / 0.45) 0%, transparent 40%)",
+            zIndex: 2,
+          }}
+        />
 
-        <div className="container" style={{ position: "relative", zIndex: 2, paddingTop: "5rem", paddingBottom: "5rem" }}>
+        <div className="container" style={{ position: "relative", zIndex: 3, paddingTop: "5rem", paddingBottom: "5rem" }}>
           <div style={{ maxWidth: "680px" }}>
             {/* Supporting line */}
             <div className="fade-up" style={{ display: "flex", alignItems: "center", gap: "0.75rem", marginBottom: "1.5rem" }}>
@@ -1005,16 +1037,7 @@ export default function HomePage() {
 
             {/* Form */}
             <div className="fade-up" style={{ transitionDelay: "80ms" }}>
-              <div
-                style={{
-                  backgroundColor: "white",
-                  borderRadius: "0.75rem",
-                  padding: "2.5rem",
-                  boxShadow: "0 8px 32px rgba(0,0,0,0.08)",
-                }}
-              >
-                <QuoteForm />
-              </div>
+              <QuoteForm />
             </div>
           </div>
         </div>

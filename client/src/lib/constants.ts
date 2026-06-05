@@ -65,6 +65,8 @@ export const IMAGES = {
   farmRanch: "/manus-storage/morrison-farm-ranch_8c98ce59.jpg",
   heritage: "https://d2xsxph8kpxj0f.cloudfront.net/310519663724333063/2Zjkej9iz9N4rHr7kWB8aN/morrison-about-heritage-1923-EeoszxSr7eM4ET85sJijzN.webp",
   courthouse: "/manus-storage/courthouse_fd0b0edd.jpg",
+  squareCourthouse: "/manus-storage/IMG_4300_4f5d9487.webp",
+  squareStorefront: "/manus-storage/IMG_4313_6d036dd6.webp",
   businessHero: "https://d2xsxph8kpxj0f.cloudfront.net/310519663724333063/2Zjkej9iz9N4rHr7kWB8aN/business-hero-SWMKpw9qKWkJetZJKCXE8v.webp",
 };
 

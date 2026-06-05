@@ -322,15 +322,13 @@ export default function ContactPage() {
             </div>
 
             {/* Quote form */}
-            <div className="fade-up" style={{ transitionDelay: "80ms" }}>
+            <div className="fade-up" style={{ transitionDelay: "80ms", position: "sticky", top: "6rem" }}>
               <div
                 style={{
                   backgroundColor: "white",
                   borderRadius: "0.75rem",
-                  padding: "2.5rem",
+                  padding: "2rem 2rem 0",
                   boxShadow: "0 8px 32px rgba(0,0,0,0.08)",
-                  position: "sticky",
-                  top: "6rem",
                 }}
               >
                 <h2
@@ -339,24 +337,24 @@ export default function ContactPage() {
                     fontWeight: 700,
                     fontSize: "1.5rem",
                     color: "var(--pine)",
-                    marginBottom: "0.5rem",
+                    marginBottom: "0.375rem",
                   }}
                 >
-                  Get started today
+                  Get a Quote
                 </h2>
                 <p
                   style={{
                     fontFamily: "Inter, sans-serif",
                     fontSize: "0.9375rem",
                     color: "oklch(0.45 0.01 250)",
-                    marginBottom: "1.75rem",
+                    marginBottom: "1.25rem",
                     lineHeight: 1.6,
                   }}
                 >
-                  Fill out the form below and a local agent will be in touch shortly.
+                  Fill out the form and a local agent will be in touch shortly.
                 </p>
-                <QuoteForm />
               </div>
+              <QuoteForm />
             </div>
           </div>
         </div>

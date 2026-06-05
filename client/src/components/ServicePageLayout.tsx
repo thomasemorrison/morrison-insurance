@@ -717,16 +717,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
               </p>
             </div>
             <div className="fade-up" style={{ transitionDelay: "80ms" }}>
-              <div
-                style={{
-                  backgroundColor: "white",
-                  borderRadius: "0.75rem",
-                  padding: "2.5rem",
-                  boxShadow: "0 8px 32px rgba(0,0,0,0.08)",
-                }}
-              >
-                <QuoteForm defaultCoverage={props.defaultCoverage} />
-              </div>
+              <QuoteForm defaultCoverage={props.defaultCoverage} />
             </div>
           </div>
         </div>
