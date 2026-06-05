@@ -1,19 +1,76 @@
 <!doctype html>
 <html lang="en">
-
   <head>
     <meta charset="UTF-8" />
-    <meta
-      name="viewport"
-      content="width=device-width, initial-scale=1.0, maximum-scale=1" />
-    <title>Morrison Insurance | Serving East Texans Since 1923</title>    
-    <!-- THIS IS THE START OF A COMMENT BLOCK, BLOCK TO BE DELETED: Google Fonts here, example:
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>Morrison Insurance | Serving East Texans Since 1923 | Center, TX</title>
+    <meta name="description" content="Morrison Insurance is an independent insurance agency in Center, TX, serving Shelby County and Deep East Texas since 1923. Home, auto, business, and farm insurance with trusted local guidance." />
+    <meta name="keywords" content="insurance Center TX, auto insurance Center TX, home insurance Shelby County, farm insurance East Texas, independent insurance agency Texas" />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://morrisoninsurance.com/" />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://morrisoninsurance.com/" />
+    <meta property="og:title" content="Morrison Insurance | Serving East Texans Since 1923" />
+    <meta property="og:description" content="Independent insurance agency in Center, TX. Trusted guidance for home, auto, business, and farm insurance across Shelby County and Deep East Texas." />
+    <meta property="og:site_name" content="Morrison Insurance" />
+
+    <!-- Google Fonts: Lora (serif display) + Inter (body) -->
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
-    THIS IS THE END OF A COMMENT BLOCK, BLOCK TO BE DELETED -->
-  </head>
+    <link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet" />
 
+    <!-- Schema: Organization + LocalBusiness + InsuranceAgency -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": ["InsuranceAgency", "LocalBusiness"],
+          "@id": "https://morrisoninsurance.com/#agency",
+          "name": "Morrison Insurance",
+          "url": "https://morrisoninsurance.com/",
+          "telephone": "(936) 598-2791",
+          "email": "hello@morrisoninsurance.com",
+          "foundingDate": "1923",
+          "priceRange": "$$",
+          "description": "Morrison Insurance is an independent insurance agency in Center, TX, serving Shelby County and Deep East Texas since 1923 with trusted guidance for home, auto, business, and farm insurance.",
+          "address": {
+            "@type": "PostalAddress",
+            "streetAddress": "125 Shelbyville St.",
+            "addressLocality": "Center",
+            "addressRegion": "TX",
+            "postalCode": "75935",
+            "addressCountry": "US"
+          },
+          "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": 31.7974,
+            "longitude": -94.1777
+          },
+          "areaServed": [
+            "Center TX", "Shelby County TX", "Deep East Texas",
+            "Shelbyville TX", "Timpson TX", "Joaquin TX", "Tenaha TX",
+            "Sabine County TX", "Panola County TX", "San Augustine County TX",
+            "Rusk County TX", "Nacogdoches County TX", "Toledo Bend"
+          ],
+          "openingHoursSpecification": [
+            {
+              "@type": "OpeningHoursSpecification",
+              "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+              "opens": "08:30",
+              "closes": "17:00"
+            }
+          ],
+          "sameAs": [
+            "https://www.facebook.com/morrisoninsurance"
+          ]
+        }
+      ]
+    }
+    </script>
+  </head>
   <body>
     <div id="root"></div>
     <script type="module" src="/src/main.tsx"></script>
@@ -22,5 +79,4 @@
       src="%VITE_ANALYTICS_ENDPOINT%/umami"
       data-website-id="%VITE_ANALYTICS_WEBSITE_ID%"></script>
   </body>
-
 </html>
