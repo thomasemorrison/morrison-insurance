@@ -67,6 +67,7 @@ export const IMAGES = {
   courthouse: "/manus-storage/courthouse_fd0b0edd.jpg",
   squareCourthouse: "/manus-storage/IMG_4300_4f5d9487.webp",
   squareStorefront: "/manus-storage/IMG_4313_6d036dd6.webp",
+  officeBuilding: "/manus-storage/MIBldgcurrent_ecdf9814.png",
   businessHero: "https://d2xsxph8kpxj0f.cloudfront.net/310519663724333063/2Zjkej9iz9N4rHr7kWB8aN/business-hero-SWMKpw9qKWkJetZJKCXE8v.webp",
 };
 

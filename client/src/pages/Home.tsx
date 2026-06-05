@@ -91,28 +91,28 @@ export default function HomePage() {
           overflow: "hidden",
         }}
       >
-        {/* Dual-photo background: left = storefront side of square, right = courthouse */}
-        {/* Left panel */}
+        {/* Dual-photo background: left = courthouse with flag, right = Morrison Insurance office */}
+        {/* Left panel — courthouse */}
         <div
           style={{
             position: "absolute",
             inset: 0,
-            right: "35%",
-            backgroundImage: `url(${IMAGES.squareStorefront})`,
+            right: "38%",
+            backgroundImage: `url(${IMAGES.squareCourthouse})`,
             backgroundSize: "cover",
-            backgroundPosition: "center center",
+            backgroundPosition: "center 25%",
             zIndex: 0,
           }}
         />
-        {/* Right panel */}
+        {/* Right panel — Morrison Insurance office building */}
         <div
           style={{
             position: "absolute",
             inset: 0,
-            left: "65%",
-            backgroundImage: `url(${IMAGES.squareCourthouse})`,
+            left: "62%",
+            backgroundImage: `url(${IMAGES.officeBuilding})`,
             backgroundSize: "cover",
-            backgroundPosition: "center 20%",
+            backgroundPosition: "center center",
             zIndex: 0,
           }}
         />

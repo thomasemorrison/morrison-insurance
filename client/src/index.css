@@ -282,6 +282,10 @@
   }
 }
 
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
 /* ── HUBSPOT FORM BRAND OVERRIDES ── */
 /* Align HubSpot embed with Morrison Insurance design system */
 .hs-form-light .hs-form,
