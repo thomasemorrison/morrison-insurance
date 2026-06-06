@@ -105,7 +105,7 @@ export default function AboutPage() {
             <div className="fade-up" style={{ position: "relative" }}>
               <img
                 src={IMAGES.courthouse}
-                alt="Shelby County Courthouse, Center, Texas — the heart of our community"
+                alt="Shelby County Courthouse, Center, Texas — Est. 1885, the heart of our community"
                 style={{
                   width: "100%",
                   height: "480px",

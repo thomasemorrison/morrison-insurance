@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import { Link } from "wouter";
 import { Phone, Mail, MapPin, Clock, CheckCircle } from "lucide-react";
-import { BRAND } from "@/lib/constants";
+import { BRAND, IMAGES } from "@/lib/constants";
 import QuoteForm from "@/components/QuoteForm";
 
 function useScrollFadeUp() {
@@ -111,6 +111,25 @@ export default function ContactPage() {
               >
                 Fill out the form and a local Morrison Insurance agent will reach out to walk through your options. Or call or email us directly — we're here to help.
               </p>
+
+              {/* Office photo */}
+              <div className="fade-up" style={{ marginBottom: "2rem", transitionDelay: "200ms" }}>
+                <img
+                  src={IMAGES.officeFront}
+                  alt="Morrison Insurance Agency office on the Center, TX square"
+                  style={{
+                    width: "100%",
+                    height: "220px",
+                    objectFit: "cover",
+                    objectPosition: "center 30%",
+                    borderRadius: "0.5rem",
+                    boxShadow: "0 4px 16px rgba(0,0,0,0.10)",
+                  }}
+                />
+                <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.8125rem", color: "oklch(0.55 0.01 250)", marginTop: "0.5rem", textAlign: "center" }}>
+                  125 Shelbyville St. — On the Center Square since 1923
+                </p>
+              </div>
 
               {/* Contact cards */}
               <div

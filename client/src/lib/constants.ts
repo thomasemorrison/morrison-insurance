@@ -59,15 +59,20 @@ export const FOOTER_LINKS = [
 ];
 
 export const IMAGES = {
+  // Real Center TX square photos (new batch June 2026)
+  heroPanoramic: "https://d2xsxph8kpxj0f.cloudfront.net/310519663724333063/2Zjkej9iz9N4rHr7kWB8aN/hero-panoramic-enhanced-NrJMGGBJXsYVPpXaFwqpBY.webp",
+  courthouse: "/manus-storage/courthouse-5003_8a7066a7.jpg",
+  officeBuilding: "/manus-storage/office-4998_df8b11a1.jpg",
+  officeFront: "/manus-storage/office-5006_f8832443.jpg",
+  squareStreet: "/manus-storage/square-street-5009_b6bc3049.jpg",
+  // Legacy / AI-generated assets
   hero: "/manus-storage/morrison-hero_eb548c1e.jpg",
   landscape: "/manus-storage/morrison-east-texas-landscape_9c3ba0aa.jpg",
   familyHome: "/manus-storage/morrison-family-home_e1b9dc8f.jpg",
   farmRanch: "/manus-storage/morrison-farm-ranch_8c98ce59.jpg",
   heritage: "https://d2xsxph8kpxj0f.cloudfront.net/310519663724333063/2Zjkej9iz9N4rHr7kWB8aN/morrison-about-heritage-1923-EeoszxSr7eM4ET85sJijzN.webp",
-  courthouse: "/manus-storage/courthouse_fd0b0edd.jpg",
   squareCourthouse: "/manus-storage/IMG_4300_4f5d9487.webp",
   squareStorefront: "/manus-storage/IMG_4313_6d036dd6.webp",
-  officeBuilding: "/manus-storage/MIBldgcurrent_ecdf9814.png",
   businessHero: "https://d2xsxph8kpxj0f.cloudfront.net/310519663724333063/2Zjkej9iz9N4rHr7kWB8aN/business-hero-SWMKpw9qKWkJetZJKCXE8v.webp",
 };
 

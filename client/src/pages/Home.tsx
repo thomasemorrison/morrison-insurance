@@ -91,56 +91,33 @@ export default function HomePage() {
           overflow: "hidden",
         }}
       >
-        {/* Dual-photo background: left = courthouse with flag, right = Morrison Insurance office */}
-        {/* Left panel — courthouse */}
+        {/* Full-width panoramic hero: Center TX square — courthouse left, Morrison Insurance right */}
         <div
           style={{
             position: "absolute",
             inset: 0,
-            right: "38%",
-            backgroundImage: `url(${IMAGES.squareCourthouse})`,
+            backgroundImage: `url(${IMAGES.heroPanoramic})`,
             backgroundSize: "cover",
-            backgroundPosition: "center 25%",
+            backgroundPosition: "center 40%",
             zIndex: 0,
           }}
         />
-        {/* Right panel — Morrison Insurance office building */}
+        {/* Gradient overlay — deep green left for text legibility, fades to transparent right */}
         <div
           style={{
             position: "absolute",
             inset: 0,
-            left: "62%",
-            backgroundImage: `url(${IMAGES.officeBuilding})`,
-            backgroundSize: "cover",
-            backgroundPosition: "center center",
-            zIndex: 0,
-          }}
-        />
-        {/* Diagonal seam between panels */}
-        <div
-          style={{
-            position: "absolute",
-            inset: 0,
-            background: "linear-gradient(105deg, transparent 60%, oklch(0.18 0.06 155 / 0.4) 65%, oklch(0.18 0.06 155 / 0.0) 72%)",
+            background: "linear-gradient(100deg, oklch(0.18 0.06 155 / 0.92) 0%, oklch(0.18 0.06 155 / 0.80) 40%, oklch(0.18 0.06 155 / 0.35) 65%, oklch(0.18 0.06 155 / 0.10) 100%)",
             zIndex: 1,
           }}
         />
-        {/* Left overlay — deep green for text legibility */}
+        {/* Bottom fade for smooth section transition */}
         <div
           style={{
             position: "absolute",
             inset: 0,
-            background: "linear-gradient(105deg, oklch(0.18 0.06 155 / 0.90) 0%, oklch(0.18 0.06 155 / 0.78) 45%, oklch(0.18 0.06 155 / 0.30) 68%, oklch(0.18 0.06 155 / 0.10) 100%)",
-            zIndex: 2,
-          }}
-        />
-        {/* Subtle vignette on right */}
-        <div
-          style={{
-            position: "absolute",
-            inset: 0,
-            background: "linear-gradient(to left, oklch(0.18 0.06 155 / 0.45) 0%, transparent 40%)",
-            zIndex: 2,
+            background: "linear-gradient(to top, oklch(0.18 0.06 155 / 0.50) 0%, transparent 25%)",
+            zIndex: 1,
           }}
         />
 
