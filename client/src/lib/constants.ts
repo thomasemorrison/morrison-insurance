@@ -78,6 +78,7 @@ export const IMAGES = {
 };
 
 export const STAFF = {
+  tommyAndJane: "/manus-storage/498319506_24527870550135909_8226417535497461260_n_306f3657.jpg",
   jolynn: "/manus-storage/JoLynn_1022264c.jpg",
   monica: "/manus-storage/Monica_2e9e13ea.jpg",
   connies: "/manus-storage/Connie_5853ae07.jpg",

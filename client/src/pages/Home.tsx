@@ -252,68 +252,73 @@ export default function HomePage() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
             {/* Image side */}
             <div className="fade-up" style={{ position: "relative" }}>
+              {/* Morrison Insurance office building — the home of the agency */}
               <img
-                src={IMAGES.courthouse}
-                alt="Shelby County Courthouse, Center, Texas — the heart of our community"
+                src={IMAGES.officeCurrent}
+                alt="Morrison Insurance Agency — 125 Shelbyville St., Center, Texas"
                 style={{
                   width: "100%",
                   height: "380px",
                   objectFit: "cover",
+                  objectPosition: "center center",
                   borderRadius: "0.5rem",
                   boxShadow: "0 20px 60px rgba(0,0,0,0.15)",
                   marginBottom: "1rem",
                 }}
               />
-              <img
-                src={IMAGES.heritage}
-                alt="Morrison Insurance heritage — Est. 1923, Center, Texas"
-                style={{
-                  width: "100%",
-                  height: "220px",
-                  objectFit: "cover",
-                  objectPosition: "center 30%",
-                  borderRadius: "0.5rem",
-                  boxShadow: "0 8px 24px rgba(0,0,0,0.12)",
-                }}
-              />
-              {/* Year badge */}
-              <div
-                style={{
-                  position: "absolute",
-                  top: "1.25rem",
-                  right: "1.25rem",
-                  backgroundColor: "var(--pine)",
-                  color: "white",
-                  padding: "1.5rem",
-                  borderRadius: "0.5rem",
-                  textAlign: "center",
-                  boxShadow: "0 8px 24px rgba(0,0,0,0.2)",
-                }}
-              >
-                <span
+              {/* Tommy & Jane Morrison — the founders */}
+              <div style={{ position: "relative" }}>
+                <img
+                  src={STAFF.tommyAndJane}
+                  alt="Tommy and Jane Morrison — the heart of Morrison Insurance"
                   style={{
-                    fontFamily: "Lora, Georgia, serif",
-                    fontWeight: 700,
-                    fontSize: "2.5rem",
-                    display: "block",
-                    lineHeight: 1,
-                    color: "var(--amber-brand)",
+                    width: "100%",
+                    height: "220px",
+                    objectFit: "cover",
+                    objectPosition: "center 20%",
+                    borderRadius: "0.5rem",
+                    boxShadow: "0 8px 24px rgba(0,0,0,0.12)",
+                  }}
+                />
+                {/* Year badge overlays the Tommy & Jane photo */}
+                <div
+                  style={{
+                    position: "absolute",
+                    top: "1rem",
+                    right: "1rem",
+                    backgroundColor: "var(--pine)",
+                    color: "white",
+                    padding: "1.25rem 1.5rem",
+                    borderRadius: "0.5rem",
+                    textAlign: "center",
+                    boxShadow: "0 8px 24px rgba(0,0,0,0.3)",
                   }}
                 >
-                  1923
-                </span>
-                <span
-                  style={{
-                    fontFamily: "Inter, sans-serif",
-                    fontSize: "0.75rem",
-                    fontWeight: 500,
-                    letterSpacing: "0.08em",
-                    textTransform: "uppercase",
-                    opacity: 0.8,
-                  }}
-                >
-                  Est. Center, TX
-                </span>
+                  <span
+                    style={{
+                      fontFamily: "Lora, Georgia, serif",
+                      fontWeight: 700,
+                      fontSize: "2.25rem",
+                      display: "block",
+                      lineHeight: 1,
+                      color: "var(--amber-brand)",
+                    }}
+                  >
+                    1923
+                  </span>
+                  <span
+                    style={{
+                      fontFamily: "Inter, sans-serif",
+                      fontSize: "0.7rem",
+                      fontWeight: 500,
+                      letterSpacing: "0.08em",
+                      textTransform: "uppercase",
+                      opacity: 0.85,
+                    }}
+                  >
+                    Est. Center, TX
+                  </span>
+                </div>
               </div>
             </div>
 
@@ -827,6 +832,137 @@ export default function HomePage() {
               );
             })}
           </div>
+        </div>
+      </section>
+
+      {/* ── TESTIMONIALS ── */}
+      <section style={{ backgroundColor: "var(--pine)", padding: "6rem 0" }}>
+        <div className="container">
+          <div className="fade-up" style={{ textAlign: "center", marginBottom: "3.5rem" }}>
+            <span
+              style={{
+                fontFamily: "Inter, sans-serif",
+                fontSize: "0.75rem",
+                fontWeight: 600,
+                letterSpacing: "0.12em",
+                textTransform: "uppercase",
+                color: "var(--amber-brand)",
+              }}
+            >
+              What Our Customers Say
+            </span>
+            <div style={{ width: "3rem", height: "3px", backgroundColor: "var(--amber-brand)", margin: "0.75rem auto 0" }} />
+            <h2
+              style={{
+                fontFamily: "Lora, Georgia, serif",
+                fontWeight: 700,
+                fontSize: "clamp(1.875rem, 3vw, 2.5rem)",
+                color: "white",
+                marginTop: "1rem",
+              }}
+            >
+              Trusted by East Texas families
+            </h2>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {[
+              {
+                quote: "Your quote will go here. Share your experience with Morrison Insurance and we'll add it to the site.",
+                name: "Your Name",
+                location: "Center, TX",
+                placeholder: true,
+              },
+              {
+                quote: "Your quote will go here. Share your experience with Morrison Insurance and we'll add it to the site.",
+                name: "Your Name",
+                location: "Shelby County, TX",
+                placeholder: true,
+              },
+              {
+                quote: "Your quote will go here. Share your experience with Morrison Insurance and we'll add it to the site.",
+                name: "Your Name",
+                location: "Deep East Texas",
+                placeholder: true,
+              },
+            ].map((t, i) => (
+              <div
+                key={i}
+                className="fade-up"
+                style={{
+                  backgroundColor: "oklch(0.22 0.06 155)",
+                  borderRadius: "0.5rem",
+                  padding: "2rem",
+                  borderTop: "3px solid var(--amber-brand)",
+                  transitionDelay: `${i * 80}ms`,
+                  opacity: t.placeholder ? 0.55 : 1,
+                }}
+              >
+                {/* Stars */}
+                <div style={{ display: "flex", gap: "0.25rem", marginBottom: "1.25rem" }}>
+                  {[1,2,3,4,5].map((s) => (
+                    <svg key={s} width="16" height="16" viewBox="0 0 20 20" fill="var(--amber-brand)">
+                      <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                    </svg>
+                  ))}
+                </div>
+                {/* Quote */}
+                <p
+                  style={{
+                    fontFamily: "Inter, sans-serif",
+                    fontSize: "1rem",
+                    color: "oklch(0.82 0.01 80)",
+                    lineHeight: 1.75,
+                    marginBottom: "1.5rem",
+                    fontStyle: "italic",
+                  }}
+                >
+                  &ldquo;{t.quote}&rdquo;
+                </p>
+                {/* Attribution */}
+                <div style={{ display: "flex", alignItems: "center", gap: "0.75rem" }}>
+                  <div
+                    style={{
+                      width: "40px",
+                      height: "40px",
+                      borderRadius: "50%",
+                      backgroundColor: "oklch(0.30 0.06 155)",
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      flexShrink: 0,
+                    }}
+                  >
+                    <span style={{ fontFamily: "Lora, serif", fontWeight: 700, fontSize: "1.1rem", color: "var(--amber-brand)" }}>
+                      {t.name.charAt(0)}
+                    </span>
+                  </div>
+                  <div>
+                    <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.9rem", fontWeight: 700, color: "white", marginBottom: "0.125rem" }}>
+                      {t.name}
+                    </p>
+                    <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.8rem", color: "oklch(0.60 0.01 80)" }}>
+                      {t.location}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+
+          <p
+            className="fade-up"
+            style={{
+              fontFamily: "Inter, sans-serif",
+              fontSize: "0.875rem",
+              color: "oklch(0.55 0.01 80)",
+              textAlign: "center",
+              marginTop: "2.5rem",
+              fontStyle: "italic",
+            }}
+          >
+            Real quotes from real customers will appear here soon.
+          </p>
         </div>
       </section>
 
