@@ -60,9 +60,10 @@ export const FOOTER_LINKS = [
 
 export const IMAGES = {
   // Real Center TX square photos (new batch June 2026)
-  heroPanoramic: "https://d2xsxph8kpxj0f.cloudfront.net/310519663724333063/2Zjkej9iz9N4rHr7kWB8aN/hero-panoramic-enhanced-NrJMGGBJXsYVPpXaFwqpBY.webp",
+  heroPanoramic: "/manus-storage/hero-panoramic-enhanced_5a8c2254.png",
   courthouse: "/manus-storage/courthouse-5003_8a7066a7.jpg",
   officeBuilding: "/manus-storage/office-4998_df8b11a1.jpg",
+  officeCurrent: "/manus-storage/MIBldgcurrent_2ea5af86.png",
   officeFront: "/manus-storage/office-5006_f8832443.jpg",
   squareStreet: "/manus-storage/square-street-5009_b6bc3049.jpg",
   // Legacy / AI-generated assets

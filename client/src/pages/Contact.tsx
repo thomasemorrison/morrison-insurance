@@ -115,13 +115,13 @@ export default function ContactPage() {
               {/* Office photo */}
               <div className="fade-up" style={{ marginBottom: "2rem", transitionDelay: "200ms" }}>
                 <img
-                  src={IMAGES.officeFront}
+                  src={IMAGES.officeCurrent}
                   alt="Morrison Insurance Agency office on the Center, TX square"
                   style={{
                     width: "100%",
-                    height: "220px",
+                    height: "340px",
                     objectFit: "cover",
-                    objectPosition: "center 30%",
+                    objectPosition: "center center",
                     borderRadius: "0.5rem",
                     boxShadow: "0 4px 16px rgba(0,0,0,0.10)",
                   }}
