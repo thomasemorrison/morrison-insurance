@@ -432,6 +432,118 @@ export default function ContactPage() {
         </div>
       </section>
 
+      {/* Testimonials strip */}
+      <section style={{ backgroundColor: "var(--cream-dark)", padding: "5rem 0" }}>
+        <div className="container">
+          <div className="fade-up" style={{ textAlign: "center", marginBottom: "3rem" }}>
+            <span
+              style={{
+                fontFamily: "Inter, sans-serif",
+                fontSize: "0.75rem",
+                fontWeight: 600,
+                letterSpacing: "0.12em",
+                textTransform: "uppercase",
+                color: "var(--amber-brand)",
+              }}
+            >
+              What Our Customers Say
+            </span>
+            <div style={{ width: "3rem", height: "3px", backgroundColor: "var(--amber-brand)", margin: "0.75rem auto 0" }} />
+            <h2
+              style={{
+                fontFamily: "Lora, Georgia, serif",
+                fontWeight: 700,
+                fontSize: "clamp(1.625rem, 2.5vw, 2.25rem)",
+                color: "var(--pine)",
+                marginTop: "1rem",
+              }}
+            >
+              Trusted by East Texas families
+            </h2>
+          </div>
+
+          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+            {[
+              {
+                quote: "Your quote will go here. Share your experience with Morrison Insurance and we'll add it to the site.",
+                name: "Your Name",
+                location: "Center, TX",
+              },
+              {
+                quote: "Your quote will go here. Share your experience with Morrison Insurance and we'll add it to the site.",
+                name: "Your Name",
+                location: "Shelby County, TX",
+              },
+              {
+                quote: "Your quote will go here. Share your experience with Morrison Insurance and we'll add it to the site.",
+                name: "Your Name",
+                location: "Deep East Texas",
+              },
+            ].map((t, i) => (
+              <div
+                key={i}
+                className="fade-up"
+                style={{
+                  backgroundColor: "white",
+                  borderRadius: "0.5rem",
+                  padding: "2rem",
+                  borderTop: "3px solid var(--pine)",
+                  boxShadow: "0 2px 12px rgba(0,0,0,0.06)",
+                  transitionDelay: `${i * 80}ms`,
+                  opacity: 0.55,
+                }}
+              >
+                <div style={{ display: "flex", gap: "0.25rem", marginBottom: "1.25rem" }}>
+                  {[1,2,3,4,5].map((s) => (
+                    <svg key={s} width="16" height="16" viewBox="0 0 20 20" fill="var(--amber-brand)">
+                      <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                    </svg>
+                  ))}
+                </div>
+                <p
+                  style={{
+                    fontFamily: "Inter, sans-serif",
+                    fontSize: "1rem",
+                    color: "oklch(0.38 0.01 250)",
+                    lineHeight: 1.75,
+                    marginBottom: "1.5rem",
+                    fontStyle: "italic",
+                  }}
+                >
+                  &ldquo;{t.quote}&rdquo;
+                </p>
+                <div style={{ display: "flex", alignItems: "center", gap: "0.75rem" }}>
+                  <div
+                    style={{
+                      width: "40px",
+                      height: "40px",
+                      borderRadius: "50%",
+                      backgroundColor: "oklch(0.93 0.03 155)",
+                      display: "flex",
+                      alignItems: "center",
+                      justifyContent: "center",
+                      flexShrink: 0,
+                    }}
+                  >
+                    <span style={{ fontFamily: "Lora, serif", fontWeight: 700, fontSize: "1.1rem", color: "var(--pine)" }}>
+                      {t.name.charAt(0)}
+                    </span>
+                  </div>
+                  <div>
+                    <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.9rem", fontWeight: 700, color: "var(--pine)", marginBottom: "0.125rem" }}>
+                      {t.name}
+                    </p>
+                    <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.8rem", color: "oklch(0.55 0.01 250)" }}>
+                      {t.location}
+                    </p>
+                  </div>
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      </section>
+
       {/* Service area */}
       <section style={{ backgroundColor: "var(--pine)", padding: "4rem 0" }}>
         <div className="container">

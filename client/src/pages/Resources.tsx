@@ -63,7 +63,7 @@ const articles = [
     title: "What Happens If You're in an Accident with an Uninsured Driver in Texas?",
     excerpt: "Texas has one of the highest rates of uninsured drivers in the country. Here's what happens if you're in an accident with someone who doesn't have insurance — and how to protect yourself.",
     readTime: "5 min read",
-    href: "/resources/accident-uninsured-driver-texas",
+    href: "/resources/uninsured-driver-accident-texas",
     image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=70",
   },
   {
@@ -79,7 +79,7 @@ const articles = [
     title: "How to File an Insurance Claim: A Step-by-Step Guide",
     excerpt: "Filing an insurance claim can feel overwhelming — especially when you're already dealing with a stressful situation. Here's a clear, step-by-step guide to help you navigate the process.",
     readTime: "6 min read",
-    href: "/resources/how-to-file-insurance-claim",
+    href: "/resources/how-to-file-insurance-claim-texas",
     image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=70",
   },
 ];

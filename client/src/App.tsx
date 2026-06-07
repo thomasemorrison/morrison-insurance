@@ -16,6 +16,14 @@ import FarmRanchInsurance from "./pages/FarmRanchInsurance";
 import Contact from "./pages/Contact";
 import Resources from "./pages/Resources";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
+import ArticleHomeownersInsuranceCover from "./pages/articles/ArticleHomeownersInsuranceCover";
+import ArticleAutoInsuranceRequirements from "./pages/articles/ArticleAutoInsuranceRequirements";
+import ArticleFarmVsHomeowners from "./pages/articles/ArticleFarmVsHomeowners";
+import ArticleFloodDamage from "./pages/articles/ArticleFloodDamage";
+import ArticleUninsuredDriver from "./pages/articles/ArticleUninsuredDriver";
+import ArticleSmallBusinessCoverage from "./pages/articles/ArticleSmallBusinessCoverage";
+import ArticleIndependentVsCaptive from "./pages/articles/ArticleIndependentVsCaptive";
+import ArticleHowToFileClaim from "./pages/articles/ArticleHowToFileClaim";
 
 function ScrollToTop() {
   const [location] = useLocation();
@@ -51,6 +59,14 @@ function Router() {
       <Route path="/contact" component={() => <Layout><Contact /></Layout>} />
       <Route path="/resources" component={() => <Layout><Resources /></Layout>} />
       <Route path="/privacy-policy" component={() => <Layout><PrivacyPolicy /></Layout>} />
+      <Route path="/resources/what-does-homeowners-insurance-cover-texas" component={() => <Layout><ArticleHomeownersInsuranceCover /></Layout>} />
+      <Route path="/resources/texas-auto-insurance-requirements" component={() => <Layout><ArticleAutoInsuranceRequirements /></Layout>} />
+      <Route path="/resources/farm-insurance-vs-homeowners-insurance" component={() => <Layout><ArticleFarmVsHomeowners /></Layout>} />
+      <Route path="/resources/does-homeowners-insurance-cover-flood-damage-texas" component={() => <Layout><ArticleFloodDamage /></Layout>} />
+      <Route path="/resources/uninsured-driver-accident-texas" component={() => <Layout><ArticleUninsuredDriver /></Layout>} />
+      <Route path="/resources/small-business-insurance-coverage-gaps" component={() => <Layout><ArticleSmallBusinessCoverage /></Layout>} />
+      <Route path="/resources/independent-vs-captive-insurance-agents" component={() => <Layout><ArticleIndependentVsCaptive /></Layout>} />
+      <Route path="/resources/how-to-file-insurance-claim-texas" component={() => <Layout><ArticleHowToFileClaim /></Layout>} />
       <Route path="/404" component={() => <Layout><NotFound /></Layout>} />
       <Route component={() => <Layout><NotFound /></Layout>} />
     </Switch>

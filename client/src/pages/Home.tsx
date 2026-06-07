@@ -267,59 +267,18 @@ export default function HomePage() {
                 }}
               />
               {/* Tommy & Jane Morrison — the founders */}
-              <div style={{ position: "relative" }}>
-                <img
-                  src={STAFF.tommyAndJane}
-                  alt="Tommy and Jane Morrison — the heart of Morrison Insurance"
-                  style={{
-                    width: "100%",
-                    height: "220px",
-                    objectFit: "cover",
-                    objectPosition: "center 20%",
-                    borderRadius: "0.5rem",
-                    boxShadow: "0 8px 24px rgba(0,0,0,0.12)",
-                  }}
-                />
-                {/* Year badge overlays the Tommy & Jane photo */}
-                <div
-                  style={{
-                    position: "absolute",
-                    top: "1rem",
-                    right: "1rem",
-                    backgroundColor: "var(--pine)",
-                    color: "white",
-                    padding: "1.25rem 1.5rem",
-                    borderRadius: "0.5rem",
-                    textAlign: "center",
-                    boxShadow: "0 8px 24px rgba(0,0,0,0.3)",
-                  }}
-                >
-                  <span
-                    style={{
-                      fontFamily: "Lora, Georgia, serif",
-                      fontWeight: 700,
-                      fontSize: "2.25rem",
-                      display: "block",
-                      lineHeight: 1,
-                      color: "var(--amber-brand)",
-                    }}
-                  >
-                    1923
-                  </span>
-                  <span
-                    style={{
-                      fontFamily: "Inter, sans-serif",
-                      fontSize: "0.7rem",
-                      fontWeight: 500,
-                      letterSpacing: "0.08em",
-                      textTransform: "uppercase",
-                      opacity: 0.85,
-                    }}
-                  >
-                    Est. Center, TX
-                  </span>
-                </div>
-              </div>
+              <img
+                src={STAFF.tommyAndJane}
+                alt="Tommy and Jane Morrison — the heart of Morrison Insurance"
+                style={{
+                  width: "100%",
+                  height: "220px",
+                  objectFit: "cover",
+                  objectPosition: "center 20%",
+                  borderRadius: "0.5rem",
+                  boxShadow: "0 8px 24px rgba(0,0,0,0.12)",
+                }}
+              />
             </div>
 
             {/* Content side */}
