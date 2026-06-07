@@ -1,8 +1,9 @@
 import { useEffect, useRef } from "react";
 import { Link } from "wouter";
-import { ArrowRight, Home as HomeIcon, Car, Briefcase, Tractor, Shield, Users, Award, CheckCircle, Phone } from "lucide-react";
+import { ArrowRight, Home as HomeIcon, Car, Briefcase, Tractor, Shield, Users, Award, CheckCircle, Phone, Smartphone } from "lucide-react";
 import { BRAND, IMAGES, STAFF } from "@/lib/constants";
 import QuoteForm from "@/components/QuoteForm";
+import AppBanner from "@/components/AppBanner";
 
 function useScrollFadeUp(selector = ".fade-up") {
   const ref = useRef<HTMLDivElement>(null);
@@ -180,6 +181,30 @@ export default function HomePage() {
               <a href={BRAND.phoneHref} className="btn-white" style={{ fontSize: "1rem", padding: "0.875rem 2rem" }}>
                 <Phone size={16} />
                 Call Now
+              </a>
+              <a
+                href={BRAND.appUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                style={{
+                  display: "inline-flex",
+                  alignItems: "center",
+                  gap: "0.5rem",
+                  fontFamily: "Inter, sans-serif",
+                  fontWeight: 600,
+                  fontSize: "1rem",
+                  padding: "0.875rem 2rem",
+                  border: "1.5px solid oklch(0.65 0.04 155)",
+                  borderRadius: "0.375rem",
+                  color: "oklch(0.88 0.01 80)",
+                  textDecoration: "none",
+                  transition: "border-color 180ms, color 180ms",
+                }}
+                onMouseEnter={(e) => { (e.currentTarget as HTMLElement).style.borderColor = "var(--amber-brand)"; (e.currentTarget as HTMLElement).style.color = "var(--amber-brand)"; }}
+                onMouseLeave={(e) => { (e.currentTarget as HTMLElement).style.borderColor = "oklch(0.65 0.04 155)"; (e.currentTarget as HTMLElement).style.color = "oklch(0.88 0.01 80)"; }}
+              >
+                <Smartphone size={16} />
+                Free App
               </a>
             </div>
 
@@ -924,6 +949,9 @@ export default function HomePage() {
           </p>
         </div>
       </section>
+
+      {/* ── APP PROMOTION ── */}
+      <AppBanner variant="light" />
 
       {/* ── EAST TEXAS LANDSCAPE BANNER ── */}
       <section

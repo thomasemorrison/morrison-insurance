@@ -1,5 +1,5 @@
 import { Link } from "wouter";
-import { Phone, Mail, MapPin, Facebook, Instagram } from "lucide-react";
+import { Phone, Mail, MapPin, Facebook, Instagram, Smartphone, ArrowRight } from "lucide-react";
 import { BRAND, FOOTER_LINKS } from "@/lib/constants";
 
 export default function Footer() {
@@ -236,6 +236,31 @@ export default function Footer() {
               </p>
             </div>
           </div>
+        </div>
+      </div>
+
+      {/* App promo strip */}
+      <div style={{ borderTop: "1px solid oklch(0.32 0.04 155)", backgroundColor: "oklch(0.18 0.06 155)" }}>
+        <div className="container py-6 flex flex-col sm:flex-row items-center justify-between gap-4">
+          <div className="flex items-center gap-3">
+            <div style={{ width: "40px", height: "40px", borderRadius: "0.5rem", backgroundColor: "var(--amber-brand)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+              <Smartphone size={20} style={{ color: "var(--pine)" }} />
+            </div>
+            <div>
+              <p style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "0.9375rem", color: "white", lineHeight: 1.2 }}>Your insurance agent in your pocket.</p>
+              <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.8125rem", color: "oklch(0.65 0.01 80)", marginTop: "2px" }}>Free for everyone — no account required.</p>
+            </div>
+          </div>
+          <a
+            href={BRAND.appUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ display: "inline-flex", alignItems: "center", gap: "0.5rem", backgroundColor: "var(--amber-brand)", color: "var(--pine)", fontFamily: "Inter, sans-serif", fontWeight: 700, fontSize: "0.875rem", padding: "0.625rem 1.25rem", borderRadius: "0.375rem", textDecoration: "none", whiteSpace: "nowrap", transition: "opacity 180ms" }}
+            onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.opacity = "0.85")}
+            onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.opacity = "1")}
+          >
+            Open Free App <ArrowRight size={14} />
+          </a>
         </div>
       </div>
 
