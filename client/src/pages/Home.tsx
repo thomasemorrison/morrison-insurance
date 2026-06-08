@@ -4,6 +4,7 @@ import { ArrowRight, Home as HomeIcon, Car, Briefcase, Tractor, Shield, Users, A
 import { BRAND, IMAGES, STAFF } from "@/lib/constants";
 import QuoteForm from "@/components/QuoteForm";
 import AppBanner from "@/components/AppBanner";
+import { useSeoMeta } from "@/hooks/useSeoMeta";
 
 function useScrollFadeUp(selector = ".fade-up") {
   const ref = useRef<HTMLDivElement>(null);
@@ -79,6 +80,10 @@ const processSteps = [
 
 export default function HomePage() {
   const pageRef = useScrollFadeUp();
+  useSeoMeta(
+    "Morrison Insurance | Center, TX Since 1923",
+    "Independent insurance agency in Center, TX since 1923. Home, auto, business & farm coverage for Shelby County and Deep East Texas."
+  );
 
   return (
     <div ref={pageRef}>
