@@ -72,31 +72,54 @@ export default function Header() {
       >
         <div className="container flex items-center justify-between py-4">
           {/* Logo */}
-          <Link href="/" className="flex flex-col leading-tight no-underline">
+          <Link href="/" className="flex flex-col leading-tight no-underline" style={{ gap: 0 }}>
+            {/* MORRISON — large display */}
             <span
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
-                fontSize: "1.375rem",
+                fontSize: "1.5rem",
                 color: "var(--pine)",
-                letterSpacing: "-0.01em",
-                lineHeight: 1.1,
+                letterSpacing: "0.08em",
+                lineHeight: 1,
+                textTransform: "uppercase",
               }}
             >
-              Morrison Insurance
+              Morrison
             </span>
+            {/* — INSURANCE — with em-dash rules */}
             <span
               style={{
-                fontFamily: "Inter, sans-serif",
-                fontSize: "0.6875rem",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 500,
-                color: "var(--amber-brand)",
-                letterSpacing: "0.08em",
+                fontSize: "0.8rem",
+                color: "var(--pine)",
+                letterSpacing: "0.22em",
+                lineHeight: 1,
                 textTransform: "uppercase",
+                display: "flex",
+                alignItems: "center",
+                gap: "0.35rem",
                 marginTop: "2px",
               }}
             >
-              Est. 1923 · Center, Texas
+              <span style={{ display: "inline-block", width: "1rem", height: "1px", backgroundColor: "var(--pine)", flexShrink: 0 }} />
+              Insurance
+              <span style={{ display: "inline-block", width: "1rem", height: "1px", backgroundColor: "var(--pine)", flexShrink: 0 }} />
+            </span>
+            {/* SERVING EAST TEXAS SINCE 1923 */}
+            <span
+              style={{
+                fontFamily: "'Inter', sans-serif",
+                fontSize: "0.5625rem",
+                fontWeight: 600,
+                color: "var(--dusty-sage)",
+                letterSpacing: "0.12em",
+                textTransform: "uppercase",
+                marginTop: "3px",
+              }}
+            >
+              Serving East Texas Since 1923
             </span>
           </Link>
 

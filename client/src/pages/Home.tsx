@@ -150,7 +150,7 @@ export default function HomePage() {
             <h1
               className="fade-up"
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(2.5rem, 5vw, 4rem)",
                 color: "white",
@@ -320,7 +320,7 @@ export default function HomePage() {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.875rem, 3vw, 2.625rem)",
                   color: "var(--pine)",
@@ -379,7 +379,7 @@ export default function HomePage() {
                   >
                     <p
                       style={{
-                        fontFamily: "Lora, Georgia, serif",
+                        fontFamily: "'Cormorant Garamond', Georgia, serif",
                         fontWeight: 700,
                         fontSize: "1rem",
                         color: "var(--pine)",
@@ -421,7 +421,7 @@ export default function HomePage() {
             <div className="amber-rule" style={{ margin: "0.75rem auto 0" }} />
             <h2
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(1.875rem, 3vw, 2.5rem)",
                 color: "var(--pine)",
@@ -491,7 +491,7 @@ export default function HomePage() {
                   </div>
                   <h3
                     style={{
-                      fontFamily: "Lora, Georgia, serif",
+                      fontFamily: "'Cormorant Garamond', Georgia, serif",
                       fontWeight: 700,
                       fontSize: "1.125rem",
                       color: "var(--pine)",
@@ -567,7 +567,7 @@ export default function HomePage() {
             right: "-2rem",
             top: "50%",
             transform: "translateY(-50%)",
-            fontFamily: "Lora, Georgia, serif",
+            fontFamily: "'Cormorant Garamond', Georgia, serif",
             fontWeight: 700,
             fontSize: "clamp(12rem, 20vw, 22rem)",
             color: "oklch(0.32 0.06 155)",
@@ -600,7 +600,7 @@ export default function HomePage() {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.875rem, 3vw, 2.625rem)",
                   color: "white",
@@ -650,7 +650,7 @@ export default function HomePage() {
                   >
                     <h3
                       style={{
-                        fontFamily: "Lora, Georgia, serif",
+                        fontFamily: "'Cormorant Garamond', Georgia, serif",
                         fontWeight: 700,
                         fontSize: "1.0625rem",
                         color: "var(--amber-brand)",
@@ -708,7 +708,7 @@ export default function HomePage() {
                   >
                     <span
                       style={{
-                        fontFamily: "Lora, Georgia, serif",
+                        fontFamily: "'Cormorant Garamond', Georgia, serif",
                         fontWeight: 700,
                         fontSize: "0.9375rem",
                         color: "var(--amber-brand)",
@@ -720,7 +720,7 @@ export default function HomePage() {
                   <div>
                     <h3
                       style={{
-                        fontFamily: "Lora, Georgia, serif",
+                        fontFamily: "'Cormorant Garamond', Georgia, serif",
                         fontWeight: 700,
                         fontSize: "1.125rem",
                         color: "white",
@@ -755,7 +755,7 @@ export default function HomePage() {
             <div className="amber-rule" style={{ marginTop: "0.75rem" }} />
             <h2
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(1.875rem, 3vw, 2.5rem)",
                 color: "var(--pine)",
@@ -798,7 +798,7 @@ export default function HomePage() {
                   </div>
                   <h3
                     style={{
-                      fontFamily: "Lora, Georgia, serif",
+                      fontFamily: "'Cormorant Garamond', Georgia, serif",
                       fontWeight: 700,
                       fontSize: "1.0625rem",
                       color: "var(--pine)",
@@ -843,7 +843,7 @@ export default function HomePage() {
             <div style={{ width: "3rem", height: "3px", backgroundColor: "var(--amber-brand)", margin: "0.75rem auto 0" }} />
             <h2
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(1.875rem, 3vw, 2.5rem)",
                 color: "white",
@@ -922,7 +922,7 @@ export default function HomePage() {
                       flexShrink: 0,
                     }}
                   >
-                    <span style={{ fontFamily: "Lora, serif", fontWeight: 700, fontSize: "1.1rem", color: "var(--amber-brand)" }}>
+                    <span style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.1rem", color: "var(--amber-brand)" }}>
                       {t.name.charAt(0)}
                     </span>
                   </div>
@@ -1002,7 +1002,7 @@ export default function HomePage() {
             <h2
               className="fade-up"
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(1.875rem, 3vw, 2.75rem)",
                 color: "white",
@@ -1048,7 +1048,7 @@ export default function HomePage() {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.875rem, 3vw, 2.625rem)",
                   color: "var(--pine)",
@@ -1100,7 +1100,7 @@ export default function HomePage() {
               >
                 <p
                   style={{
-                    fontFamily: "Lora, Georgia, serif",
+                    fontFamily: "'Cormorant Garamond', Georgia, serif",
                     fontWeight: 700,
                     fontSize: "1rem",
                     color: "var(--pine)",

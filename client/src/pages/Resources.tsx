@@ -116,7 +116,7 @@ export default function ResourcesPage() {
             </span>
             <h1
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(2.25rem, 4.5vw, 3.5rem)",
                 color: "white",
@@ -213,7 +213,7 @@ export default function ResourcesPage() {
                 </span>
                 <h2
                   style={{
-                    fontFamily: "Lora, Georgia, serif",
+                    fontFamily: "'Cormorant Garamond', Georgia, serif",
                     fontWeight: 700,
                     fontSize: "1.625rem",
                     color: "var(--pine)",
@@ -317,7 +317,7 @@ export default function ResourcesPage() {
                   </span>
                   <h3
                     style={{
-                      fontFamily: "Lora, Georgia, serif",
+                      fontFamily: "'Cormorant Garamond', Georgia, serif",
                       fontWeight: 700,
                       fontSize: "1.0625rem",
                       color: "var(--pine)",
@@ -384,7 +384,7 @@ export default function ResourcesPage() {
           </span>
           <h2
             style={{
-              fontFamily: "Lora, Georgia, serif",
+              fontFamily: "'Cormorant Garamond', Georgia, serif",
               fontWeight: 700,
               fontSize: "clamp(1.875rem, 3vw, 2.5rem)",
               color: "white",

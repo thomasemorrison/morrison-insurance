@@ -76,11 +76,11 @@ export default function AppBanner({ variant = "dark" }: AppBannerProps) {
             </div>
 
             <h2 style={{
-              fontFamily: "Lora, Georgia, serif",
+              fontFamily: "'Cormorant Garamond', Georgia, serif",
               fontWeight: 700,
-              fontSize: "clamp(1.5rem, 2.5vw, 2.25rem)",
+              fontSize: "clamp(1.75rem, 2.5vw, 2.5rem)",
               color: headingColor,
-              lineHeight: 1.25,
+              lineHeight: 1.2,
               marginBottom: "0.875rem",
             }}>
               Your insurance agent,<br />in your pocket.
@@ -173,8 +173,8 @@ export default function AppBanner({ variant = "dark" }: AppBannerProps) {
                   padding: "0.75rem",
                   marginBottom: "0.75rem",
                 }}>
-                  <div style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "0.6rem", color: "white", lineHeight: 1.3 }}>Morrison Insurance</div>
-                  <div style={{ fontFamily: "Inter, sans-serif", fontSize: "0.5rem", color: "var(--amber-brand)", marginTop: "0.2rem" }}>Est. 1923 · Center, TX</div>
+                  <div style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "0.65rem", color: "white", lineHeight: 1.3, letterSpacing: "0.05em", textTransform: "uppercase" }}>Morrison</div>
+                  <div style={{ fontFamily: "Inter, sans-serif", fontSize: "0.45rem", color: "var(--dusty-sage)", marginTop: "0.2rem", letterSpacing: "0.08em", textTransform: "uppercase" }}>Insurance · Est. 1923</div>
                 </div>
                 {[
                   { label: "My Coverage", icon: "🛡️" },

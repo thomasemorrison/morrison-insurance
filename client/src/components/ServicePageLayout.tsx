@@ -84,7 +84,7 @@ function FaqItem({ q, a }: { q: string; a: string }) {
       >
         <span
           style={{
-            fontFamily: "Lora, Georgia, serif",
+            fontFamily: "'Cormorant Garamond', Georgia, serif",
             fontWeight: 600,
             fontSize: "1.0625rem",
             color: "var(--pine)",
@@ -179,7 +179,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
             </div>
             <h1
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(2rem, 4.5vw, 3.25rem)",
                 color: "white",
@@ -239,7 +239,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.625rem, 2.5vw, 2.25rem)",
                   color: "var(--pine)",
@@ -301,7 +301,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
                 >
                   <h3
                     style={{
-                      fontFamily: "Lora, Georgia, serif",
+                      fontFamily: "'Cormorant Garamond', Georgia, serif",
                       fontWeight: 700,
                       fontSize: "1.0625rem",
                       color: "var(--pine)",
@@ -335,7 +335,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
             <div className="amber-rule" style={{ marginTop: "0.75rem" }} />
             <h2
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(1.625rem, 2.5vw, 2.25rem)",
                 color: "var(--pine)",
@@ -396,7 +396,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.5rem, 2.2vw, 2rem)",
                   color: "var(--pine)",
@@ -440,7 +440,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.5rem, 2.2vw, 2rem)",
                   color: "var(--pine)",
@@ -500,7 +500,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.625rem, 2.5vw, 2.25rem)",
                   color: "white",
@@ -549,7 +549,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
             >
               <h3
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "1.25rem",
                   color: "white",
@@ -594,7 +594,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.625rem, 2.5vw, 2.25rem)",
                   color: "var(--pine)",
@@ -621,7 +621,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.625rem, 2.5vw, 2.25rem)",
                   color: "var(--pine)",
@@ -654,7 +654,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
                         display: "flex",
                         alignItems: "center",
                         justifyContent: "center",
-                        fontFamily: "Lora, Georgia, serif",
+                        fontFamily: "'Cormorant Garamond', Georgia, serif",
                         fontWeight: 700,
                         fontSize: "0.875rem",
                         color: "var(--amber-brand)",
@@ -693,7 +693,7 @@ export default function ServicePageLayout(props: ServicePageProps) {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.875rem, 3vw, 2.625rem)",
                   color: "var(--pine)",

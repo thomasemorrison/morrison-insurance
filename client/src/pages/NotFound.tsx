@@ -17,7 +17,7 @@ export default function NotFound() {
       <div style={{ textAlign: "center", maxWidth: "520px" }}>
         <div
           style={{
-            fontFamily: "Lora, Georgia, serif",
+            fontFamily: "'Cormorant Garamond', Georgia, serif",
             fontWeight: 700,
             fontSize: "clamp(6rem, 15vw, 10rem)",
             color: "oklch(0.88 0.015 80)",
@@ -30,7 +30,7 @@ export default function NotFound() {
         </div>
         <h1
           style={{
-            fontFamily: "Lora, Georgia, serif",
+            fontFamily: "'Cormorant Garamond', Georgia, serif",
             fontWeight: 700,
             fontSize: "clamp(1.5rem, 3vw, 2rem)",
             color: "var(--pine)",

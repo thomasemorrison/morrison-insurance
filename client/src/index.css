@@ -5,9 +5,9 @@
 
 /*
  * MORRISON INSURANCE — Design System
- * Philosophy: Modern Heritage / New American Vernacular
- * Colors: Deep pine green + warm off-white + amber gold
- * Typography: Lora (display/headings) + Inter (body)
+ * Visual Identity: Placeholder Brand Guide (Jun 2026)
+ * Colors: Morrison Pine #344C3D · Dusty Sage #A8B5A2 · Field Cream #F3EFE6 · Ink #222222 · Stone #D6D2C6
+ * Typography: Cormorant Garamond (display/headings) + Inter Regular (body)
  * Layout: Asymmetric, editorial, trust-first
  */
 
@@ -59,15 +59,20 @@
 }
 
 :root {
-  /* Morrison Brand Colors */
-  --pine: oklch(0.28 0.08 155);         /* Deep pine green */
-  --pine-light: oklch(0.38 0.08 155);   /* Lighter pine for hover */
-  --pine-dark: oklch(0.20 0.07 155);    /* Darker pine for depth */
-  --amber-brand: oklch(0.72 0.12 65);   /* Warm amber gold */
-  --amber-dark: oklch(0.60 0.12 65);    /* Darker amber for hover */
-  --cream: oklch(0.97 0.01 80);         /* Warm off-white page bg */
-  --cream-dark: oklch(0.93 0.015 80);   /* Slightly darker cream for sections */
-  --charcoal: oklch(0.22 0.01 250);     /* Near-black for text */
+  /* Morrison Brand Colors — from Visual Identity Guide */
+  --pine: #344C3D;                      /* Morrison Pine */
+  --pine-light: #4a6b55;               /* Lighter pine for hover */
+  --pine-dark: #243529;               /* Darker pine for depth */
+  --dusty-sage: #A8B5A2;              /* Dusty Sage */
+  --field-cream: #F3EFE6;             /* Field Cream */
+  --stone: #D6D2C6;                   /* Stone */
+  --ink: #222222;                     /* Ink — near black */
+  /* Legacy aliases kept for compatibility */
+  --amber-brand: oklch(0.68 0.10 72); /* Warm harvest gold accent — muted to harmonize with pine/cream */
+  --amber-dark: oklch(0.56 0.10 72);  /* Darker harvest gold for hover */
+  --cream: #F3EFE6;                   /* Field Cream */
+  --cream-dark: #E8E3D8;              /* Slightly darker cream */
+  --charcoal: #222222;                /* Ink */
 
   /* Semantic tokens */
   --primary: var(--pine);
@@ -116,7 +121,7 @@
     font-family: 'Inter', sans-serif;
   }
   h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lora', Georgia, serif;
+    font-family: 'Cormorant Garamond', Georgia, serif;
   }
   button:not(:disabled),
   [role="button"]:not([aria-disabled="true"]),
@@ -358,8 +363,8 @@
 .hs-form-dark .hs-form .hs-submit .hs-button,
 .hs-form-light .hs-button.primary,
 .hs-form-dark .hs-button.primary {
-  background-color: var(--amber-brand) !important;
-  color: var(--pine) !important;
+  background-color: var(--pine) !important;
+  color: oklch(0.97 0.01 80) !important;
   font-family: "Inter", sans-serif !important;
   font-weight: 700 !important;
   font-size: 1rem !important;
@@ -376,7 +381,7 @@
 .hs-form-dark .hs-form .hs-submit .hs-button:hover,
 .hs-form-light .hs-button.primary:hover,
 .hs-form-dark .hs-button.primary:hover {
-  background-color: var(--amber-dark) !important;
+  background-color: var(--pine-light) !important;
 }
 
 .hs-form-light .hs-form .hs-submit .hs-button:active,

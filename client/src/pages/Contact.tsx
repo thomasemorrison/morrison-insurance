@@ -50,7 +50,7 @@ export default function ContactPage() {
             </span>
             <h1
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(2.25rem, 4.5vw, 3.5rem)",
                 color: "white",
@@ -88,7 +88,7 @@ export default function ContactPage() {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.625rem, 2.5vw, 2.25rem)",
                   color: "var(--pine)",
@@ -316,7 +316,7 @@ export default function ContactPage() {
               >
                 <h3
                   style={{
-                    fontFamily: "Lora, Georgia, serif",
+                    fontFamily: "'Cormorant Garamond', Georgia, serif",
                     fontWeight: 700,
                     fontSize: "1.125rem",
                     color: "white",
@@ -353,7 +353,7 @@ export default function ContactPage() {
               >
                 <h2
                   style={{
-                    fontFamily: "Lora, Georgia, serif",
+                    fontFamily: "'Cormorant Garamond', Georgia, serif",
                     fontWeight: 700,
                     fontSize: "1.5rem",
                     color: "var(--pine)",
@@ -388,7 +388,7 @@ export default function ContactPage() {
             <div className="amber-rule" style={{ marginTop: "0.75rem" }} />
             <h2
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(1.625rem, 2.5vw, 2.25rem)",
                 color: "var(--pine)",
@@ -452,7 +452,7 @@ export default function ContactPage() {
             <div style={{ width: "3rem", height: "3px", backgroundColor: "var(--amber-brand)", margin: "0.75rem auto 0" }} />
             <h2
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(1.625rem, 2.5vw, 2.25rem)",
                 color: "var(--pine)",
@@ -526,7 +526,7 @@ export default function ContactPage() {
                       flexShrink: 0,
                     }}
                   >
-                    <span style={{ fontFamily: "Lora, serif", fontWeight: 700, fontSize: "1.1rem", color: "var(--pine)" }}>
+                    <span style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.1rem", color: "var(--pine)" }}>
                       {t.name.charAt(0)}
                     </span>
                   </div>
@@ -566,7 +566,7 @@ export default function ContactPage() {
               </span>
               <h2
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.5rem, 2.5vw, 2rem)",
                   color: "white",

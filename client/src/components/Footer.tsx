@@ -12,40 +12,63 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
           {/* Brand column */}
           <div className="lg:col-span-2">
-            <div className="mb-4">
+            <div className="mb-4" style={{ display: "flex", flexDirection: "column", gap: 0 }}>
+              {/* MORRISON */}
               <span
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
-                  fontSize: "1.5rem",
+                  fontSize: "1.75rem",
                   color: "white",
                   display: "block",
-                  lineHeight: 1.1,
+                  lineHeight: 1,
+                  letterSpacing: "0.08em",
+                  textTransform: "uppercase",
                 }}
               >
-                Morrison Insurance
+                Morrison
               </span>
+              {/* — INSURANCE — */}
               <span
                 style={{
-                  fontFamily: "Inter, sans-serif",
-                  fontSize: "0.75rem",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 500,
-                  color: "var(--amber-brand)",
-                  letterSpacing: "0.1em",
+                  fontSize: "0.9rem",
+                  color: "white",
+                  letterSpacing: "0.22em",
                   textTransform: "uppercase",
-                  display: "block",
-                  marginTop: "4px",
+                  display: "flex",
+                  alignItems: "center",
+                  gap: "0.4rem",
+                  marginTop: "3px",
                 }}
               >
-                Est. 1923 · Center, Texas
+                <span style={{ display: "inline-block", width: "1.25rem", height: "1px", backgroundColor: "white", opacity: 0.7, flexShrink: 0 }} />
+                Insurance
+                <span style={{ display: "inline-block", width: "1.25rem", height: "1px", backgroundColor: "white", opacity: 0.7, flexShrink: 0 }} />
+              </span>
+              {/* SERVING EAST TEXAS SINCE 1923 */}
+              <span
+                style={{
+                  fontFamily: "'Inter', sans-serif",
+                  fontSize: "0.625rem",
+                  fontWeight: 600,
+                  color: "var(--dusty-sage)",
+                  letterSpacing: "0.12em",
+                  textTransform: "uppercase",
+                  display: "block",
+                  marginTop: "5px",
+                }}
+              >
+                Serving East Texas Since 1923
               </span>
             </div>
             <p
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontStyle: "italic",
-                fontSize: "1rem",
-                color: "oklch(0.78 0.01 80)",
+                fontSize: "1.125rem",
+                color: "var(--dusty-sage)",
                 marginBottom: "1.25rem",
                 lineHeight: 1.6,
               }}
@@ -247,7 +270,7 @@ export default function Footer() {
               <Smartphone size={20} style={{ color: "var(--pine)" }} />
             </div>
             <div>
-              <p style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "0.9375rem", color: "white", lineHeight: 1.2 }}>Your insurance agent in your pocket.</p>
+              <p style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "0.9375rem", color: "white", lineHeight: 1.2 }}>Your insurance agent in your pocket.</p>
               <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.8125rem", color: "oklch(0.65 0.01 80)", marginTop: "2px" }}>Free for everyone — no account required.</p>
             </div>
           </div>

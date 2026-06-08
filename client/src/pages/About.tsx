@@ -38,7 +38,7 @@ export default function AboutPage() {
             right: "-2rem",
             top: "50%",
             transform: "translateY(-50%)",
-            fontFamily: "Lora, Georgia, serif",
+            fontFamily: "'Cormorant Garamond', Georgia, serif",
             fontWeight: 700,
             fontSize: "clamp(10rem, 18vw, 20rem)",
             color: "oklch(0.32 0.06 155)",
@@ -72,7 +72,7 @@ export default function AboutPage() {
             </span>
             <h1
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(2.25rem, 4.5vw, 3.5rem)",
                 color: "white",
@@ -125,7 +125,7 @@ export default function AboutPage() {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.75rem, 2.8vw, 2.375rem)",
                   color: "var(--pine)",
@@ -175,7 +175,7 @@ export default function AboutPage() {
             <div className="amber-rule" style={{ marginTop: "0.75rem" }} />
             <h2
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(1.75rem, 2.8vw, 2.375rem)",
                 color: "var(--pine)",
@@ -257,7 +257,7 @@ export default function AboutPage() {
                 <div style={{ padding: "1.75rem" }}>
                   <h3
                     style={{
-                      fontFamily: "Lora, Georgia, serif",
+                      fontFamily: "'Cormorant Garamond', Georgia, serif",
                       fontWeight: 700,
                       fontSize: "1.25rem",
                       color: "var(--pine)",
@@ -325,7 +325,7 @@ export default function AboutPage() {
             <div className="amber-rule" style={{ marginTop: "0.75rem" }} />
             <h2
               style={{
-                fontFamily: "Lora, Georgia, serif",
+                fontFamily: "'Cormorant Garamond', Georgia, serif",
                 fontWeight: 700,
                 fontSize: "clamp(1.75rem, 2.8vw, 2.375rem)",
                 color: "var(--pine)",
@@ -406,7 +406,7 @@ export default function AboutPage() {
                   ) : (
                     <span
                       style={{
-                        fontFamily: "Lora, Georgia, serif",
+                        fontFamily: "'Cormorant Garamond', Georgia, serif",
                         fontWeight: 700,
                         fontSize: "1.5rem",
                         color: "var(--pine)",
@@ -418,7 +418,7 @@ export default function AboutPage() {
                 </div>
                 <h3
                   style={{
-                    fontFamily: "Lora, Georgia, serif",
+                    fontFamily: "'Cormorant Garamond', Georgia, serif",
                     fontWeight: 700,
                     fontSize: "1.125rem",
                     color: "var(--pine)",
@@ -479,7 +479,7 @@ export default function AboutPage() {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.75rem, 2.8vw, 2.375rem)",
                   color: "white",
@@ -579,7 +579,7 @@ export default function AboutPage() {
               <h2
                 className="fade-up"
                 style={{
-                  fontFamily: "Lora, Georgia, serif",
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
                   fontWeight: 700,
                   fontSize: "clamp(1.75rem, 2.8vw, 2.375rem)",
                   color: "var(--pine)",
@@ -644,7 +644,7 @@ export default function AboutPage() {
                 >
                   <span
                     style={{
-                      fontFamily: "Lora, Georgia, serif",
+                      fontFamily: "'Cormorant Garamond', Georgia, serif",
                       fontWeight: 700,
                       fontSize: "2.25rem",
                       color: "var(--pine)",

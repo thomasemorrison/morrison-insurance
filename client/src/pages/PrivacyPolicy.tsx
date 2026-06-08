@@ -14,7 +14,7 @@ export default function PrivacyPolicyPage() {
           </nav>
           <h1
             style={{
-              fontFamily: "Lora, Georgia, serif",
+              fontFamily: "'Cormorant Garamond', Georgia, serif",
               fontWeight: 700,
               fontSize: "clamp(2rem, 4vw, 3rem)",
               color: "white",
@@ -45,7 +45,7 @@ export default function PrivacyPolicyPage() {
                 Morrison Insurance ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard information when you visit our website or contact us.
               </p>
 
-              <h2 style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1rem", marginTop: "2.5rem" }}>
+              <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1rem", marginTop: "2.5rem" }}>
                 Information We Collect
               </h2>
               <p style={{ marginBottom: "1rem" }}>
@@ -55,7 +55,7 @@ export default function PrivacyPolicyPage() {
                 We may also collect certain information automatically when you visit our website, such as your IP address, browser type, and pages visited, through standard web analytics tools.
               </p>
 
-              <h2 style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1rem", marginTop: "2.5rem" }}>
+              <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1rem", marginTop: "2.5rem" }}>
                 How We Use Your Information
               </h2>
               <p style={{ marginBottom: "1rem" }}>We use the information we collect to:</p>
@@ -69,21 +69,21 @@ export default function PrivacyPolicyPage() {
                 We do not sell your personal information to third parties.
               </p>
 
-              <h2 style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1rem", marginTop: "2.5rem" }}>
+              <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1rem", marginTop: "2.5rem" }}>
                 Information Sharing
               </h2>
               <p style={{ marginBottom: "1.5rem" }}>
                 We may share your information with insurance carriers and underwriters as necessary to provide you with quotes and coverage. We may also share information as required by law or to protect our rights.
               </p>
 
-              <h2 style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1rem", marginTop: "2.5rem" }}>
+              <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1rem", marginTop: "2.5rem" }}>
                 Data Security
               </h2>
               <p style={{ marginBottom: "1.5rem" }}>
                 We take reasonable measures to protect the information you provide to us. However, no method of transmission over the internet is 100% secure.
               </p>
 
-              <h2 style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1rem", marginTop: "2.5rem" }}>
+              <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1rem", marginTop: "2.5rem" }}>
                 Contact Us
               </h2>
               <p style={{ marginBottom: "1rem" }}>
@@ -97,7 +97,7 @@ export default function PrivacyPolicyPage() {
               </p>
 
               <div id="terms" style={{ marginTop: "4rem", paddingTop: "3rem", borderTop: "1px solid var(--border)" }}>
-                <h2 style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "1.75rem", color: "var(--pine)", marginBottom: "1rem" }}>
+                <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.75rem", color: "var(--pine)", marginBottom: "1rem" }}>
                   Terms of Use
                 </h2>
                 <p style={{ marginBottom: "1.5rem" }}>

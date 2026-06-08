@@ -40,7 +40,7 @@ export default function ArticleHomeownersInsuranceCover() {
           <div className="fade-up">
             <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.75rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--amber-brand)", backgroundColor: "oklch(0.22 0.06 155)", padding: "0.25rem 0.75rem", borderRadius: "2rem" }}>Home Insurance</span>
           </div>
-          <h1 className="fade-up" style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "clamp(1.875rem, 4vw, 3rem)", color: "white", lineHeight: 1.2, marginTop: "1.25rem", marginBottom: "1.25rem", maxWidth: "800px", transitionDelay: "80ms" }}>
+          <h1 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.875rem, 4vw, 3rem)", color: "white", lineHeight: 1.2, marginTop: "1.25rem", marginBottom: "1.25rem", maxWidth: "800px", transitionDelay: "80ms" }}>
             What Does Homeowners Insurance Actually Cover in Texas?
           </h1>
           <div className="fade-up" style={{ display: "flex", alignItems: "center", gap: "1.25rem", transitionDelay: "160ms" }}>
@@ -58,7 +58,7 @@ export default function ArticleHomeownersInsuranceCover() {
       {/* Section 1 */}
       <section style={{ backgroundColor: "var(--cream)", padding: "4rem 0" }}>
         <div className="container" style={{ maxWidth: "780px" }}>
-          <h2 className="fade-up" style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
+          <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
             The Four Core Coverages in a Standard Policy
           </h2>
           <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
@@ -79,7 +79,7 @@ export default function ArticleHomeownersInsuranceCover() {
       {/* Section 2 */}
       <section style={{ backgroundColor: "white", padding: "4rem 0" }}>
         <div className="container" style={{ maxWidth: "780px" }}>
-          <h2 className="fade-up" style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
+          <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
             Additional Living Expenses: The Coverage People Forget
           </h2>
           <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
@@ -94,7 +94,7 @@ export default function ArticleHomeownersInsuranceCover() {
       {/* Section 3 */}
       <section style={{ backgroundColor: "var(--cream-dark)", padding: "4rem 0" }}>
         <div className="container" style={{ maxWidth: "780px" }}>
-          <h2 className="fade-up" style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
+          <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
             What Homeowners Insurance Does NOT Cover in Texas
           </h2>
           <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
@@ -115,7 +115,7 @@ export default function ArticleHomeownersInsuranceCover() {
       {/* Section 4 */}
       <section style={{ backgroundColor: "white", padding: "4rem 0" }}>
         <div className="container" style={{ maxWidth: "780px" }}>
-          <h2 className="fade-up" style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
+          <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
             Texas-Specific Considerations: Wind, Hail, and the TWIA
           </h2>
           <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
@@ -133,7 +133,7 @@ export default function ArticleHomeownersInsuranceCover() {
           <div className="fade-up">
             <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.75rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--amber-brand)" }}>Key Takeaways</span>
             <div style={{ width: "3rem", height: "3px", backgroundColor: "var(--amber-brand)", margin: "0.75rem 0 1.5rem" }} />
-            <h2 style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 1.875rem)", color: "white", marginBottom: "1.5rem" }}>
+            <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 1.875rem)", color: "white", marginBottom: "1.5rem" }}>
               What to remember about Texas homeowners insurance
             </h2>
             <ul style={{ listStyle: "none", padding: 0, margin: 0, display: "flex", flexDirection: "column", gap: "1rem" }}>
@@ -160,7 +160,7 @@ export default function ArticleHomeownersInsuranceCover() {
       <section style={{ backgroundColor: "var(--cream)", padding: "4rem 0" }}>
         <div className="container" style={{ maxWidth: "780px" }}>
           <div className="fade-up" style={{ backgroundColor: "white", borderRadius: "0.75rem", padding: "2.5rem", boxShadow: "0 4px 24px rgba(0,0,0,0.07)", borderLeft: "4px solid var(--pine)" }}>
-            <h2 style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "clamp(1.375rem, 2vw, 1.75rem)", color: "var(--pine)", marginBottom: "0.875rem" }}>
+            <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.375rem, 2vw, 1.75rem)", color: "var(--pine)", marginBottom: "0.875rem" }}>
               Talk to a local agent in Center, TX
             </h2>
             <p style={{ fontFamily: "Inter, sans-serif", fontSize: "1rem", color: "oklch(0.40 0.01 250)", lineHeight: 1.75, marginBottom: "1.5rem" }}>
@@ -185,7 +185,7 @@ export default function ArticleHomeownersInsuranceCover() {
       {/* Related Articles */}
       <section style={{ backgroundColor: "var(--cream-dark)", padding: "4rem 0" }}>
         <div className="container" style={{ maxWidth: "780px" }}>
-          <h3 className="fade-up" style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1.5rem" }}>Related Articles</h3>
+          <h3 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1.5rem" }}>Related Articles</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {[
               { href: "/resources/does-homeowners-insurance-cover-flood-damage-texas", title: "Does Homeowners Insurance Cover Flood Damage in Texas?", category: "Home Insurance" },
@@ -197,7 +197,7 @@ export default function ArticleHomeownersInsuranceCover() {
                   onMouseLeave={(e) => { (e.currentTarget as HTMLElement).style.transform = "translateY(0)"; (e.currentTarget as HTMLElement).style.boxShadow = "0 2px 8px rgba(0,0,0,0.06)"; }}
                 >
                   <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.75rem", fontWeight: 600, textTransform: "uppercase", letterSpacing: "0.08em", color: "var(--amber-brand)" }}>{a.category}</span>
-                  <p style={{ fontFamily: "Lora, Georgia, serif", fontWeight: 600, fontSize: "1rem", color: "var(--pine)", marginTop: "0.5rem", lineHeight: 1.4 }}>{a.title}</p>
+                  <p style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 600, fontSize: "1rem", color: "var(--pine)", marginTop: "0.5rem", lineHeight: 1.4 }}>{a.title}</p>
                   <span style={{ display: "flex", alignItems: "center", gap: "0.375rem", fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "var(--pine)", fontWeight: 600, marginTop: "0.875rem" }}>Read Article <ArrowRight size={13} /></span>
                 </div>
               </Link>
