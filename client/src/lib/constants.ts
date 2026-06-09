@@ -81,9 +81,9 @@ export const IMAGES = {
 
 export const STAFF = {
   tommyAndJane: "/manus-storage/498319506_24527870550135909_8226417535497461260_n_306f3657.jpg",
-  jolynn: "/manus-storage/jolynn-final_8c4e2d3b.jpg",
-  monica: "/manus-storage/monica-final_02808e21.jpg",
-  connies: "/manus-storage/connie-final_6f6582f0.jpg",
+  jolynn: "/manus-storage/jolynn-v3_ca4011f5.png",
+  monica: "/manus-storage/monica-v3_78c3b638.png",
+  connies: "/manus-storage/connie-v3_57635445.png",
   tem: "/manus-storage/Tem_fb3bb7d5.jpg",
-  group: "/manus-storage/group-final_e1ef6eb7.png",
+  group: "/manus-storage/group-v3_da8dd170.png",
 };

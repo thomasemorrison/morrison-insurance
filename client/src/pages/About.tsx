@@ -273,9 +273,9 @@ export default function AboutPage() {
                 {/* Photo */}
                 <div
                   style={{
-                    height: "300px",
+                    height: "320px",
                     overflow: "hidden",
-                    backgroundColor: "oklch(0.93 0.03 155)",
+                    backgroundColor: "oklch(0.97 0.01 90)",
                     position: "relative",
                   }}
                 >
