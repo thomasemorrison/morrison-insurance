@@ -85,4 +85,5 @@ export const STAFF = {
   monica: "/manus-storage/monica-final_02808e21.jpg",
   connies: "/manus-storage/connie-final_6f6582f0.jpg",
   tem: "/manus-storage/Tem_fb3bb7d5.jpg",
+  group: "/manus-storage/group-final_e1ef6eb7.png",
 };

@@ -198,6 +198,43 @@ export default function AboutPage() {
             </p>
           </div>
 
+          {/* Group photo */}
+          <div
+            className="fade-up"
+            style={{
+              marginBottom: "3rem",
+              borderRadius: "0.75rem",
+              overflow: "hidden",
+              boxShadow: "0 8px 32px rgba(0,0,0,0.10)",
+              backgroundColor: "white",
+              textAlign: "center",
+              padding: "2.5rem 2rem 1.5rem",
+            }}
+          >
+            <img
+              src={STAFF.group}
+              alt="JoLynn Fountain, Connie Morrison, and Monica Watson — Morrison Insurance team"
+              style={{
+                maxWidth: "700px",
+                width: "100%",
+                height: "auto",
+                margin: "0 auto",
+                display: "block",
+              }}
+            />
+            <p
+              style={{
+                fontFamily: "Inter, sans-serif",
+                fontSize: "0.8125rem",
+                color: "oklch(0.55 0.01 250)",
+                marginTop: "1rem",
+                letterSpacing: "0.04em",
+              }}
+            >
+              Left to right: Monica Watson, Connie Morrison, JoLynn Fountain
+            </p>
+          </div>
+
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
             {[
               {
