@@ -81,8 +81,8 @@ export const IMAGES = {
 
 export const STAFF = {
   tommyAndJane: "/manus-storage/498319506_24527870550135909_8226417535497461260_n_306f3657.jpg",
-  jolynn: "/manus-storage/jolynn-final_73205803.jpg",
-  monica: "/manus-storage/monica-final_e112fb9e.jpg",
-  connies: "/manus-storage/connie-final_af4b7b47.jpg",
+  jolynn: "/manus-storage/jolynn-final_a35209f5.jpg",
+  monica: "/manus-storage/monica-final_ece7615a.jpg",
+  connies: "/manus-storage/connie-final_3de1835a.jpg",
   tem: "/manus-storage/Tem_fb3bb7d5.jpg",
 };
