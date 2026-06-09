@@ -404,7 +404,7 @@ export default function AboutPage() {
               {
                 name: "Thomas Morrison",
                 role: "Continuing the Tradition",
-                photo: null,
+                photo: STAFF.thomas,
                 desc: "Thomas Morrison — raised in Center, Texas, and a graduate of Texas A&M and Stephen F. Austin — carries the Morrison name forward with a deep connection to the community and a strong sense of responsibility to continue what has been built over generations.",
               },
             ].map((person, i) => (

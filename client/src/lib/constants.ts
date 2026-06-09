@@ -88,4 +88,5 @@ export const STAFF = {
   connies: "/manus-storage/connie-v3_57635445.png",
   tem: "/manus-storage/Tem_fb3bb7d5.jpg",
   group: "/manus-storage/group-v4_9cbdbe31.png",
+  thomas: "/manus-storage/Thomas_c0a4408d.jpg",
 };
