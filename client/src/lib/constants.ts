@@ -80,7 +80,9 @@ export const IMAGES = {
 };
 
 export const STAFF = {
-  tommyAndJane: "/manus-storage/498319506_24527870550135909_8226417535497461260_n_306f3657.jpg",
+  tommyAndJane: "/manus-storage/TommyandJane_cdea80e4.jpg",
+  tommyPortrait: "/manus-storage/Tommymorrison_e010b1f4.jpg",
+  temAndConnie: "/manus-storage/TemandConnie_4b146eaa.jpg",
   jolynn: "/manus-storage/jolynn-v4_752d5095.png",
   monica: "/manus-storage/monica-v3_78c3b638.png",
   connies: "/manus-storage/connie-v3_57635445.png",

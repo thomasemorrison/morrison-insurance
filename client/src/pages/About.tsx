@@ -379,25 +379,26 @@ export default function AboutPage() {
               {
                 name: "Tommy Morrison",
                 role: "Founder of the Modern Agency",
-                photo: null,
+                photo: STAFF.tommyPortrait,
                 desc: "Tommy Morrison spent more than 50 years serving the people of Shelby County — not just through insurance, but through a deep commitment to the community. His involvement included the Center Noon Lions Club, where he maintained over 50 years of perfect attendance, along with active support of the Shelby County Chamber of Commerce and many other local organizations. He also served for many years as a board member of Farmers State Bank.",
               },
               {
                 name: "Jane Morrison",
                 role: "Community Cornerstone",
-                photo: null,
+                photo: STAFF.tommyAndJane,
                 desc: "Alongside Tommy, Jane Morrison was a steady and familiar presence in the office, supporting both the business and the people who walked through the door. Known for her involvement in the community and her church, she helped make Morrison Insurance a place where people felt comfortable and cared for.",
               },
               {
                 name: "Tem Morrison",
                 role: "Second Generation",
-                photo: STAFF.tem,
+                photo: STAFF.temAndConnie,
                 desc: "Tem Morrison, Tommy and Jane's son, carries the family's commitment to community and service into the next generation. Raised in Center, Texas, Tem brings a lifetime of local knowledge and genuine care for the people Morrison Insurance serves.",
               },
               {
                 name: "Connie Morrison",
                 role: "Tem's Partner in Life & Business",
                 photo: STAFF.connies,
+                photoNote: "family",
                 desc: "Connie Morrison has been an integral part of the Morrison Insurance family, bringing warmth, dedication, and a personal touch to every interaction. Her commitment to the community reflects the values that have defined this agency for over a century.",
               },
               {
@@ -421,9 +422,9 @@ export default function AboutPage() {
               >
                 <div
                   style={{
-                    width: "72px",
-                    height: "72px",
-                    borderRadius: "50%",
+                    width: "100%",
+                    height: "220px",
+                    borderRadius: "0.375rem",
                     overflow: "hidden",
                     backgroundColor: "oklch(0.93 0.03 155)",
                     display: "flex",
@@ -431,14 +432,13 @@ export default function AboutPage() {
                     justifyContent: "center",
                     marginBottom: "1.25rem",
                     flexShrink: 0,
-                    border: "3px solid var(--cream-dark)",
                   }}
                 >
                   {person.photo ? (
                     <img
                       src={person.photo}
                       alt={person.name}
-                      style={{ width: "100%", height: "100%", objectFit: "cover" }}
+                      style={{ width: "100%", height: "100%", objectFit: "cover", objectPosition: "center top" }}
                     />
                   ) : (
                     <span
