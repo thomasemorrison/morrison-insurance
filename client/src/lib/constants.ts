@@ -81,15 +81,15 @@ export const IMAGES = {
 
 export const STAFF = {
   tommyAndJane: "/manus-storage/TommyandJane_cdea80e4.jpg",
-  tommyPortrait: "/manus-storage/Tommymorrison_e010b1f4.jpg",
+  tommyPortrait: "/manus-storage/tommy-v2_456301fb.png",
   temAndConnie: "/manus-storage/TemandConnie_4b146eaa.jpg",
   jolynn: "/manus-storage/jolynn-v4_752d5095.png",
   monica: "/manus-storage/monica-v3_78c3b638.png",
-  connies: "/manus-storage/connie-v3_57635445.png",
+  connies: "/manus-storage/connie-v5_24aaed2a.png",
   tem: "/manus-storage/Tem_fb3bb7d5.jpg",
   group: "/manus-storage/group-v4_9cbdbe31.png",
-  thomas: "/manus-storage/Thomas_c0a4408d.jpg",
-  jane: "/manus-storage/Jane_031506d0.webp",
-  tem2: "/manus-storage/Tem2_77e6ba6e.webp",
-  temAndConnie2: "/manus-storage/TemandConnie2_0dc3aea2.webp",
+  thomas: "/manus-storage/thomas-v2_a06d33f4.png",
+  jane: "/manus-storage/jane-v2_c5a1e5b8.png",
+  tem2: "/manus-storage/tem-v3_8e2b6cfe.png",
+  temAndConnie2: "/manus-storage/temandconnie-v3_841e689c.png",
 };
