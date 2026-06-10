@@ -89,4 +89,7 @@ export const STAFF = {
   tem: "/manus-storage/Tem_fb3bb7d5.jpg",
   group: "/manus-storage/group-v4_9cbdbe31.png",
   thomas: "/manus-storage/Thomas_c0a4408d.jpg",
+  jane: "/manus-storage/Jane_031506d0.webp",
+  tem2: "/manus-storage/Tem2_77e6ba6e.webp",
+  temAndConnie2: "/manus-storage/TemandConnie2_0dc3aea2.webp",
 };

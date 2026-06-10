@@ -385,19 +385,19 @@ export default function AboutPage() {
               {
                 name: "Jane Morrison",
                 role: "Community Cornerstone",
-                photo: STAFF.tommyAndJane,
+                photo: STAFF.jane,
                 desc: "Alongside Tommy, Jane Morrison was a steady and familiar presence in the office, supporting both the business and the people who walked through the door. Known for her involvement in the community and her church, she helped make Morrison Insurance a place where people felt comfortable and cared for.",
               },
               {
                 name: "Tem Morrison",
                 role: "Second Generation",
-                photo: STAFF.temAndConnie,
+                photo: STAFF.tem2,
                 desc: "Tem Morrison, Tommy and Jane's son, carries the family's commitment to community and service into the next generation. Raised in Center, Texas, Tem brings a lifetime of local knowledge and genuine care for the people Morrison Insurance serves.",
               },
               {
                 name: "Connie Morrison",
                 role: "Tem's Partner in Life & Business",
-                photo: STAFF.connies,
+                photo: STAFF.temAndConnie2,
                 photoNote: "family",
                 desc: "Connie Morrison has been an integral part of the Morrison Insurance family, bringing warmth, dedication, and a personal touch to every interaction. Her commitment to the community reflects the values that have defined this agency for over a century.",
               },
