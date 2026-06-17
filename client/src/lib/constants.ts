@@ -19,6 +19,7 @@ export const BRAND = {
   },
   appUrl: "https://morrisonins-gjx48edx.manus.space",
   appTagline: "Your insurance agent in your pocket.",
+  googleReviewUrl: "https://g.page/r/Cf5zlmlroBvYEBI/review",
   social: {
     facebook: "https://www.facebook.com/morrisoninsurance",
     instagram: "https://www.instagram.com/morrisoninsurance",

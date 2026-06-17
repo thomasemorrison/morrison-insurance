@@ -628,6 +628,64 @@ export default function ContactPage() {
         </div>
       </section>
 
+      {/* Google Review CTA */}
+      <section style={{ backgroundColor: "var(--pine)", padding: "4rem 0" }}>
+        <div className="container">
+          <div
+            style={{
+              backgroundColor: "oklch(0.22 0.06 155)",
+              borderRadius: "0.75rem",
+              padding: "2.5rem",
+              display: "flex",
+              flexDirection: "column",
+              alignItems: "center",
+              gap: "1.25rem",
+              textAlign: "center",
+              borderTop: "3px solid var(--amber-brand)",
+            }}
+          >
+            <div style={{ display: "flex", gap: "0.25rem" }}>
+              {[1,2,3,4,5].map((s) => (
+                <svg key={s} width="22" height="22" viewBox="0 0 20 20" fill="var(--amber-brand)">
+                  <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
+                </svg>
+              ))}
+            </div>
+            <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "white", margin: 0 }}>
+              Had a great experience with us?
+            </h2>
+            <p style={{ fontFamily: "Inter, sans-serif", fontSize: "1rem", color: "oklch(0.75 0.01 80)", maxWidth: "520px", lineHeight: 1.7, margin: 0 }}>
+              Your Google review helps other East Texas families find trusted, local insurance coverage. It takes less than a minute and means the world to our team.
+            </p>
+            <a
+              href={BRAND.googleReviewUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                display: "inline-flex",
+                alignItems: "center",
+                gap: "0.5rem",
+                backgroundColor: "var(--amber-brand)",
+                color: "var(--pine)",
+                fontFamily: "Inter, sans-serif",
+                fontWeight: 700,
+                fontSize: "1rem",
+                padding: "0.875rem 2rem",
+                borderRadius: "0.375rem",
+                textDecoration: "none",
+                transition: "opacity 180ms",
+                marginTop: "0.5rem",
+              }}
+              onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.opacity = "0.85")}
+              onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.opacity = "1")}
+            >
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+              Leave Us a Google Review
+            </a>
+          </div>
+        </div>
+      </section>
+
       {/* App promotion */}
       <AppBanner variant="light" />
     </div>

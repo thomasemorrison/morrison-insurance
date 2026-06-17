@@ -262,6 +262,26 @@ export default function Footer() {
         </div>
       </div>
 
+      {/* Google Review strip */}
+      <div style={{ borderTop: "1px solid oklch(0.32 0.04 155)", backgroundColor: "oklch(0.20 0.06 155)" }}>
+        <div className="container py-5 flex flex-col sm:flex-row items-center justify-between gap-4">
+          <div style={{ display: "flex", alignItems: "center", gap: "0.625rem" }}>
+            <svg width="18" height="18" viewBox="0 0 24 24" fill="var(--amber-brand)"><path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/></svg>
+            <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.9rem", color: "oklch(0.78 0.01 80)" }}>Happy with our service? A Google review helps your neighbors find us.</p>
+          </div>
+          <a
+            href={BRAND.googleReviewUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ display: "inline-flex", alignItems: "center", gap: "0.5rem", backgroundColor: "var(--amber-brand)", color: "var(--pine)", fontFamily: "Inter, sans-serif", fontWeight: 700, fontSize: "0.875rem", padding: "0.625rem 1.25rem", borderRadius: "0.375rem", textDecoration: "none", whiteSpace: "nowrap", transition: "opacity 180ms", flexShrink: 0 }}
+            onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.opacity = "0.85")}
+            onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.opacity = "1")}
+          >
+            Leave a Google Review
+          </a>
+        </div>
+      </div>
+
       {/* App promo strip */}
       <div style={{ borderTop: "1px solid oklch(0.32 0.04 155)", backgroundColor: "oklch(0.18 0.06 155)" }}>
         <div className="container py-6 flex flex-col sm:flex-row items-center justify-between gap-4">

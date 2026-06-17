@@ -854,25 +854,19 @@ export default function HomePage() {
             </h2>
           </div>
 
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {[
               {
-                quote: "Your quote will go here. Share your experience with Morrison Insurance and we'll add it to the site.",
-                name: "Your Name",
+                quote: "You can always count on a friendly smile and hello when you walk in this place and the ladies are very knowledgeable when it comes to insurance.",
+                name: "Lewis Baker",
                 location: "Center, TX",
-                placeholder: true,
+                placeholder: false,
               },
               {
-                quote: "Your quote will go here. Share your experience with Morrison Insurance and we'll add it to the site.",
-                name: "Your Name",
+                quote: "Everyone in this office has been the most friendly and helpful in obtaining the right insurance for our needs. We recently experienced a very major disaster at our home and, Tem, Connie and Monica could not have been more supportive, helping to guide us through the claims process. Even going so far as to get on the phone with one of the adjusters and effectively remind them that with Allstate we, as customers and victims of a major flood event, were indeed in good hands. My wife and I are very happy with the service we have received from this team.",
+                name: "R Captain",
                 location: "Shelby County, TX",
-                placeholder: true,
-              },
-              {
-                quote: "Your quote will go here. Share your experience with Morrison Insurance and we'll add it to the site.",
-                name: "Your Name",
-                location: "Deep East Texas",
-                placeholder: true,
+                placeholder: false,
               },
             ].map((t, i) => (
               <div
@@ -939,19 +933,36 @@ export default function HomePage() {
             ))}
           </div>
 
-          <p
-            className="fade-up"
-            style={{
-              fontFamily: "Inter, sans-serif",
-              fontSize: "0.875rem",
-              color: "oklch(0.55 0.01 80)",
-              textAlign: "center",
-              marginTop: "2.5rem",
-              fontStyle: "italic",
-            }}
-          >
-            Real quotes from real customers will appear here soon.
-          </p>
+          {/* Google Review CTA */}
+          <div className="fade-up" style={{ display: "flex", flexDirection: "column", alignItems: "center", gap: "1rem", marginTop: "2.5rem" }}>
+            <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.9375rem", color: "oklch(0.72 0.01 80)", textAlign: "center" }}>
+              Had a great experience with us? We'd love to hear from you.
+            </p>
+            <a
+              href={BRAND.googleReviewUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{
+                display: "inline-flex",
+                alignItems: "center",
+                gap: "0.5rem",
+                backgroundColor: "var(--amber-brand)",
+                color: "var(--pine)",
+                fontFamily: "Inter, sans-serif",
+                fontWeight: 700,
+                fontSize: "0.9375rem",
+                padding: "0.75rem 1.75rem",
+                borderRadius: "0.375rem",
+                textDecoration: "none",
+                transition: "opacity 180ms",
+              }}
+              onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.opacity = "0.85")}
+              onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.opacity = "1")}
+            >
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 14.5v-9l6 4.5-6 4.5z"/></svg>
+              Leave Us a Google Review
+            </a>
+          </div>
         </div>
       </section>
 
