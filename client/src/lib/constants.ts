@@ -21,8 +21,8 @@ export const BRAND = {
   appTagline: "Your insurance agent in your pocket.",
   googleReviewUrl: "https://g.page/r/Cf5zlmlroBvYEBI/review",
   social: {
-    facebook: "https://www.facebook.com/morrisoninsurance",
-    instagram: "https://www.instagram.com/morrisoninsurance",
+    facebook: "https://www.facebook.com/MorrisonInsuranceAgencyLLC",
+    instagram: "https://www.instagram.com/morrisoninsuranceagency",
   },
   serviceAreas: [
     "Center, TX",
