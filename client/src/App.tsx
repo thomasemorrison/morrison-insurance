@@ -16,6 +16,7 @@ import FarmRanchInsurance from "./pages/FarmRanchInsurance";
 import Contact from "./pages/Contact";
 import Resources from "./pages/Resources";
 import PrivacyPolicy from "./pages/PrivacyPolicy";
+import ThankYou from "./pages/ThankYou";
 import ArticleHomeownersInsuranceCover from "./pages/articles/ArticleHomeownersInsuranceCover";
 import ArticleAutoInsuranceRequirements from "./pages/articles/ArticleAutoInsuranceRequirements";
 import ArticleFarmVsHomeowners from "./pages/articles/ArticleFarmVsHomeowners";
@@ -59,6 +60,7 @@ function Router() {
       <Route path="/contact" component={() => <Layout><Contact /></Layout>} />
       <Route path="/resources" component={() => <Layout><Resources /></Layout>} />
       <Route path="/privacy-policy" component={() => <Layout><PrivacyPolicy /></Layout>} />
+      <Route path="/thank-you" component={() => <ThankYou />} />
       <Route path="/resources/what-does-homeowners-insurance-cover-texas" component={() => <Layout><ArticleHomeownersInsuranceCover /></Layout>} />
       <Route path="/resources/texas-auto-insurance-requirements" component={() => <Layout><ArticleAutoInsuranceRequirements /></Layout>} />
       <Route path="/resources/farm-insurance-vs-homeowners-insurance" component={() => <Layout><ArticleFarmVsHomeowners /></Layout>} />
