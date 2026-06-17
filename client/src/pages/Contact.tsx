@@ -433,8 +433,8 @@ export default function ContactPage() {
         </div>
       </section>
 
-      {/* Testimonials strip */}
-      <section style={{ backgroundColor: "var(--cream-dark)", padding: "5rem 0" }}>
+      {/* Service area — testimonials strip removed */}
+      {false && <section style={{ backgroundColor: "var(--cream-dark)", padding: "5rem 0" }}>
         <div className="container">
           <div className="fade-up" style={{ textAlign: "center", marginBottom: "3rem" }}>
             <span
@@ -542,9 +542,8 @@ export default function ContactPage() {
               </div>
             ))}
           </div>
-        </div>
-      </section>
-
+                </div>
+      </section>}
       {/* Service area */}
       <section style={{ backgroundColor: "var(--pine)", padding: "4rem 0" }}>
         <div className="container">
