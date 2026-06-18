@@ -24,7 +24,7 @@ export default function PrivacyPolicyPage() {
             Privacy Policy
           </h1>
           <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.9375rem", color: "oklch(0.68 0.01 80)", marginTop: "0.75rem" }}>
-            Last updated: June 2025
+            Last updated: June 2026
           </p>
         </div>
       </section>
