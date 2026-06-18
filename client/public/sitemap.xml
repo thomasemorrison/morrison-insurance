@@ -103,6 +103,14 @@
     <lastmod>2026-06-07</lastmod>
   </url>
 
+  <!-- Conversion / utility pages -->
+  <url>
+    <loc>https://morrison-ins.net/thank-you</loc>
+    <changefreq>yearly</changefreq>
+    <priority>0.2</priority>
+    <lastmod>2026-06-17</lastmod>
+  </url>
+
   <!-- Legal -->
   <url>
     <loc>https://morrison-ins.net/privacy-policy</loc>
