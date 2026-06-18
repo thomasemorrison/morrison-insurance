@@ -85,7 +85,7 @@ export const STAFF = {
   tommyPortrait: "/manus-storage/tommy-v2_456301fb.png",
   temAndConnie: "/manus-storage/TemandConnie_4b146eaa.jpg",
   jolynn: "/manus-storage/jolynn-v5_722e92ac.webp",
-  monica: "/manus-storage/monica-v3_78c3b638.png",
+  monica: "/manus-storage/monica-v4_beb40f56.webp",
   connies: "/manus-storage/connie-v5_24aaed2a.png",
   tem: "/manus-storage/Tem_fb3bb7d5.jpg",
   group: "/manus-storage/group-v4_9cbdbe31.png",
