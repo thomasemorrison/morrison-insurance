@@ -160,6 +160,40 @@ export default function Footer() {
                   </Link>
                 </li>
               ))}
+              <li style={{ marginTop: "0.5rem", paddingTop: "0.5rem", borderTop: "1px solid oklch(0.32 0.04 155)" }}>
+                <Link
+                  href="/privacy-policy"
+                  style={{
+                    fontFamily: "Inter, sans-serif",
+                    fontSize: "0.875rem",
+                    color: "oklch(0.82 0.03 80)",
+                    textDecoration: "underline",
+                    textUnderlineOffset: "3px",
+                    transition: "color 180ms",
+                  }}
+                  onMouseEnter={(e) => ((e.target as HTMLElement).style.color = "var(--amber-brand)")}
+                  onMouseLeave={(e) => ((e.target as HTMLElement).style.color = "oklch(0.82 0.03 80)")}
+                >
+                  Privacy Policy
+                </Link>
+              </li>
+              <li>
+                <Link
+                  href="/privacy-policy#terms"
+                  style={{
+                    fontFamily: "Inter, sans-serif",
+                    fontSize: "0.875rem",
+                    color: "oklch(0.82 0.03 80)",
+                    textDecoration: "underline",
+                    textUnderlineOffset: "3px",
+                    transition: "color 180ms",
+                  }}
+                  onMouseEnter={(e) => ((e.target as HTMLElement).style.color = "var(--amber-brand)")}
+                  onMouseLeave={(e) => ((e.target as HTMLElement).style.color = "oklch(0.82 0.03 80)")}
+                >
+                  Terms of Use
+                </Link>
+              </li>
             </ul>
           </div>
 

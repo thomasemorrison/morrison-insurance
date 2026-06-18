@@ -25,6 +25,7 @@ import ArticleUninsuredDriver from "./pages/articles/ArticleUninsuredDriver";
 import ArticleSmallBusinessCoverage from "./pages/articles/ArticleSmallBusinessCoverage";
 import ArticleIndependentVsCaptive from "./pages/articles/ArticleIndependentVsCaptive";
 import ArticleHowToFileClaim from "./pages/articles/ArticleHowToFileClaim";
+import CookieConsent from "./components/CookieConsent";
 
 function ScrollToTop() {
   const [location] = useLocation();
@@ -83,6 +84,7 @@ function App() {
         <TooltipProvider>
           <Toaster />
           <Router />
+          <CookieConsent />
         </TooltipProvider>
       </ThemeProvider>
     </ErrorBoundary>
