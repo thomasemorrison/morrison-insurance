@@ -219,25 +219,6 @@ export default defineConfig({
   build: {
     outDir: path.resolve(import.meta.dirname, "dist/public"),
     emptyOutDir: true,
-    rollupOptions: {
-      output: {
-        manualChunks(id) {
-          // Split vendor libraries into separate chunks
-          if (id.includes('node_modules')) {
-            if (id.includes('react-dom') || id.includes('react/')) {
-              return 'react-vendor';
-            }
-            if (id.includes('@radix-ui') || id.includes('shadcn') || id.includes('lucide')) {
-              return 'ui-vendor';
-            }
-            if (id.includes('framer-motion')) {
-              return 'animation-vendor';
-            }
-            return 'vendor';
-          }
-        },
-      },
-    },
   },
   server: {
     port: 3000,
