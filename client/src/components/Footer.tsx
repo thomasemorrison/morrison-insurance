@@ -317,17 +317,17 @@ export default function Footer() {
           <div className="flex gap-5">
             <Link
               href="/privacy-policy"
-              style={{ color: "oklch(0.52 0.01 80)", textDecoration: "none", transition: "color 180ms" }}
-              onMouseEnter={(e) => ((e.target as HTMLElement).style.color = "oklch(0.78 0.01 80)")}
-              onMouseLeave={(e) => ((e.target as HTMLElement).style.color = "oklch(0.52 0.01 80)")}
+              style={{ color: "oklch(0.82 0.03 80)", textDecoration: "underline", textUnderlineOffset: "3px", transition: "color 180ms" }}
+              onMouseEnter={(e) => ((e.target as HTMLElement).style.color = "var(--amber-brand)")}
+              onMouseLeave={(e) => ((e.target as HTMLElement).style.color = "oklch(0.82 0.03 80)")}
             >
               Privacy Policy
             </Link>
             <Link
               href="/privacy-policy#terms"
-              style={{ color: "oklch(0.52 0.01 80)", textDecoration: "none", transition: "color 180ms" }}
-              onMouseEnter={(e) => ((e.target as HTMLElement).style.color = "oklch(0.78 0.01 80)")}
-              onMouseLeave={(e) => ((e.target as HTMLElement).style.color = "oklch(0.52 0.01 80)")}
+              style={{ color: "oklch(0.82 0.03 80)", textDecoration: "underline", textUnderlineOffset: "3px", transition: "color 180ms" }}
+              onMouseEnter={(e) => ((e.target as HTMLElement).style.color = "var(--amber-brand)")}
+              onMouseLeave={(e) => ((e.target as HTMLElement).style.color = "oklch(0.82 0.03 80)")}
             >
               Terms of Use
             </Link>
