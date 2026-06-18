@@ -80,7 +80,11 @@
       ]
     }
     </script>
-    <!-- Google Analytics -->
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <!-- Google Analytics: async so it doesn't block render -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-MDY4XR6M35"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -88,12 +92,8 @@
       gtag('js', new Date());
       gtag('config', 'G-MDY4XR6M35');
     </script>
-    <!-- Metricool Analytics -->
-    <script>function loadScript(a){var b=document.getElementsByTagName("head")[0],c=document.createElement("script");c.type="text/javascript",c.src="https://tracker.metricool.com/resources/be.js",c.onreadystatechange=a,c.onload=a,b.appendChild(c)}loadScript(function(){beTracker.t({hash:"96eeb559f4686112c016e2296dda6637"})});</script>
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
+    <!-- Metricool Analytics: deferred to after page load -->
+    <script defer src="https://tracker.metricool.com/resources/be.js" onload="beTracker.t({hash:'96eeb559f4686112c016e2296dda6637'})"></script>
     <script
       defer
       src="%VITE_ANALYTICS_ENDPOINT%/umami"
