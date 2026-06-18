@@ -87,6 +87,15 @@ export default function HomePage() {
 
   return (
     <div ref={pageRef}>
+      {/* Hero image preload hint for LCP optimization */}
+      <img
+        src={IMAGES.heroPanoramic}
+        fetchPriority="high"
+        decoding="async"
+        aria-hidden="true"
+        style={{ position: "absolute", width: 0, height: 0, opacity: 0, pointerEvents: "none" }}
+        alt=""
+      />
       {/* ── HERO ── */}
       <section
         style={{
