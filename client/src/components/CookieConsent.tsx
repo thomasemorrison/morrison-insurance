@@ -106,7 +106,7 @@ export default function CookieConsent() {
             lineHeight: 1.6,
           }}
         >
-          This site uses cookies and similar technologies from Google Analytics, HubSpot, and Metricool to understand how visitors use our site and improve your experience. By clicking "Accept," you consent to our use of cookies.{" "}
+          This site uses cookies and similar technologies from Google Analytics, HubSpot, Metricool, and Meta Pixel to understand how visitors use our site, improve your experience, and measure the effectiveness of our advertising. By clicking "Accept," you consent to our use of cookies.{" "}
           <Link
             href="/privacy-policy"
             style={{ color: "var(--amber-brand)", textDecoration: "underline", textUnderlineOffset: "2px" }}
