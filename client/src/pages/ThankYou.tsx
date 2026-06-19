@@ -98,7 +98,7 @@ export default function ThankYou() {
         If you need immediate assistance, give us a call at{" "}
         <a
           href={`tel:${BRAND.phone}`}
-          style={{ color: "var(--pine)", fontWeight: 600, textDecoration: "none" }}
+          style={{ color: "var(--pine)", fontWeight: 600, textDecoration: "none", whiteSpace: "nowrap" }}
         >
           {BRAND.phone}
         </a>
