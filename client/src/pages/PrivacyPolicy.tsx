@@ -69,6 +69,9 @@ export default function PrivacyPolicyPage() {
                 <li>
                   <strong>Metricool (Metricool SL)</strong> — used to analyze website traffic and manage our social media presence. Metricool may collect anonymized usage data including page views and session information. Metricool's privacy policy is available at <a href="https://metricool.com/privacy-policy/" target="_blank" rel="noopener noreferrer" style={{ color: "var(--pine)" }}>metricool.com/privacy-policy</a>.
                 </li>
+                <li>
+                  <strong>Meta Pixel (Meta Platforms, Inc.)</strong> — a tracking pixel from Facebook/Meta used to measure the effectiveness of our advertising, build retargeting audiences, and understand how visitors interact with our Site after seeing our ads on Facebook or Instagram. The Meta Pixel may set cookies and collect information such as your IP address, browser type, and pages visited. You can opt out of Meta's advertising tracking at <a href="https://www.facebook.com/adpreferences/ad_settings" target="_blank" rel="noopener noreferrer" style={{ color: "var(--pine)" }}>facebook.com/adpreferences</a>. Meta's privacy policy is available at <a href="https://www.facebook.com/privacy/policy/" target="_blank" rel="noopener noreferrer" style={{ color: "var(--pine)" }}>facebook.com/privacy/policy</a>.
+                </li>
               </ul>
 
               {/* 2 */}
@@ -76,7 +79,7 @@ export default function PrivacyPolicyPage() {
                 2. Cookies and Tracking Technologies
               </h2>
               <p style={{ marginBottom: "1rem" }}>
-                Our Site uses cookies — small text files stored on your device — and similar technologies to operate and improve the Site. The cookies placed on your device come from the third-party services described above (Google Analytics, HubSpot, and Metricool). We do not place first-party tracking cookies ourselves.
+                Our Site uses cookies — small text files stored on your device — and similar technologies to operate and improve the Site. The cookies placed on your device come from the third-party services described above (Google Analytics, HubSpot, Metricool, and Meta Pixel). We do not place first-party tracking cookies ourselves.
               </p>
               <p style={{ marginBottom: "1rem" }}>
                 You may decline cookies by clicking "Decline" in the cookie consent notice when you first visit the Site. You can also manage or delete cookies through your browser settings. Note that declining cookies may affect some functionality of the Site, including form submissions.
@@ -108,7 +111,7 @@ export default function PrivacyPolicyPage() {
               <p style={{ marginBottom: "1rem" }}>We may share your information in the following limited circumstances:</p>
               <ul style={{ paddingLeft: "1.5rem", marginBottom: "1.5rem", display: "flex", flexDirection: "column", gap: "0.5rem" }}>
                 <li><strong>Insurance carriers and underwriters</strong> — as necessary to provide you with quotes and coverage options</li>
-                <li><strong>Service providers</strong> — including HubSpot, Google, and Metricool, as described in Section 1, solely to operate the services they provide to us</li>
+                <li><strong>Service providers</strong> — including HubSpot, Google, Metricool, and Meta, as described in Section 1, solely to operate the services they provide to us</li>
                 <li><strong>Legal requirements</strong> — when required by law, court order, or governmental authority, or to protect our rights and the safety of others</li>
               </ul>
 

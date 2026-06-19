@@ -2,10 +2,23 @@
 // Design: Morrison Insurance — Deep Pine & Amber, Cormorant Garamond + Inter
 // Shown after a quote request is submitted; also used as Google Analytics conversion page
 
+import { useEffect } from "react";
 import { Link } from "wouter";
 import { BRAND } from "@/lib/constants";
 
+declare global {
+  interface Window {
+    fbq?: (...args: unknown[]) => void;
+  }
+}
+
 export default function ThankYou() {
+  useEffect(() => {
+    // Fire Meta Pixel Lead event on quote form conversion
+    if (typeof window.fbq === "function") {
+      window.fbq("track", "Lead");
+    }
+  }, []);
   return (
     <div
       style={{
