@@ -82,9 +82,49 @@ const articles = [
     href: "/resources/how-to-file-insurance-claim-texas",
     image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=70",
   },
+  {
+    category: "Home Insurance",
+    title: "Why Is My Texas Homeowners Insurance Going Up?",
+    excerpt: "Texas homeowners are seeing rate increases of 20–40% or more. Here's what's actually driving the increases, what you can do about it, and why shopping your policy with an independent agent matters more than ever.",
+    readTime: "5 min read",
+    href: "/resources/why-is-homeowners-insurance-going-up-texas",
+    image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=70",
+  },
+  {
+    category: "Recreational",
+    title: "Boat Insurance Basics: Protecting Your Summer on Toledo Bend",
+    excerpt: "Toledo Bend is one of the best lakes in the South — but your homeowners policy won't cover your boat. Here's what East Texas boaters need to know about protecting their watercraft.",
+    readTime: "4 min read",
+    href: "/resources/boat-insurance-toledo-bend-texas",
+    image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=70",
+  },
+  {
+    category: "General",
+    title: "Renters Insurance in Texas: 3 Myths That Could Cost You",
+    excerpt: "Most renters in East Texas skip renters insurance — often because of misconceptions about cost, coverage, or who needs it. Here's the truth about what renters insurance actually does.",
+    readTime: "4 min read",
+    href: "/resources/renters-insurance-texas-myths",
+    image: "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=70",
+  },
+  {
+    category: "General",
+    title: "Umbrella Insurance: Why East Texas Families and Landowners Need It",
+    excerpt: "A single lawsuit can wipe out savings, property, and future income. Umbrella insurance adds a critical extra layer of protection — and it costs less than most people think.",
+    readTime: "5 min read",
+    href: "/resources/umbrella-insurance-east-texas",
+    image: "https://images.unsplash.com/photo-1511497584788-876760111969?w=800&q=70",
+  },
+  {
+    category: "Home Insurance",
+    title: "Mobile Home Insurance in Texas: What You Need to Know",
+    excerpt: "Mobile and manufactured homes need specialized coverage that standard homeowners policies don't provide. Here's what an HO-7 policy covers and why it matters for East Texas homeowners.",
+    readTime: "4 min read",
+    href: "/resources/mobile-home-insurance-texas",
+    image: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=70",
+  },
 ];
 
-const categories = ["All", "Home Insurance", "Auto Insurance", "Business Insurance", "Farm & Ranch", "General"];
+const categories = ["All", "Home Insurance", "Auto Insurance", "Business Insurance", "Farm & Ranch", "General", "Recreational"];
 
 export default function ResourcesPage() {
   const pageRef = useScrollFadeUp();

@@ -25,6 +25,11 @@ import ArticleUninsuredDriver from "./pages/articles/ArticleUninsuredDriver";
 import ArticleSmallBusinessCoverage from "./pages/articles/ArticleSmallBusinessCoverage";
 import ArticleIndependentVsCaptive from "./pages/articles/ArticleIndependentVsCaptive";
 import ArticleHowToFileClaim from "./pages/articles/ArticleHowToFileClaim";
+import ArticleRates from "./pages/articles/ArticleRates";
+import ArticleBoat from "./pages/articles/ArticleBoat";
+import ArticleRenters from "./pages/articles/ArticleRenters";
+import ArticleUmbrella from "./pages/articles/ArticleUmbrella";
+import ArticleMobileHome from "./pages/articles/ArticleMobileHome";
 import CookieConsent from "./components/CookieConsent";
 
 function ScrollToTop() {
@@ -70,6 +75,11 @@ function Router() {
       <Route path="/resources/small-business-insurance-coverage-gaps" component={() => <Layout><ArticleSmallBusinessCoverage /></Layout>} />
       <Route path="/resources/independent-vs-captive-insurance-agents" component={() => <Layout><ArticleIndependentVsCaptive /></Layout>} />
       <Route path="/resources/how-to-file-insurance-claim-texas" component={() => <Layout><ArticleHowToFileClaim /></Layout>} />
+      <Route path="/resources/why-is-homeowners-insurance-going-up-texas" component={() => <Layout><ArticleRates /></Layout>} />
+      <Route path="/resources/boat-insurance-toledo-bend-texas" component={() => <Layout><ArticleBoat /></Layout>} />
+      <Route path="/resources/renters-insurance-texas-myths" component={() => <Layout><ArticleRenters /></Layout>} />
+      <Route path="/resources/umbrella-insurance-east-texas" component={() => <Layout><ArticleUmbrella /></Layout>} />
+      <Route path="/resources/mobile-home-insurance-texas" component={() => <Layout><ArticleMobileHome /></Layout>} />
       <Route path="/404" component={() => <Layout><NotFound /></Layout>} />
       <Route component={() => <Layout><NotFound /></Layout>} />
     </Switch>
