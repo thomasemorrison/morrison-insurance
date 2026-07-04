@@ -6,7 +6,7 @@
     <loc>https://morrison-ins.net/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-04</lastmod>
   </url>
   <url>
     <loc>https://morrison-ins.net/about</loc>
@@ -24,7 +24,7 @@
     <loc>https://morrison-ins.net/resources</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-07-04</lastmod>
   </url>
 
   <!-- Service pages -->
@@ -67,7 +67,7 @@
     <lastmod>2026-06-07</lastmod>
   </url>
   <url>
-    <loc>https://morrison-ins.net/resources/farm-insurance-vs-homeowners-insurance-texas</loc>
+    <loc>https://morrison-ins.net/resources/farm-insurance-vs-homeowners-insurance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <lastmod>2026-06-07</lastmod>
@@ -85,13 +85,13 @@
     <lastmod>2026-06-07</lastmod>
   </url>
   <url>
-    <loc>https://morrison-ins.net/resources/small-business-insurance-coverage-texas</loc>
+    <loc>https://morrison-ins.net/resources/small-business-insurance-coverage-gaps</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <lastmod>2026-06-07</lastmod>
   </url>
   <url>
-    <loc>https://morrison-ins.net/resources/independent-vs-captive-insurance-agent</loc>
+    <loc>https://morrison-ins.net/resources/independent-vs-captive-insurance-agents</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <lastmod>2026-06-07</lastmod>
@@ -103,20 +103,12 @@
     <lastmod>2026-06-07</lastmod>
   </url>
 
-  <!-- Conversion / utility pages -->
-  <url>
-    <loc>https://morrison-ins.net/thank-you</loc>
-    <changefreq>yearly</changefreq>
-    <priority>0.2</priority>
-    <lastmod>2026-06-17</lastmod>
-  </url>
-
   <!-- Legal -->
   <url>
     <loc>https://morrison-ins.net/privacy-policy</loc>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-06-19</lastmod>
   </url>
 
 </urlset>
