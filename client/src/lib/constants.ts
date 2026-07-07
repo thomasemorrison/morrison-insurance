@@ -22,7 +22,7 @@ export const BRAND = {
   googleReviewUrl: "https://g.page/r/Cf5zlmlroBvYEBI/review",
   social: {
     facebook: "https://www.facebook.com/MorrisonInsuranceAgencyLLC",
-    instagram: "https://www.instagram.com/morrisoninsuranceagency",
+    instagram: "https://www.instagram.com/morrisoninsagency",
   },
   serviceAreas: [
     "Center, TX",
