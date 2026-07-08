@@ -1,0 +1,11 @@
+# Morrison Insurance — Project TODO
+
+## Server-Side Social Meta (Option B)
+- [x] Upgrade project to full-stack (web-db-user) with database, server, and user features
+- [x] Run pnpm db:push to sync database schema
+- [x] Audit all 13 article routes: extract slugs, titles, descriptions, and hero images
+- [x] Create server/_core/articleMeta.ts with ARTICLE_META map and injectArticleMeta() function
+- [x] Update server/_core/vite.ts to call injectArticleMeta() for /resources/* routes in both dev and production
+- [x] Verify all 13 article URLs return correct og:image, og:title, og:description, og:url, og:type in raw HTML
+- [x] Verify homepage still returns generic og:image (not overwritten)
+- [x] Write and pass 17 vitest tests covering ARTICLE_META integrity and injectArticleMeta() behavior
