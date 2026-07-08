@@ -15,3 +15,10 @@
 - [x] Upload all 13 images to Manus webdev storage
 - [x] Update ARTICLE_META in articleMeta.ts with hosted /manus-storage/ URLs
 - [x] Run tests and save checkpoint
+
+## Homepage og:image
+- [x] Add og:image tag to client/index.html pointing to the Morrison Insurance building photo
+
+## Weekly Blog Workflow
+- [x] Document the full weekly blog research, creation, and publishing workflow
+- [x] Set up recurring weekly scheduled task to trigger the blog workflow (every Monday 8:00 AM CDT)
