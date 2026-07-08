@@ -64,7 +64,7 @@ const articles = [
     excerpt: "Texas has one of the highest rates of uninsured drivers in the country. Here's what happens if you're in an accident with someone who doesn't have insurance — and how to protect yourself.",
     readTime: "5 min read",
     href: "/resources/uninsured-driver-accident-texas",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=70",
+    image: "https://images.unsplash.com/photo-1627398924667-7f4ab354ab49?w=800&q=70",
   },
   {
     category: "General",
@@ -96,7 +96,7 @@ const articles = [
     excerpt: "Toledo Bend is one of the best lakes in the South — but your homeowners policy won't cover your boat. Here's what East Texas boaters need to know about protecting their watercraft.",
     readTime: "4 min read",
     href: "/resources/boat-insurance-toledo-bend-texas",
-    image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800&q=70",
+    image: "https://images.unsplash.com/photo-1551942296-97384c850440?w=800&q=70",
   },
   {
     category: "General",
@@ -112,7 +112,7 @@ const articles = [
     excerpt: "A single lawsuit can wipe out savings, property, and future income. Umbrella insurance adds a critical extra layer of protection — and it costs less than most people think.",
     readTime: "5 min read",
     href: "/resources/umbrella-insurance-east-texas",
-    image: "https://images.unsplash.com/photo-1511497584788-876760111969?w=800&q=70",
+    image: "https://images.unsplash.com/photo-1644676654534-abc4f62ceee1?w=800&q=70",
   },
   {
     category: "Home Insurance",
@@ -120,7 +120,7 @@ const articles = [
     excerpt: "Mobile and manufactured homes need specialized coverage that standard homeowners policies don't provide. Here's what an HO-7 policy covers and why it matters for East Texas homeowners.",
     readTime: "4 min read",
     href: "/resources/mobile-home-insurance-texas",
-    image: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=70",
+    image: "https://images.unsplash.com/photo-1630437683041-d1b3e19a7c5c?w=800&q=70",
   },
 ];
 

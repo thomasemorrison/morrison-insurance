@@ -41,7 +41,7 @@ export default function ArticleMobileHome() {
       title="Mobile Home Insurance in Texas: What You Need to Know"
       readTime="5 min read"
       excerpt="Mobile and manufactured homes are incredibly popular across East Texas — but insuring them is different than insuring a traditional stick-built house. A standard homeowners policy won't cover a manufactured home. Here's what you need to know."
-      heroImage="https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=1200&q=70"
+      heroImage="https://images.unsplash.com/photo-1630437683041-d1b3e19a7c5c?w=1200&q=70"
       relatedArticles={RELATED}
     >
       <SchemaMarkup
@@ -54,7 +54,7 @@ export default function ArticleMobileHome() {
         authorName="Morrison Insurance"
         publisherName="Morrison Insurance"
         publisherUrl="https://morrison-ins.net"
-        imageUrl="https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=1200&q=70"
+        imageUrl="https://images.unsplash.com/photo-1630437683041-d1b3e19a7c5c?w=1200&q=70"
         breadcrumbs={[
           { name: "Home", url: "https://morrison-ins.net/" },
           { name: "Resources", url: "https://morrison-ins.net/resources" },
