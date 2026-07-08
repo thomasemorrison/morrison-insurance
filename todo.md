@@ -32,3 +32,8 @@
 - [x] Add item to rss.xml
 - [x] Add URL to sitemap.xml
 - [x] Update tests to expect 14 articles — all 17 tests pass
+
+## Social Media Content Calendar
+- [x] Remove blog content from manual social schedule (now automated via Metricool RSS)
+- [x] Create references/social-media-calendar.md with full content pillar strategy, 12-week rotation, caption templates, hashtag sets, image direction, and Canva template plan
+- [x] Update references/weekly-blog-workflow.md to reflect automated blog posting and reference new social calendar

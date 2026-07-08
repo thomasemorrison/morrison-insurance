@@ -16,7 +16,7 @@ Each week follows a four-stage cycle. The first three stages happen Monday; publ
 | Monday | 2. Article draft | Manus AI |
 | Monday | 3. Hero image + meta prep | Manus AI |
 | Tuesday | 4. Review & publish | Morrison team |
-| Wednesday 9:54 AM | 5. Social scheduling in Metricool | Morrison team |
+| Wednesday 9:54 AM | 5. *(Automated)* Blog post via Metricool RSS | Metricool |
 
 ---
 
@@ -150,18 +150,22 @@ Before publishing, the Morrison team confirms:
 2. Click **Publish** in the Manus Management UI to deploy to `morrison-ins.net`.
 3. Verify the live URL returns the correct `og:image` using the [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/).
 
-### Social Media Scheduling (Metricool)
+### Social Media — Blog Post (Automated)
 
-After publishing, schedule the following posts in Metricool:
+The Wednesday 9:54 AM blog post to Facebook and Instagram is **fully automated** via Metricool RSS. No manual scheduling is required after publishing.
 
-| Platform | Post type | Timing | Content |
-|---|---|---|---|
-| Facebook | Link post with article hero image | Wednesday 9:54 AM | Article title + 1-sentence hook + link |
-| Instagram | Image post (hero image) | Wednesday 9:54 AM | Hook sentence + "Link in bio" + relevant hashtags |
-| Facebook | Follow-up engagement post | Friday 10:00 AM | A question drawn from the article topic (e.g., "Do you know if your policy covers flood damage?") |
+Metricool reads the RSS feed at `https://morrison-ins.net/rss.xml`, picks up the new article, and posts it automatically with the article hero image and title.
 
-**Hashtag set for insurance articles:**
+**Hashtag set for automated blog posts (configured in Metricool):**
 `#MorrisonInsurance #EastTexas #ShelbyCounty #CenterTX #TexasInsurance #IndependentAgent #LocalInsurance`
+
+### Social Media — Manual Brand Posts
+
+All other social content (community updates, seasonal tips, local history, team posts) is managed separately. See **`references/social-media-calendar.md`** for the full schedule, content pillars, caption templates, hashtag sets, and 12-week rotation.
+
+The manual posting rhythm is:
+- **Monday** — Community Update post (Facebook + Instagram)
+- **Friday** — Brand/Seasonal/Local Pride post (Facebook + Instagram)
 
 ---
 
