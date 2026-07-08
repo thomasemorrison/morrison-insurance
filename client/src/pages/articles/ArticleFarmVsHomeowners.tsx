@@ -23,7 +23,19 @@ export default function ArticleFarmVsHomeowners() {
     "Farm Insurance vs. Homeowners Insurance: What's the Difference? | Morrison Insurance",
     "If you own land, livestock, or equipment in East Texas, a standard homeowners policy probably isn't enough. Here's what farm insurance covers that homeowners insurance doesn't."
   );
-  const pageRef = useScrollFadeUp();
+  
+// Set og:image for social sharing / Metricool
+useEffect(() => {
+  const setMeta = (prop: string, val: string) => {
+    let el = document.querySelector(`meta[property="${prop}"]`) as HTMLMetaElement | null;
+    if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
+    el.setAttribute("content", val);
+  };
+  setMeta("og:image", "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&q=70");
+  setMeta("og:type", "article");
+  return () => { setMeta("og:type", "website"); };
+}, []);
+const pageRef = useScrollFadeUp();
 
   return (
     <div ref={pageRef}>

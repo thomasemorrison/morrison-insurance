@@ -23,7 +23,19 @@ export default function ArticleFloodDamage() {
     "Does Homeowners Insurance Cover Flood Damage in Texas? | Morrison Insurance",
     "No — standard homeowners insurance does not cover flood damage in Texas. Learn what is and isn't covered, and how to get flood protection for your East Texas home."
   );
-  const pageRef = useScrollFadeUp();
+  
+// Set og:image for social sharing / Metricool
+useEffect(() => {
+  const setMeta = (prop: string, val: string) => {
+    let el = document.querySelector(`meta[property="${prop}"]`) as HTMLMetaElement | null;
+    if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
+    el.setAttribute("content", val);
+  };
+  setMeta("og:image", "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=1200&q=70");
+  setMeta("og:type", "article");
+  return () => { setMeta("og:type", "website"); };
+}, []);
+const pageRef = useScrollFadeUp();
 
   return (
     <div ref={pageRef}>

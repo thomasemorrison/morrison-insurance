@@ -23,7 +23,19 @@ export default function ArticleIndependentVsCaptive() {
     "Independent vs. Captive Insurance Agents: What's the Difference? | Morrison Insurance",
     "An independent insurance agent works for you, not for a single insurance company. Here's why that matters for East Texas families and businesses shopping for coverage."
   );
-  const pageRef = useScrollFadeUp();
+  
+// Set og:image for social sharing / Metricool
+useEffect(() => {
+  const setMeta = (prop: string, val: string) => {
+    let el = document.querySelector(`meta[property="${prop}"]`) as HTMLMetaElement | null;
+    if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
+    el.setAttribute("content", val);
+  };
+  setMeta("og:image", "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200&q=70");
+  setMeta("og:type", "article");
+  return () => { setMeta("og:type", "website"); };
+}, []);
+const pageRef = useScrollFadeUp();
 
   return (
     <div ref={pageRef}>

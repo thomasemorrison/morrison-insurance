@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Morrison Insurance — Resources &amp; Articles</title>
     <link>https://morrison-ins.net/resources</link>
@@ -8,12 +8,14 @@
     <copyright>Copyright 2026 Morrison Insurance</copyright>
     <managingEditor>hello@morrison-ins.net (Morrison Insurance)</managingEditor>
     <webMaster>hello@morrison-ins.net (Morrison Insurance)</webMaster>
-    <lastBuildDate>Fri, 04 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://morrison-ins.net/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
-      <url>https://morrison-ins.net/favicon.ico</url>
-      <title>Morrison Insurance</title>
-      <link>https://morrison-ins.net</link>
+      <url>https://morrison-ins.net/apple-touch-icon-180x180.png</url>
+      <title>Morrison Insurance — Resources &amp; Articles</title>
+      <link>https://morrison-ins.net/resources</link>
+      <width>144</width>
+      <height>144</height>
     </image>
 
     <item>
@@ -21,8 +23,10 @@
       <link>https://morrison-ins.net/resources/mobile-home-insurance-texas</link>
       <description>Mobile and manufactured homes need specialized coverage that standard homeowners policies don't provide. Here's what an HO-7 policy covers and why it matters for East Texas homeowners.</description>
       <category>Home Insurance</category>
-      <pubDate>Fri, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/mobile-home-insurance-texas</guid>
+      <enclosure url="https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -30,8 +34,10 @@
       <link>https://morrison-ins.net/resources/umbrella-insurance-east-texas</link>
       <description>A single lawsuit can wipe out savings, property, and future income. Umbrella insurance adds a critical extra layer of protection — and it costs less than most people think.</description>
       <category>General</category>
-      <pubDate>Fri, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/umbrella-insurance-east-texas</guid>
+      <enclosure url="https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -39,8 +45,10 @@
       <link>https://morrison-ins.net/resources/renters-insurance-texas-myths</link>
       <description>Most renters in East Texas skip renters insurance — often because of misconceptions about cost, coverage, or who needs it. Here's the truth about what renters insurance actually does.</description>
       <category>General</category>
-      <pubDate>Fri, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/renters-insurance-texas-myths</guid>
+      <enclosure url="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -48,8 +56,10 @@
       <link>https://morrison-ins.net/resources/boat-insurance-toledo-bend-texas</link>
       <description>Toledo Bend is one of the best lakes in the South — but your homeowners policy won't cover your boat. Here's what East Texas boaters need to know about protecting their watercraft.</description>
       <category>Recreational</category>
-      <pubDate>Fri, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/boat-insurance-toledo-bend-texas</guid>
+      <enclosure url="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -57,8 +67,10 @@
       <link>https://morrison-ins.net/resources/why-is-homeowners-insurance-going-up-texas</link>
       <description>Texas homeowners are seeing rate increases of 20–40% or more. Here's what's actually driving the increases, what you can do about it, and why shopping your policy with an independent agent matters more than ever.</description>
       <category>Home Insurance</category>
-      <pubDate>Fri, 04 Jul 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/why-is-homeowners-insurance-going-up-texas</guid>
+      <enclosure url="https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -66,8 +78,10 @@
       <link>https://morrison-ins.net/resources/how-to-file-insurance-claim-texas</link>
       <description>Filing an insurance claim can feel overwhelming — especially when you're already dealing with a stressful situation. Here's a clear, step-by-step guide to help you navigate the process.</description>
       <category>General</category>
-      <pubDate>Sat, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/how-to-file-insurance-claim-texas</guid>
+      <enclosure url="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -75,8 +89,10 @@
       <link>https://morrison-ins.net/resources/independent-vs-captive-insurance-agents</link>
       <description>When you shop for insurance, you'll encounter two types of agents. Understanding the difference can help you make a better decision about where to get your coverage.</description>
       <category>General</category>
-      <pubDate>Sat, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/independent-vs-captive-insurance-agents</guid>
+      <enclosure url="https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -84,8 +100,10 @@
       <link>https://morrison-ins.net/resources/uninsured-driver-accident-texas</link>
       <description>Texas has one of the highest rates of uninsured drivers in the country. Here's what happens if you're in an accident with someone who doesn't have insurance — and how to protect yourself.</description>
       <category>Auto Insurance</category>
-      <pubDate>Sat, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/uninsured-driver-accident-texas</guid>
+      <enclosure url="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -93,8 +111,10 @@
       <link>https://morrison-ins.net/resources/small-business-insurance-coverage-gaps</link>
       <description>Many small business owners in East Texas are underinsured — or have coverage that doesn't match how their business actually operates. Here are the most common gaps we see and how to address them.</description>
       <category>Business Insurance</category>
-      <pubDate>Sat, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/small-business-insurance-coverage-gaps</guid>
+      <enclosure url="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -102,8 +122,10 @@
       <link>https://morrison-ins.net/resources/does-homeowners-insurance-cover-flood-damage-texas</link>
       <description>Flooding is one of the most common and costly disasters in Texas — and most homeowners policies don't cover it. Here's what you need to know about flood insurance and your options in East Texas.</description>
       <category>Home Insurance</category>
-      <pubDate>Sat, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/does-homeowners-insurance-cover-flood-damage-texas</guid>
+      <enclosure url="https://images.unsplash.com/photo-1547683905-f686c993aae5?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1547683905-f686c993aae5?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -111,8 +133,10 @@
       <link>https://morrison-ins.net/resources/farm-insurance-vs-homeowners-insurance</link>
       <description>If you own land, livestock, or equipment, a standard homeowners policy probably isn't enough. Here's what farm insurance covers that homeowners insurance doesn't — and why it matters for East Texas property owners.</description>
       <category>Farm &amp; Ranch</category>
-      <pubDate>Sat, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/farm-insurance-vs-homeowners-insurance</guid>
+      <enclosure url="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -120,8 +144,10 @@
       <link>https://morrison-ins.net/resources/texas-auto-insurance-requirements</link>
       <description>Texas requires all drivers to carry minimum liability insurance — but those minimums may not be enough to protect you. Here's what the law requires and what we recommend for drivers in Shelby County.</description>
       <category>Auto Insurance</category>
-      <pubDate>Sat, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/texas-auto-insurance-requirements</guid>
+      <enclosure url="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=1200&amp;q=70" medium="image"/>
     </item>
 
     <item>
@@ -129,8 +155,10 @@
       <link>https://morrison-ins.net/resources/what-does-homeowners-insurance-cover-texas</link>
       <description>Most homeowners have a general idea of what their policy covers — but the details matter. Here's a plain-language breakdown of what's included, what's excluded, and what East Texas homeowners should pay attention to.</description>
       <category>Home Insurance</category>
-      <pubDate>Sat, 07 Jun 2026 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <guid isPermaLink="true">https://morrison-ins.net/resources/what-does-homeowners-insurance-cover-texas</guid>
+      <enclosure url="https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1200&amp;q=70" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1200&amp;q=70" medium="image"/>
     </item>
 
   </channel>

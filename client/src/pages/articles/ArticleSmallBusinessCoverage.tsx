@@ -23,7 +23,19 @@ export default function ArticleSmallBusinessCoverage() {
     "Does Your Small Business Have the Right Insurance Coverage? | Morrison Insurance",
     "Many small businesses in East Texas are underinsured or have the wrong type of coverage. Here are the most common coverage gaps and how to fix them."
   );
-  const pageRef = useScrollFadeUp();
+  
+// Set og:image for social sharing / Metricool
+useEffect(() => {
+  const setMeta = (prop: string, val: string) => {
+    let el = document.querySelector(`meta[property="${prop}"]`) as HTMLMetaElement | null;
+    if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
+    el.setAttribute("content", val);
+  };
+  setMeta("og:image", "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=70");
+  setMeta("og:type", "article");
+  return () => { setMeta("og:type", "website"); };
+}, []);
+const pageRef = useScrollFadeUp();
 
   return (
     <div ref={pageRef}>

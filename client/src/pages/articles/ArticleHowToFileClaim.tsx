@@ -23,7 +23,19 @@ export default function ArticleHowToFileClaim() {
     "How to File an Insurance Claim in Texas: A Step-by-Step Guide | Morrison Insurance",
     "Filing an insurance claim doesn't have to be stressful. Here's a clear, step-by-step guide to filing a home, auto, or business insurance claim in Texas."
   );
-  const pageRef = useScrollFadeUp();
+  
+// Set og:image for social sharing / Metricool
+useEffect(() => {
+  const setMeta = (prop: string, val: string) => {
+    let el = document.querySelector(`meta[property="${prop}"]`) as HTMLMetaElement | null;
+    if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
+    el.setAttribute("content", val);
+  };
+  setMeta("og:image", "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=1200&q=70");
+  setMeta("og:type", "article");
+  return () => { setMeta("og:type", "website"); };
+}, []);
+const pageRef = useScrollFadeUp();
 
   const steps = [
     {

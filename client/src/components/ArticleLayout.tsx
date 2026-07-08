@@ -62,7 +62,23 @@ export function ArticleLayout({
     if (metaDesc) metaDesc.setAttribute("content", metaDescription);
     const canonical = document.querySelector('link[rel="canonical"]');
     if (canonical) canonical.setAttribute("href", `https://morrison-ins.net/resources/${canonicalSlug}`);
-  }, [pageTitle, metaDescription, canonicalSlug]);
+    // OG tags for social sharing / Metricool
+    const setMeta = (prop: string, val: string) => {
+      let el = document.querySelector(`meta[property="${prop}"]`) as HTMLMetaElement | null;
+      if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
+      el.setAttribute("content", val);
+    };
+    setMeta("og:title", pageTitle);
+    setMeta("og:description", metaDescription);
+    setMeta("og:url", `https://morrison-ins.net/resources/${canonicalSlug}`);
+    setMeta("og:type", "article");
+    if (heroImage) setMeta("og:image", heroImage);
+    else setMeta("og:image", "https://morrison-ins.net/apple-touch-icon-180x180.png");
+    return () => {
+      // Reset to site defaults on unmount
+      setMeta("og:type", "website");
+    };
+  }, [pageTitle, metaDescription, canonicalSlug, heroImage]);
 
   return (
     <div ref={ref}>
