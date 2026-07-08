@@ -174,22 +174,44 @@ const pageRef = useScrollFadeUp();
         </div>
       </section>
 
+      {/* Related Articles */}
       <section style={{ backgroundColor: "var(--cream-dark)", padding: "4rem 0" }}>
-        <div className="container" style={{ maxWidth: "780px" }}>
-          <h3 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1.5rem" }}>Related Articles</h3>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+        <div className="container">
+          <h3 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.5rem", color: "var(--pine)", marginBottom: "2rem" }}>Related Articles</h3>
+          <div className="grid grid-cols-1 sm:grid-cols-3 gap-6">
             {[
-              { href: "/resources/texas-auto-insurance-requirements", title: "Texas Auto Insurance Requirements: What You Need to Know", category: "Auto Insurance" },
-              { href: "/resources/independent-vs-captive-insurance-agents", title: "Independent vs. Captive Insurance Agents: What's the Difference?", category: "General" },
+              {
+                href: "/resources/texas-auto-insurance-requirements",
+                title: "Texas Auto Insurance Requirements: What You Need to Know",
+                category: "Auto Insurance",
+                image: "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=70",
+              },
+              {
+                href: "/resources/how-to-file-insurance-claim-texas",
+                title: "How to File an Insurance Claim: A Step-by-Step Guide",
+                category: "General",
+                image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=70",
+              },
+              {
+                href: "/resources/independent-vs-captive-insurance-agents",
+                title: "Independent vs. Captive Insurance Agents: What's the Difference?",
+                category: "General",
+                image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=70",
+              },
             ].map((a) => (
               <Link key={a.href} href={a.href} style={{ textDecoration: "none" }}>
-                <div className="fade-up" style={{ backgroundColor: "white", borderRadius: "0.5rem", padding: "1.5rem", boxShadow: "0 2px 8px rgba(0,0,0,0.06)", borderTop: "3px solid var(--pine)", transition: "transform 200ms, box-shadow 200ms" }}
-                  onMouseEnter={(e) => { (e.currentTarget as HTMLElement).style.transform = "translateY(-3px)"; (e.currentTarget as HTMLElement).style.boxShadow = "0 8px 24px rgba(0,0,0,0.10)"; }}
-                  onMouseLeave={(e) => { (e.currentTarget as HTMLElement).style.transform = "translateY(0)"; (e.currentTarget as HTMLElement).style.boxShadow = "0 2px 8px rgba(0,0,0,0.06)"; }}
+                <div
+                  className="fade-up"
+                  style={{ backgroundColor: "white", borderRadius: "0.75rem", overflow: "hidden", boxShadow: "0 2px 12px rgba(0,0,0,0.07)", transition: "transform 200ms cubic-bezier(0.23,1,0.32,1), box-shadow 200ms" }}
+                  onMouseEnter={(e) => { (e.currentTarget as HTMLElement).style.transform = "translateY(-4px)"; (e.currentTarget as HTMLElement).style.boxShadow = "0 10px 28px rgba(0,0,0,0.12)"; }}
+                  onMouseLeave={(e) => { (e.currentTarget as HTMLElement).style.transform = "translateY(0)"; (e.currentTarget as HTMLElement).style.boxShadow = "0 2px 12px rgba(0,0,0,0.07)"; }}
                 >
-                  <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.75rem", fontWeight: 600, textTransform: "uppercase", letterSpacing: "0.08em", color: "var(--amber-brand)" }}>{a.category}</span>
-                  <p style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 600, fontSize: "1rem", color: "var(--pine)", marginTop: "0.5rem", lineHeight: 1.4 }}>{a.title}</p>
-                  <span style={{ display: "flex", alignItems: "center", gap: "0.375rem", fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "var(--pine)", fontWeight: 600, marginTop: "0.875rem" }}>Read Article <ArrowRight size={13} /></span>
+                  <div style={{ height: "160px", backgroundImage: `url(${a.image})`, backgroundSize: "cover", backgroundPosition: "center" }} />
+                  <div style={{ padding: "1.25rem" }}>
+                    <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.7rem", fontWeight: 700, textTransform: "uppercase", letterSpacing: "0.1em", color: "var(--amber-brand)" }}>{a.category}</span>
+                    <p style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 600, fontSize: "1.0625rem", color: "var(--pine)", marginTop: "0.4rem", lineHeight: 1.35 }}>{a.title}</p>
+                    <span style={{ display: "flex", alignItems: "center", gap: "0.375rem", fontFamily: "Inter, sans-serif", fontSize: "0.8125rem", color: "var(--pine)", fontWeight: 600, marginTop: "0.875rem" }}>Read Article <ArrowRight size={13} /></span>
+                  </div>
                 </div>
               </Link>
             ))}
