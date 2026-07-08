@@ -39,8 +39,15 @@ const pageRef = useScrollFadeUp();
 
   return (
     <div ref={pageRef}>
-      <section style={{ backgroundColor: "var(--pine)", padding: "5rem 0 4rem" }}>
-        <div className="container">
+      {/* Hero with photo background */}
+      <section style={{ position: "relative", minHeight: "420px", display: "flex", alignItems: "flex-end", overflow: "hidden" }}>
+        <div style={{
+          position: "absolute", inset: 0,
+          backgroundImage: "url('https://images.unsplash.com/photo-1627398924667-7f4ab354ab49?w=1400&q=80')",
+          backgroundSize: "cover", backgroundPosition: "center 40%",
+        }} />
+        <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to bottom, rgba(18,38,28,0.45) 0%, rgba(18,38,28,0.82) 100%)" }} />
+        <div className="container" style={{ position: "relative", zIndex: 1, padding: "5rem 0 4rem" }}>
           <nav style={{ marginBottom: "1.5rem", display: "flex", gap: "0.5rem", alignItems: "center", flexWrap: "wrap" }}>
             <Link href="/" style={{ fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "oklch(0.65 0.01 80)", textDecoration: "none" }}>Home</Link>
             <ChevronRight size={14} style={{ color: "oklch(0.50 0.01 80)" }} />
@@ -60,7 +67,7 @@ const pageRef = useScrollFadeUp();
             </span>
             <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "oklch(0.55 0.01 80)" }}>Morrison Insurance · Center, TX</span>
           </div>
-          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.78 0.01 80)", lineHeight: 1.75, marginTop: "1.5rem", maxWidth: "680px", transitionDelay: "240ms" }}>
+          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.82 0.01 80)", lineHeight: 1.75, marginTop: "1.5rem", maxWidth: "680px", transitionDelay: "240ms" }}>
             Texas has one of the highest rates of uninsured drivers in the country — roughly 1 in 8 drivers on the road has no insurance. Here's what happens when you're hit by one of them, and how the right coverage can protect you.
           </p>
         </div>
