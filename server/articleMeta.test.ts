@@ -26,16 +26,16 @@ describe("ARTICLE_META", () => {
     for (const [path, meta] of Object.entries(ARTICLE_META)) {
       expect(meta.title, `title for ${path}`).toBeTruthy();
       expect(meta.description, `description for ${path}`).toBeTruthy();
-      expect(meta.image, `image for ${path}`).toMatch(/^https?:\/\//);
+      expect(meta.image, `image for ${path}`).toMatch(/^\/manus-storage\/|^https?:\/\//);
       expect(meta.slug, `slug for ${path}`).toBeTruthy();
       // slug should match the last segment of the path
       expect(path).toBe(`/resources/${meta.slug}`);
     }
   });
 
-  it("all image URLs point to Unsplash", () => {
+  it("all image URLs point to Manus hosted storage", () => {
     for (const meta of Object.values(ARTICLE_META)) {
-      expect(meta.image).toContain("images.unsplash.com");
+      expect(meta.image).toMatch(/^\/manus-storage\//);
     }
   });
 });
@@ -55,7 +55,7 @@ describe("injectArticleMeta", () => {
   it("replaces og:image with article hero image", () => {
     const result = injectArticleMeta(SAMPLE_HTML, meta);
     expect(result).toContain(
-      `<meta property="og:image" content="https://images.unsplash.com/photo-1551942296-97384c850440?w=1200&q=70" />`
+      `<meta property="og:image" content="https://morrison-ins.net/manus-storage/boat-toledo-bend_607769d3.jpg" />`
     );
   });
 

@@ -9,3 +9,9 @@
 - [x] Verify all 13 article URLs return correct og:image, og:title, og:description, og:url, og:type in raw HTML
 - [x] Verify homepage still returns generic og:image (not overwritten)
 - [x] Write and pass 17 vitest tests covering ARTICLE_META integrity and injectArticleMeta() behavior
+
+## Hero Image Hosting
+- [x] Download all 13 article hero images from Unsplash
+- [x] Upload all 13 images to Manus webdev storage
+- [x] Update ARTICLE_META in articleMeta.ts with hosted /manus-storage/ URLs
+- [x] Run tests and save checkpoint
