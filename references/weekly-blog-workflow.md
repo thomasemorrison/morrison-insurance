@@ -205,3 +205,15 @@ This workflow is triggered every **Monday at 9:00 AM CDT** via a recurring Manus
 6. Creates the article component and registers the route.
 7. Updates the RSS feed.
 8. Delivers a summary to the Morrison team for review before Tuesday publishing.
+
+---
+
+## Blog Topic Queue
+
+Topics queued for upcoming Monday research cycles, in priority order:
+
+| Priority | Topic | Notes |
+|---|---|---|
+| 1 | Construction liability & premises liability for property owners | Personal angle: cabin build in progress, neighbors/curious visitors on active construction site, trespass liability, additional liability rider on homeowner policy. East Texas rural homeowner audience. |
+| 2 | (Next topic TBD by Monday research) | — |
+

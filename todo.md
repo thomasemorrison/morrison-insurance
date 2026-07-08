@@ -42,4 +42,23 @@
 - [x] Update Monday 9:00 AM scheduled task to include community research (Part B) alongside blog article (Part A)
 - [x] Write updated task prompt with Steps 10-12 covering community research, caption writing, and combined delivery
 - [x] Create references/july-friday-posts.md with 4 weeks of ready-to-schedule Friday posts for July (Jul 11, 18, 25, Aug 1)
-- [ ] Morrison team: Schedule July Friday posts in Metricool on Thursday (Jul 10)
+- [ ] Morrison team action (Thu Jul 10): Open Metricool Planner, schedule 8 posts (4 Fridays × 2 platforms) using captions in references/july-friday-posts.md
+
+## LinkedIn Page Optimization
+- [x] Audit current LinkedIn page fields (tagline, about, website, industry, specialties)
+- [x] Write optimized LinkedIn copy matching website branding and messaging
+- [x] Apply all edits live in LinkedIn admin via My Browser — tagline, about, website, phone, year founded, specialties, logo all saved
+
+## Favicon Update
+- [x] Generate all favicon sizes (16, 32, 180, 512) from user-provided M INS favicon design
+- [x] Upload all favicon sizes to client/public/ and manus-storage CDN
+- [x] Update index.html favicon link tags to new user-provided favicon
+- [x] Add LinkedIn to schema sameAs in index.html
+
+## Google Business Profile Fixes
+- [ ] Update GBP website URL from http://www.morrison-ins.net/ to https://morrison-ins.net (fixes missing website display in knowledge panel)
+- [ ] Upload Morrison Insurance logo as GBP profile photo (currently showing generic placeholder) — use same square logo asset as favicon
+- [ ] Add LinkedIn profile URL to GBP social profiles section
+
+## Blog Queue Addition
+- [x] Add construction liability / premises liability article to blog topic queue in references/weekly-blog-workflow.md
