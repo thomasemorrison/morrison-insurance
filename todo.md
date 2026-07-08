@@ -37,3 +37,9 @@
 - [x] Remove blog content from manual social schedule (now automated via Metricool RSS)
 - [x] Create references/social-media-calendar.md with full content pillar strategy, 12-week rotation, caption templates, hashtag sets, image direction, and Canva template plan
 - [x] Update references/weekly-blog-workflow.md to reflect automated blog posting and reference new social calendar
+
+## Monday Task Extension + July Friday Posts
+- [x] Update Monday 9:00 AM scheduled task to include community research (Part B) alongside blog article (Part A)
+- [x] Write updated task prompt with Steps 10-12 covering community research, caption writing, and combined delivery
+- [x] Create references/july-friday-posts.md with 4 weeks of ready-to-schedule Friday posts for July (Jul 11, 18, 25, Aug 1)
+- [ ] Morrison team: Schedule July Friday posts in Metricool on Thursday (Jul 10)

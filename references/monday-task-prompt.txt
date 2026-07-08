@@ -1,0 +1,128 @@
+You are working on the Morrison Insurance website project. The project files are already present at /home/ubuntu/morrison-insurance — this is the live site's source code. Do NOT search for the project or try to clone it. Work directly with these files.
+
+Morrison Insurance is an independent insurance agency in Center, TX, serving East Texans since 1923. The website is a React/Tailwind site at /home/ubuntu/morrison-insurance.
+
+Your task this week has TWO parts: (A) research and write a new blog article, and (B) research and write a ready-to-post Monday community update caption for social media. Complete both parts and deliver them together at the end.
+
+═══════════════════════════════════════════
+PART A — WEEKLY BLOG ARTICLE
+═══════════════════════════════════════════
+
+STEP 1 — SEO RESEARCH
+Search for the best insurance-related blog topics for East Texas / Shelby County right now. Consider:
+- Seasonal relevance (current month/season in East Texas)
+- Local search trends (e.g., 'insurance Center TX', 'Shelby County insurance', 'East Texas [coverage type]')
+- Topics not yet covered on the site (check /home/ubuntu/morrison-insurance/client/src/pages/articles/ for existing articles)
+- High-value long-tail keywords with local intent
+- Recent news or events in East Texas that create insurance questions (storms, floods, wildfires, hunting season, etc.)
+- Coverage types Morrison offers: home, auto, farm/ranch, business, life, mobile home, boat/recreational, umbrella, renters
+
+STEP 2 — TOPIC SELECTION
+Choose the single best topic based on your research. It must be:
+- Relevant to East Texas residents (Shelby County, Center TX, Nacogdoches, Lufkin, San Augustine area)
+- Not already covered by an existing article on the site
+- Answering a real question people search for
+- Tied to a coverage type Morrison Insurance sells
+
+STEP 3 — HERO IMAGE
+Find an appropriate hero image for the article:
+- Search for a relevant, high-quality image using the search tool (type=image)
+- Download it to /home/ubuntu/webdev-static-assets/article-heroes/
+- Upload it using: manus-upload-file --webdev /home/ubuntu/webdev-static-assets/article-heroes/filename.jpg
+- Use the returned /manus-storage/ URL as the hero image in the article
+
+STEP 4 — ARTICLE WRITING
+Write a complete, high-quality article following the exact same structure and style as existing articles. Read one existing article file (e.g., /home/ubuntu/morrison-insurance/client/src/pages/articles/ArticleBoat.tsx or ArticleMobileHome.tsx) to match the component structure exactly. The article must:
+- Use ArticleLayout, ArticleSection, ArticleH2, ArticleP, ArticleCallout components
+- Include a RELATED array with 3 relevant existing articles (with correct image URLs from /manus-storage/)
+- Include SchemaMarkup with correct datePublished (today's date), canonicalSlug, etc.
+- Be 600-900 words of substantive, plain-language content
+- Include a local Morrison Insurance CTA at the end
+- Use the hosted /manus-storage/ hero image URL (from Step 3)
+
+STEP 5 — ROUTE REGISTRATION
+Add the new article route to /home/ubuntu/morrison-insurance/client/src/App.tsx following the existing pattern.
+
+STEP 6 — RESOURCES PAGE
+Add the new article card to the ARTICLES array in /home/ubuntu/morrison-insurance/client/src/pages/Resources.tsx with correct category, title, excerpt, readTime, href, and image (use the /manus-storage/ URL).
+
+STEP 7 — ARTICLE META (og:image injection)
+Add a new entry to /home/ubuntu/morrison-insurance/server/_core/articleMeta.ts in the ARTICLE_META object. Follow the exact same pattern as existing entries:
+  "/resources/your-slug-here": {
+    title: "Your Article Title | Morrison Insurance",
+    description: "Your article description (150-160 chars)",
+    image: "https://morrison-ins.net/manus-storage/your-image-filename.jpg",
+    type: "article",
+  },
+
+STEP 8 — RSS FEED UPDATE
+Add a new <item> to /home/ubuntu/morrison-insurance/client/public/rss.xml at the top of the items list (most recent first). Use today's correct day-of-week and date. Update <lastBuildDate> to today. Use the full https://morrison-ins.net/manus-storage/ image URL for the enclosure and media:content tags.
+
+STEP 9 — SITEMAP UPDATE
+Add the new article URL to /home/ubuntu/morrison-insurance/client/public/sitemap.xml with today's date as lastmod and priority 0.7.
+
+═══════════════════════════════════════════
+PART B — MONDAY COMMUNITY UPDATE POST
+═══════════════════════════════════════════
+
+STEP 10 — COMMUNITY RESEARCH
+Research the following sources for this week's most timely and engaging community story from Shelby County / East Texas:
+
+Sources to check (in priority order):
+1. https://www.scttx.com — Shelby County Today: local news, events, sports, announcements
+2. https://www.lightandchampion.com — Light & Champion: community stories, business news
+3. https://www.co.shelby.tx.us — Shelby County official site: burn ban status, county notices
+4. https://www.centerisd.org — Center ISD: sports schedules, school events
+5. https://www.joaquinisd.net — Joaquin ISD: sports schedules
+6. https://www.timpsonisd.net — Timpson ISD: sports schedules
+
+Selection priority:
+1. Active burn ban or fire weather watch → always post this first
+2. Major local event happening this week (fair, festival, game, graduation)
+3. New business opening or community milestone in Center/Shelby County
+4. Fishing report or outdoor recreation update (Toledo Bend, etc.)
+5. General community news or feel-good story
+
+STEP 11 — WRITE THE MONDAY CAPTION
+Write a ready-to-post social media caption for the Monday Community Update post. The caption must:
+- Be 75-150 words
+- Be warm, local, and community-focused — not salesy
+- Reference the specific news item, event, or update found in Step 10
+- End with a soft engagement question OR a soft brand mention (not both)
+- Use the Morrison brand voice: "We're your neighbors. We live here too."
+- Include the core hashtag set: #MorrisonInsurance #CenterTX #ShelbyCounty #EastTexas
+- Include 3-5 additional hashtags appropriate to the topic (from the social media calendar at /home/ubuntu/morrison-insurance/references/social-media-calendar.md)
+- Be ready to copy-paste into Metricool for both Facebook and Instagram
+
+Format the caption output as:
+---
+MONDAY COMMUNITY UPDATE — [DATE]
+Topic: [one-line description of the story/event]
+Source: [URL of the source]
+
+FACEBOOK CAPTION:
+[caption text]
+
+INSTAGRAM CAPTION:
+[same caption, adjusted if needed for Instagram — shorter, hashtags at end]
+
+IMAGE DIRECTION:
+[one sentence describing what image to use or find in Canva Community Update template]
+---
+
+═══════════════════════════════════════════
+STEP 12 — CHECKPOINT & NOTIFY
+═══════════════════════════════════════════
+Save a checkpoint using the webdev_save_checkpoint tool with a descriptive message, then send the user a result message summarizing:
+
+BLOG ARTICLE:
+- The topic chosen and why (SEO rationale)
+- The article title and URL slug
+- The hero image used
+- A reminder to review the draft and click Publish in the Management UI on Tuesday
+
+MONDAY COMMUNITY POST:
+- The community story/event found
+- The ready-to-post Facebook and Instagram captions (full text, copy-paste ready)
+- Image direction for the Canva Community Update template
+- Reminder to schedule in Metricool for Monday at 9:00 AM CDT
