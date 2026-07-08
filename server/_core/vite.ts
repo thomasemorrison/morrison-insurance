@@ -77,7 +77,7 @@ export function serveStatic(app: Express) {
         res.status(500).send("Internal Server Error");
         return;
       }
-      const articlePath = req.path.split("?")[0];
+      const articlePath = req.originalUrl.split("?")[0];
       const articleMeta = ARTICLE_META[articlePath];
       const page = articleMeta ? injectArticleMeta(html, articleMeta) : html;
       res.status(200).set({ "Content-Type": "text/html" }).send(page);
