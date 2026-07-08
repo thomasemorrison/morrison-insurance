@@ -1,5 +1,5 @@
 import { Link } from "wouter";
-import { Phone, Mail, MapPin, Facebook, Instagram, Smartphone, ArrowRight } from "lucide-react";
+import { Phone, Mail, MapPin, Facebook, Instagram, Linkedin, Smartphone, ArrowRight } from "lucide-react";
 import { BRAND, FOOTER_LINKS } from "@/lib/constants";
 
 export default function Footer() {
@@ -91,6 +91,7 @@ export default function Footer() {
               {[
                 { href: BRAND.social.facebook, label: "Facebook", Icon: Facebook },
                 { href: BRAND.social.instagram, label: "Instagram", Icon: Instagram },
+                { href: BRAND.social.linkedin, label: "LinkedIn", Icon: Linkedin },
               ].map(({ href, label, Icon }) => (
                 <a
                   key={label}

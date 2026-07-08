@@ -23,6 +23,7 @@ export const BRAND = {
   social: {
     facebook: "https://www.facebook.com/MorrisonInsuranceAgencyLLC",
     instagram: "https://www.instagram.com/morrisoninsagency",
+    linkedin: "https://www.linkedin.com/company/morrison-insurance-agency-llc/",
   },
   serviceAreas: [
     "Center, TX",
