@@ -1,6 +1,6 @@
 # Morrison Insurance — Weekly Blog Workflow
 
-**Rhythm:** One new article published per week, every Tuesday.
+**Rhythm:** One new article published per week, every Wednesday at 9:54 AM CDT.
 **Owner:** Morrison Insurance team (content review) + Manus AI (research, drafting, publishing prep).
 **Goal:** Build a library of locally-relevant, search-optimized articles that serve East Texas families and businesses — and consistently feed the social media calendar in Metricool.
 
@@ -15,7 +15,8 @@ Each week follows a four-stage cycle. The first three stages happen Monday; publ
 | Monday | 1. Topic selection & research | Manus AI |
 | Monday | 2. Article draft | Manus AI |
 | Monday | 3. Hero image + meta prep | Manus AI |
-| Tuesday | 4. Review, publish & social scheduling | Morrison team + Manus AI |
+| Tuesday | 4. Review & publish | Morrison team |
+| Wednesday 9:54 AM | 5. Social scheduling in Metricool | Morrison team |
 
 ---
 
@@ -131,7 +132,7 @@ After adding the article, update the RSS feed (`/rss.xml` endpoint or static fil
 
 ---
 
-## Stage 4 — Review, Publish & Social Scheduling (Tuesday)
+## Stage 4 — Review & Publish (Tuesday)
 
 ### Review Checklist
 
@@ -151,13 +152,13 @@ Before publishing, the Morrison team confirms:
 
 ### Social Media Scheduling (Metricool)
 
-After publishing, schedule the following posts in Metricool for the same week:
+After publishing, schedule the following posts in Metricool:
 
 | Platform | Post type | Timing | Content |
 |---|---|---|---|
-| Facebook | Link post with article hero image | Tuesday 10:00 AM | Article title + 1-sentence hook + link |
-| Instagram | Image post (hero image) | Tuesday 12:00 PM | Hook sentence + "Link in bio" + relevant hashtags |
-| Facebook | Follow-up engagement post | Thursday 10:00 AM | A question drawn from the article topic (e.g., "Do you know if your policy covers flood damage?") |
+| Facebook | Link post with article hero image | Wednesday 9:54 AM | Article title + 1-sentence hook + link |
+| Instagram | Image post (hero image) | Wednesday 9:54 AM | Hook sentence + "Link in bio" + relevant hashtags |
+| Facebook | Follow-up engagement post | Friday 10:00 AM | A question drawn from the article topic (e.g., "Do you know if your policy covers flood damage?") |
 
 **Hashtag set for insurance articles:**
 `#MorrisonInsurance #EastTexas #ShelbyCounty #CenterTX #TexasInsurance #IndependentAgent #LocalInsurance`
