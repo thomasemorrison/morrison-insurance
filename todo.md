@@ -22,3 +22,13 @@
 ## Weekly Blog Workflow
 - [x] Document the full weekly blog research, creation, and publishing workflow
 - [x] Set up recurring weekly scheduled task to trigger the blog workflow (every Monday 8:00 AM CDT)
+
+## Hunting Lease Article (Article #14)
+- [x] Download and host hero image to Manus storage
+- [x] Create ArticleHuntingLease.tsx with correct imports and hosted image URLs
+- [x] Add route to App.tsx
+- [x] Add card to Resources.tsx
+- [x] Add entry to articleMeta.ts (og:image injection)
+- [x] Add item to rss.xml
+- [x] Add URL to sitemap.xml
+- [x] Update tests to expect 14 articles — all 17 tests pass

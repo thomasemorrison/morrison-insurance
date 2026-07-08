@@ -30,6 +30,7 @@ import ArticleBoat from "./pages/articles/ArticleBoat";
 import ArticleRenters from "./pages/articles/ArticleRenters";
 import ArticleUmbrella from "./pages/articles/ArticleUmbrella";
 import ArticleMobileHome from "./pages/articles/ArticleMobileHome";
+import ArticleHuntingLease from "./pages/articles/ArticleHuntingLease";
 import CookieConsent from "./components/CookieConsent";
 
 function ScrollToTop() {
@@ -80,6 +81,7 @@ function Router() {
       <Route path="/resources/renters-insurance-texas-myths" component={() => <Layout><ArticleRenters /></Layout>} />
       <Route path="/resources/umbrella-insurance-east-texas" component={() => <Layout><ArticleUmbrella /></Layout>} />
       <Route path="/resources/mobile-home-insurance-texas" component={() => <Layout><ArticleMobileHome /></Layout>} />
+      <Route path="/resources/hunting-lease-liability-insurance-east-texas" component={() => <Layout><ArticleHuntingLease /></Layout>} />
       <Route path="/404" component={() => <Layout><NotFound /></Layout>} />
       <Route component={() => <Layout><NotFound /></Layout>} />
     </Switch>

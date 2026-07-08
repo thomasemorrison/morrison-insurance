@@ -110,6 +110,13 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     image: "/manus-storage/mobile-home_fcd58acb.jpg",
     slug: "mobile-home-insurance-texas",
   },
+  "/resources/hunting-lease-liability-insurance-east-texas": {
+    title: "Hunting Lease Liability Insurance in East Texas: What Landowners Need to Know | Morrison Insurance",
+    description:
+      "If you lease your land for hunting in East Texas, you could be personally liable for injuries on your property. Here's what Shelby County landowners need to know about hunting lease insurance.",
+    image: "/manus-storage/hunting-lease-east-texas_8a8a264a.jpg",
+    slug: "hunting-lease-liability-insurance-east-texas",
+  },
 };
 
 /**
