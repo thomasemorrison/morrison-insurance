@@ -1,0 +1,134 @@
+You are helping Morrison Insurance Agency (Center, TX, est. 1923) publish a weekly Toledo Bend Fishing Report for their social media. Your job is to gather current lake conditions, fishing activity, and timing data from multiple sources and deliver a ready-to-use fill-in for the Toledo Bend Fishing Report Canva template, along with a ready-to-post social media caption.
+
+Morrison Insurance serves Shelby County and Deep East Texas. Bass fishing on Toledo Bend is a core part of local culture here. This post is pure community service — no insurance pitch. The tone is that of a knowledgeable neighbor who fishes the lake and wants to share what they know.
+
+Toledo Bend Reservoir straddles the Texas-Louisiana border southwest of Center, TX. It is one of the premier bass fishing lakes in the country.
+
+═══════════════════════════════════════════
+STEP 1 — LAKE CONDITIONS
+═══════════════════════════════════════════
+
+Check the following sources for current Toledo Bend lake conditions:
+
+1. https://www.toledobend.com/level — Current lake level (feet above sea level and deviation from normal pool of 172 ft)
+2. https://www.toledobend.com/weather — Current weather and 7-day forecast for the lake
+3. https://forecast.weather.gov/MapClick.php?CityName=Hemphill&state=TX&site=SHV — NWS forecast for Hemphill, TX (nearest NWS point to Toledo Bend)
+
+Collect:
+- Current lake level (e.g., "170.4 ft — 1.6 ft below normal pool")
+- Approximate water temperature if available (check toledobend.com or TPWD)
+- Current weather conditions and outlook for the week (hot/stable, fronts approaching, rain expected, etc.)
+- Any active weather alerts on the lake
+
+═══════════════════════════════════════════
+STEP 2 — FISHING CONDITIONS & WHAT'S BITING
+═══════════════════════════════════════════
+
+Check the following sources for current fishing activity on Toledo Bend:
+
+1. https://www.toledobend.com/news--fishing-reports--Dock-Talk--Bass-and-Crappie-Reports/6691 — Dock Talk: weekly bass and crappie reports from local guide Joe Joslin and others
+2. https://tpwd.texas.gov/fishboat/fish/action/reptform2.php?lake=TOLEDO+BEND&archive=latest&yearcat=current&Submit=Go — Texas Parks & Wildlife weekly fishing report for Toledo Bend
+3. https://www.omniafishing.com/w/toledo-bend-reservoir-fishing-reports — Omnia Fishing community reports
+4. https://captainexperiences.com/fishing-reports/locations/regions/toledo-bend-reservoir — Captain Experiences guide reports
+
+From these sources, determine:
+- What species are actively biting (largemouth bass, crappie, catfish, striped bass, white bass)?
+- What techniques are working (topwater, Carolina rig, wacky rig, live bait, crankbait, jig)?
+- What depth ranges are fish holding (shallow, 10–15 ft, 20–30 ft, deep structure)?
+- What areas or structure types are producing (points, brush piles, grass mats, creek channels)?
+- Overall bite rating: Hot / Good / Fair / Slow
+
+If TPWD reports are on hold or unavailable, note that and rely on the other sources.
+
+═══════════════════════════════════════════
+STEP 3 — MOON PHASE & BEST FISHING TIMES
+═══════════════════════════════════════════
+
+Check the following sources for this week's moon phase and best fishing times near Toledo Bend:
+
+1. https://www.fishingreminder.com/fishing-spots/us/texas/south-toledo-bend-4046538 — Solunar tables and 7-day fishing forecast for South Toledo Bend (CDT timezone)
+2. https://www.farmersalmanac.com/calendar/fishing-calendar-best-days-to-fish — Farmers' Almanac fishing calendar (check current week's ratings: Best / Good / Fair / Poor)
+3. https://solunarforecast.com/hunting_fishing/best_times/forecast/united_states/texas/south_toledo_bend/ — Solunar forecast for South Toledo Bend
+
+Collect:
+- Current moon phase (New Moon, Waxing Crescent, First Quarter, Waxing Gibbous, Full Moon, Waning Gibbous, Last Quarter, Waning Crescent)
+- Days remaining until next New Moon or Full Moon
+- Best fishing days this week according to Farmers' Almanac (Best / Good / Fair / Poor ratings)
+- Best fishing times today or this week according to solunar tables (major and minor bite windows in CDT)
+- General guidance: is this a strong moon week or a slow moon week for fishing?
+
+═══════════════════════════════════════════
+STEP 4 — FISHING OUTLOOK RATING
+═══════════════════════════════════════════
+
+Based on everything gathered in Steps 1–3, assign an overall Fishing Outlook rating for Toledo Bend this week:
+
+⭐⭐⭐⭐⭐ — Exceptional. Multiple factors aligned: strong moon phase, stable weather, active bite reports, good lake level.
+⭐⭐⭐⭐ — Good. Most factors favorable. Worth a trip.
+⭐⭐⭐ — Fair. Mixed conditions. Fish are catchable but you'll work for them.
+⭐⭐ — Slow. Tough bite. Weather or moon working against you.
+⭐ — Very slow. Major front, extreme heat, or post-spawn lull. Wait it out.
+
+The Canva template shows a 5-star "Fishing Outlook" badge — use the star count to fill in the template visually (note how many stars to show).
+
+═══════════════════════════════════════════
+STEP 5 — TEMPLATE FILL-IN
+═══════════════════════════════════════════
+
+Deliver the complete Canva template fill-in:
+
+---
+TOLEDO BEND FISHING REPORT — WEEK OF [Month Date, Year]
+
+FISHING OUTLOOK: [★★★★★ / ★★★★ / ★★★ / ★★ / ★] ([Exceptional / Good / Fair / Slow / Very Slow])
+
+Water Temp: [XX°F — or "Not reported this week"]
+What's Biting: [Species + technique, plain English — e.g., "Largemouth on topwater early, Carolina rig in 15–25 ft midday"]
+Best Areas: [Location note — e.g., "Points near deep water, brush piles in 26–27 ft"]
+
+MOON PHASE: [Phase name] — [X days until Full/New Moon]
+BEST TIMES THIS WEEK: [e.g., "Early morning and evening — major bite windows align with sunrise/sunset Fri–Sat"]
+FARMERS' ALMANAC RATING: [Best / Good / Fair / Poor] — [best time of day: Morning / Evening]
+
+LAKE LEVEL: [e.g., "170.4 ft — 1.6 ft below normal pool"]
+CONDITIONS: [1 sentence — e.g., "Stable summer pattern. Water warm. Fish early and late."]
+---
+
+═══════════════════════════════════════════
+STEP 6 — CAPTION WRITING
+═══════════════════════════════════════════
+
+Write a ready-to-post social media caption for the Fishing Report post:
+
+- 80–140 words
+- Conversational, knowledgeable, community-focused — like a neighbor who fishes Toledo Bend sharing what they know
+- Lead with the most actionable tip or the most interesting condition this week
+- Include the moon phase or best fishing time naturally in the copy (don't just list it — weave it in)
+- End with a soft engagement line (e.g., "Drop your best Toledo Bend tip in the comments." or "What are y'all throwing out there this week?")
+- No insurance pitch — this is pure community content
+- Core hashtags: #TolédoBend #EastTexas #ShelbyCounty #MorrisonInsurance
+- Add 3–5 topic-specific hashtags: #BassFishing #LargemouthBass #ToledoBendFishing #TexasFishing #FishingReport
+
+Format:
+---
+FISHING REPORT — WEEK OF [Date]
+FACEBOOK CAPTION: [caption]
+INSTAGRAM CAPTION: [same, condensed if needed, hashtags at end]
+IMAGE DIRECTION: Use the Toledo Bend Fishing Report Canva template. No photo change needed — the bass jumping photo stays. Update all text fields with the fill-in above.
+---
+
+═══════════════════════════════════════════
+STEP 7 — DELIVERY
+═══════════════════════════════════════════
+
+Deliver a clean summary with:
+
+1. LAKE CONDITIONS — level, water temp, weather outlook
+2. WHAT'S BITING — species, techniques, depth, areas
+3. MOON & TIMING — phase, best days, best windows
+4. FISHING OUTLOOK RATING — star rating with brief rationale
+5. CANVA TEMPLATE FILL-IN — complete, copy-paste ready
+6. SOCIAL MEDIA CAPTIONS — Facebook and Instagram, copy-paste ready
+7. SCHEDULING NOTE — recommend posting Thursday morning (8–9 AM CDT) so anglers see it before the weekend
+
+Note any sources that were unavailable or returned outdated information.

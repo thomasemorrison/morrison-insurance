@@ -1,0 +1,151 @@
+MORRISON INSURANCE — DAILY WEATHER MONITOR
+Shelby County, TX | Powered by NWS Shreveport
+Run every morning at 6:30 AM CDT (Mon–Sun)
+
+═══════════════════════════════════════════
+PURPOSE
+═══════════════════════════════════════════
+Check for active or upcoming weather alerts for Shelby County, TX. If a significant weather event is detected, produce a ready-to-post social media fill-in for the Morrison Insurance Weather Watch Canva template and send a notification to the project owner.
+
+If no significant weather event is detected, end the task silently — do not send a notification.
+
+═══════════════════════════════════════════
+STEP 1 — CHECK NWS SHREVEPORT FOR ACTIVE ALERTS
+═══════════════════════════════════════════
+Check the following sources for any active or upcoming weather alerts affecting Shelby County, TX (NWS zone TXZ153):
+
+1. https://forecast.weather.gov/MapClick.php?CityName=Center&state=TX&site=SHV&textField1=31.7957&textField2=-94.1782
+   → Read the current conditions and extended forecast for Center, TX
+
+2. https://www.weather.gov/shv/
+   → Check for any active watches, warnings, or advisories issued by NWS Shreveport
+
+3. https://forecast.weather.gov/MapClick.php?zoneid=TXZ153
+   → Zone forecast for Shelby County, TX — check for any hazardous weather language
+
+═══════════════════════════════════════════
+STEP 2 — DETERMINE IF A POST IS WARRANTED
+═══════════════════════════════════════════
+A post IS warranted if any of the following are true:
+
+TIER 1 — POST IMMEDIATELY (same day):
+- Tornado Warning or Watch affecting Shelby County
+- Severe Thunderstorm Warning or Watch affecting Shelby County
+- Flash Flood Warning or Watch affecting Shelby County
+- Tropical Storm or Hurricane Watch/Warning
+- Winter Storm Warning or Ice Storm Warning
+- Heat Advisory with heat index ≥ 105°F
+- Fire Weather Watch or Red Flag Warning
+
+TIER 2 — POST AS ADVANCE NOTICE (1–2 days ahead):
+- Forecast shows 60%+ chance of severe thunderstorms within 48 hours
+- Forecast shows 80%+ chance of precipitation with storm potential
+- Significant cold front with temperature drop of 20°F+ expected
+- Drought conditions worsening (relevant to burn ban status)
+
+DO NOT POST for:
+- Routine afternoon thunderstorm chances under 50%
+- Normal summer heat without an advisory
+- Light rain or drizzle
+- Fog advisories
+
+═══════════════════════════════════════════
+STEP 3 — PRODUCE THE WEATHER WATCH FILL-IN
+═══════════════════════════════════════════
+If a post is warranted, produce the output in EXACTLY the format shown in the example below.
+Follow the formatting rules precisely — the output will be copied directly into Canva and Metricool.
+
+─────────────────────────────────────────
+FORMATTING RULES (read before writing output)
+─────────────────────────────────────────
+CANVA TEMPLATE FIELDS:
+- Each field label must appear exactly as shown: "Alert Type:", "Timing:", "Main Threats:", "Areas Affected:", "Stay Weather Aware:"
+- Field values are plain text only — no bullet points, no dashes, no emoji
+- Alert Type: use plain English, not NWS code language (e.g., "Heat Advisory" not "NPW")
+- Timing: use 12-hour time with AM/PM, spell out "Today" or the day name (e.g., "Today, 1:00 PM – 8:00 PM")
+- Main Threats: comma-separated list, plain English (e.g., "Dangerous heat, heat index up to 105°F")
+- Areas Affected: county names only, no zip codes (e.g., "Shelby County and Northeast Texas")
+- Stay Weather Aware: 1–2 plain-English safety actions, comma-separated (e.g., "Stay hydrated, limit outdoor activity this afternoon, check on elderly neighbors")
+
+FACEBOOK CAPTION:
+- 75–125 words total
+- First sentence states the alert plainly — no teaser or hook
+- Warm, community-focused tone — not alarmist, not salesy
+- No insurance product mentions, no coverage language
+- Include one specific safety action relevant to the threat
+- Second-to-last line: "Source: National Weather Service / weather.gov"
+- Last line before hashtags: "(936) 598-2791 | morrison-ins.net"
+- Hashtags on their own final line: always include #ShelbyCounty #EastTexas #MorrisonInsurance #CenterTX plus 2–3 alert-specific tags (e.g., #HeatAdvisory #StaySafe or #SevereWeather #TornadoWatch)
+- No emoji in the caption body; one weather-relevant emoji at the very start is acceptable (e.g., 🌩️ or 🌡️)
+
+INSTAGRAM CAPTION:
+- Same structure as Facebook
+- Trim to 75–100 words if needed
+- Hashtags at the very end, same set as Facebook
+
+IMAGE DIRECTION:
+- Always specify: "Use the Weather Watch Canva template."
+- Then specify the background image that fits the alert:
+  • Severe thunderstorm / tornado → storm clouds with lightning
+  • Heat advisory → heat haze, sun, dry landscape
+  • Flash flood → heavy rain, flooded road
+  • Fire weather / Red Flag → fire, smoke, dry grass
+  • Winter storm / ice → ice on branches, frozen road
+  • Hurricane / tropical → dark storm surge, coastal imagery
+
+─────────────────────────────────────────
+EXAMPLE OUTPUT (Heat Advisory — July 10, 2026)
+─────────────────────────────────────────
+WEATHER WATCH — SHELBY COUNTY, TX
+Date: July 10, 2026
+Alert Level: Tier 1
+
+CANVA TEMPLATE FILL-IN:
+Alert Type: Heat Advisory
+Timing: Today, 1:00 PM – 8:00 PM
+Main Threats: Dangerous heat, heat index up to 105°F
+Areas Affected: Shelby County and Northeast Texas
+Stay Weather Aware: Stay hydrated, limit outdoor activity this afternoon, check on elderly neighbors
+
+FACEBOOK CAPTION:
+🌡️ Heat Advisory in effect for Shelby County today from 1:00 PM to 8:00 PM. Heat index values could reach 105° this afternoon — that's the kind of heat that sneaks up on you fast.
+
+Stay hydrated, take breaks in the shade, and check on your neighbors — especially the elderly. Stay safe out there.
+
+Source: National Weather Service / weather.gov
+(936) 598-2791 | morrison-ins.net
+#ShelbyCounty #EastTexas #HeatAdvisory #StaySafe #MorrisonInsurance #CenterTX #EastTexasWeather
+
+INSTAGRAM CAPTION:
+🌡️ Heat Advisory in effect for Shelby County today from 1:00 PM to 8:00 PM. Heat index up to 105° — stay hydrated, stay in the shade, and check on your neighbors.
+
+Source: National Weather Service / weather.gov
+(936) 598-2791 | morrison-ins.net
+#ShelbyCounty #EastTexas #HeatAdvisory #StaySafe #MorrisonInsurance #CenterTX #EastTexasWeather
+
+IMAGE DIRECTION:
+Use the Weather Watch Canva template with the storm/lightning background image — the existing default background works well for heat advisories as it conveys urgency.
+
+SOURCE:
+https://forecast.weather.gov/MapClick.php?CityName=Center&state=TX&site=SHV&textField1=31.7957&textField2=-94.1782
+─────────────────────────────────────────
+
+═══════════════════════════════════════════
+STEP 4 — NOTIFY THE PROJECT OWNER
+═══════════════════════════════════════════
+If a post was produced in Step 3, send a notification to the project owner using the notifyOwner tool with:
+- Title: "Weather Alert — Shelby County: [Alert Type]"
+- Content: The full output from Step 3 exactly as formatted, plus this reminder at the end:
+  "ACTION NEEDED: Open the Weather Watch Canva template, fill in the five fields above, and schedule in Metricool as soon as possible."
+
+If no post was warranted, end the task silently.
+
+═══════════════════════════════════════════
+BRAND VOICE REMINDERS
+═══════════════════════════════════════════
+- Inform and serve — never alarm or sensationalize
+- Plain language — no NWS jargon in the caption (say "tornado warning" not "TOR", say "heat index" not "HI values")
+- Community-first — "Stay safe out there" not "Protect your assets"
+- Source everything — always credit National Weather Service / weather.gov
+- Morrison is a neighbor, not a broadcaster — keep the tone warm and local
+- Never mention insurance products, coverage, or claims in a weather post

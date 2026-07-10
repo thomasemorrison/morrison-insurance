@@ -56,9 +56,9 @@
 - [x] Add LinkedIn to schema sameAs in index.html
 
 ## Google Business Profile Fixes
-- [ ] Update GBP website URL from http://www.morrison-ins.net/ to https://morrison-ins.net (fixes missing website display in knowledge panel)
-- [ ] Upload Morrison Insurance logo as GBP profile photo (currently showing generic placeholder) — use same square logo asset as favicon
-- [ ] Add LinkedIn profile URL to GBP social profiles section
+- [x] Update GBP website URL from http://www.morrison-ins.net/ to https://morrison-ins.net (fixes missing website display in knowledge panel)
+- [x] Upload Morrison Insurance logo as GBP profile photo — M INS favicon-512x512.png uploaded
+- [x] Add LinkedIn profile URL to GBP social profiles section
 
 ## Blog Queue Addition
 - [x] Add construction liability / premises liability article to blog topic queue in references/weekly-blog-workflow.md
