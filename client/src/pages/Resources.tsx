@@ -130,9 +130,49 @@ const articles = [
     href: "/resources/hunting-lease-liability-insurance-east-texas",
     image: "/manus-storage/hunting-lease-east-texas_8a8a264a.jpg",
   },
+  {
+    category: "Auto Insurance",
+    title: "Auto Insurance in Center, TX — What Shelby County Drivers Need to Know",
+    excerpt: "Finding the right auto insurance in Center, TX is about making sure you are actually protected when something goes wrong. Here's what Texas requires and what East Texas drivers should consider.",
+    readTime: "5 min read",
+    href: "/resources/auto-insurance-center-tx",
+    image: "/manus-storage/auto-insurance-center-tx_9231ebfe.jpg",
+  },
+  {
+    category: "Auto Insurance",
+    title: "How to Get Car Insurance Quotes in Center, TX",
+    excerpt: "Getting a car insurance quote used to mean sitting across a desk from someone you trusted. In Center, TX, that kind of relationship still exists at Morrison Insurance.",
+    readTime: "5 min read",
+    href: "/resources/car-insurance-quotes-center-tx",
+    image: "/manus-storage/car-insurance-quotes-center-tx_f15f9549.jpg",
+  },
+  {
+    category: "Auto Insurance",
+    title: "Car Insurance Agents in Center, TX — Why Local Still Matters",
+    excerpt: "In a world of apps and online quotes, it's easy to forget that insurance is fundamentally about what happens when something goes wrong. The agent you chose matters more than the price you paid.",
+    readTime: "5 min read",
+    href: "/resources/car-insurance-agents-center-tx",
+    image: "/manus-storage/car-insurance-agents-center-tx_cd1c7c07.jpg",
+  },
+  {
+    category: "General",
+    title: "Is Allstate a Captive Agency? What East Texas Drivers Should Know",
+    excerpt: "Yes — Allstate is a captive agency. That means Allstate agents work exclusively for Allstate and can only sell you Allstate products. Here's why that matters for your coverage options.",
+    readTime: "5 min read",
+    href: "/resources/is-allstate-captive-agency-independent-agent-difference",
+    image: "/manus-storage/allstate-captive-agency_19e93f56.jpg",
+  },
+  {
+    category: "Claims",
+    title: "How to File a Claim with a Texas Adjuster — A Plain-Language Guide",
+    excerpt: "Most people file an insurance claim only a handful of times in their lives. Here's what a Texas adjuster does, how to work with one effectively, and how a local agent changes the experience.",
+    readTime: "6 min read",
+    href: "/resources/how-to-file-claim-texas-adjuster",
+    image: "/manus-storage/file-claim-texas-adjuster_ea8dc1c1.jpg",
+  },
 ];
 
-const categories = ["All", "Home Insurance", "Auto Insurance", "Business Insurance", "Farm & Ranch", "General", "Recreational"];
+const categories = ["All", "Home Insurance", "Auto Insurance", "Business Insurance", "Farm & Ranch", "General", "Claims", "Recreational"];
 
 export default function ResourcesPage() {
   const pageRef = useScrollFadeUp();

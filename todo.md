@@ -62,3 +62,16 @@
 
 ## Blog Queue Addition
 - [x] Add construction liability / premises liability article to blog topic queue in references/weekly-blog-workflow.md
+
+## GSC Blog Posts (July 13, 2026)
+- [x] Source and upload hero images for 5 new GSC blog posts
+- [x] Build ArticleAutoInsuranceCenterTx.tsx
+- [x] Build ArticleCarInsuranceQuotesCenterTx.tsx
+- [x] Build ArticleCarInsuranceAgentsCenterTx.tsx
+- [x] Build ArticleAllstateCaptiveAgency.tsx
+- [x] Build ArticleFileClaimTexasAdjuster.tsx
+- [x] Register all 5 routes in App.tsx
+- [x] Add all 5 entries to articleMeta.ts
+- [x] Add all 5 items to rss.xml
+- [x] Add all 5 URLs to sitemap.xml
+- [x] Add all 5 cards to Resources.tsx

@@ -31,6 +31,11 @@ import ArticleRenters from "./pages/articles/ArticleRenters";
 import ArticleUmbrella from "./pages/articles/ArticleUmbrella";
 import ArticleMobileHome from "./pages/articles/ArticleMobileHome";
 import ArticleHuntingLease from "./pages/articles/ArticleHuntingLease";
+import ArticleAutoInsuranceCenterTx from "./pages/articles/ArticleAutoInsuranceCenterTx";
+import ArticleCarInsuranceQuotesCenterTx from "./pages/articles/ArticleCarInsuranceQuotesCenterTx";
+import ArticleCarInsuranceAgentsCenterTx from "./pages/articles/ArticleCarInsuranceAgentsCenterTx";
+import ArticleAllstateCaptiveAgency from "./pages/articles/ArticleAllstateCaptiveAgency";
+import ArticleFileClaimTexasAdjuster from "./pages/articles/ArticleFileClaimTexasAdjuster";
 import CookieConsent from "./components/CookieConsent";
 
 function ScrollToTop() {
@@ -82,6 +87,11 @@ function Router() {
       <Route path="/resources/umbrella-insurance-east-texas" component={() => <Layout><ArticleUmbrella /></Layout>} />
       <Route path="/resources/mobile-home-insurance-texas" component={() => <Layout><ArticleMobileHome /></Layout>} />
       <Route path="/resources/hunting-lease-liability-insurance-east-texas" component={() => <Layout><ArticleHuntingLease /></Layout>} />
+      <Route path="/resources/auto-insurance-center-tx" component={() => <Layout><ArticleAutoInsuranceCenterTx /></Layout>} />
+      <Route path="/resources/car-insurance-quotes-center-tx" component={() => <Layout><ArticleCarInsuranceQuotesCenterTx /></Layout>} />
+      <Route path="/resources/car-insurance-agents-center-tx" component={() => <Layout><ArticleCarInsuranceAgentsCenterTx /></Layout>} />
+      <Route path="/resources/is-allstate-captive-agency-independent-agent-difference" component={() => <Layout><ArticleAllstateCaptiveAgency /></Layout>} />
+      <Route path="/resources/how-to-file-claim-texas-adjuster" component={() => <Layout><ArticleFileClaimTexasAdjuster /></Layout>} />
       <Route path="/404" component={() => <Layout><NotFound /></Layout>} />
       <Route component={() => <Layout><NotFound /></Layout>} />
     </Switch>

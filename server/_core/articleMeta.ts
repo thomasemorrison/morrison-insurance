@@ -117,6 +117,41 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     image: "/manus-storage/hunting-lease-east-texas_8a8a264a.jpg",
     slug: "hunting-lease-liability-insurance-east-texas",
   },
+  "/resources/auto-insurance-center-tx": {
+    title: "Auto Insurance in Center, TX — What Shelby County Drivers Need to Know | Morrison Insurance",
+    description:
+      "Auto insurance in Center, TX from a local independent agency serving Shelby County since 1923. Morrison Insurance compares multiple carriers to find the right coverage at the right price.",
+    image: "/manus-storage/auto-insurance-center-tx_9231ebfe.jpg",
+    slug: "auto-insurance-center-tx",
+  },
+  "/resources/car-insurance-quotes-center-tx": {
+    title: "How to Get Car Insurance Quotes in Center, TX | Morrison Insurance",
+    description:
+      "Looking for car insurance quotes in Center, TX? Morrison Insurance has served Shelby County since 1923. Get a free, no-pressure quote from a local independent agent who knows East Texas.",
+    image: "/manus-storage/car-insurance-quotes-center-tx_f15f9549.jpg",
+    slug: "car-insurance-quotes-center-tx",
+  },
+  "/resources/car-insurance-agents-center-tx": {
+    title: "Car Insurance Agents in Center, TX — Why Local Still Matters | Morrison Insurance",
+    description:
+      "Looking for car insurance agents in Center, TX? Morrison Insurance has served Shelby County since 1923. Local, independent, and here when you need us — not just when you're buying a policy.",
+    image: "/manus-storage/car-insurance-agents-center-tx_cd1c7c07.jpg",
+    slug: "car-insurance-agents-center-tx",
+  },
+  "/resources/is-allstate-captive-agency-independent-agent-difference": {
+    title: "Is Allstate a Captive Agency? What East Texas Drivers Should Know | Morrison Insurance",
+    description:
+      "Is Allstate a captive agency? Yes — and it matters when you're shopping for insurance in East Texas. Learn the difference between captive and independent agents, and why it affects your options.",
+    image: "/manus-storage/allstate-captive-agency_19e93f56.jpg",
+    slug: "is-allstate-captive-agency-independent-agent-difference",
+  },
+  "/resources/how-to-file-claim-texas-adjuster": {
+    title: "How to File a Claim with a Texas Adjuster — A Plain-Language Guide | Morrison Insurance",
+    description:
+      "Not sure how to file a claim with a Texas adjuster? Morrison Insurance walks you through the process step by step — from the first call to final settlement. Local guidance from Center, TX.",
+    image: "/manus-storage/file-claim-texas-adjuster_ea8dc1c1.jpg",
+    slug: "how-to-file-claim-texas-adjuster",
+  },
 };
 
 /**
