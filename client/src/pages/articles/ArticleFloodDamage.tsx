@@ -31,7 +31,7 @@ useEffect(() => {
     if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
     el.setAttribute("content", val);
   };
-  setMeta("og:image", "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=1200&q=70");
+  setMeta("og:image", "/manus-storage/flood-damage-portrait_3b5723cb.jpg");
   setMeta("og:type", "article");
   return () => { setMeta("og:type", "website"); };
 }, []);

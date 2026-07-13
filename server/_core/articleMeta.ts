@@ -23,133 +23,133 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     title: "What Does Homeowners Insurance Actually Cover in Texas? | Morrison Insurance",
     description:
       "A plain-language breakdown of Texas homeowners insurance coverage — what's included, what's excluded, and what East Texas homeowners should watch for. Serving Center, TX since 1923.",
-    image: "/manus-storage/homeowners-cover_90dcec29.jpg",
+    image: "/manus-storage/homeowners-cover-portrait_e57ab9b9.jpg",
     slug: "what-does-homeowners-insurance-cover-texas",
   },
   "/resources/texas-auto-insurance-requirements": {
     title: "Texas Auto Insurance Requirements: What You Need to Know | Morrison Insurance",
     description:
       "Texas requires minimum liability insurance for all drivers, but those minimums may not be enough. Here's what the law requires and what we recommend for drivers in Shelby County and East Texas.",
-    image: "/manus-storage/auto-requirements_a64719fd.jpg",
+    image: "/manus-storage/auto-requirements-portrait_33abb8ba.jpg",
     slug: "texas-auto-insurance-requirements",
   },
   "/resources/farm-insurance-vs-homeowners-insurance": {
     title: "Farm Insurance vs. Homeowners Insurance: What's the Difference? | Morrison Insurance",
     description:
       "If you own land, livestock, or equipment in East Texas, a standard homeowners policy probably isn't enough. Here's what farm insurance covers that homeowners insurance doesn't.",
-    image: "/manus-storage/farm-vs-homeowners_8bccf997.jpg",
+    image: "/manus-storage/farm-vs-homeowners-portrait_6ad73dae.jpg",
     slug: "farm-insurance-vs-homeowners-insurance",
   },
   "/resources/does-homeowners-insurance-cover-flood-damage-texas": {
     title: "Does Homeowners Insurance Cover Flood Damage in Texas? | Morrison Insurance",
     description:
       "Most Texas homeowners don't realize their standard policy excludes flood damage. Here's what you need to know about flood insurance in East Texas.",
-    image: "/manus-storage/flood-damage_069c37d6.jpg",
+    image: "/manus-storage/flood-damage-portrait_3b5723cb.jpg",
     slug: "does-homeowners-insurance-cover-flood-damage-texas",
   },
   "/resources/uninsured-driver-accident-texas": {
     title: "What Happens If You're in an Accident with an Uninsured Driver in Texas? | Morrison Insurance",
     description:
       "Texas has one of the highest rates of uninsured drivers in the country. Here's what happens after an accident with an uninsured driver and how to protect yourself.",
-    image: "/manus-storage/uninsured-driver_92857d0d.jpg",
+    image: "/manus-storage/uninsured-driver-portrait_4deb074d.jpg",
     slug: "uninsured-driver-accident-texas",
   },
   "/resources/small-business-insurance-coverage-gaps": {
     title: "Does Your Small Business Have the Right Insurance Coverage? | Morrison Insurance",
     description:
       "Many small businesses in East Texas are underinsured or have the wrong type of coverage. Here are the most common coverage gaps and how to fix them.",
-    image: "/manus-storage/small-business_b982d3bb.jpg",
+    image: "/manus-storage/small-business-portrait_ae44be43.jpg",
     slug: "small-business-insurance-coverage-gaps",
   },
   "/resources/independent-vs-captive-insurance-agents": {
     title: "Independent vs. Captive Insurance Agents: What's the Difference? | Morrison Insurance",
     description:
       "An independent insurance agent works for you, not for a single insurance company. Here's why that matters for East Texas families and businesses shopping for coverage.",
-    image: "/manus-storage/independent-vs-captive_2b0e0921.jpg",
+    image: "/manus-storage/independent-vs-captive-portrait_a5315342.jpg",
     slug: "independent-vs-captive-insurance-agents",
   },
   "/resources/how-to-file-insurance-claim-texas": {
     title: "How to File an Insurance Claim in Texas: A Step-by-Step Guide | Morrison Insurance",
     description:
       "Filing an insurance claim doesn't have to be stressful. Here's a clear, step-by-step guide to filing a home, auto, or business insurance claim in Texas.",
-    image: "/manus-storage/how-to-file-claim_f98fbaa4.jpg",
+    image: "/manus-storage/how-to-file-claim-portrait_3abb3307.jpg",
     slug: "how-to-file-insurance-claim-texas",
   },
   "/resources/why-is-homeowners-insurance-going-up-texas": {
     title: "Why Is My Texas Homeowners Insurance Going Up? | Morrison Insurance",
     description:
       "Texas homeowners insurance premiums have risen sharply in recent years. Here's a plain-language explanation of why rates are increasing, what's driving the trend, and what East Texas homeowners can do about it.",
-    image: "/manus-storage/rates-going-up_ed174d20.jpg",
+    image: "/manus-storage/rates-going-up-portrait_49cf40f8.jpg",
     slug: "why-is-homeowners-insurance-going-up-texas",
   },
   "/resources/boat-insurance-toledo-bend-texas": {
     title: "Boat Insurance Basics: Protecting Your Summer on Toledo Bend | Morrison Insurance",
     description:
       "Texas law doesn't require boat insurance, but hitting the water without it is a major financial risk. Here's a plain-language guide to watercraft insurance for East Texas boaters on Toledo Bend and beyond.",
-    image: "/manus-storage/boat-toledo-bend_607769d3.jpg",
+    image: "/manus-storage/boat-toledo-bend-portrait_1c105e8b.jpg",
     slug: "boat-insurance-toledo-bend-texas",
   },
   "/resources/renters-insurance-texas-myths": {
     title: "Renters Insurance in Texas: 3 Myths That Could Cost You | Morrison Insurance",
     description:
       "If you rent in East Texas, your landlord's insurance does not cover your belongings. Here are 3 common myths about renters insurance in Texas — and the reality of what it actually covers.",
-    image: "/manus-storage/renters-myths_67dfb15d.jpg",
+    image: "/manus-storage/renters-myths-portrait_a6c2541a.jpg",
     slug: "renters-insurance-texas-myths",
   },
   "/resources/umbrella-insurance-east-texas": {
     title: "Umbrella Insurance: Why East Texas Families and Landowners Need It | Morrison Insurance",
     description:
       "An umbrella policy provides an extra layer of liability protection that kicks in when your home or auto insurance runs out. Here's why East Texas families, farmers, and landowners should consider one.",
-    image: "/manus-storage/umbrella-east-texas_28e38d39.jpg",
+    image: "/manus-storage/umbrella-east-texas-portrait_a2bdc0ca.jpg",
     slug: "umbrella-insurance-east-texas",
   },
   "/resources/mobile-home-insurance-texas": {
     title: "Mobile Home Insurance in Texas: What You Need to Know | Morrison Insurance",
     description:
       "A standard homeowners policy won't cover a manufactured home. Here's a plain-language guide to HO-7 mobile home insurance in Texas — what it covers, what it doesn't, and why it matters for East Texans.",
-    image: "/manus-storage/mobile-home_fcd58acb.jpg",
+    image: "/manus-storage/mobile-home-portrait_50dddf6e.jpg",
     slug: "mobile-home-insurance-texas",
   },
   "/resources/hunting-lease-liability-insurance-east-texas": {
     title: "Hunting Lease Liability Insurance in East Texas: What Landowners Need to Know | Morrison Insurance",
     description:
       "If you lease your land for hunting in East Texas, you could be personally liable for injuries on your property. Here's what Shelby County landowners need to know about hunting lease insurance.",
-    image: "/manus-storage/hunting-lease-east-texas_8a8a264a.jpg",
+    image: "/manus-storage/hunting-lease-portrait_bd3812a3.jpg",
     slug: "hunting-lease-liability-insurance-east-texas",
   },
   "/resources/auto-insurance-center-tx": {
     title: "Auto Insurance in Center, TX — What Shelby County Drivers Need to Know | Morrison Insurance",
     description:
       "Auto insurance in Center, TX from a local independent agency serving Shelby County since 1923. Morrison Insurance compares multiple carriers to find the right coverage at the right price.",
-    image: "/manus-storage/auto-insurance-center-tx_9231ebfe.jpg",
+    image: "/manus-storage/auto-insurance-center-tx-portrait_a89331da.jpg",
     slug: "auto-insurance-center-tx",
   },
   "/resources/car-insurance-quotes-center-tx": {
     title: "How to Get Car Insurance Quotes in Center, TX | Morrison Insurance",
     description:
       "Looking for car insurance quotes in Center, TX? Morrison Insurance has served Shelby County since 1923. Get a free, no-pressure quote from a local independent agent who knows East Texas.",
-    image: "/manus-storage/car-insurance-quotes-center-tx_f15f9549.jpg",
+    image: "/manus-storage/car-insurance-quotes-center-tx-portrait_afcb939e.jpg",
     slug: "car-insurance-quotes-center-tx",
   },
   "/resources/car-insurance-agents-center-tx": {
     title: "Car Insurance Agents in Center, TX — Why Local Still Matters | Morrison Insurance",
     description:
       "Looking for car insurance agents in Center, TX? Morrison Insurance has served Shelby County since 1923. Local, independent, and here when you need us — not just when you're buying a policy.",
-    image: "/manus-storage/car-insurance-agents-center-tx_cd1c7c07.jpg",
+    image: "/manus-storage/car-insurance-agents-center-tx-portrait_0ba704aa.jpg",
     slug: "car-insurance-agents-center-tx",
   },
   "/resources/is-allstate-captive-agency-independent-agent-difference": {
     title: "Is Allstate a Captive Agency? What East Texas Drivers Should Know | Morrison Insurance",
     description:
       "Is Allstate a captive agency? Yes — and it matters when you're shopping for insurance in East Texas. Learn the difference between captive and independent agents, and why it affects your options.",
-    image: "/manus-storage/allstate-captive-agency_19e93f56.jpg",
+    image: "/manus-storage/allstate-captive-agency-portrait_c37faf3a.jpg",
     slug: "is-allstate-captive-agency-independent-agent-difference",
   },
   "/resources/how-to-file-claim-texas-adjuster": {
     title: "How to File a Claim with a Texas Adjuster — A Plain-Language Guide | Morrison Insurance",
     description:
       "Not sure how to file a claim with a Texas adjuster? Morrison Insurance walks you through the process step by step — from the first call to final settlement. Local guidance from Center, TX.",
-    image: "/manus-storage/file-claim-texas-adjuster_ea8dc1c1.jpg",
+    image: "/manus-storage/file-claim-texas-adjuster-portrait_aae7ba5c.jpg",
     slug: "how-to-file-claim-texas-adjuster",
   },
 };

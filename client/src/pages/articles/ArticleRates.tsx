@@ -15,19 +15,19 @@ const RELATED = [
     category: "Home Insurance",
     title: "What Does Homeowners Insurance Actually Cover in Texas?",
     href: "/resources/what-does-homeowners-insurance-cover-texas",
-    image: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=70",
+    image: "/manus-storage/mobile-home-portrait_50dddf6e.jpg",
   },
   {
     category: "Home Insurance",
     title: "Does Homeowners Insurance Cover Flood Damage in Texas?",
     href: "/resources/does-homeowners-insurance-cover-flood-damage-texas",
-    image: "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&q=70",
+    image: "/manus-storage/flood-damage-portrait_3b5723cb.jpg",
   },
   {
     category: "Home Insurance",
     title: "Mobile Home Insurance in Texas: What You Need to Know",
     href: "/resources/mobile-home-insurance-texas",
-    image: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=70",
+    image: "/manus-storage/mobile-home-portrait_50dddf6e.jpg",
   },
 ];
 
@@ -41,7 +41,7 @@ export default function ArticleRates() {
       title="Why Is My Texas Homeowners Insurance Going Up?"
       readTime="5 min read"
       excerpt="If your homeowners insurance renewal came in higher than last year — maybe significantly higher — you are not alone. Texas has seen some of the steepest home insurance rate increases in the country. Here's an honest explanation of what's driving it and what you can do."
-      heroImage="https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=70"
+      heroImage="/manus-storage/rates-going-up-portrait_49cf40f8.jpg"
       relatedArticles={RELATED}
     >
       <SchemaMarkup
@@ -54,7 +54,7 @@ export default function ArticleRates() {
         authorName="Morrison Insurance"
         publisherName="Morrison Insurance"
         publisherUrl="https://morrison-ins.net"
-        imageUrl="https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=70"
+        imageUrl="/manus-storage/rates-going-up-portrait_49cf40f8.jpg"
         breadcrumbs={[
           { name: "Home", url: "https://morrison-ins.net/" },
           { name: "Resources", url: "https://morrison-ins.net/resources" },

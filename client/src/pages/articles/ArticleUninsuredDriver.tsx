@@ -31,7 +31,7 @@ useEffect(() => {
     if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
     el.setAttribute("content", val);
   };
-  setMeta("og:image", "https://images.unsplash.com/photo-1627398924667-7f4ab354ab49?w=1200&q=70");
+  setMeta("og:image", "/manus-storage/umbrella-east-texas-portrait_a2bdc0ca.jpg");
   setMeta("og:type", "article");
   return () => { setMeta("og:type", "website"); };
 }, []);
@@ -43,7 +43,7 @@ const pageRef = useScrollFadeUp();
       <section style={{ position: "relative", minHeight: "420px", display: "flex", alignItems: "flex-end", overflow: "hidden" }}>
         <div style={{
           position: "absolute", inset: 0,
-          backgroundImage: "url('https://images.unsplash.com/photo-1627398924667-7f4ab354ab49?w=1400&q=80')",
+          backgroundImage: "url('/manus-storage/umbrella-east-texas-portrait_a2bdc0ca.jpg",
           backgroundSize: "cover", backgroundPosition: "center 40%",
         }} />
         <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to bottom, rgba(18,38,28,0.45) 0%, rgba(18,38,28,0.82) 100%)" }} />
@@ -184,19 +184,19 @@ const pageRef = useScrollFadeUp();
                 href: "/resources/texas-auto-insurance-requirements",
                 title: "Texas Auto Insurance Requirements: What You Need to Know",
                 category: "Auto Insurance",
-                image: "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=70",
+                image: "/manus-storage/auto-requirements-portrait_33abb8ba.jpg",
               },
               {
                 href: "/resources/how-to-file-insurance-claim-texas",
                 title: "How to File an Insurance Claim: A Step-by-Step Guide",
                 category: "General",
-                image: "https://images.unsplash.com/photo-1450101499163-c8848c66ca85?w=800&q=70",
+                image: "/manus-storage/how-to-file-claim-portrait_3abb3307.jpg",
               },
               {
                 href: "/resources/independent-vs-captive-insurance-agents",
                 title: "Independent vs. Captive Insurance Agents: What's the Difference?",
                 category: "General",
-                image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=70",
+                image: "/manus-storage/independent-vs-captive-portrait_a5315342.jpg",
               },
             ].map((a) => (
               <Link key={a.href} href={a.href} style={{ textDecoration: "none" }}>

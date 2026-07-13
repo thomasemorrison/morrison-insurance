@@ -31,7 +31,7 @@ useEffect(() => {
     if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
     el.setAttribute("content", val);
   };
-  setMeta("og:image", "https://images.unsplash.com/photo-1568605114967-8130f3a36994?w=1200&q=70");
+  setMeta("og:image", "/manus-storage/homeowners-cover-portrait_e57ab9b9.jpg");
   setMeta("og:type", "article");
   return () => { setMeta("og:type", "website"); };
 }, []);

@@ -29,7 +29,7 @@ export default function ArticleCarInsuranceAgentsCenterTx() {
       if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
       el.setAttribute("content", val);
     };
-    setMeta("og:image", "https://morrison-ins.net/manus-storage/car-insurance-agents-center-tx_cd1c7c07.jpg");
+    setMeta("og:image", "https://morrison-ins.net/manus-storage/car-insurance-agents-center-tx-portrait_0ba704aa.jpg");
     setMeta("og:type", "article");
     return () => { setMeta("og:type", "website"); };
   }, []);
@@ -51,7 +51,7 @@ export default function ArticleCarInsuranceAgentsCenterTx() {
           style={{
             position: "absolute",
             inset: 0,
-            backgroundImage: "url(/manus-storage/car-insurance-agents-center-tx_cd1c7c07.jpg)",
+            backgroundImage: "url(/manus-storage/car-insurance-agents-center-tx-portrait_0ba704aa.jpg)",
             backgroundSize: "cover",
             backgroundPosition: "center 40%",
             zIndex: 0,

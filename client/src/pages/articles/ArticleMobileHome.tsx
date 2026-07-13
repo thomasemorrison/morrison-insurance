@@ -15,19 +15,19 @@ const RELATED = [
     category: "Home Insurance",
     title: "What Does Homeowners Insurance Actually Cover in Texas?",
     href: "/resources/what-does-homeowners-insurance-cover-texas",
-    image: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=70",
+    image: "/manus-storage/mobile-home-portrait_50dddf6e.jpg",
   },
   {
     category: "Home Insurance",
     title: "Does Homeowners Insurance Cover Flood Damage in Texas?",
     href: "/resources/does-homeowners-insurance-cover-flood-damage-texas",
-    image: "https://images.unsplash.com/photo-1547683905-f686c993aae5?w=800&q=70",
+    image: "/manus-storage/flood-damage-portrait_3b5723cb.jpg",
   },
   {
     category: "Home Insurance",
     title: "Why Is My Texas Homeowners Insurance Going Up?",
     href: "/resources/why-is-homeowners-insurance-going-up-texas",
-    image: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=70",
+    image: "/manus-storage/rates-going-up-portrait_49cf40f8.jpg",
   },
 ];
 
@@ -41,7 +41,7 @@ export default function ArticleMobileHome() {
       title="Mobile Home Insurance in Texas: What You Need to Know"
       readTime="5 min read"
       excerpt="Mobile and manufactured homes are incredibly popular across East Texas — but insuring them is different than insuring a traditional stick-built house. A standard homeowners policy won't cover a manufactured home. Here's what you need to know."
-      heroImage="https://images.unsplash.com/photo-1630437683041-d1b3e19a7c5c?w=1200&q=70"
+      heroImage="/manus-storage/mobile-home-portrait_50dddf6e.jpg"
       relatedArticles={RELATED}
     >
       <SchemaMarkup
@@ -54,7 +54,7 @@ export default function ArticleMobileHome() {
         authorName="Morrison Insurance"
         publisherName="Morrison Insurance"
         publisherUrl="https://morrison-ins.net"
-        imageUrl="https://images.unsplash.com/photo-1630437683041-d1b3e19a7c5c?w=1200&q=70"
+        imageUrl="/manus-storage/mobile-home-portrait_50dddf6e.jpg"
         breadcrumbs={[
           { name: "Home", url: "https://morrison-ins.net/" },
           { name: "Resources", url: "https://morrison-ins.net/resources" },

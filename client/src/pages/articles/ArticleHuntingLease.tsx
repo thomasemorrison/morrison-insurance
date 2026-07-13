@@ -2,7 +2,7 @@
 // Morrison Insurance — "Hunting Lease Liability Insurance in East Texas: What Landowners Need to Know"
 // Category: Farm & Ranch | Slug: hunting-lease-liability-insurance-east-texas
 // datePublished: 2026-07-08 | Author: Morrison Insurance
-// Hero: /manus-storage/hunting-lease-east-texas_8a8a264a.jpg
+// Hero: /manus-storage/hunting-lease-portrait_bd3812a3.jpg
 
 import {
   ArticleLayout,
@@ -18,19 +18,19 @@ const RELATED = [
     category: "Farm & Ranch",
     title: "Farm Insurance vs. Homeowners Insurance: What's the Difference?",
     href: "/resources/farm-insurance-vs-homeowners-insurance",
-    image: "/manus-storage/farm-vs-homeowners_8bccf997.jpg",
+    image: "/manus-storage/farm-vs-homeowners-portrait_6ad73dae.jpg",
   },
   {
     category: "General",
     title: "Umbrella Insurance: Why East Texas Families and Landowners Need It",
     href: "/resources/umbrella-insurance-east-texas",
-    image: "/manus-storage/umbrella-east-texas_28e38d39.jpg",
+    image: "/manus-storage/umbrella-east-texas-portrait_a2bdc0ca.jpg",
   },
   {
     category: "General",
     title: "Independent vs. Captive Insurance Agents: What's the Difference?",
     href: "/resources/independent-vs-captive-insurance-agents",
-    image: "/manus-storage/independent-vs-captive_2b0e0921.jpg",
+    image: "/manus-storage/independent-vs-captive-portrait_a5315342.jpg",
   },
 ];
 
@@ -44,7 +44,7 @@ export default function ArticleHuntingLease() {
       title="Hunting Lease Liability Insurance in East Texas: What Landowners Need to Know"
       readTime="5 min read"
       excerpt="If you lease your land for hunting in East Texas, you could be personally liable for injuries that happen on your property. Here's what landowners in Shelby County need to know about protecting themselves with the right insurance."
-      heroImage="/manus-storage/hunting-lease-east-texas_8a8a264a.jpg"
+      heroImage="/manus-storage/hunting-lease-portrait_bd3812a3.jpg"
       relatedArticles={RELATED}
     >
       <SchemaMarkup
@@ -57,7 +57,7 @@ export default function ArticleHuntingLease() {
         authorName="Morrison Insurance"
         publisherName="Morrison Insurance"
         publisherUrl="https://morrison-ins.net"
-        imageUrl="https://morrison-ins.net/manus-storage/hunting-lease-east-texas_8a8a264a.jpg"
+        imageUrl="https://morrison-ins.net/manus-storage/hunting-lease-portrait_bd3812a3.jpg"
         breadcrumbs={[
           { name: "Home", url: "https://morrison-ins.net/" },
           { name: "Resources", url: "https://morrison-ins.net/resources" },

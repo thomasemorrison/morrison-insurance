@@ -31,7 +31,7 @@ useEffect(() => {
     if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
     el.setAttribute("content", val);
   };
-  setMeta("og:image", "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=1200&q=70");
+  setMeta("og:image", "/manus-storage/small-business-portrait_ae44be43.jpg");
   setMeta("og:type", "article");
   return () => { setMeta("og:type", "website"); };
 }, []);

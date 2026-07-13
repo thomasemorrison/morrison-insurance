@@ -15,19 +15,19 @@ const RELATED = [
     category: "Home Insurance",
     title: "What Does Homeowners Insurance Actually Cover in Texas?",
     href: "/resources/what-does-homeowners-insurance-cover-texas",
-    image: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=70",
+    image: "/manus-storage/mobile-home-portrait_50dddf6e.jpg",
   },
   {
     category: "General",
     title: "Umbrella Insurance: Why East Texas Families and Landowners Need It",
     href: "/resources/umbrella-insurance-east-texas",
-    image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=70",
+    image: "/manus-storage/independent-vs-captive-portrait_a5315342.jpg",
   },
   {
     category: "General",
     title: "Independent vs. Captive Insurance Agents: What's the Difference?",
     href: "/resources/independent-vs-captive-insurance-agents",
-    image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=70",
+    image: "/manus-storage/independent-vs-captive-portrait_a5315342.jpg",
   },
 ];
 
@@ -41,7 +41,7 @@ export default function ArticleRenters() {
       title="Renters Insurance in Texas: 3 Myths That Could Cost You"
       readTime="4 min read"
       excerpt="If you rent a house or apartment in East Texas, you might think you don't need insurance. After all, the landlord insures the building — right? While that's true, a landlord's policy does absolutely nothing to protect you or the things you own."
-      heroImage="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=70"
+      heroImage="/manus-storage/renters-myths-portrait_a6c2541a.jpg"
       relatedArticles={RELATED}
     >
       <SchemaMarkup
@@ -54,7 +54,7 @@ export default function ArticleRenters() {
         authorName="Morrison Insurance"
         publisherName="Morrison Insurance"
         publisherUrl="https://morrison-ins.net"
-        imageUrl="https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=1200&q=70"
+        imageUrl="/manus-storage/renters-myths-portrait_a6c2541a.jpg"
         breadcrumbs={[
           { name: "Home", url: "https://morrison-ins.net/" },
           { name: "Resources", url: "https://morrison-ins.net/resources" },

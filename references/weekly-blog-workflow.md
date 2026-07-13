@@ -105,7 +105,7 @@ navigate [topic area] since 1923. Give us a call at (936) 598-2791 or
 ### Hero Image
 
 1. Source a high-quality, royalty-free image from [Unsplash](https://unsplash.com) that matches the article topic.
-2. Download at 1200px wide, 70% quality (JPEG).
+2. **Image must be cropped/sized to a 4:5 portrait ratio (1080×1350px recommended) before upload.** Instagram rejects images outside the 4:5 to 9:16 range — landscape images (16:9) will cause Metricool auto-posts to fail with an "Invalid aspect ratio" error. The 4:5 format also displays well on Facebook and in the website hero (it will be center-cropped by the browser).
 3. Upload to Manus hosted storage: `manus-upload-file --webdev path/to/image.jpg`
 4. Save the returned `/manus-storage/filename_hash.jpg` path.
 

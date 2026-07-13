@@ -31,7 +31,7 @@ useEffect(() => {
     if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
     el.setAttribute("content", val);
   };
-  setMeta("og:image", "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=1200&q=70");
+  setMeta("og:image", "/manus-storage/farm-vs-homeowners-portrait_6ad73dae.jpg");
   setMeta("og:type", "article");
   return () => { setMeta("og:type", "website"); };
 }, []);

@@ -15,19 +15,19 @@ const RELATED = [
     category: "Auto Insurance",
     title: "Texas Auto Insurance Requirements: What You Need to Know",
     href: "/resources/texas-auto-insurance-requirements",
-    image: "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=800&q=70",
+    image: "/manus-storage/auto-requirements-portrait_33abb8ba.jpg",
   },
   {
     category: "General",
     title: "Umbrella Insurance: Why East Texas Families and Landowners Need It",
     href: "/resources/umbrella-insurance-east-texas",
-    image: "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=70",
+    image: "/manus-storage/independent-vs-captive-portrait_a5315342.jpg",
   },
   {
     category: "Auto Insurance",
     title: "What Happens If You're in an Accident with an Uninsured Driver in Texas?",
     href: "/resources/uninsured-driver-accident-texas",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=70",
+    image: "/manus-storage/uninsured-driver-portrait_4deb074d.jpg",
   },
 ];
 
@@ -41,7 +41,7 @@ export default function ArticleBoat() {
       title="Boat Insurance Basics: Protecting Your Summer on Toledo Bend"
       readTime="4 min read"
       excerpt="For many East Texans, summer means one thing: heading to Toledo Bend. Whether you're fishing for bass at dawn or pulling the kids on a tube, a boat is a major investment. Here's what you need to know before you launch."
-      heroImage="https://images.unsplash.com/photo-1551942296-97384c850440?w=1200&q=70"
+      heroImage="/manus-storage/boat-toledo-bend-portrait_1c105e8b.jpg"
       relatedArticles={RELATED}
     >
       <SchemaMarkup
@@ -54,7 +54,7 @@ export default function ArticleBoat() {
         authorName="Morrison Insurance"
         publisherName="Morrison Insurance"
         publisherUrl="https://morrison-ins.net"
-        imageUrl="https://images.unsplash.com/photo-1551942296-97384c850440?w=1200&q=70"
+        imageUrl="/manus-storage/boat-toledo-bend-portrait_1c105e8b.jpg"
         breadcrumbs={[
           { name: "Home", url: "https://morrison-ins.net/" },
           { name: "Resources", url: "https://morrison-ins.net/resources" },

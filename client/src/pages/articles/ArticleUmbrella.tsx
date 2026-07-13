@@ -15,19 +15,19 @@ const RELATED = [
     category: "Home Insurance",
     title: "What Does Homeowners Insurance Actually Cover in Texas?",
     href: "/resources/what-does-homeowners-insurance-cover-texas",
-    image: "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=70",
+    image: "/manus-storage/mobile-home-portrait_50dddf6e.jpg",
   },
   {
     category: "Auto Insurance",
     title: "What Happens If You're in an Accident with an Uninsured Driver in Texas?",
     href: "/resources/uninsured-driver-accident-texas",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=70",
+    image: "/manus-storage/uninsured-driver-portrait_4deb074d.jpg",
   },
   {
     category: "Farm & Ranch",
     title: "Farm Insurance vs. Homeowners Insurance: What's the Difference?",
     href: "/resources/farm-insurance-vs-homeowners-insurance",
-    image: "https://images.unsplash.com/photo-1500595046743-cd271d694d30?w=800&q=70",
+    image: "/manus-storage/boat-toledo-bend-portrait_1c105e8b.jpg",
   },
 ];
 
@@ -41,7 +41,7 @@ export default function ArticleUmbrella() {
       title="Umbrella Insurance: Why East Texas Families and Landowners Need It"
       readTime="4 min read"
       excerpt="When most people hear 'umbrella insurance,' they assume it's only for the wealthy. But in today's environment, a personal umbrella policy is one of the most practical and affordable ways for everyday East Texas families, farmers, and landowners to protect what they've worked hard to build."
-      heroImage="https://images.unsplash.com/photo-1644676654534-abc4f62ceee1?w=1200&q=70"
+      heroImage="/manus-storage/hunting-lease-portrait_bd3812a3.jpg"
       relatedArticles={RELATED}
     >
       <SchemaMarkup
@@ -54,7 +54,7 @@ export default function ArticleUmbrella() {
         authorName="Morrison Insurance"
         publisherName="Morrison Insurance"
         publisherUrl="https://morrison-ins.net"
-        imageUrl="https://images.unsplash.com/photo-1644676654534-abc4f62ceee1?w=1200&q=70"
+        imageUrl="/manus-storage/hunting-lease-portrait_bd3812a3.jpg"
         breadcrumbs={[
           { name: "Home", url: "https://morrison-ins.net/" },
           { name: "Resources", url: "https://morrison-ins.net/resources" },

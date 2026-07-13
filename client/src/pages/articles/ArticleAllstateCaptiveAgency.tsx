@@ -29,7 +29,7 @@ export default function ArticleAllstateCaptiveAgency() {
       if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
       el.setAttribute("content", val);
     };
-    setMeta("og:image", "https://morrison-ins.net/manus-storage/allstate-captive-agency_19e93f56.jpg");
+    setMeta("og:image", "https://morrison-ins.net/manus-storage/allstate-captive-agency-portrait_c37faf3a.jpg");
     setMeta("og:type", "article");
     return () => { setMeta("og:type", "website"); };
   }, []);
@@ -51,7 +51,7 @@ export default function ArticleAllstateCaptiveAgency() {
           style={{
             position: "absolute",
             inset: 0,
-            backgroundImage: "url(/manus-storage/allstate-captive-agency_19e93f56.jpg)",
+            backgroundImage: "url(/manus-storage/allstate-captive-agency-portrait_c37faf3a.jpg)",
             backgroundSize: "cover",
             backgroundPosition: "center 40%",
             zIndex: 0,

@@ -29,7 +29,7 @@ export default function ArticleFileClaimTexasAdjuster() {
       if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
       el.setAttribute("content", val);
     };
-    setMeta("og:image", "https://morrison-ins.net/manus-storage/file-claim-texas-adjuster_ea8dc1c1.jpg");
+    setMeta("og:image", "https://morrison-ins.net/manus-storage/file-claim-texas-adjuster-portrait_aae7ba5c.jpg");
     setMeta("og:type", "article");
     return () => { setMeta("og:type", "website"); };
   }, []);
@@ -51,7 +51,7 @@ export default function ArticleFileClaimTexasAdjuster() {
           style={{
             position: "absolute",
             inset: 0,
-            backgroundImage: "url(/manus-storage/file-claim-texas-adjuster_ea8dc1c1.jpg)",
+            backgroundImage: "url(/manus-storage/file-claim-texas-adjuster-portrait_aae7ba5c.jpg)",
             backgroundSize: "cover",
             backgroundPosition: "center 40%",
             zIndex: 0,
