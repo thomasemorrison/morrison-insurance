@@ -21,7 +21,7 @@ const RELATED = [
     category: "Auto Insurance",
     title: "What Happens If You're in an Accident with an Uninsured Driver in Texas?",
     href: "/resources/uninsured-driver-accident-texas",
-    image: "/manus-storage/uninsured-driver-portrait_4deb074d.jpg",
+    image: "/manus-storage/uninsured-driver-portrait-new_b3983c5f.jpg",
   },
   {
     category: "Farm & Ranch",

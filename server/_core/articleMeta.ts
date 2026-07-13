@@ -51,7 +51,7 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     title: "What Happens If You're in an Accident with an Uninsured Driver in Texas? | Morrison Insurance",
     description:
       "Texas has one of the highest rates of uninsured drivers in the country. Here's what happens after an accident with an uninsured driver and how to protect yourself.",
-    image: "/manus-storage/uninsured-driver-portrait_4deb074d.jpg",
+    image: "/manus-storage/uninsured-driver-portrait-new_b3983c5f.jpg",
     slug: "uninsured-driver-accident-texas",
   },
   "/resources/small-business-insurance-coverage-gaps": {
