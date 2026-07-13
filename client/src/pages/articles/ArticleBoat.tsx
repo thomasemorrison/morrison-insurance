@@ -41,7 +41,7 @@ export default function ArticleBoat() {
       title="Boat Insurance Basics: Protecting Your Summer on Toledo Bend"
       readTime="4 min read"
       excerpt="For many East Texans, summer means one thing: heading to Toledo Bend. Whether you're fishing for bass at dawn or pulling the kids on a tube, a boat is a major investment. Here's what you need to know before you launch."
-      heroImage="/manus-storage/boat-toledo-bend-portrait_1c105e8b.jpg"
+      heroImage="/manus-storage/boat-toledo-bend-portrait_af454abd.jpg"
       relatedArticles={RELATED}
     >
       <SchemaMarkup
@@ -54,7 +54,7 @@ export default function ArticleBoat() {
         authorName="Morrison Insurance"
         publisherName="Morrison Insurance"
         publisherUrl="https://morrison-ins.net"
-        imageUrl="/manus-storage/boat-toledo-bend-portrait_1c105e8b.jpg"
+        imageUrl="/manus-storage/boat-toledo-bend-portrait_af454abd.jpg"
         breadcrumbs={[
           { name: "Home", url: "https://morrison-ins.net/" },
           { name: "Resources", url: "https://morrison-ins.net/resources" },

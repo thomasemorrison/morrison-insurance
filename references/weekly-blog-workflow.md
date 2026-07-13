@@ -15,8 +15,9 @@ Each week follows a four-stage cycle. The first three stages happen Monday; publ
 | Monday | 1. Topic selection & research | Manus AI |
 | Monday | 2. Article draft | Manus AI |
 | Monday | 3. Hero image + meta prep | Manus AI |
-| Tuesday | 4. Review & publish | Morrison team |
-| Wednesday 9:54 AM | 5. *(Automated)* Blog post via Metricool RSS | Metricool |
+| Monday | 4. Social media deliverables (Story + GMB) | Manus AI |
+| Tuesday | 5. Review & publish | Morrison team |
+| Tuesday | 6. Post to Google Business Profile | Morrison team |
 
 ---
 
@@ -150,14 +151,40 @@ Before publishing, the Morrison team confirms:
 2. Click **Publish** in the Manus Management UI to deploy to `morrison-ins.net`.
 3. Verify the live URL returns the correct `og:image` using the [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/).
 
-### Social Media — Blog Post (Automated)
+### Social Media — Canva Story Post (Manual, Metricool)
 
-The Wednesday 9:54 AM blog post to Facebook and Instagram is **fully automated** via Metricool RSS. No manual scheduling is required after publishing.
+For each new article, Manus AI delivers:
 
-Metricool reads the RSS feed at `https://morrison-ins.net/rss.xml`, picks up the new article, and posts it automatically with the article hero image and title.
+1. **A Canva Story design (1080×1920)** — copied from the Morrison Insurance Story template and customized with the article headline, teaser, hero image, and article URL as the CTA.
+2. **A ready-to-paste caption** — written in the Morrison brand voice, ending with "Link in bio."
 
-**Hashtag set for automated blog posts (configured in Metricool):**
+The Morrison team schedules the Story in Metricool (Instagram Stories + Facebook Stories) on the Thursday following publication.
+
+**Hashtag set for blog Story posts:**
 `#MorrisonInsurance #EastTexas #ShelbyCounty #CenterTX #TexasInsurance #IndependentAgent #LocalInsurance`
+
+**Instagram bio link:** `https://morrison-ins.net/resources` — keep this set permanently so all Story CTAs resolve correctly.
+
+### Google Business Profile Post (Manual)
+
+For each new article, Manus AI delivers a **ready-to-paste Google Business Profile post script** including:
+
+- 2–3 sentence post body in Morrison brand voice
+- The article URL (for the "Learn more" button)
+- A local hook or CTA line
+
+**The Morrison team posts this to Google Business Profile on the same Tuesday the article goes live:**
+
+1. Go to [Google Business Profile](https://business.google.com) → Morrison Insurance listing
+2. Click **Add update** → **Add post** → **What's New**
+3. Paste the post script
+4. Upload the article hero image (portrait 1080×1350 preferred)
+5. Click **Add a button** → **Learn more** → paste the article URL
+6. Click **Publish**
+
+> GBP posts expire after 7 days. Post a new article each week to keep the profile active — this directly improves local search visibility.
+
+---
 
 ### Social Media — Manual Brand Posts
 
@@ -175,9 +202,10 @@ When Manus AI delivers a new article, the Morrison team needs to do three things
 
 1. **Review** the draft using the checklist above.
 2. **Publish** by clicking the Publish button in the Management UI.
-3. **Schedule social posts** in Metricool using the article link and hero image.
+3. **Post to Google Business Profile** using the GMB script delivered by Manus AI.
+4. **Schedule the Canva Story** in Metricool (Instagram Stories + Facebook Stories) for the following Thursday using the Canva design and caption delivered by Manus AI.
 
-Everything else — the code, the meta tags, the og:image, the RSS entry — is handled automatically.
+Everything else — the code, the meta tags, the og:image, the RSS entry, the Canva Story design, and the GMB post script — is handled automatically by Manus AI.
 
 ---
 
@@ -204,7 +232,9 @@ This workflow is triggered every **Monday at 9:00 AM CDT** via a recurring Manus
 5. Adds the `articleMeta.ts` entry.
 6. Creates the article component and registers the route.
 7. Updates the RSS feed.
-8. Delivers a summary to the Morrison team for review before Tuesday publishing.
+8. Creates the Canva Story design using the Morrison Insurance Story template.
+9. Writes the Google Business Profile post script.
+10. Delivers a summary to the Morrison team including: article link, Canva Story link, GMB post script, and Metricool caption.
 
 ---
 

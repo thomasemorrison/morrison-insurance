@@ -86,7 +86,7 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     title: "Boat Insurance Basics: Protecting Your Summer on Toledo Bend | Morrison Insurance",
     description:
       "Texas law doesn't require boat insurance, but hitting the water without it is a major financial risk. Here's a plain-language guide to watercraft insurance for East Texas boaters on Toledo Bend and beyond.",
-    image: "/manus-storage/boat-toledo-bend-portrait_1c105e8b.jpg",
+    image: "/manus-storage/boat-toledo-bend-portrait_af454abd.jpg",
     slug: "boat-insurance-toledo-bend-texas",
   },
   "/resources/renters-insurance-texas-myths": {

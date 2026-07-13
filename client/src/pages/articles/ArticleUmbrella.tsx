@@ -27,7 +27,7 @@ const RELATED = [
     category: "Farm & Ranch",
     title: "Farm Insurance vs. Homeowners Insurance: What's the Difference?",
     href: "/resources/farm-insurance-vs-homeowners-insurance",
-    image: "/manus-storage/boat-toledo-bend-portrait_1c105e8b.jpg",
+    image: "/manus-storage/boat-toledo-bend-portrait_af454abd.jpg",
   },
 ];
 
