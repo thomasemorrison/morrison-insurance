@@ -72,7 +72,7 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     title: "How to File an Insurance Claim in Texas: A Step-by-Step Guide | Morrison Insurance",
     description:
       "Filing an insurance claim doesn't have to be stressful. Here's a clear, step-by-step guide to filing a home, auto, or business insurance claim in Texas.",
-    image: "/manus-storage/how-to-file-claim-portrait_3abb3307.jpg",
+    image: "/manus-storage/how-to-file-claim-portrait_bdf0f150.jpg",
     slug: "how-to-file-insurance-claim-texas",
   },
   "/resources/why-is-homeowners-insurance-going-up-texas": {
@@ -128,14 +128,14 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     title: "How to Get Car Insurance Quotes in Center, TX | Morrison Insurance",
     description:
       "Looking for car insurance quotes in Center, TX? Morrison Insurance has served Shelby County since 1923. Get a free, no-pressure quote from a local independent agent who knows East Texas.",
-    image: "/manus-storage/car-insurance-quotes-center-tx-portrait_afcb939e.jpg",
+    image: "/manus-storage/car-insurance-quotes-center-tx-portrait_4d76811a.jpg",
     slug: "car-insurance-quotes-center-tx",
   },
   "/resources/car-insurance-agents-center-tx": {
     title: "Car Insurance Agents in Center, TX — Why Local Still Matters | Morrison Insurance",
     description:
       "Looking for car insurance agents in Center, TX? Morrison Insurance has served Shelby County since 1923. Local, independent, and here when you need us — not just when you're buying a policy.",
-    image: "/manus-storage/car-insurance-agents-center-tx-portrait_0ba704aa.jpg",
+    image: "/manus-storage/car-insurance-agents-center-tx-portrait_df23742b.jpg",
     slug: "car-insurance-agents-center-tx",
   },
   "/resources/is-allstate-captive-agency-independent-agent-difference": {

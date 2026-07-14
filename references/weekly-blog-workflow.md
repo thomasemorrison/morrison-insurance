@@ -127,6 +127,15 @@ Add one entry to `server/_core/articleMeta.ts` under `ARTICLE_META`:
 
 Create `client/src/pages/articles/[SlugPascalCase].tsx` using the `ArticleLayout` component pattern from existing articles. Register the route in `client/src/App.tsx`.
 
+> ⚠️ **Slug Consistency Rule — Must verify before publishing:**
+> The slug must be identical in all four places:
+> 1. The `Route path=` in `client/src/App.tsx` (e.g., `/resources/flood-insurance-east-texas`)
+> 2. The key in `ARTICLE_META` in `server/_core/articleMeta.ts` (same path)
+> 3. The `slug:` field inside the `ARTICLE_META` entry
+> 4. The `<link>` URL in the RSS feed entry in `client/public/rss.xml`
+>
+> If any of these four do not match exactly, Metricool and social crawlers will pull the default site OG image (the storefront photo) instead of the article hero image. Always cross-check all four before saving the checkpoint.
+
 ### RSS Feed
 
 After adding the article, update the RSS feed (`/rss.xml` endpoint or static file) to include the new article entry with title, link, description, and `pubDate`.
@@ -144,6 +153,7 @@ Before publishing, the Morrison team confirms:
 - [ ] CTA phone number and contact link are correct
 - [ ] Hero image is appropriate and professional
 - [ ] No fabricated quotes or testimonials
+- [ ] **Slug consistency verified** — the route path in `App.tsx`, the key in `articleMeta.ts`, the `slug:` field, and the RSS `<link>` all use the exact same `/resources/[slug]` string
 
 ### Publishing Steps
 

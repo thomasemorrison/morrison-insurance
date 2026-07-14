@@ -366,6 +366,16 @@ export default function Footer() {
             >
               Terms of Use
             </Link>
+            <a
+              href="https://morrifam-lu8s3oq5.manus.space/"
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ color: "oklch(0.52 0.01 80)", textDecoration: "none", transition: "color 180ms" }}
+              onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.color = "oklch(0.72 0.01 80)")}
+              onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.color = "oklch(0.52 0.01 80)")}
+            >
+              Morrison Heritage
+            </a>
           </div>
         </div>
       </div>

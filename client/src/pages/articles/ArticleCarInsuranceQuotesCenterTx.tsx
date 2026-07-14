@@ -29,7 +29,7 @@ export default function ArticleCarInsuranceQuotesCenterTx() {
       if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
       el.setAttribute("content", val);
     };
-    setMeta("og:image", "https://morrison-ins.net/manus-storage/car-insurance-quotes-center-tx-portrait_afcb939e.jpg");
+    setMeta("og:image", "https://morrison-ins.net/manus-storage/car-insurance-quotes-center-tx-portrait_4d76811a.jpg");
     setMeta("og:type", "article");
     return () => { setMeta("og:type", "website"); };
   }, []);
@@ -51,7 +51,7 @@ export default function ArticleCarInsuranceQuotesCenterTx() {
           style={{
             position: "absolute",
             inset: 0,
-            backgroundImage: "url(/manus-storage/car-insurance-quotes-center-tx-portrait_afcb939e.jpg)",
+            backgroundImage: "url(/manus-storage/car-insurance-quotes-center-tx-portrait_4d76811a.jpg)",
             backgroundSize: "cover",
             backgroundPosition: "center 35%",
             zIndex: 0,
