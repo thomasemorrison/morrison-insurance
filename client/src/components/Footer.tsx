@@ -368,21 +368,6 @@ export default function Footer() {
             </Link>
           </div>
         </div>
-        <div
-          className="container pb-4 flex justify-center"
-          style={{ fontFamily: "Inter, sans-serif", fontSize: "0.75rem" }}
-        >
-          <a
-            href="https://morrifam-lu8s3oq5.manus.space/"
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ color: "oklch(0.82 0.03 80)", textDecoration: "underline", textUnderlineOffset: "3px", transition: "color 180ms" }}
-            onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.color = "var(--amber-brand)")}
-            onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.color = "oklch(0.82 0.03 80)")}
-          >
-            Morrison Heritage
-          </a>
-        </div>
       </div>
     </footer>
   );

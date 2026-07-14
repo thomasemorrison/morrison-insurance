@@ -42,7 +42,7 @@
 - [x] Update Monday 9:00 AM scheduled task to include community research (Part B) alongside blog article (Part A)
 - [x] Write updated task prompt with Steps 10-12 covering community research, caption writing, and combined delivery
 - [x] Create references/july-friday-posts.md with 4 weeks of ready-to-schedule Friday posts for July (Jul 11, 18, 25, Aug 1)
-- [ ] Morrison team action (Thu Jul 10): Open Metricool Planner, schedule 8 posts (4 Fridays × 2 platforms) using captions in references/july-friday-posts.md
+- [x] Morrison team action (Thu Jul 10): Open Metricool Planner, schedule 8 posts (4 Fridays × 2 platforms) using captions in references/july-friday-posts.md
 
 ## LinkedIn Page Optimization
 - [x] Audit current LinkedIn page fields (tagline, about, website, industry, specialties)
