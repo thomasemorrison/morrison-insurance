@@ -719,6 +719,54 @@ export default function AboutPage() {
           </div>
         </div>
       </section>
+
+      {/* Morrison Heritage callout */}
+      <section style={{ backgroundColor: "oklch(0.18 0.06 155)", padding: "3.5rem 0" }}>
+        <div className="container" style={{ textAlign: "center", maxWidth: "640px", margin: "0 auto" }}>
+          <p
+            style={{
+              fontFamily: "'Cormorant Garamond', Georgia, serif",
+              fontSize: "clamp(1.25rem, 2.5vw, 1.625rem)",
+              fontWeight: 600,
+              color: "oklch(0.92 0.02 80)",
+              lineHeight: 1.6,
+              marginBottom: "1rem",
+            }}
+          >
+            The Morrison family has called Shelby County home for generations — and we're still here.
+          </p>
+          <p
+            style={{
+              fontFamily: "Inter, sans-serif",
+              fontSize: "0.9375rem",
+              color: "oklch(0.68 0.01 80)",
+              lineHeight: 1.75,
+              marginBottom: "1.5rem",
+            }}
+          >
+            Deep roots in this community aren't just part of our story — they shape how we serve every customer who walks through our door.
+          </p>
+          <a
+            href="https://morrifam-lu8s3oq5.manus.space/"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{
+              fontFamily: "Inter, sans-serif",
+              fontSize: "0.875rem",
+              fontWeight: 600,
+              color: "var(--amber-brand)",
+              textDecoration: "underline",
+              textUnderlineOffset: "3px",
+              letterSpacing: "0.04em",
+              transition: "opacity 180ms",
+            }}
+            onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.opacity = "0.75")}
+            onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.opacity = "1")}
+          >
+            Explore the Morrison Family History →
+          </a>
+        </div>
+      </section>
     </div>
   );
 }

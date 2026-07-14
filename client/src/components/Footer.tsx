@@ -345,7 +345,7 @@ export default function Footer() {
       {/* Bottom bar */}
       <div style={{ borderTop: "1px solid oklch(0.32 0.04 155)" }}>
         <div
-          className="container py-5 flex flex-col sm:flex-row items-center justify-between gap-3"
+          className="container pt-5 pb-3 flex flex-col sm:flex-row items-center justify-between gap-3"
           style={{ fontFamily: "Inter, sans-serif", fontSize: "0.8125rem", color: "oklch(0.52 0.01 80)" }}
         >
           <span>© {year} Morrison Insurance. All rights reserved.</span>
@@ -366,17 +366,22 @@ export default function Footer() {
             >
               Terms of Use
             </Link>
-            <a
-              href="https://morrifam-lu8s3oq5.manus.space/"
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ color: "oklch(0.52 0.01 80)", textDecoration: "none", transition: "color 180ms" }}
-              onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.color = "oklch(0.72 0.01 80)")}
-              onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.color = "oklch(0.52 0.01 80)")}
-            >
-              Morrison Heritage
-            </a>
           </div>
+        </div>
+        <div
+          className="container pb-4 flex justify-center"
+          style={{ fontFamily: "Inter, sans-serif", fontSize: "0.75rem" }}
+        >
+          <a
+            href="https://morrifam-lu8s3oq5.manus.space/"
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ color: "oklch(0.82 0.03 80)", textDecoration: "underline", textUnderlineOffset: "3px", transition: "color 180ms" }}
+            onMouseEnter={(e) => ((e.currentTarget as HTMLElement).style.color = "var(--amber-brand)")}
+            onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.color = "oklch(0.82 0.03 80)")}
+          >
+            Morrison Heritage
+          </a>
         </div>
       </div>
     </footer>
