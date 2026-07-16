@@ -746,10 +746,8 @@ export default function AboutPage() {
           >
             Deep roots in this community aren't just part of our story — they shape how we serve every customer who walks through our door.
           </p>
-          <a
-            href="https://morrifam-lu8s3oq5.manus.space/"
-            target="_blank"
-            rel="noopener noreferrer"
+          <Link
+            href="/morrison-family-history"
             style={{
               fontFamily: "Inter, sans-serif",
               fontSize: "0.875rem",
@@ -764,7 +762,7 @@ export default function AboutPage() {
             onMouseLeave={(e) => ((e.currentTarget as HTMLElement).style.opacity = "1")}
           >
             Explore the Morrison Family History →
-          </a>
+          </Link>
         </div>
       </section>
     </div>
