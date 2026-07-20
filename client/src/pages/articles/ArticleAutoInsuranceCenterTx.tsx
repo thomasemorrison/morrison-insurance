@@ -185,9 +185,10 @@ export default function ArticleAutoInsuranceCenterTx() {
           <h3 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1.5rem" }}>Related Articles</h3>
           <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
             {[
-              { href: "/resources/texas-auto-insurance-requirements", title: "Texas Auto Insurance Requirements: What You Need to Know", category: "Auto Insurance" },
-              { href: "/resources/uninsured-driver-accident-texas", title: "What Happens If an Uninsured Driver Hits You in Texas?", category: "Auto Insurance" },
               { href: "/resources/car-insurance-quotes-center-tx", title: "How to Get Car Insurance Quotes in Center, TX", category: "Auto Insurance" },
+              { href: "/resources/car-insurance-agents-center-tx", title: "Car Insurance Agents in Center, TX — What to Look For", category: "Auto Insurance" },
+              { href: "/resources/car-insurance-companies-center-tx", title: "How to Compare Car Insurance Companies in Center, TX", category: "Auto Insurance" },
+              { href: "/auto-insurance", title: "Auto Insurance in Center, TX — Morrison Insurance", category: "Service Page" },
             ].map((a) => (
               <Link key={a.href} href={a.href} style={{ textDecoration: "none" }}>
                 <div className="fade-up" style={{ backgroundColor: "white", borderRadius: "0.5rem", padding: "1.5rem", boxShadow: "0 2px 8px rgba(0,0,0,0.06)", borderTop: "3px solid var(--pine)", transition: "transform 200ms, box-shadow 200ms" }}

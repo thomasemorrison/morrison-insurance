@@ -75,3 +75,22 @@
 - [x] Add all 5 items to rss.xml
 - [x] Add all 5 URLs to sitemap.xml
 - [x] Add all 5 cards to Resources.tsx
+
+## Google Ads Setup (Upcoming)
+
+- [ ] Create Google Ads campaigns for Morrison Insurance (Customer ID: 133-171-2290)
+- [ ] Configure conversion tracking via Google Tag Manager BEFORE launching ads — address the "Your conversions can't be measured" priority issue flagged by Google Ads (Jul 20, 2026)
+  - Conversion actions to set up: phone call clicks (tel: link), contact form submissions, quote request submissions
+  - Method: Create conversion actions in Google Ads → fire via GTM tags (no site code changes needed)
+- [ ] Link Google Ads account to Google Analytics 4 and Google Search Console
+- [ ] Set campaign targeting to Shelby County + surrounding Deep East Texas counties
+- [ ] Draft ad copy following Morrison brand voice (community-first, plain language, no fear tactics)
+
+## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
+
+- [ ] Add internal links from /auto-insurance service page to three Center TX articles
+- [ ] Add internal links from each of the three Center TX articles back to /auto-insurance and to each other
+- [ ] Build new article: "How to Compare Car Insurance Companies in Center, TX" targeting "car insurance companies in center, tx"
+- [ ] Add new article to App.tsx, articleMeta.ts, rss.xml, sitemap.xml, Resources.tsx
+- [ ] Write social posts for all four Center TX auto articles (3 existing + 1 new) for Metricool scheduling
+- [ ] Write Google Business Profile post scripts for all four articles

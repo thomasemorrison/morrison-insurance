@@ -35,6 +35,7 @@ import ArticleAutoInsuranceCenterTx from "./pages/articles/ArticleAutoInsuranceC
 import ArticleCarInsuranceQuotesCenterTx from "./pages/articles/ArticleCarInsuranceQuotesCenterTx";
 import ArticleCarInsuranceAgentsCenterTx from "./pages/articles/ArticleCarInsuranceAgentsCenterTx";
 import ArticleAllstateCaptiveAgency from "./pages/articles/ArticleAllstateCaptiveAgency";
+import ArticleCarInsuranceCompaniesCenterTx from "./pages/articles/ArticleCarInsuranceCompaniesCenterTx";
 import ArticleFileClaimTexasAdjuster from "./pages/articles/ArticleFileClaimTexasAdjuster";
 import CookieConsent from "./components/CookieConsent";
 import MorrisonFamilyHistory from "./pages/MorrisonFamilyHistory";
@@ -92,6 +93,7 @@ function Router() {
       <Route path="/resources/car-insurance-quotes-center-tx" component={() => <Layout><ArticleCarInsuranceQuotesCenterTx /></Layout>} />
       <Route path="/resources/car-insurance-agents-center-tx" component={() => <Layout><ArticleCarInsuranceAgentsCenterTx /></Layout>} />
       <Route path="/resources/is-allstate-captive-agency-independent-agent-difference" component={() => <Layout><ArticleAllstateCaptiveAgency /></Layout>} />
+      <Route path="/resources/car-insurance-companies-center-tx" component={() => <Layout><ArticleCarInsuranceCompaniesCenterTx /></Layout>} />
       <Route path="/resources/how-to-file-claim-texas-adjuster" component={() => <Layout><ArticleFileClaimTexasAdjuster /></Layout>} />
       <Route path="/morrison-family-history" component={() => <Layout><MorrisonFamilyHistory /></Layout>} />
       <Route path="/404" component={() => <Layout><NotFound /></Layout>} />

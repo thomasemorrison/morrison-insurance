@@ -163,6 +163,14 @@ const articles = [
     image: "/manus-storage/allstate-captive-agency_19e93f56.jpg",
   },
   {
+    category: "Auto Insurance",
+    title: "How to Compare Car Insurance Companies in Center, TX",
+    excerpt: "Comparing car insurance companies is about more than finding the cheapest rate. Here's what to actually look for — coverage, claims handling, and what most people overlook when shopping.",
+    readTime: "6 min read",
+    href: "/resources/car-insurance-companies-center-tx",
+    image: "/manus-storage/car-insurance-companies-center-tx-portrait_f8955df7.jpg",
+  },
+  {
     category: "Claims",
     title: "How to File a Claim with a Texas Adjuster — A Plain-Language Guide",
     excerpt: "Most people file an insurance claim only a handful of times in their lives. Here's what a Texas adjuster does, how to work with one effectively, and how a local agent changes the experience.",

@@ -18,8 +18,8 @@ const SAMPLE_HTML = `<!doctype html>
 </html>`;
 
 describe("ARTICLE_META", () => {
-  it("has exactly 14 article entries", () => {
-    expect(Object.keys(ARTICLE_META)).toHaveLength(14);
+  it("has exactly 20 article entries", () => {
+    expect(Object.keys(ARTICLE_META)).toHaveLength(20);
   });
 
   it("every entry has a non-empty title, description, image, and slug", () => {
@@ -55,7 +55,7 @@ describe("injectArticleMeta", () => {
   it("replaces og:image with article hero image", () => {
     const result = injectArticleMeta(SAMPLE_HTML, meta);
     expect(result).toContain(
-      `<meta property="og:image" content="https://morrison-ins.net/manus-storage/boat-toledo-bend_607769d3.jpg" />`
+      `<meta property="og:image" content="https://morrison-ins.net/manus-storage/boat-toledo-bend-portrait_af454abd.jpg" />`
     );
   });
 
@@ -132,7 +132,7 @@ describe("injectArticleMeta", () => {
     expect(result).toContain(`<meta property="og:site_name" content="Morrison Insurance" />`);
   });
 
-  // Test all 14 articles produce unique og:image values
+  // Test all 20 articles produce unique og:image values
   it("every article produces a distinct og:image", () => {
     const images = new Set<string>();
     for (const meta of Object.values(ARTICLE_META)) {
@@ -141,6 +141,6 @@ describe("injectArticleMeta", () => {
       expect(match).not.toBeNull();
       images.add(match![1]);
     }
-    expect(images.size).toBe(14);
+    expect(images.size).toBe(20);
   });
 });
