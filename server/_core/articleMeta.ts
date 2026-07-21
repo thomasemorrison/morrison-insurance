@@ -152,6 +152,20 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     image: "/manus-storage/car-insurance-companies-center-tx-portrait_f8955df7.jpg",
     slug: "car-insurance-companies-center-tx",
   },
+  "/resources/storm-damage-home-east-texas": {
+    title: "What to Do After a Storm Damages Your Home in East Texas | Morrison Insurance",
+    description:
+      "A step-by-step guide for East Texas homeowners after a severe storm or flooding event — what to document, who to call, and how to work with your insurance company.",
+    image: "/manus-storage/storm-damage-east-texas-home-portrait_a041da8e.jpg",
+    slug: "storm-damage-home-east-texas",
+  },
+  "/resources/new-world-screwworm-texas-livestock-farm-insurance": {
+    title: "New World Screwworm in Texas: What East Texas Livestock Owners and Landowners Need to Know | Morrison Insurance",
+    description:
+      "41 confirmed screwworm infestations in Texas as of July 2026. Here's what the outbreak means for East Texas ranchers, landowners, and pet owners — and what to watch for right now.",
+    image: "/manus-storage/screwworm-east-texas-cattle-portrait_f2681b22.jpg",
+    slug: "new-world-screwworm-texas-livestock-farm-insurance",
+  },
   "/resources/how-to-file-claim-texas-adjuster": {
     title: "How to File a Claim with a Texas Adjuster — A Plain-Language Guide | Morrison Insurance",
     description:

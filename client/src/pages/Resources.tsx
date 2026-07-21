@@ -20,6 +20,22 @@ function useScrollFadeUp() {
 const articles = [
   {
     category: "Home Insurance",
+    title: "What to Do After a Storm Damages Your Home in East Texas",
+    excerpt: "A step-by-step guide for East Texas homeowners after a severe storm — what to document, who to call, and how to work with your insurance company.",
+    readTime: "6 min read",
+    href: "/resources/storm-damage-home-east-texas",
+    image: "/manus-storage/storm-damage-east-texas-home-portrait_a041da8e.jpg",
+  },
+  {
+    category: "Farm & Ranch",
+    title: "New World Screwworm in Texas: What East Texas Livestock Owners and Landowners Need to Know",
+    excerpt: "41 confirmed infestations. 21 Texas counties under movement restrictions. Here's what the outbreak means for East Texas ranchers, landowners, and pet owners — and what to watch for right now.",
+    readTime: "6 min read",
+    href: "/resources/new-world-screwworm-texas-livestock-farm-insurance",
+    image: "/manus-storage/screwworm-east-texas-cattle-portrait_f2681b22.jpg",
+  },
+  {
+    category: "Home Insurance",
     title: "What Does Homeowners Insurance Actually Cover in Texas?",
     excerpt: "Most homeowners have a general idea of what their policy covers — but the details matter. Here's a plain-language breakdown of what's included, what's excluded, and what East Texas homeowners should pay attention to.",
     readTime: "5 min read",

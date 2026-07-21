@@ -8,7 +8,7 @@
     <copyright>Copyright 2026 Morrison Insurance</copyright>
     <managingEditor>hello@morrison-ins.net (Morrison Insurance)</managingEditor>
     <webMaster>hello@morrison-ins.net (Morrison Insurance)</webMaster>
-    <lastBuildDate>Sun, 13 Jul 2026 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Jul 2026 09:00:00 -0500</lastBuildDate>
     <atom:link href="https://morrison-ins.net/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://morrison-ins.net/manus-storage/MIBldgcurrent_0dda216e.webp</url>
@@ -18,6 +18,28 @@
       <height>144</height>
       <description>Morrison Insurance — Resources &amp; Articles</description>
     </image>
+
+    <item>
+      <title>What to Do After a Storm Damages Your Home in East Texas</title>
+      <link>https://morrison-ins.net/resources/storm-damage-home-east-texas</link>
+      <description>A step-by-step guide for East Texas homeowners after a severe storm or flooding event &#x2014; what to document, who to call, and how to work with your insurance company.</description>
+      <category>Home Insurance</category>
+      <pubDate>Tue, 29 Jul 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://morrison-ins.net/resources/storm-damage-home-east-texas</guid>
+      <enclosure url="https://morrison-ins.net/manus-storage/storm-damage-east-texas-home-portrait_a041da8e.jpg" length="0" type="image/jpeg"/>
+      <media:content url="https://morrison-ins.net/manus-storage/storm-damage-east-texas-home-portrait_a041da8e.jpg" medium="image"/>
+    </item>
+
+    <item>
+      <title>New World Screwworm in Texas: What East Texas Livestock Owners and Landowners Need to Know</title>
+      <link>https://morrison-ins.net/resources/new-world-screwworm-texas-livestock-farm-insurance</link>
+      <description>41 confirmed screwworm infestations in Texas as of July 2026. Here&apos;s what the outbreak means for East Texas ranchers, landowners, and pet owners &#x2014; and what to watch for right now.</description>
+      <category>Farm &amp; Ranch</category>
+      <pubDate>Mon, 21 Jul 2026 12:00:00 +0000</pubDate>
+      <guid isPermaLink="true">https://morrison-ins.net/resources/new-world-screwworm-texas-livestock-farm-insurance</guid>
+      <enclosure url="https://morrison-ins.net/manus-storage/screwworm-east-texas-cattle-portrait_f2681b22.jpg" length="0" type="image/jpeg"/>
+      <media:content url="https://morrison-ins.net/manus-storage/screwworm-east-texas-cattle-portrait_f2681b22.jpg" medium="image"/>
+    </item>
 
     <item>
       <title>How to Compare Car Insurance Companies in Center, TX</title>

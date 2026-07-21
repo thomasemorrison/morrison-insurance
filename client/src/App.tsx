@@ -37,6 +37,8 @@ import ArticleCarInsuranceAgentsCenterTx from "./pages/articles/ArticleCarInsura
 import ArticleAllstateCaptiveAgency from "./pages/articles/ArticleAllstateCaptiveAgency";
 import ArticleCarInsuranceCompaniesCenterTx from "./pages/articles/ArticleCarInsuranceCompaniesCenterTx";
 import ArticleFileClaimTexasAdjuster from "./pages/articles/ArticleFileClaimTexasAdjuster";
+import ArticleScrewwormTexas from "./pages/articles/ArticleScrewwormTexas";
+import ArticleStormDamageEastTexas from "./pages/articles/ArticleStormDamageEastTexas";
 import CookieConsent from "./components/CookieConsent";
 import MorrisonFamilyHistory from "./pages/MorrisonFamilyHistory";
 
@@ -95,6 +97,8 @@ function Router() {
       <Route path="/resources/is-allstate-captive-agency-independent-agent-difference" component={() => <Layout><ArticleAllstateCaptiveAgency /></Layout>} />
       <Route path="/resources/car-insurance-companies-center-tx" component={() => <Layout><ArticleCarInsuranceCompaniesCenterTx /></Layout>} />
       <Route path="/resources/how-to-file-claim-texas-adjuster" component={() => <Layout><ArticleFileClaimTexasAdjuster /></Layout>} />
+      <Route path="/resources/new-world-screwworm-texas-livestock-farm-insurance" component={() => <Layout><ArticleScrewwormTexas /></Layout>} />
+      <Route path="/resources/storm-damage-home-east-texas" component={() => <Layout><ArticleStormDamageEastTexas /></Layout>} />
       <Route path="/morrison-family-history" component={() => <Layout><MorrisonFamilyHistory /></Layout>} />
       <Route path="/404" component={() => <Layout><NotFound /></Layout>} />
       <Route component={() => <Layout><NotFound /></Layout>} />

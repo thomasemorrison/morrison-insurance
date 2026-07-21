@@ -88,9 +88,9 @@
 
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
-- [ ] Add internal links from /auto-insurance service page to three Center TX articles
-- [ ] Add internal links from each of the three Center TX articles back to /auto-insurance and to each other
-- [ ] Build new article: "How to Compare Car Insurance Companies in Center, TX" targeting "car insurance companies in center, tx"
-- [ ] Add new article to App.tsx, articleMeta.ts, rss.xml, sitemap.xml, Resources.tsx
-- [ ] Write social posts for all four Center TX auto articles (3 existing + 1 new) for Metricool scheduling
-- [ ] Write Google Business Profile post scripts for all four articles
+- [x] Add internal links from /auto-insurance service page to three Center TX articles
+- [x] Add internal links from each of the three Center TX articles back to /auto-insurance and to each other
+- [x] Build new article: "How to Compare Car Insurance Companies in Center, TX" targeting "car insurance companies in center, tx"
+- [x] Add new article to App.tsx, articleMeta.ts, rss.xml, sitemap.xml, Resources.tsx
+- [x] Write social posts for all four Center TX auto articles (3 existing + 1 new) for Metricool scheduling
+- [x] Write Google Business Profile post scripts for all four articles
