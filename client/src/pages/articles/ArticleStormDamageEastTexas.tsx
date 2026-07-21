@@ -21,8 +21,8 @@ function useScrollFadeUp(selector = ".fade-up") {
 const HERO_IMAGE = "/manus-storage/storm-damage-east-texas-home-portrait_a041da8e.jpg";
 const ARTICLE_SLUG = "storm-damage-home-east-texas";
 const ARTICLE_URL = `https://morrison-ins.net/resources/${ARTICLE_SLUG}`;
-const PUBLISH_DATE = "July 29, 2026";
-const PUBLISH_DATE_ISO = "2026-07-29";
+const PUBLISH_DATE = "July 21, 2026";
+const PUBLISH_DATE_ISO = "2026-07-21";
 
 const RELATED = [
   {

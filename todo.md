@@ -94,3 +94,13 @@
 - [x] Add new article to App.tsx, articleMeta.ts, rss.xml, sitemap.xml, Resources.tsx
 - [x] Write social posts for all four Center TX auto articles (3 existing + 1 new) for Metricool scheduling
 - [x] Write Google Business Profile post scripts for all four articles
+
+## Weekly Content Handoff — July 22, 2026
+- [x] Fix screwworm slug mismatch — update App.tsx, articleMeta.ts, rss.xml, sitemap.xml, Resources.tsx to use full slug new-world-screwworm-texas-livestock-farm-insurance
+- [x] Generate storm damage hero image and upload to /manus-storage/storm-damage-east-texas-home-portrait_a041da8e.jpg
+- [x] Create ArticleStormDamageEastTexas.tsx — slug storm-damage-home-east-texas, publish July 29
+- [x] Register storm damage article in App.tsx, Resources.tsx, articleMeta.ts, rss.xml, sitemap.xml
+- [x] Update article count test from 21 to 22 — all 17 tests passing
+- [x] Build Metricool CSV for Booth Library post (July 22) and Korean War post (July 28)
+- [x] Update content calendar — screwworm to PUBLISHED Jul 22, storm damage queued for Jul 29
+- [x] Save checkpoint c52f66e6
