@@ -19,6 +19,14 @@ function useScrollFadeUp() {
 
 const articles = [
   {
+    category: "Auto Insurance",
+    title: "Adding a Teen Driver to Your Auto Insurance in Texas: What Parents Need to Know",
+    excerpt: "Back-to-school season means many East Texas families are adding a new driver to the household. Here's what changes on your policy, what it costs, and how to keep the premium manageable.",
+    readTime: "5 min read",
+    href: "/resources/adding-teen-driver-insurance-texas",
+    image: "/manus-storage/teen-driver-insurance-texas_033a3a05.jpg",
+  },
+  {
     category: "Home Insurance",
     title: "What to Do After a Storm Damages Your Home in East Texas",
     excerpt: "A step-by-step guide for East Texas homeowners after a severe storm — what to document, who to call, and how to work with your insurance company.",

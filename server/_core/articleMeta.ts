@@ -171,7 +171,14 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     description:
       "Not sure how to file a claim with a Texas adjuster? Morrison Insurance walks you through the process step by step — from the first call to final settlement. Local guidance from Center, TX.",
     image: "/manus-storage/file-claim-texas-adjuster-portrait_aae7ba5c.jpg",
-    slug: "how-to-file-claim-texas-adjuster",
+  slug: "how-to-file-claim-texas-adjuster",
+  },
+  "/resources/adding-teen-driver-insurance-texas": {
+    title: "Adding a Teen Driver to Your Auto Insurance in Texas: What Parents Need to Know | Morrison Insurance",
+    description:
+      "Back-to-school season means many East Texas families are adding a new driver to the household. Here's a plain-language guide to adding a teen driver to your auto insurance in Texas — what changes, what it costs, and how to keep the premium manageable.",
+    image: "/manus-storage/teen-driver-insurance-texas_033a3a05.jpg",
+    slug: "adding-teen-driver-insurance-texas",
   },
 };
 
