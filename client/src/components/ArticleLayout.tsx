@@ -2,8 +2,6 @@ import { useEffect } from "react";
 import { Link } from "wouter";
 import { Clock } from "lucide-react";
 import { StickyCtaBar, RelatedArticles, ArticleCta } from "./ArticleComponents";
-import Header from "./Header";
-import Footer from "./Footer";
 import { useScrollReveal } from "../hooks/useScrollReveal";
 
 // ============================================================
@@ -82,8 +80,6 @@ export function ArticleLayout({
 
   return (
     <div ref={ref}>
-      <Header />
-
       {/* Hero section */}
       <section
         style={{
@@ -227,7 +223,6 @@ export function ArticleLayout({
       {/* Related articles */}
       <RelatedArticles articles={relatedArticles} />
 
-      <Footer />
       <StickyCtaBar />
     </div>
   );
