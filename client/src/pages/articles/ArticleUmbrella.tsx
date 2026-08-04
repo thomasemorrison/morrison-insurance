@@ -41,7 +41,7 @@ export default function ArticleUmbrella() {
       title="Umbrella Insurance: Why East Texas Families and Landowners Need It"
       readTime="4 min read"
       excerpt="When most people hear 'umbrella insurance,' they assume it's only for the wealthy. But in today's environment, a personal umbrella policy is one of the most practical and affordable ways for everyday East Texas families, farmers, and landowners to protect what they've worked hard to build."
-      heroImage="/manus-storage/hunting-lease-portrait_bd3812a3.jpg"
+      heroImage="https://files.manuscdn.com/user_upload_by_module/session_file/310519663724333063/JYovnHKTHlOcBPqs.jpg"
       relatedArticles={RELATED}
     >
       <SchemaMarkup
@@ -54,7 +54,7 @@ export default function ArticleUmbrella() {
         authorName="Morrison Insurance"
         publisherName="Morrison Insurance"
         publisherUrl="https://morrison-ins.net"
-        imageUrl="/manus-storage/hunting-lease-portrait_bd3812a3.jpg"
+        imageUrl="https://files.manuscdn.com/user_upload_by_module/session_file/310519663724333063/JYovnHKTHlOcBPqs.jpg"
         breadcrumbs={[
           { name: "Home", url: "https://morrison-ins.net/" },
           { name: "Resources", url: "https://morrison-ins.net/resources" },

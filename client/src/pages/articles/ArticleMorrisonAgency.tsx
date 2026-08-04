@@ -3,7 +3,7 @@
 // Slug: morrison-insurance-agency-center-tx
 // Category: About
 // Date: 2026-08-03
-// Hero: https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80&fit=crop
+// Hero: https://files.manuscdn.com/user_upload_by_module/session_file/310519663724333063/yDQQRJLaefUqnKfm.jpg
 import {
   ArticleLayout,
   ArticleSection,
@@ -13,7 +13,7 @@ import {
 } from "@/components/ArticleLayout";
 import { SchemaMarkup } from "@/components/SchemaMarkup";
 
-const HERO_IMAGE = "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80&fit=crop";
+const HERO_IMAGE = "https://files.manuscdn.com/user_upload_by_module/session_file/310519663724333063/yDQQRJLaefUqnKfm.jpg";
 const CANONICAL_SLUG = "morrison-insurance-agency-center-tx";
 const ARTICLE_URL = `https://morrison-ins.net/resources/${CANONICAL_SLUG}`;
 
@@ -51,7 +51,7 @@ export default function ArticleMorrisonAgency() {
         authorName="Morrison Insurance Agency"
         publisherName="Morrison Insurance Agency"
         publisherUrl="https://morrison-ins.net"
-        imageUrl={`https://morrison-ins.net${HERO_IMAGE}`}
+        imageUrl={HERO_IMAGE}
         breadcrumbs={[
           { name: "Home", url: "https://morrison-ins.net/" },
           { name: "Resources", url: "https://morrison-ins.net/resources" },
