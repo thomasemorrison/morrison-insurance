@@ -19,6 +19,14 @@ function useScrollFadeUp() {
 
 const articles = [
   {
+    category: "Home Insurance",
+    title: "Hurricane Season Insurance Checklist for East Texas Homeowners",
+    excerpt: "August means peak hurricane season. While Center and Shelby County are inland, the remnants of Gulf storms regularly bring severe wind, rain, and downed trees to East Texas. Here is how to make sure your homeowners policy is ready.",
+    readTime: "5 min read",
+    href: "/resources/hurricane-season-insurance-checklist-east-texas",
+    image: "https://images.unsplash.com/photo-1748701821466-0b9f8bf839ac?w=800&q=70",
+  },
+  {
     category: "Auto Insurance",
     title: "Adding a Teen Driver to Your Auto Insurance in Texas: What Parents Need to Know",
     excerpt: "Back-to-school season means many East Texas families are adding a new driver to the household. Here's what changes on your policy, what it costs, and how to keep the premium manageable.",
