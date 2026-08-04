@@ -4,14 +4,14 @@
 // Category: Renters Insurance
 // Date: 2026-08-03
 // Hero: https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=80&fit=crop
-import ArticleLayout,
-  {
+import {
+  ArticleLayout,
   ArticleSection,
   ArticleH2,
   ArticleP,
   ArticleCallout,
 } from "@/components/ArticleLayout";
-import SchemaMarkup from "@/components/SchemaMarkup";
+import { SchemaMarkup } from "@/components/SchemaMarkup";
 
 const HERO_IMAGE = "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1200&q=80&fit=crop";
 const CANONICAL_SLUG = "average-cost-renters-insurance-texas";

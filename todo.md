@@ -109,4 +109,4 @@
 - [x] Source and process logos for Allstate, Foremost, Liberty Mutual, Progressive, Travelers
 - [x] Upload all 5 carrier logos to webdev CDN storage
 - [x] Add carrier logos section to Home.tsx (between testimonials and AppBanner)
-- [ ] Save checkpoint for carrier logos update
+- [x] Save checkpoint for carrier logos update

@@ -4,14 +4,14 @@
 // Category: Insurance Basics
 // Date: 2026-08-03
 // Hero: https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=1200&q=80&fit=crop
-import ArticleLayout,
-  {
-    ArticleSection,
-    ArticleH2,
-    ArticleP,
-    ArticleCallout,
-  } from "@/components/ArticleLayout";
-import SchemaMarkup from "@/components/SchemaMarkup";
+import {
+  ArticleLayout,
+  ArticleSection,
+  ArticleH2,
+  ArticleP,
+  ArticleCallout,
+} from "@/components/ArticleLayout";
+import { SchemaMarkup } from "@/components/SchemaMarkup";
 
 const HERO_IMAGE = "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?w=1200&q=80&fit=crop";
 const CANONICAL_SLUG = "are-farmers-agents-captive-east-texas";

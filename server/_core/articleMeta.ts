@@ -22,7 +22,7 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
   "/resources/hurricane-season-insurance-checklist-east-texas": {
     title: "Hurricane Season Insurance Checklist for East Texas Homeowners | Morrison Insurance",
     description: "August means peak hurricane season. Here is a plain-language checklist for East Texas homeowners to ensure their insurance is ready before a storm hits the Gulf.",
-    image: "https://images.unsplash.com/photo-1748701821466-0b9f8bf839ac?w=1200&q=80&fit=crop",
+    image: "/manus-storage/hurricane-season-east-texas_c1ccd89e.jpg",
     slug: "hurricane-season-insurance-checklist-east-texas",
   },
   "/resources/what-does-homeowners-insurance-cover-texas": {

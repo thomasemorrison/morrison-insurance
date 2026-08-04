@@ -18,8 +18,8 @@ const SAMPLE_HTML = `<!doctype html>
 </html>`;
 
 describe("ARTICLE_META", () => {
-  it("has exactly 22 article entries", () => {
-    expect(Object.keys(ARTICLE_META)).toHaveLength(22);
+  it("has exactly 24 article entries", () => {
+    expect(Object.keys(ARTICLE_META)).toHaveLength(24);
   });
 
   it("every entry has a non-empty title, description, image, and slug", () => {
@@ -132,7 +132,7 @@ describe("injectArticleMeta", () => {
     expect(result).toContain(`<meta property="og:site_name" content="Morrison Insurance" />`);
   });
 
-  // Test all 22 articles produce unique og:image values
+  // Test all 24 articles produce unique og:image values
   it("every article produces a distinct og:image", () => {
     const images = new Set<string>();
     for (const meta of Object.values(ARTICLE_META)) {
@@ -141,6 +141,6 @@ describe("injectArticleMeta", () => {
       expect(match).not.toBeNull();
       images.add(match![1]);
     }
-    expect(images.size).toBe(22);
+    expect(images.size).toBe(24);
   });
 });
