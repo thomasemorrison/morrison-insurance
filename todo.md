@@ -104,3 +104,9 @@
 - [x] Build Metricool CSV for Booth Library post (July 22) and Korean War post (July 28)
 - [x] Update content calendar — screwworm to PUBLISHED Jul 22, storm damage queued for Jul 29
 - [x] Save checkpoint c52f66e6
+
+## Carrier Logos Section (Aug 4, 2026)
+- [x] Source and process logos for Allstate, Foremost, Liberty Mutual, Progressive, Travelers
+- [x] Upload all 5 carrier logos to webdev CDN storage
+- [x] Add carrier logos section to Home.tsx (between testimonials and AppBanner)
+- [ ] Save checkpoint for carrier logos update

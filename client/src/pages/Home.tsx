@@ -975,6 +975,71 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* ── CARRIERS WE SHOP ── */}
+      <section
+        style={{
+          backgroundColor: "var(--cream-dark)",
+          padding: "3.5rem 0",
+          borderTop: "1px solid oklch(0.88 0.02 80 / 0.5)",
+          borderBottom: "1px solid oklch(0.88 0.02 80 / 0.5)",
+        }}
+      >
+        <div className="container">
+          <p
+            className="fade-up"
+            style={{
+              fontFamily: "Inter, sans-serif",
+              fontSize: "0.75rem",
+              fontWeight: 600,
+              letterSpacing: "0.12em",
+              textTransform: "uppercase",
+              color: "oklch(0.50 0.03 155)",
+              textAlign: "center",
+              marginBottom: "2rem",
+            }}
+          >
+            Companies we shop on your behalf
+          </p>
+          <div
+            className="fade-up"
+            style={{
+              display: "flex",
+              flexWrap: "wrap",
+              alignItems: "center",
+              justifyContent: "center",
+              gap: "2.5rem 3.5rem",
+              transitionDelay: "80ms",
+            }}
+          >
+            {[
+              { src: "/manus-storage/carrier-allstate_90648caa.png", alt: "Allstate" },
+              { src: "/manus-storage/carrier-foremost_f87fa201.png", alt: "Foremost Insurance" },
+              { src: "/manus-storage/carrier-liberty-mutual_efea3ee3.png", alt: "Liberty Mutual" },
+              { src: "/manus-storage/carrier-progressive_04a77f6c.png", alt: "Progressive" },
+              { src: "/manus-storage/carrier-travelers_868e61cc.png", alt: "Travelers" },
+            ].map((carrier) => (
+              <img
+                key={carrier.alt}
+                src={carrier.src}
+                alt={carrier.alt}
+                style={{
+                  height: "40px",
+                  width: "auto",
+                  objectFit: "contain",
+                  filter: "grayscale(100%) opacity(0.65)",
+                  transition: "filter 220ms ease",
+                }}
+                onMouseEnter={(e) => {
+                  (e.currentTarget as HTMLImageElement).style.filter = "grayscale(0%) opacity(1)";
+                }}
+                onMouseLeave={(e) => {
+                  (e.currentTarget as HTMLImageElement).style.filter = "grayscale(100%) opacity(0.65)";
+                }}
+              />
+            ))}
+          </div>
+        </div>
+      </section>
       {/* ── APP PROMOTION ── */}
       <AppBanner variant="light" />
 
