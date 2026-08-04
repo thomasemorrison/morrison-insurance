@@ -1012,28 +1012,31 @@ export default function HomePage() {
             }}
           >
             {[
-              { src: "/manus-storage/carrier-allstate_90648caa.png", alt: "Allstate" },
-              { src: "/manus-storage/carrier-foremost_f87fa201.png", alt: "Foremost Insurance" },
-              { src: "/manus-storage/carrier-liberty-mutual_efea3ee3.png", alt: "Liberty Mutual" },
-              { src: "/manus-storage/carrier-progressive_04a77f6c.png", alt: "Progressive" },
-              { src: "/manus-storage/carrier-travelers_868e61cc.png", alt: "Travelers" },
+              { src: "/manus-storage/carrier-allstate-v2_5b675fd5.png", alt: "Allstate" },
+              { src: "/manus-storage/carrier-foremost-v2_d58e9cef.png", alt: "Foremost Insurance" },
+              { src: "/manus-storage/carrier-liberty-mutual-v2_8c71eb01.png", alt: "Liberty Mutual" },
+              { src: "/manus-storage/carrier-progressive-v2_6b30eb88.png", alt: "Progressive" },
+              { src: "/manus-storage/carrier-travelers-v2_3055773f.png", alt: "Travelers" },
             ].map((carrier) => (
               <img
                 key={carrier.alt}
                 src={carrier.src}
                 alt={carrier.alt}
                 style={{
-                  height: "40px",
+                  height: "64px",
                   width: "auto",
+                  maxWidth: "180px",
                   objectFit: "contain",
-                  filter: "grayscale(100%) opacity(0.65)",
-                  transition: "filter 220ms ease",
+                  opacity: 0.85,
+                  transition: "opacity 220ms ease, transform 220ms ease",
                 }}
                 onMouseEnter={(e) => {
-                  (e.currentTarget as HTMLImageElement).style.filter = "grayscale(0%) opacity(1)";
+                  (e.currentTarget as HTMLImageElement).style.opacity = "1";
+                  (e.currentTarget as HTMLImageElement).style.transform = "scale(1.05)";
                 }}
                 onMouseLeave={(e) => {
-                  (e.currentTarget as HTMLImageElement).style.filter = "grayscale(100%) opacity(0.65)";
+                  (e.currentTarget as HTMLImageElement).style.opacity = "0.85";
+                  (e.currentTarget as HTMLImageElement).style.transform = "scale(1)";
                 }}
               />
             ))}
