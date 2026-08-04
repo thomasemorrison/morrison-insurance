@@ -4,15 +4,13 @@
 // Category: About
 // Date: 2026-08-03
 // Hero: https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80&fit=crop
-import ArticleLayout,
-  {
+import { ArticleLayout,
     ArticleSection,
     ArticleH2,
     ArticleP,
     ArticleCallout,
-  }
-from "@/components/ArticleLayout";
-import SchemaMarkup from "@/components/SchemaMarkup";
+  } from "@/components/ArticleLayout";
+import { SchemaMarkup } from "@/components/SchemaMarkup";
 
 const HERO_IMAGE = "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=1200&q=80&fit=crop";
 const CANONICAL_SLUG = "morrison-insurance-agency-center-tx";
