@@ -118,6 +118,7 @@
 - [x] Document the deferred educator outreach approach: landing page/form, compliant Facebook targeting, and HubSpot follow-up for warm leads
 - [x] Verify the generated school-zone visual is complete, neutral, and ready for use; record its final public asset URL
 - [x] Regenerate or refine the visual if the completed image is not suitable (not needed after review)
+- [x] Record user confirmation that the August 16 school-zone PSA was scheduled manually
 
 ## Wildfire Insurance Article Handoff (Aug 2026)
 - [x] Sync and verify commit 032826a for "Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist"

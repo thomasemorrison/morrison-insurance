@@ -44,6 +44,10 @@ A little patience on the road helps keep every child’s trip to and from school
 | Link | None |
 | First action | Confirm Metricool has fewer than two existing posts scheduled across all networks for August 16 |
 
+## Scheduling Status
+
+The user confirmed that the Facebook and Instagram school-zone PSA was manually scheduled for Sunday, August 16, 2026.
+
 ## Deferred Educator Outreach
 
 No teacher contact list will be collected. When the campaign is revisited, use a voluntary educator-focused landing page or form, compliant Facebook audience targeting by relevant employer/job title where available, and a HubSpot follow-up sequence only for educators who choose to submit their information.
