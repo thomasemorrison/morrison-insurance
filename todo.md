@@ -110,3 +110,16 @@
 - [x] Upload all 5 carrier logos to webdev CDN storage
 - [x] Add carrier logos section to Home.tsx (between testimonials and AppBanner)
 - [x] Save checkpoint for carrier logos update
+
+## School-Zone Safety PSA (Aug 2026)
+- [ ] Create a neutral school-zone and school-bus driver safety visual
+- [ ] Write Facebook and Instagram copy focused on slowing down, watching for children, and avoiding preventable crashes and citations
+- [ ] Build a Metricool-compatible import CSV after checking the intended date has fewer than three scheduled posts
+- [ ] Document the deferred educator outreach approach: landing page/form, compliant Facebook targeting, and HubSpot follow-up for warm leads
+
+## Wildfire Insurance Article Handoff (Aug 2026)
+- [ ] Sync and verify commit 032826a for "Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist"
+- [ ] Confirm route, Resources card, Open Graph metadata, RSS item, sitemap URL, TypeScript, and production build
+- [ ] Request search indexing using the preferred available method
+- [ ] Prepare Facebook, Instagram, Google Business Profile, and LinkedIn copy following Morrison content guidelines
+- [ ] Update the content calendar and save a publication checkpoint
