@@ -112,10 +112,12 @@
 - [x] Save checkpoint for carrier logos update
 
 ## School-Zone Safety PSA (Aug 2026)
-- [ ] Create a neutral school-zone and school-bus driver safety visual
-- [ ] Write Facebook and Instagram copy focused on slowing down, watching for children, and avoiding preventable crashes and citations
-- [ ] Build a Metricool-compatible import CSV after checking the intended date has fewer than three scheduled posts
-- [ ] Document the deferred educator outreach approach: landing page/form, compliant Facebook targeting, and HubSpot follow-up for warm leads
+- [x] Create a neutral school-zone and school-bus driver safety visual
+- [x] Write Facebook and Instagram copy focused on slowing down, watching for children, and avoiding preventable crashes and citations
+- [x] Provide ready-to-enter manual scheduling details for Sunday, August 16, 2026; user will confirm the daily Metricool post count before scheduling
+- [x] Document the deferred educator outreach approach: landing page/form, compliant Facebook targeting, and HubSpot follow-up for warm leads
+- [x] Verify the generated school-zone visual is complete, neutral, and ready for use; record its final public asset URL
+- [x] Regenerate or refine the visual if the completed image is not suitable (not needed after review)
 
 ## Wildfire Insurance Article Handoff (Aug 2026)
 - [x] Sync and verify commit 032826a for "Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist"
