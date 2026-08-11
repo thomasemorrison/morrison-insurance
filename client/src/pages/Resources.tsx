@@ -20,6 +20,14 @@ function useScrollFadeUp() {
 const articles = [
   {
     category: "Home Insurance",
+    title: "Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist",
+    excerpt: "Does homeowners insurance cover wildfire damage in Texas? Here is a calm, practical East Texas checklist for homeowners, farmers, and ranchers to review during dry weather.",
+    readTime: "5 min read",
+    href: "/resources/wildfire-insurance-east-texas",
+    image: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80&fit=crop",
+  },
+  {
+    category: "Home Insurance",
     title: "Hurricane Season Insurance Checklist for East Texas Homeowners",
     excerpt: "August means peak hurricane season. While Center and Shelby County are inland, the remnants of Gulf storms regularly bring severe wind, rain, and downed trees to East Texas. Here is how to make sure your homeowners policy is ready.",
     readTime: "5 min read",

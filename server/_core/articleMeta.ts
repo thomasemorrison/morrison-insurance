@@ -19,6 +19,12 @@ const BASE_URL = "https://morrison-ins.net";
 
 /** Canonical article meta — one entry per article route. */
 export const ARTICLE_META: Record<string, ArticleMeta> = {
+  "/resources/wildfire-insurance-east-texas": {
+    title: "Does Homeowners Insurance Cover Wildfire Damage in Texas? | Morrison Insurance",
+    description: "Does homeowners insurance cover wildfire damage in Texas? A plain-language East Texas checklist for homes, farms, and ranches.",
+    image: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80&fit=crop",
+    slug: "wildfire-insurance-east-texas",
+  },
   "/resources/hurricane-season-insurance-checklist-east-texas": {
     title: "Hurricane Season Insurance Checklist for East Texas Homeowners | Morrison Insurance",
     description: "August means peak hurricane season. Here is a plain-language checklist for East Texas homeowners to ensure their insurance is ready before a storm hits the Gulf.",

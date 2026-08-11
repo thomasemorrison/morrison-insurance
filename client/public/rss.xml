@@ -8,7 +8,7 @@
     <copyright>Copyright 2026 Morrison Insurance</copyright>
     <managingEditor>hello@morrison-ins.net (Morrison Insurance)</managingEditor>
     <webMaster>hello@morrison-ins.net (Morrison Insurance)</webMaster>
-    <lastBuildDate>Tue, 05 Aug 2026 09:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 09:00:00 -0500</lastBuildDate>
     <atom:link href="https://morrison-ins.net/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://morrison-ins.net/manus-storage/MIBldgcurrent_0dda216e.webp</url>
@@ -19,6 +19,16 @@
       <description>Morrison Insurance — Resources &amp; Articles</description>
     </image>
 
+    <item>
+      <title>Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist</title>
+      <link>https://morrison-ins.net/resources/wildfire-insurance-east-texas</link>
+      <description>Does homeowners insurance cover wildfire damage in Texas? Here is a calm, practical East Texas checklist for homeowners, farmers, and ranchers to review during dry weather.</description>
+      <category>Home Insurance</category>
+      <pubDate>Tue, 11 Aug 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://morrison-ins.net/resources/wildfire-insurance-east-texas</guid>
+      <enclosure url="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&amp;q=80&amp;fit=crop" length="0" type="image/jpeg"/>
+      <media:content url="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&amp;q=80&amp;fit=crop" medium="image"/>
+    </item>
     <item>
       <title>Hurricane Season Insurance Checklist for East Texas Homeowners</title>
       <link>https://morrison-ins.net/resources/hurricane-season-insurance-checklist-east-texas</link>

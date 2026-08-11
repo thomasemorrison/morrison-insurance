@@ -44,6 +44,7 @@ import ArticleMorrisonAgency from "./pages/articles/ArticleMorrisonAgency";
 import ArticleFarmersCaptive from "./pages/articles/ArticleFarmersCaptive";
 import ArticleRentersCost from "./pages/articles/ArticleRentersCost";
 import ArticleHurricaneSeasonEastTexas from "./pages/articles/ArticleHurricaneSeasonEastTexas";
+import ArticleWildfireInsuranceEastTexas from "./pages/articles/ArticleWildfireInsuranceEastTexas";
 import CookieConsent from "./components/CookieConsent";
 import MorrisonFamilyHistory from "./pages/MorrisonFamilyHistory";
 
@@ -109,6 +110,7 @@ function Router() {
       <Route path="/resources/are-farmers-agents-captive-east-texas" component={() => <Layout><ArticleFarmersCaptive /></Layout>} />
       <Route path="/resources/average-cost-renters-insurance-texas" component={() => <Layout><ArticleRentersCost /></Layout>} />
       <Route path="/resources/hurricane-season-insurance-checklist-east-texas" component={() => <Layout><ArticleHurricaneSeasonEastTexas /></Layout>} />
+      <Route path="/resources/wildfire-insurance-east-texas" component={() => <Layout><ArticleWildfireInsuranceEastTexas /></Layout>} />
       <Route path="/morrison-family-history" component={() => <Layout><MorrisonFamilyHistory /></Layout>} />
       <Route path="/404" component={() => <Layout><NotFound /></Layout>} />
       <Route component={() => <Layout><NotFound /></Layout>} />
