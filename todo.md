@@ -123,8 +123,8 @@
 - [x] Host the wildfire article hero image in Manus storage and update its metadata entry
 - [x] Create and use a 4:5 hosted wildfire hero variant so the shared article/RSS/social image meets Instagram requirements
 - [x] Update article metadata test expectations from 24 to 25 articles
-- [ ] Request search indexing using the preferred available method
+- [x] Request search indexing using the preferred available method
 - [x] Prepare Facebook, Instagram, Google Business Profile, and LinkedIn copy following Morrison content guidelines
-- [ ] Save the final publication checkpoint and update the content calendar status from ready-to-publish to published
-- [ ] Publish the latest checkpoint, then verify the public wildfire URL no longer returns 404
-- [ ] Confirm public page HTML includes wildfire-specific og:title, og:description, og:image, and og:url after publication
+- [x] Save the final publication checkpoint and update the content calendar status from ready-to-publish to published
+- [x] Publish the latest checkpoint, then verify the public wildfire URL no longer returns 404
+- [x] Confirm public page HTML includes wildfire-specific og:title, og:description, og:image, and og:url after publication
