@@ -24,7 +24,7 @@ const articles = [
     excerpt: "Does homeowners insurance cover wildfire damage in Texas? Here is a calm, practical East Texas checklist for homeowners, farmers, and ranchers to review during dry weather.",
     readTime: "5 min read",
     href: "/resources/wildfire-insurance-east-texas",
-    image: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80&fit=crop",
+    image: "/manus-storage/wildfire-east-texas-forest-portrait_11257999.jpg",
   },
   {
     category: "Home Insurance",

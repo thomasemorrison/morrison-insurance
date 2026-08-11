@@ -10,7 +10,7 @@ import { SchemaMarkup } from "../../components/SchemaMarkup";
 // Target query: does homeowners insurance cover wildfire damage in Texas
 // CANONICAL_SLUG: wildfire-insurance-east-texas
 // datePublished: 2026-08-11
-// Hero image: https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80&fit=crop
+// Hero image: /manus-storage/wildfire-east-texas-forest-portrait_11257999.jpg
 
 const RELATED = [
   {
@@ -43,7 +43,7 @@ export default function ArticleWildfireInsuranceEastTexas() {
       title="Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist"
       readTime="5 min read"
       excerpt="Does homeowners insurance cover wildfire damage in Texas? Here is a calm, practical East Texas checklist for homeowners, farmers, and ranchers to review during dry weather."
-      heroImage="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80&fit=crop"
+      heroImage="/manus-storage/wildfire-east-texas-forest-portrait_11257999.jpg"
       relatedArticles={RELATED}
     >
       <SchemaMarkup
@@ -56,7 +56,7 @@ export default function ArticleWildfireInsuranceEastTexas() {
         authorName="Morrison Insurance"
         publisherName="Morrison Insurance"
         publisherUrl="https://morrison-ins.net"
-        imageUrl="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80&fit=crop"
+        imageUrl="/manus-storage/wildfire-east-texas-forest-portrait_11257999.jpg"
         breadcrumbs={[
           { name: "Home", url: "https://morrison-ins.net/" },
           { name: "Resources", url: "https://morrison-ins.net/resources" },

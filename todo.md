@@ -118,8 +118,13 @@
 - [ ] Document the deferred educator outreach approach: landing page/form, compliant Facebook targeting, and HubSpot follow-up for warm leads
 
 ## Wildfire Insurance Article Handoff (Aug 2026)
-- [ ] Sync and verify commit 032826a for "Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist"
-- [ ] Confirm route, Resources card, Open Graph metadata, RSS item, sitemap URL, TypeScript, and production build
+- [x] Sync and verify commit 032826a for "Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist"
+- [x] Confirm route, Resources card, Open Graph metadata, RSS item, sitemap URL, TypeScript, and production build
+- [x] Host the wildfire article hero image in Manus storage and update its metadata entry
+- [x] Create and use a 4:5 hosted wildfire hero variant so the shared article/RSS/social image meets Instagram requirements
+- [x] Update article metadata test expectations from 24 to 25 articles
 - [ ] Request search indexing using the preferred available method
-- [ ] Prepare Facebook, Instagram, Google Business Profile, and LinkedIn copy following Morrison content guidelines
-- [ ] Update the content calendar and save a publication checkpoint
+- [x] Prepare Facebook, Instagram, Google Business Profile, and LinkedIn copy following Morrison content guidelines
+- [ ] Save the final publication checkpoint and update the content calendar status from ready-to-publish to published
+- [ ] Publish the latest checkpoint, then verify the public wildfire URL no longer returns 404
+- [ ] Confirm public page HTML includes wildfire-specific og:title, og:description, og:image, and og:url after publication

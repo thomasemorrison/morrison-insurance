@@ -22,7 +22,7 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
   "/resources/wildfire-insurance-east-texas": {
     title: "Does Homeowners Insurance Cover Wildfire Damage in Texas? | Morrison Insurance",
     description: "Does homeowners insurance cover wildfire damage in Texas? A plain-language East Texas checklist for homes, farms, and ranches.",
-    image: "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1200&q=80&fit=crop",
+    image: "/manus-storage/wildfire-east-texas-forest-portrait_11257999.jpg",
     slug: "wildfire-insurance-east-texas",
   },
   "/resources/hurricane-season-insurance-checklist-east-texas": {
