@@ -15,6 +15,19 @@ The complete social-materials package is ready for manual scheduling and fellow-
 
 Personal congratulations are **on hold** until Morrison Insurance identifies the businesses and people it would like to highlight. The four core recognition posts remain ready for manual scheduling; no fellow-winner spotlight, tag, or draft should be created before that selection is provided.
 
+## Photo Collection Checklist
+
+The social series needs authentic photography before it should be scheduled. One strong vertical or square image per post is enough; phone photos are welcome when they are well lit, current, and free of client paperwork, computer-screen details, license plates, or children without permission.
+
+| Post | Best photo to gather | Avoid |
+|---|---|---|
+| Reader Thank-You | Morrison Insurance building, office entrance, or an easygoing team-at-work moment | A heavy award graphic, confetti, or posed formal portrait |
+| Fellow-Winner Congratulations | Center streetscape, courthouse-area scene, or a business-district photo | A collage of business logos without permission |
+| Agency Recognition | A candid office-service moment: answering a phone, reviewing a document with private information out of view, or welcoming someone at the front desk | Client information, screens, or a product-pitch setup |
+| Monica Watson Recognition | A natural photo of Monica helping in the office or participating in a local setting | A suit/headshot-forward composition or a staged sales image |
+
+Submit the original image files whenever possible. The final social crops can then be prepared for the platform without sacrificing important details.
+
 ## Recommended Scheduling Order
 
 Schedule only when capacity allows:
