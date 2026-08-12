@@ -8,7 +8,7 @@ The supplied PDF was converted to a reviewed 1465 × 900 PNG asset at `/home/ubu
 
 An accessible 2026 local winners post contains an award-program category listing that names **“Insurance Agent Monica Watson — Morrison Insurance Company.”** This corroborates the user-provided claim that Monica Watson received the insurance-agent recognition. The user has also confirmed that Morrison Insurance received the Best Insurance Agency recognition.
 
-The agency category is being used in campaign language with the agency owner’s confirmation. A publisher-issued winner card, certificate, or equivalent category listing should be added to the campaign records when available; the public searches reviewed so far did not return an independently accessible agency-winner listing.
+The official Light and Champion supplemental insert now provides page-level publisher evidence for both results: **page 4** lists **“Insurance Agent — Monica Watson — Morrison Insurance Company,”** and **page 5** lists **“Insurance Agency — Morrison Insurance.”** A duplicate category layout on page 6 also lists both results. This supplemental insert resolves the earlier proof gap.
 
 ## Source Review
 
@@ -19,6 +19,8 @@ The agency category is being used in campaign language with the agency owner’s
 | Public local winners post | Lists Monica Watson / Morrison Insurance Company under Insurance Agent | Use as corroboration, not as a replacement for a publisher-issued winner certificate |
 | Light and Champion site search | No searchable 2026 Best of the Best results page was returned | Do not link to a nonexistent results URL |
 | Light and Champion current digital edition | Current 12-page issue was accessible but contains no Best of the Best winners listing | Do not imply the digital edition page is an award-result source |
+| Official LCBOB supplemental insert, p. 4 | Insurance Agent — Monica Watson — Morrison Insurance Company | Publisher-issued evidence for Monica’s recognition |
+| Official LCBOB supplemental insert, p. 5 | Insurance Agency — Morrison Insurance | Publisher-issued evidence for the agency recognition |
 
 ## Research Caution
 
@@ -33,3 +35,4 @@ The homepage treatment was visually verified in the development preview. It appe
 1. The Light and Champion — https://www.lightandchampion.com/
 2. Citizens of Timpson public winners post — https://www.facebook.com/groups/570070397271522/posts/2100326420912571/
 3. Supplied 2026 Best of the Best logo PDF — `/home/ubuntu/upload/BOBLogo2026(1).pdf`
+4. Official Light and Champion Best of the Best supplemental insert — `/home/ubuntu/upload/LCBOB.pdf`, pp. 4–5

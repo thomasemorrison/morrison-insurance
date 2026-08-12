@@ -123,7 +123,7 @@
 ## Light and Champion Readers Choice Awards (2026)
 - [x] Review the supplied Best of the Best logo and official Light and Champion award materials
 - [x] Verify Morrison Insurance as Best Insurance Agency and Monica Watson as Best Insurance Agent
-- [ ] Add publisher-issued category proof for Morrison Insurance’s Best Insurance Agency recognition when it is available
+- [x] Add publisher-issued category proof for Morrison Insurance’s Best Insurance Agency recognition when it is available
 - [x] Summarize verified award details and restrained, community-first acknowledgement options
 - [x] Confirm the approved balance between community gratitude and promotional use of the awards
 - [x] Build a 3–4 month recognition campaign calendar with reader thanks and fellow-winner congratulations
@@ -132,6 +132,8 @@
 - [x] Create reusable award language and a visual-branding kit for future content
 - [x] Draft separate posts for community thanks, fellow-winner congratulations, agency recognition, and Monica Watson’s agent recognition
 - [ ] Space each award post around existing scheduled content and verify daily capacity before recommending schedule dates
+- [x] Review the official LCBOB supplemental insert and extract page-level award evidence for Monica Watson and Morrison Insurance Agency
+- [x] Build a shortlist of fellow winners for selective personal congratulations, pending agency review
 
 ## Wildfire Insurance Article Handoff (Aug 2026)
 - [x] Sync and verify commit 032826a for "Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist"

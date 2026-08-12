@@ -6,7 +6,7 @@ This campaign acknowledges the readers who recognized Morrison Insurance as **Be
 
 > **Campaign principle:** Let the recognition be visible, but let gratitude carry the message.
 
-The official award mark should be used exactly as supplied. Do not add vote totals, "most voted" claims, comparative claims, or a new claim beyond the award’s official name. The available research confirms the program identity and Monica Watson’s category through a public local winners listing; the agency award is confirmed by the agency owner, with publisher-issued category proof still to be added to campaign records when available. [1] [2]
+The official award mark should be used exactly as supplied. Do not add vote totals, "most voted" claims, comparative claims, or a new claim beyond the award’s official name. The official Light and Champion supplemental insert lists **Insurance Agent — Monica Watson — Morrison Insurance Company** on page 4 and **Insurance Agency — Morrison Insurance** on page 5. [1] [2] [3]
 
 ## Website Treatment
 
@@ -159,3 +159,4 @@ Use the official award mark at no more than 14–18% of the visual canvas. Pair 
 
 [1]: https://www.lightandchampion.com/ "The Light and Champion"
 [2]: https://www.facebook.com/groups/570070397271522/posts/2100326420912571/ "Public 2026 local winners listing"
+[3]: /home/ubuntu/upload/LCBOB.pdf "Official Light and Champion 2026 Best of the Best supplemental insert, pages 4–5"
