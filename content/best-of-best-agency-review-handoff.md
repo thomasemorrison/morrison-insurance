@@ -11,6 +11,10 @@ The complete social-materials package is ready for manual scheduling and fellow-
 | [Master campaign guidance](best-of-best-community-recognition-campaign.md) | Long-term recognition rhythm, reusable language, and visual guardrails | Use for future references after the four core posts |
 | [Official research record](readers-choice-award-research.md) | Publisher-issued proof: page 4 confirms Monica Watson, page 5 confirms Morrison Insurance | Keep as the factual source for award wording |
 
+## Fellow-Winner Status
+
+Personal congratulations are **on hold** until Morrison Insurance identifies the businesses and people it would like to highlight. The four core recognition posts remain ready for manual scheduling; no fellow-winner spotlight, tag, or draft should be created before that selection is provided.
+
 ## Recommended Scheduling Order
 
 Schedule only when capacity allows:

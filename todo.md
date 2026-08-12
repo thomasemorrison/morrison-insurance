@@ -134,6 +134,7 @@
 - [ ] Space each award post around existing scheduled content and verify daily capacity before recommending schedule dates
 - [x] Review the official LCBOB supplemental insert and extract page-level award evidence for Monica Watson and Morrison Insurance Agency
 - [x] Build a shortlist of fellow winners for selective personal congratulations, pending agency review
+- [ ] Await Morrison Insurance’s selection of fellow winners before drafting personal congratulations or scheduling those posts
 - [x] Replace the homepage award mark with the user-supplied transparent PNG and verify the absence of a white border
 - [x] Prepare a ready-to-schedule four-post Best of the Best social calendar with copy, visual directions, and recommended spacing
 - [x] Package the fellow-winner selection worksheet with the calendar for agency review
