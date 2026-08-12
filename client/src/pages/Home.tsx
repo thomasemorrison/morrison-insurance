@@ -997,7 +997,7 @@ export default function HomePage() {
             }}
           >
             <img
-              src="/manus-storage/light-champion-best-of-best-2026_f6f1d050.png"
+              src="/manus-storage/light-champion-best-of-best-2026-transparent_30437b4b.png"
               alt="The Light and Champion 2026 Shelby County Readers Choice Best of the Best First Place award"
               style={{ width: "clamp(115px, 18vw, 165px)", height: "auto", flexShrink: 0 }}
             />

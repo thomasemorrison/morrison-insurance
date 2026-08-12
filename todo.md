@@ -134,6 +134,7 @@
 - [ ] Space each award post around existing scheduled content and verify daily capacity before recommending schedule dates
 - [x] Review the official LCBOB supplemental insert and extract page-level award evidence for Monica Watson and Morrison Insurance Agency
 - [x] Build a shortlist of fellow winners for selective personal congratulations, pending agency review
+- [x] Replace the homepage award mark with the user-supplied transparent PNG and verify the absence of a white border
 
 ## Wildfire Insurance Article Handoff (Aug 2026)
 - [x] Sync and verify commit 032826a for "Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist"
