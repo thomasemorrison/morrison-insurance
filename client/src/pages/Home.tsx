@@ -975,6 +975,73 @@ export default function HomePage() {
         </div>
       </section>
 
+      {/* ── COMMUNITY RECOGNITION ── */}
+      <section
+        style={{
+          backgroundColor: "var(--cream)",
+          padding: "3rem 0",
+          borderTop: "1px solid oklch(0.88 0.02 80 / 0.45)",
+        }}
+      >
+        <div className="container">
+          <div
+            className="fade-up"
+            style={{
+              display: "flex",
+              alignItems: "center",
+              justifyContent: "center",
+              gap: "clamp(1.5rem, 4vw, 3.25rem)",
+              maxWidth: "900px",
+              margin: "0 auto",
+              textAlign: "left",
+            }}
+          >
+            <img
+              src="/manus-storage/light-champion-best-of-best-2026-transparent_30437b4b.png"
+              alt="The Light and Champion 2026 Shelby County Readers Choice Best of the Best First Place award"
+              style={{ width: "clamp(115px, 18vw, 165px)", height: "auto", flexShrink: 0 }}
+            />
+            <div>
+              <p
+                style={{
+                  fontFamily: "Inter, sans-serif",
+                  fontSize: "0.75rem",
+                  fontWeight: 700,
+                  letterSpacing: "0.12em",
+                  textTransform: "uppercase",
+                  color: "var(--amber-brand)",
+                  marginBottom: "0.65rem",
+                }}
+              >
+                Shelby County Readers Choice Awards
+              </p>
+              <h2
+                style={{
+                  fontFamily: "'Cormorant Garamond', Georgia, serif",
+                  fontSize: "clamp(1.8rem, 3.5vw, 2.4rem)",
+                  lineHeight: 1.1,
+                  color: "var(--green-dark)",
+                  marginBottom: "0.75rem",
+                }}
+              >
+                Thank you, Shelby County.
+              </h2>
+              <p
+                style={{
+                  fontFamily: "Inter, sans-serif",
+                  fontSize: "0.98rem",
+                  lineHeight: 1.7,
+                  color: "var(--text-body)",
+                  margin: 0,
+                }}
+              >
+                Your votes named Morrison Insurance Best Insurance Agency and Monica Watson Best Insurance Agent in The Light and Champion&apos;s 2026 Best of the Best Awards. We&apos;re grateful for the trust—and proud to celebrate all the local winners who make Shelby County stronger.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* ── CARRIERS WE SHOP ── */}
       <section
         style={{

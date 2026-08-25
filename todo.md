@@ -117,6 +117,34 @@
 - [x] Confirm the total scheduled post count for the selected date in the next few days and keep it below the three-post daily limit
 - [x] Build a Metricool-compatible import CSV after checking the intended date has fewer than three scheduled posts
 - [x] Document the deferred educator outreach approach: landing page/form, compliant Facebook targeting, and HubSpot follow-up for warm leads
+- [x] Provide ready-to-enter manual scheduling details for Sunday, August 16, 2026; user will confirm the daily Metricool post count before scheduling
+- [x] Document the deferred educator outreach approach: landing page/form, compliant Facebook targeting, and HubSpot follow-up for warm leads
+- [x] Verify the generated school-zone visual is complete, neutral, and ready for use; record its final public asset URL
+- [x] Regenerate or refine the visual if the completed image is not suitable (not needed after review)
+- [x] Record user confirmation that the August 16 school-zone PSA was scheduled manually
+
+## Light and Champion Readers Choice Awards (2026)
+- [x] Review the supplied Best of the Best logo and official Light and Champion award materials
+- [x] Verify Morrison Insurance as Best Insurance Agency and Monica Watson as Best Insurance Agent
+- [x] Add publisher-issued category proof for Morrison Insurance’s Best Insurance Agency recognition when it is available
+- [x] Summarize verified award details and restrained, community-first acknowledgement options
+- [x] Confirm the approved balance between community gratitude and promotional use of the awards
+- [x] Build a 3–4 month recognition campaign calendar with reader thanks and fellow-winner congratulations
+- [x] Add an appropriately sized website recognition treatment without making the agency or an agent the site’s primary message
+- [x] Add a regression test for the homepage recognition wording and approved official logo asset
+- [x] Create reusable award language and a visual-branding kit for future content
+- [x] Draft separate posts for community thanks, fellow-winner congratulations, agency recognition, and Monica Watson’s agent recognition
+- [ ] Space each award post around existing scheduled content and verify daily capacity before recommending schedule dates
+- [x] Review the official LCBOB supplemental insert and extract page-level award evidence for Monica Watson and Morrison Insurance Agency
+- [x] Build a shortlist of fellow winners for selective personal congratulations, pending agency review
+- [ ] Await Morrison Insurance’s selection of fellow winners before drafting personal congratulations or scheduling those posts
+- [ ] Await authentic Morrison Insurance and local community photos before adapting or scheduling the Best of the Best social series
+- [x] Add a practical photo-collection checklist to the agency-review handoff
+- [x] Replace the homepage award mark with the user-supplied transparent PNG and verify the absence of a white border
+- [x] Prepare a ready-to-schedule four-post Best of the Best social calendar with copy, visual directions, and recommended spacing
+- [x] Package the fellow-winner selection worksheet with the calendar for agency review
+- [x] Create a combined agency-review handoff linking the social calendar and fellow-winner worksheet
+- [x] Deliver the combined social scheduling packet for agency review
 
 ## Wildfire Insurance Article Handoff (Aug 2026)
 - [x] Sync and verify commit 032826a for "Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist"
