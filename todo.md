@@ -116,6 +116,7 @@
 - [x] Write Facebook and Instagram copy focused on slowing down, watching for children, and avoiding preventable crashes and citations
 - [x] Confirm the total scheduled post count for the selected date in the next few days and keep it below the three-post daily limit
 - [x] Build a Metricool-compatible import CSV after checking the intended date has fewer than three scheduled posts
+- [x] Schedule the Facebook and Instagram school-zone PSA in Metricool for August 27 at 1:00 PM CDT
 - [x] Document the deferred educator outreach approach: landing page/form, compliant Facebook targeting, and HubSpot follow-up for warm leads
 - [x] Provide ready-to-enter manual scheduling details for Sunday, August 16, 2026; user will confirm the daily Metricool post count before scheduling
 - [x] Document the deferred educator outreach approach: landing page/form, compliant Facebook targeting, and HubSpot follow-up for warm leads

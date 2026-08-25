@@ -39,3 +39,7 @@ Use the approved neutral 4:5 school-zone image: a school bus, school-zone sign, 
 ## Selected schedule
 
 **Thursday, August 27, 2026 at 1:00 PM CDT** was selected after checking Metricool. The brand has one already-scheduled post at 10:00 AM that day, leaving this PSA as the second scheduled item and below the three-post daily cap. The corresponding Facebook and Instagram import file is `metricool-school-zone-safety-psa-2026-08-27.csv`.
+
+## Metricool confirmation
+
+The PSA is scheduled for automatic publication to **Facebook** and **Instagram** at 1:00 PM CDT on August 27, 2026. Metricool post ID: `366561316`; planner UUID: `6115081327477344081`.
