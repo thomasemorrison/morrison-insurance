@@ -86,6 +86,16 @@
 - [ ] Set campaign targeting to Shelby County + surrounding Deep East Texas counties
 - [ ] Draft ad copy following Morrison brand voice (community-first, plain language, no fear tactics)
 
+## Google Correspondence Triage (Aug 2026)
+- [x] Document the new Search Console indexing-validation failure, Analytics report, Google Ads destination errors, Performance Max results, and $1,000 credit
+- [ ] Reproduce and diagnose Google Ads' Android HTTP 503 destination error across campaign ad and asset URLs
+- [ ] Inspect Search Console for the remaining "Crawled — currently not indexed" URLs and prioritise fixes
+- [ ] Review analytics engagement and bounce-rate signals alongside traffic growth
+- [x] Prepare a prioritised Google Ads working-session agenda for tomorrow, including conversion measurement and credit verification
+- [x] Confirm a specific working-session time tomorrow before making Google Ads changes
+- [x] Create the confirmed 9:30 AM Central Google Ads working-session calendar event for tomorrow
+- [ ] Correct the uninsured-driver article's canonical and Open Graph URL metadata, then verify the live response
+
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
 - [x] Add internal links from /auto-insurance service page to three Center TX articles

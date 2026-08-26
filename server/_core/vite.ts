@@ -6,6 +6,7 @@ import path from "path";
 import { createServer as createViteServer } from "vite";
 import viteConfig from "../../vite.config";
 import { ARTICLE_META, injectArticleMeta } from "./articleMeta";
+import { getLegacyArticleRedirect } from "./legacyArticleRedirects";
 
 export async function setupVite(app: Express, server: Server) {
   const serverOptions = {
@@ -24,6 +25,12 @@ export async function setupVite(app: Express, server: Server) {
   app.use(vite.middlewares);
   app.use("*", async (req, res, next) => {
     const url = req.originalUrl;
+    const redirect = getLegacyArticleRedirect(url);
+
+    if (redirect) {
+      res.redirect(301, redirect);
+      return;
+    }
 
     try {
       const clientTemplate = path.resolve(
@@ -71,6 +78,13 @@ export function serveStatic(app: Express) {
 
   // fall through to index.html, injecting article meta for crawlers
   app.use("*", (req, res) => {
+    const redirect = getLegacyArticleRedirect(req.originalUrl);
+
+    if (redirect) {
+      res.redirect(301, redirect);
+      return;
+    }
+
     const indexPath = path.resolve(distPath, "index.html");
     fs.readFile(indexPath, "utf-8", (err, html) => {
       if (err) {
