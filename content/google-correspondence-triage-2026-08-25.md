@@ -46,3 +46,7 @@ The attached Google DMARC aggregate report covers four messages from Microsoft 3
 ## Calendar confirmation
 
 The Google Ads and Search Console working session is on the primary calendar for **Tuesday, August 26, 2026, 9:30–10:15 AM CDT**. Calendar event ID: `crfm358b6ccco37pscfr2ib0og`. It includes 30-minute and 5-minute reminders.
+
+## Published redirect verification
+
+After publication, `https://morrison-ins.net/resources/accident-uninsured-driver-texas?utm_source=google` returns an HTTP 301 redirect to `/resources/uninsured-driver-accident-texas?utm_source=google`. The canonical destination returns HTTP 200 to a Googlebot-style request and now declares its own canonical URL, matching `og:url` and the article title. This resolves the specific canonical mismatch behind the crawled-but-not-indexed example; Search Console will need time to recrawl and update its report.
