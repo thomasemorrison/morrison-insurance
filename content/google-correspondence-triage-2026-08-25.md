@@ -33,6 +33,10 @@ The single crawled-but-not-indexed example is `https://morrison-ins.net/resource
 
 The attached Google DMARC aggregate report covers four messages from Microsoft 365 IPv6 sending infrastructure. Every message passed both SPF and DKIM with `selector1`; no unauthorized source or authentication failure appears in this report. The published DMARC policy remains monitoring-only (`p=none`). No immediate email-authentication action is required.
 
+## Follow-up DMARC reports
+
+The two consecutive Google aggregate reports reviewed together cover seven total messages sent as `morrison-ins.net`: four in the first report and three in the second. All seven passed aligned SPF and DKIM using `selector1`, with no unauthorized sending source, DMARC failure, or quarantine/reject action reported. The domain remains on the monitoring policy (`p=none`), so no email-authentication change is warranted at this time.
+
 ## Working-session agenda for tomorrow
 
 1. Verify the $1,000 promotional credit and its terms.
@@ -45,7 +49,7 @@ The attached Google DMARC aggregate report covers four messages from Microsoft 3
 
 ## Calendar confirmation
 
-The Google Ads and Search Console working session is on the primary calendar for **Tuesday, August 26, 2026, 9:30–10:15 AM CDT**. Calendar event ID: `crfm358b6ccco37pscfr2ib0og`. It includes 30-minute and 5-minute reminders.
+The Google Ads and Search Console working session is on the primary calendar for **Thursday, August 27, 2026, 9:30–10:15 AM CDT**. Calendar event ID: `crfm358b6ccco37pscfr2ib0og`. It includes 30-minute and 5-minute reminders.
 
 ## Published redirect verification
 

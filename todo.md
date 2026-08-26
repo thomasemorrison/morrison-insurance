@@ -97,6 +97,10 @@
 - [x] Add a permanent redirect from the obsolete uninsured-driver URL and verify the published canonical destination metadata
 - [x] Verify the uninsured-driver article's React hook imports are clean and the TypeScript check passes
 
+## DMARC Aggregate Reports (Aug 2026)
+- [x] Extract and compare the two attached Google DMARC reports
+- [x] Identify any SPF, DKIM, or DMARC alignment failures requiring action
+
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
 - [x] Add internal links from /auto-insurance service page to three Center TX articles
