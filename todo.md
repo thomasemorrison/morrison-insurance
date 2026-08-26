@@ -95,6 +95,7 @@
 - [x] Confirm a specific working-session time tomorrow before making Google Ads changes
 - [x] Create the confirmed 9:30 AM Central Google Ads working-session calendar event for tomorrow
 - [ ] Correct the uninsured-driver article's canonical and Open Graph URL metadata, then verify the live response
+- [x] Verify the uninsured-driver article's React hook imports are clean and the TypeScript check passes
 
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
