@@ -101,6 +101,28 @@
 - [x] Extract and compare the two attached Google DMARC reports
 - [x] Identify any SPF, DKIM, or DMARC alignment failures requiring action
 
+## Recurring Social Workflow Audit (Aug 2026)
+- [x] Verify active status and recent run history for weather alerts
+- [x] Verify active status and recent run history for the weekly fishing report
+- [x] Verify active status and recent run history for the weekly five-school sports crawl
+- [x] Verify active status and recent run history for local current-events research
+- [x] Assess social calendar gaps and prepare restart recommendations
+- [x] Analyze the supplied weekly GSC report snapshot and identify immediate CTR/content opportunities
+- [ ] Pull full 28-day Search Console query and page performance for priority local search terms
+- [ ] Compare the current 28-day GSC period with the prior period to identify ranking gains, losses, and pages gaining or losing traction
+- [x] Document a repeatable SEO measurement and weekly content decision process
+- [x] Inventory all active scheduled Manus searches and map each one to weather, fishing, sports, events, or SEO output
+- [ ] Consolidate overlapping scheduled searches into a single clear operating cadence without duplicate runs
+- [ ] Resolve the unavailable Gmail account-selection approval only if email-history tracing remains necessary
+- [x] Approve and implement the focused weekly rhythm plus safety monitor
+
+## Approved Recurring Content Rhythm (Model A)
+- [x] Update the weekly editorial handoff to consume the weekly GSC report, refresh existing pages before duplicating topics, and include local current-events research
+- [x] Restore a weekday morning weather and burn-ban scan that reports only material public-safety alerts
+- [x] Restore the weekly Toledo Bend fishing report workflow
+- [x] Create the weekly five-school sports research workflow for Center, Joaquin, Tenaha, Timpson, and Shelbyville
+- [x] Verify the approved weekday Content Desk is active and document its cadence, output, and current SEO priorities
+
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
 - [x] Add internal links from /auto-insurance service page to three Center TX articles

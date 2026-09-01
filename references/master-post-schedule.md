@@ -1,7 +1,7 @@
 # Morrison Insurance — Master Post Schedule
-**Last revised:** July 2026
+**Last revised:** September 1, 2026
 **Purpose:** Full list of ready-to-schedule posts. Use this to batch-schedule in Metricool.
-**Automated posts (do not duplicate):** Wednesday blog via RSS, Monday community update via Manus AI, Thursday fishing report via Manus AI.
+**Current recurring workflow:** The active weekday Content Desk performs a material weather/burn scan each weekday, produces the weekly SEO and community handoff on Monday, prepares the five-school sports update on Tuesday, and prepares the Toledo Bend fishing report on Thursday. It does not automatically publish website changes or schedule social posts; every proposed post requires the Morrison team’s approval and a Metricool capacity check before scheduling.
 
 ---
 

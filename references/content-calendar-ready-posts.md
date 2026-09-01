@@ -2,7 +2,9 @@
 
 ## All Ready-to-Schedule Posts
 
-**Last updated:** July 2026**Scheduling tool:** Metricool**Automated posts (do NOT schedule manually):** Wednesday blog (RSS), Monday community post (Manus AI), Thursday fishing report (Manus AI)
+**Last updated:** September 1, 2026  
+**Scheduling tool:** Metricool  
+**Current workflow:** The weekday Content Desk researches material weather/burn conditions each weekday; prepares the SEO and community handoff on Monday, five-school sports update on Tuesday, and Toledo Bend fishing report on Thursday. It does not schedule posts automatically. Before every scheduling recommendation or action, check Metricool’s total cross-network count for the target date and keep it below three posts.
 
 ---
 
@@ -17,7 +19,7 @@
 
 **LinkedIn post rule:** Use the Facebook caption, trim to 3 short paragraphs max, remove emojis, remove hashtags except 2–3 professional ones. Lead with the insight, not the location.
 
-**GBP post rule:** 150–300 words, no hashtags, end with a clear CTA and phone number. GBP posts expire after 7 days — schedule weekly or bi-weekly only.
+**GBP post rule:** Use the correct post type: **Update** for informational content, **Offer** only for dated discounts/terms, and **Event** only for dated events with time and location. Captions must be plain text, 150–250 words, with no hashtags, phone number, or pasted URL. Use a real Morrison Insurance or recognizable Center/Shelby County photo—not stock or text-heavy templates—and attach a Call Now or Learn More button instead of adding contact details to the caption.
 
 **Image sizes:**
 
@@ -53,11 +55,15 @@ Work through the series in any order. Time-sensitive posts (Series I — July/Au
 
 **Suggested weekly rhythm:**
 
-- Wednesday: Automated blog post (RSS — do not touch)
+- Monday: SEO and community handoff for review; select one proposed community item.
 
-- Friday: One post from this list (rotate through series)
+- Tuesday: Five-school sports research and carousel-ready content for Center, Joaquin, Tenaha, Timpson, and Shelbyville.
 
-- Monday: Automated community post (Manus AI — do not touch)
+- Thursday: Toledo Bend fishing report research and ready-to-review copy.
+
+- Weekdays: Material weather or burn-ban alert only; routine weather stays silent.
+
+- Friday or another open day: One evergreen post from this list, subject to the cross-network three-post daily limit.
 
 Each post entry includes:
 
@@ -1136,4 +1142,3 @@ If you checked more than two of those, it's worth a conversation. Some of it may
 ---
 
 *Automated posts not included above: Wednesday blog (RSS), Monday community post (Manus AI), Thursday fishing report (Manus AI).*
-
