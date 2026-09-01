@@ -97,6 +97,17 @@
 - [x] Add a permanent redirect from the obsolete uninsured-driver URL and verify the published canonical destination metadata
 - [x] Verify the uninsured-driver article's React hook imports are clean and the TypeScript check passes
 
+## Google Ads Campaign Restoration (Sep 2026)
+- [x] Inspect campaign status, policy disapprovals, billing/credit eligibility, destinations, conversions, budget, location targeting, and search terms
+- [ ] Verify live landing-page and tracking reliability for the exact final URLs used by paused ads
+- [x] Draft a conservative, hyper-local restoration plan aligned with the Morrison Insurance brand and Shelby County / Deep East Texas demand
+- [ ] Obtain explicit approval for the exact campaign status, budget, targeting, keyword, and ad changes before applying them
+- [ ] Apply only the approved campaign changes and verify the restoration outcome
+- [x] Verify every exact asset destination—including Auto campaign sitelinks—with public and crawler-style checks, then record the asset-to-URL mapping
+- [ ] Confirm Google Ads call and HubSpot form-conversion event wiring end-to-end without creating artificial production leads or conversions
+- [x] Create a complete account-wide asset-to-URL inventory covering ads, sitelinks, lead forms, call assets, and other destination-bearing assets
+- [x] Re-run bounded header checks for the homepage under desktop, Android, Googlebot, and AdsBot-style clients, and document any remaining availability limitation
+
 ## DMARC Aggregate Reports (Aug 2026)
 - [x] Extract and compare the two attached Google DMARC reports
 - [x] Identify any SPF, DKIM, or DMARC alignment failures requiring action
