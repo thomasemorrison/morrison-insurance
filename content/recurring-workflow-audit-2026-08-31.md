@@ -80,3 +80,11 @@ The referenced **“Morrison Insurance Weekly Tasks: Blog and Community Update�
 That child run used the older Monday-only prompt because it had already started before the schedule was converted. It prepared an ATV/UTV article draft and a September 7 burn-ban community-post draft, but it did not publish the article, request indexing, or schedule social content. Its own report states that its project storage and Search Console access were unavailable. Treat those outputs as unapproved drafts only; they do not need to be copied into the live site or social calendar without a separate review.
 
 No duplicate schedule remains. Future runs of the same parent task use the new weekday Content Desk instructions and cadence.
+
+## ATV and UTV draft status — September 1, 2026
+
+The older run produced a substantive draft titled **“Does Auto Insurance Cover Your ATV or UTV in Texas? An East Texas Guide”** for the proposed route `/resources/atv-utv-insurance-east-texas`. It is a relevant seasonal candidate for rural East Texas, but it is not yet part of the live project and is therefore not publish-ready.
+
+The draft uses the established ArticleLayout and SchemaMarkup pattern, has suitable related-article links, and does not duplicate the current boat article. However, it needs a current-project integration pass before publication: a unique 4:5 hero image must be uploaded to Morrison’s own web storage, all registries must be added to the canonical repository, the article-count test must be updated, and the required social/media handoff must be checked against fresh GSC evidence. The supplied weekly GSC snapshot does not identify an ATV/UTV query as a current top opportunity, so the article is a useful seasonal draft rather than this week’s evidence-led SEO priority.
+
+The approved handling is to keep it in this week’s editorial materials as a **review-ready draft**, not publish it automatically. The first evidence-led SEO action remains a refresh of the existing farm-versus-homeowners article, which has 118 impressions and a 0% CTR in the supplied GSC report.

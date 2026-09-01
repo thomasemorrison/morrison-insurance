@@ -135,6 +135,14 @@
 - [x] Inspect the referenced morning weekly task and compare it with the active weekday Content Desk
 - [x] Identify the referenced task as the prior run of the same consolidated schedule; no duplicate cleanup is required
 
+## ATV/UTV Draft Review (Sep 2026)
+- [x] Retrieve the referenced ATV/UTV article draft and its related social/community materials
+- [x] Validate the draft as review-ready but not publish-ready: it lacks canonical project registration, a Morrison-hosted hero image verified to current standards, and fresh GSC evidence
+- [x] Include the ATV/UTV article as a review-ready seasonal draft in this week's materials; do not publish it automatically
+- [x] Add a concrete weekly queue entry recording the draft disposition and all required publication steps
+- [x] Verify the referenced hero image is 1536×2304 (2:3), not the required 4:5; replace it with a Morrison-hosted 4:5 image before publication
+- [ ] If approved for publication, move the ATV/UTV draft into the canonical repository, host a unique 4:5 hero, complete all registries, test, publish, index, and prepare social copy
+
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
 - [x] Add internal links from /auto-insurance service page to three Center TX articles
