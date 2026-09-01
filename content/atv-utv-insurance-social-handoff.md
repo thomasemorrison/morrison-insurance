@@ -65,3 +65,9 @@ Read the full guide in the Morrison Insurance Resources section.
 ## Publication and Indexing Note
 
 After the article’s live publication, inspect `https://morrison-ins.net/resources/atv-utv-insurance-east-texas` in Google Search Console and use **Request Indexing**. Do not schedule or recommend a calendar date until Metricool confirms fewer than three total posts for that date.
+
+## Live verification — September 1, 2026
+
+The article is live at its canonical URL. Its public HTML declares the matching canonical URL, `og:url`, article title, description, and Morrison-hosted 4:5 hero image. Google Search Console initially reports the new URL as unknown to Google with no recorded sitemap discovery or crawl yet, which is normal for a newly published page.
+
+The first URL Inspection request was rejected after the live test reported **“Robots.txt unreachable.”** Independent live checks immediately afterward returned HTTP 200 for `https://morrison-ins.net/robots.txt` under standard, Googlebot, and Google smartphone crawler-style user agents. The robots file allows all crawlers, blocks only `/thank-you`, and declares the sitemap. Treat the Search Console result as an apparent transient site-wide fetch issue; do not submit repeated requests. Re-test the live URL after Google’s crawl systems have had time to retry, then request indexing if the robots fetch is healthy.

@@ -81,10 +81,8 @@ That child run used the older Monday-only prompt because it had already started 
 
 No duplicate schedule remains. Future runs of the same parent task use the new weekday Content Desk instructions and cadence.
 
-## ATV and UTV draft status — September 1, 2026
+## ATV and UTV publication status — September 1, 2026
 
-The older run produced a substantive draft titled **“Does Auto Insurance Cover Your ATV or UTV in Texas? An East Texas Guide”** for the proposed route `/resources/atv-utv-insurance-east-texas`. It is a relevant seasonal candidate for rural East Texas, but it is not yet part of the live project and is therefore not publish-ready.
+The older run produced a substantive draft titled **“Does Auto Insurance Cover Your ATV or UTV in Texas? An East Texas Guide”** for `/resources/atv-utv-insurance-east-texas`. Morrison Insurance approved the seasonal article, and it is now published in the live website with a unique Morrison-hosted 4:5 hero image, matching route and registry entries, validated metadata, and a four-channel social handoff.
 
-The draft uses the established ArticleLayout and SchemaMarkup pattern, has suitable related-article links, and does not duplicate the current boat article. However, it needs a current-project integration pass before publication: a unique 4:5 hero image must be uploaded to Morrison’s own web storage, all registries must be added to the canonical repository, the article-count test must be updated, and the required social/media handoff must be checked against fresh GSC evidence. The supplied weekly GSC snapshot does not identify an ATV/UTV query as a current top opportunity, so the article is a useful seasonal draft rather than this week’s evidence-led SEO priority.
-
-The approved handling is to keep it in this week’s editorial materials as a **review-ready draft**, not publish it automatically. The first evidence-led SEO action remains a refresh of the existing farm-versus-homeowners article, which has 118 impressions and a 0% CTR in the supplied GSC report.
+The article is a relevant seasonal resource for rural East Texas and does not duplicate the existing boat or hunting-lease guides. The supplied GSC snapshot did not identify an ATV/UTV query as the immediate SEO priority, so the next evidence-led action remains a refresh of the existing farm-versus-homeowners article, which had 118 impressions and a 0% CTR in the supplied report.

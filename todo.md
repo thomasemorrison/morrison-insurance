@@ -152,6 +152,16 @@
 - [x] Create compliant Facebook, Instagram, Google Business Profile, and LinkedIn handoff copy using the matching article image where permitted
 - [ ] Save a ready-to-publish checkpoint and request indexing after live publication
 
+## Fishing Workflow and ATV/UTV Publication Follow-up (Sep 2026)
+- [x] Inspect the referenced Toledo Bend fishing-report workflow and its intended social output
+- [x] Confirm the published ATV/UTV URL and public canonical and Open Graph metadata
+- [ ] Request Google indexing for the published ATV/UTV article
+- [ ] Re-test the ATV/UTV URL Inspection after the transient robots.txt-unreachable result, then request indexing if Google’s live test is healthy
+- [x] Add the fishing-report workflow to the weekly social media wrap-up documentation
+- [x] Confirm the Thursday Content Desk fishing step is the sole active workflow; no separate schedule exists or should be restored
+- [x] Update the actual weekly social-media wrap-up documentation to name the Toledo Bend report as Thursday's social deliverable
+- [x] Update the workflow audit to reflect the published ATV/UTV article and completed social handoff
+
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
 - [x] Add internal links from /auto-insurance service page to three Center TX articles
