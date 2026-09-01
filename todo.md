@@ -174,6 +174,12 @@
 - [x] Build and validate a Metricool-compatible CSV for the approved ATV/UTV posts
 - [x] Keep the five-school carousel out of the import until the finished carousel media URL is available
 
+## Five-School Sports Carousel Import (Sep 2026)
+- [x] Check Metricool's daily post count: Friday, September 4 has one scheduled item, leaving room below the three-post limit
+- [x] Upload the five approved school cards as public carousel image URLs in their intended order
+- [x] Build and validate a Facebook and Instagram draft carousel row for Friday, September 4 at 1:00 PM CDT
+- [x] Confirm the neutral county-wide caption and card details align with the five current school schedules
+
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
 - [x] Add internal links from /auto-insurance service page to three Center TX articles

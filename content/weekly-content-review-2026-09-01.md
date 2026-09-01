@@ -1,17 +1,15 @@
 # Morrison Insurance — Weekly Editorial & Social Media Review
 
-**Research date:** September 1, 2026  
-**Status:** Review-ready. Nothing in this package is newly scheduled or published by this handoff.  
-**Scope:** SEO priority, published ATV/UTV article handoff, a five-school athletics carousel, and one community-post option. The separately scheduled Toledo Bend fishing report is intentionally excluded to avoid duplication.
+**Research date:** September 1, 2026**Status:** Review-ready. Nothing in this package is newly scheduled or published by this handoff.**Scope:** SEO priority, published ATV/UTV article handoff, a five-school athletics carousel, and one community-post option. The separately scheduled Toledo Bend fishing report is intentionally excluded to avoid duplication.
 
 ## This Week at a Glance
 
-The clearest evidence-led SEO action is a **refresh of the existing farm-versus-homeowners article**, not a new article. The supplied 28-day GSC snapshot reports 118 impressions and a 0% CTR for the query *“difference between farm insurance and homeowners insurance.”* The newly published ATV/UTV guide is a good seasonal resource and has a complete social handoff ready; it does not replace the farm-page refresh as the measured SEO priority.[^gsc]
+The clearest evidence-led SEO action is a **refresh of the existing farm-versus-homeowners article**, not a new article. The supplied 28-day GSC snapshot reports 118 impressions and a 0% CTR for the query *“difference between farm insurance and homeowners insurance.”* The newly published ATV/UTV guide is a good seasonal resource and has a complete social handoff ready; it does not replace the farm-page refresh as the measured SEO priority.[1](#user-content-fn-gsc)
 
-For social content, the most useful new piece is a neutral, all-five-school athletics carousel that includes volleyball, cross country, junior high, and football rather than treating football as the only fall story. A second, lighter community option recognizes the Rio Theatre’s centennial and its call for historic photographs and memories. The Toledo Bend fishing report remains the Thursday fishing slot and should not be recreated here.[^sports] [^around-town]
+For social content, the most useful new piece is a neutral, all-five-school athletics carousel that includes volleyball, cross country, junior high, and football rather than treating football as the only fall story. A second, lighter community option recognizes the Rio Theatre’s centennial and its call for historic photographs and memories. The Toledo Bend fishing report remains the Thursday fishing slot and should not be recreated here.[2](#user-content-fn-sports) [3](#user-content-fn-around-town)
 
 | Item | Recommendation | Status | Scheduling note |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | Farm vs. Homeowners page | Refresh existing page for the high-impression, zero-click query | Needs approval | Website update; not a new article |
 | ATV/UTV article | Promote the published guide | Ready | Facebook + Instagram fit on Sep. 6; GBP fits Sep. 7, subject to approval |
 | Five-school athletics carousel | Prepare Canva cards and use the neutral caption below | Ready for card fill-in | Hold until the next date is rechecked in Metricool |
@@ -23,7 +21,7 @@ For social content, the most useful new piece is a neutral, all-five-school athl
 Metricool was checked for September 1–7 before any recommendation in this package. The counts below reflect scheduled cross-network placements visible in Metricool at review time; they do not include posts scheduled outside Metricool. The agency rule is a maximum of three total network placements per day.
 
 | Date | Existing scheduled placements | Recommendation |
-|---|---:|---|
+| --- | --- | --- |
 | Wed., Sep. 2 | 3 | Do not add a post |
 | Thu., Sep. 3 | 4 | Do not add a post; existing activity already exceeds the agency cap |
 | Fri., Sep. 4 | 4 | Do not add a post; existing activity already exceeds the agency cap |
@@ -38,7 +36,7 @@ Metricool was checked for September 1–7 before any recommendation in this pack
 The current query is already earning visibility, but it is not earning clicks. The right next step is to make the existing guide more immediately useful for rural East Texas property owners and more direct in its search snippet. Do not publish a near-duplicate post this week.
 
 | Element | Proposed update |
-|---|---|
+| --- | --- |
 | Suggested title tag | **Farm Insurance vs. Homeowners Insurance in Texas: What East Texas Property Owners Should Know** |
 | Suggested meta description | **Wondering where a homeowners policy may stop and farm coverage may begin? A plain-language guide for East Texas property owners with land, outbuildings, equipment, or livestock.** |
 | Opening section | Add a short, direct answer explaining that the distinction often comes down to the property, buildings, equipment, animals, and how the land is used; individual policies vary. |
@@ -52,10 +50,7 @@ Living on a few acres in East Texas can mean more than a house and a driveway. T
 
 ## Published Article Handoff — ATV and UTV Guide
 
-**Article:** *Does Auto Insurance Cover Your ATV or UTV in Texas? An East Texas Guide*  
-**Live URL:** `https://morrison-ins.net/resources/atv-utv-insurance-east-texas`  
-**Image for Facebook and Instagram:** `https://morrison-ins.net/manus-storage/utv-east-texas-pines-hero-4x5_a6d26ac5.jpg`  
-**Google Business Profile image:** Use a real Morrison Insurance building photograph or recognizable Center/Shelby County photograph in JPEG format. Do not use the article hero image for GBP.
+**Article:** *Does Auto Insurance Cover Your ATV or UTV in Texas? An East Texas Guide***Live URL:** `https://morrison-ins.net/resources/atv-utv-insurance-east-texas`**Image for Facebook and Instagram:** `https://morrison-ins.net/manus-storage/utv-east-texas-pines-hero-4x5_a6d26ac5.jpg`**Google Business Profile image:** Use a real Morrison Insurance building photograph or recognizable Center/Shelby County photograph in JPEG format. Do not use the article hero image for GBP.
 
 ### Facebook — Proposed September 6 Post
 
@@ -99,10 +94,10 @@ Read the full guide in the Morrison Insurance Resources section.
 
 ## Five-School Athletics Carousel — Hold for Next Open Slot
 
-The weekly carousel should use the existing school templates, rotating the card order so the same school is not always first. This week’s suggested card order is **Joaquin, Shelbyville, Center, Timpson, Tenaha**. Use the details below as a verified planning sheet, then confirm any last-minute time or location change through the school before publishing. The Joaquin–Tenaha Friday listing contains a 7:00 PM/7:30 PM conflict in the county roundup, so the caption deliberately avoids giving a kickoff time for that game.[^sports]
+The weekly carousel should use the existing school templates, rotating the card order so the same school is not always first. This week’s suggested card order is **Joaquin, Shelbyville, Center, Timpson, Tenaha**. Use the details below as a verified planning sheet, then confirm any last-minute time or location change through the school before publishing. The Joaquin–Tenaha Friday listing contains a 7:00 PM/7:30 PM conflict in the county roundup, so the caption deliberately avoids giving a kickoff time for that game.[2](#user-content-fn-sports)
 
 | Card | School | Verified this-week emphasis | Template fill-in direction |
-|---:|---|---|---|
+| --- | --- | --- | --- |
 | 1 | Joaquin Rams | Cross country hosts a meet Sep. 2; varsity football travels to Tenaha Sep. 4 | Use football card; `@ Tenaha · Friday` and verify kickoff on school page |
 | 2 | Shelbyville Dragons | Volleyball at Colmesneil Sep. 3; varsity football at Hooks Sep. 4 | Use football card; `@ Hooks · Friday · 7:30 PM` |
 | 3 | Center Roughriders | Volleyball at Whitehouse tournament Sep. 3–5; varsity football hosts Cornerstone Sep. 4 | Use football card; `vs. Cornerstone · Friday · 7:00 PM` |
@@ -133,7 +128,7 @@ Good luck to the Roughriders, Rams, Tigers, Bears, and Dragons—and to the coac
 
 ## Community Option — The Rio Theatre’s Centennial Memory Book
 
-The Rio Theatre’s centennial is a warm community story with a September 30 deadline for people to send photographs and memories to the Shelby County Chamber of Commerce. It is a better evergreen September option than a late V-J Day reminder, which is time-sensitive and has no safe capacity window in the current calendar.[^around-town]
+The Rio Theatre’s centennial is a warm community story with a September 30 deadline for people to send photographs and memories to the Shelby County Chamber of Commerce. It is a better evergreen September option than a late V-J Day reminder, which is time-sensitive and has no safe capacity window in the current calendar.[3](#user-content-fn-around-town)
 
 ### Facebook Caption
 
@@ -157,12 +152,12 @@ The Shelby County Chamber is gathering photographs and memories for a commemorat
 
 ## Fishing Report — Already Scheduled
 
-No fishing caption, image, or post recommendation is repeated here. The existing fishing workflow remains this week’s Toledo Bend slot. Its scheduled report should use current water information and the public September 5 Toledo Bend Army Recreation Park tournament details; TPWD’s weekly Toledo Bend fishing-report page currently states that reports are on hold, so it should not be cited as a current bait or catch report.[^twdb] [^tpwd] [^mwr]
+No fishing caption, image, or post recommendation is repeated here. The existing fishing workflow remains this week’s Toledo Bend slot. Its scheduled report should use current water information and the public September 5 Toledo Bend Army Recreation Park tournament details; TPWD’s weekly Toledo Bend fishing-report page currently states that reports are on hold, so it should not be cited as a current bait or catch report.[4](#user-content-fn-twdb) [5](#user-content-fn-tpwd) [6](#user-content-fn-mwr)
 
 ## Approval Checklist
 
 | Decision | What approval unlocks |
-|---|---|
+| --- | --- |
 | Approve farm-page refresh | Draft the exact on-page update, test it, and prepare the Search Console comparison note |
 | Approve Sep. 6 Facebook + Instagram ATV/UTV promotion | Schedule two placements using the hosted 4:5 hero image |
 | Approve Sep. 7 GBP ATV/UTV Update | Schedule one compliant GBP Update using a real local JPEG and Learn More button |
@@ -171,9 +166,16 @@ No fishing caption, image, or post recommendation is repeated here. The existing
 
 ## References
 
-[^gsc]: Supplied **Weekly GSC Report — Morrison Insurance**, last 28 days, received September 1, 2026.
-[^sports]: [Shelby County Today — Shelby County Sports This Week for Aug. 31–Sept. 5](https://scttx.com/articles/shelby-county-sports-week-aug-31-sept-5).
-[^around-town]: [Shelby County Today — Around Town](https://scttx.com/around-town).
-[^twdb]: [Texas Water Development Board — Toledo Bend Reservoir](https://waterdatafortexas.org/reservoirs/individual/toledo-bend).
-[^tpwd]: [Texas Parks & Wildlife — Toledo Bend Fishing Report](https://tpwd.texas.gov/fishboat/fish/action/reptform2.php?lake=TOLEDO+BEND).
-[^mwr]: [U.S. Army MWR — Toledo Bend Monthly Bass Tournament](https://polk.armymwr.com/calendar/event/64783).
+## Footnotes
+
+1. Supplied **Weekly GSC Report — Morrison Insurance**, last 28 days, received September 1, 2026. [↩](#user-content-fnref-gsc)
+
+1. [Shelby County Today — Shelby County Sports This Week for Aug. 31–Sept. 5](https://scttx.com/articles/shelby-county-sports-week-aug-31-sept-5). [↩](#user-content-fnref-sports) [↩2](#user-content-fnref-sports-2)
+
+1. [Shelby County Today — Around Town](https://scttx.com/around-town). [↩](#user-content-fnref-around-town) [↩2](#user-content-fnref-around-town-2)
+
+1. [Texas Water Development Board — Toledo Bend Reservoir](https://waterdatafortexas.org/reservoirs/individual/toledo-bend). [↩](#user-content-fnref-twdb)
+
+1. [Texas Parks & Wildlife — Toledo Bend Fishing Report](https://tpwd.texas.gov/fishboat/fish/action/reptform2.php?lake=TOLEDO+BEND). [↩](#user-content-fnref-tpwd)
+
+1. [U.S. Army MWR — Toledo Bend Monthly Bass Tournament](https://polk.armymwr.com/calendar/event/64783). [↩](#user-content-fnref-mwr)
