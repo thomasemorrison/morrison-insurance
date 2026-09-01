@@ -131,6 +131,10 @@
 - [x] Create the weekly five-school sports research workflow for Center, Joaquin, Tenaha, Timpson, and Shelbyville
 - [x] Verify the approved weekday Content Desk is active and document its cadence, output, and current SEO priorities
 
+## Referenced Weekly Task Comparison (Sep 2026)
+- [x] Inspect the referenced morning weekly task and compare it with the active weekday Content Desk
+- [x] Identify the referenced task as the prior run of the same consolidated schedule; no duplicate cleanup is required
+
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
 - [x] Add internal links from /auto-insurance service page to three Center TX articles

@@ -72,3 +72,11 @@ The Morrison team checked the normal project Integrations panel and confirmed th
 The weekly GSC report should be treated as the evidence package for the Monday editorial handoff. The report needs the current 28-day query and page metrics, plus the prior comparable period whenever available. It should identify clicks, impressions, CTR, average position, and the largest movements for priority local queries and pages. The Monday handoff then records the source period, selects one primary page refresh or true content gap, and ties any social or article recommendation to those figures.
 
 If the weekly report is not attached to the handoff or accessible in the SEO dashboard, the task may still complete local-event research but must not make a ranking claim or propose a data-backed SEO priority. This prevents a stale or guessed content calendar from replacing measurement.
+
+## Referenced weekly task comparison — September 1, 2026
+
+The referenced **“Morrison Insurance Weekly Tasks: Blog and Community Update”** run began at **9:01 AM CDT on September 1**. It was not a separate scheduled workflow: it was a child run of the same parent task UID, `NrUhJhWwfMw5AAmP7EyhUH`, that now powers the weekday Content Desk.
+
+That child run used the older Monday-only prompt because it had already started before the schedule was converted. It prepared an ATV/UTV article draft and a September 7 burn-ban community-post draft, but it did not publish the article, request indexing, or schedule social content. Its own report states that its project storage and Search Console access were unavailable. Treat those outputs as unapproved drafts only; they do not need to be copied into the live site or social calendar without a separate review.
+
+No duplicate schedule remains. Future runs of the same parent task use the new weekday Content Desk instructions and cadence.
