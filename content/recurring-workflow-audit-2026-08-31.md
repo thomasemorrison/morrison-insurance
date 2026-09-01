@@ -60,3 +60,15 @@ The Morrison team approved the focused weekly rhythm. To minimize duplicate work
 | Thursday | Prepare the Toledo Bend fishing report. | Use current sourceable conditions and no performance guarantees. |
 
 All outputs remain review-first: the task prepares materials but does not publish articles or schedule social posts without the Morrison team’s explicit approval.
+
+## Direct Search Console connection blocker — September 1, 2026
+
+The project has no installed user-managed Search Console connector in its current connector inventory. The supplied weekly GSC email remains the available data source. Attempting to reach the Manus project integrations workspace from the attached browser session redirected to a Backup & Restoration screen rather than the project configuration area. No restore action was taken. Direct GSC OAuth setup must wait until the project’s Integrations panel is accessible from the normal Morrison Insurance workspace.
+
+The Morrison team checked the normal project Integrations panel and confirmed that neither a Google Search Console integration nor an Add Custom API connection is currently available. Until that capability is available, Monday SEO decisions will use the active Weekly GSC Report email and SEO dashboard as the approved measurement source. The weekday Content Desk has been instructed to flag missing current data rather than infer rankings.
+
+## Weekly SEO evidence intake until direct access is available
+
+The weekly GSC report should be treated as the evidence package for the Monday editorial handoff. The report needs the current 28-day query and page metrics, plus the prior comparable period whenever available. It should identify clicks, impressions, CTR, average position, and the largest movements for priority local queries and pages. The Monday handoff then records the source period, selects one primary page refresh or true content gap, and ties any social or article recommendation to those figures.
+
+If the weekly report is not attached to the handoff or accessible in the SEO dashboard, the task may still complete local-event research but must not make a ranking claim or propose a data-backed SEO priority. This prevents a stale or guessed content calendar from replacing measurement.

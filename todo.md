@@ -111,6 +111,13 @@
 - [ ] Pull full 28-day Search Console query and page performance for priority local search terms
 - [ ] Compare the current 28-day GSC period with the prior period to identify ranking gains, losses, and pages gaining or losing traction
 - [ ] Connect a live Search Console data source to the weekday Content Desk; it currently relies on a separate protected weekly report project
+- [x] Inspect the Morrison project for an existing Google Search Console or Custom API connector; neither is available
+- [ ] Complete the owner authorization required for direct Search Console data access
+- [ ] Validate direct current and prior 28-day query/page performance pulls
+- [x] Update the Monday Content Desk instructions with the verified report-based Search Console fallback
+- [x] Document the confirmed absence of an installed Google Search Console or Custom API connection in the Morrison project
+- [x] Establish the weekly GSC email/dashboard report as the required evidence input for Monday editorial decisions until direct access is supported
+- [x] Record the owner-confirmed absence of a Google Search Console integration and Add Custom API option in a standalone project note
 - [x] Document a repeatable SEO measurement and weekly content decision process
 - [x] Inventory all active scheduled Manus searches and map each one to weather, fishing, sports, events, or SEO output
 - [x] Consolidate overlapping scheduled searches into a single clear operating cadence without duplicate runs
