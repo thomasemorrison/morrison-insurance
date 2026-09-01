@@ -19,6 +19,12 @@ const BASE_URL = "https://morrison-ins.net";
 
 /** Canonical article meta — one entry per article route. */
 export const ARTICLE_META: Record<string, ArticleMeta> = {
+  "/resources/atv-utv-insurance-east-texas": {
+    title: "Does Auto Insurance Cover Your ATV or UTV in Texas? | Morrison Insurance",
+    description: "Does auto insurance cover an ATV or UTV in Texas? A plain-language East Texas guide to separate side-by-side coverage, hunting land, and trails.",
+    image: "/manus-storage/utv-east-texas-pines-hero-4x5_a6d26ac5.jpg",
+    slug: "atv-utv-insurance-east-texas",
+  },
   "/resources/wildfire-insurance-east-texas": {
     title: "Does Homeowners Insurance Cover Wildfire Damage in Texas? | Morrison Insurance",
     description: "Does homeowners insurance cover wildfire damage in Texas? A plain-language East Texas checklist for homes, farms, and ranches.",

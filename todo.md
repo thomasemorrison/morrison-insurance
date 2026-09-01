@@ -141,7 +141,16 @@
 - [x] Include the ATV/UTV article as a review-ready seasonal draft in this week's materials; do not publish it automatically
 - [x] Add a concrete weekly queue entry recording the draft disposition and all required publication steps
 - [x] Verify the referenced hero image is 1536×2304 (2:3), not the required 4:5; replace it with a Morrison-hosted 4:5 image before publication
-- [ ] If approved for publication, move the ATV/UTV draft into the canonical repository, host a unique 4:5 hero, complete all registries, test, publish, index, and prepare social copy
+- [ ] Publish the approved ATV/UTV article, request indexing, and schedule the prepared social handoff after confirming daily capacity
+
+## ATV/UTV Article Publication Package (Sep 2026)
+- [x] Convert the supplied UTV photo to a unique, Morrison-hosted 4:5 JPEG hero image without losing the subject
+- [x] Add the approved ATV/UTV article component to the canonical repository and register its route
+- [x] Add matching Resources, article metadata, RSS, sitemap, test-count, and content-calendar entries
+- [x] Run TypeScript, automated tests, production build, XML validation, and article rendering verification
+- [x] Update the distinct Open Graph image test expectation for the new 26-article registry
+- [x] Create compliant Facebook, Instagram, Google Business Profile, and LinkedIn handoff copy using the matching article image where permitted
+- [ ] Save a ready-to-publish checkpoint and request indexing after live publication
 
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 

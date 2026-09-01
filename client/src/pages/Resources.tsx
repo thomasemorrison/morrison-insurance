@@ -19,6 +19,14 @@ function useScrollFadeUp() {
 
 const articles = [
   {
+    category: "Recreational",
+    title: "Does Auto Insurance Cover Your ATV or UTV in Texas? An East Texas Guide",
+    excerpt: "From checking fence lines to hunting camp, ATVs and side-by-sides are part of life in East Texas. Here is where regular auto coverage may end and the questions worth asking before the next ride.",
+    readTime: "5 min read",
+    href: "/resources/atv-utv-insurance-east-texas",
+    image: "/manus-storage/utv-east-texas-pines-hero-4x5_a6d26ac5.jpg",
+  },
+  {
     category: "Home Insurance",
     title: "Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist",
     excerpt: "Does homeowners insurance cover wildfire damage in Texas? Here is a calm, practical East Texas checklist for homeowners, farmers, and ranchers to review during dry weather.",

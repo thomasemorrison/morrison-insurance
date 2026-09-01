@@ -55,6 +55,12 @@
 
   <!-- SEO blog articles -->
   <url>
+    <loc>https://morrison-ins.net/resources/atv-utv-insurance-east-texas</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-09-01</lastmod>
+  </url>
+  <url>
     <loc>https://morrison-ins.net/resources/what-does-homeowners-insurance-cover-texas</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>

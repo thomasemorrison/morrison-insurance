@@ -8,7 +8,7 @@
     <copyright>Copyright 2026 Morrison Insurance</copyright>
     <managingEditor>hello@morrison-ins.net (Morrison Insurance)</managingEditor>
     <webMaster>hello@morrison-ins.net (Morrison Insurance)</webMaster>
-    <lastBuildDate>Tue, 11 Aug 2026 09:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 09:00:00 -0500</lastBuildDate>
     <atom:link href="https://morrison-ins.net/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://morrison-ins.net/manus-storage/MIBldgcurrent_0dda216e.webp</url>
@@ -19,6 +19,16 @@
       <description>Morrison Insurance — Resources &amp; Articles</description>
     </image>
 
+    <item>
+      <title>Does Auto Insurance Cover Your ATV or UTV in Texas? An East Texas Guide</title>
+      <link>https://morrison-ins.net/resources/atv-utv-insurance-east-texas</link>
+      <description>Does auto insurance cover an ATV or UTV in Texas? A plain-language East Texas guide to separate side-by-side coverage, hunting land, and trails.</description>
+      <category>Recreational</category>
+      <pubDate>Tue, 01 Sep 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://morrison-ins.net/resources/atv-utv-insurance-east-texas</guid>
+      <enclosure url="https://morrison-ins.net/manus-storage/utv-east-texas-pines-hero-4x5_a6d26ac5.jpg" length="0" type="image/jpeg"/>
+      <media:content url="https://morrison-ins.net/manus-storage/utv-east-texas-pines-hero-4x5_a6d26ac5.jpg" medium="image"/>
+    </item>
     <item>
       <title>Does Homeowners Insurance Cover Wildfire Damage in Texas? An East Texas Checklist</title>
       <link>https://morrison-ins.net/resources/wildfire-insurance-east-texas</link>
