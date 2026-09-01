@@ -54,3 +54,9 @@ The Google Ads and Search Console working session is on the primary calendar for
 ## Published redirect verification
 
 After publication, `https://morrison-ins.net/resources/accident-uninsured-driver-texas?utm_source=google` returns an HTTP 301 redirect to `/resources/uninsured-driver-accident-texas?utm_source=google`. The canonical destination returns HTTP 200 to a Googlebot-style request and now declares its own canonical URL, matching `og:url` and the article title. This resolves the specific canonical mismatch behind the crawled-but-not-indexed example; Search Console will need time to recrawl and update its report.
+
+## September 1 robots.txt live-test check
+
+Google Search Console rejected the new ATV/UTV article’s indexing request after its live URL test reported **“Robots.txt unreachable.”** The website’s source and production build both contain the same 91-byte `robots.txt`, and direct live checks immediately afterward returned HTTP 200 with `text/plain` for standard, Googlebot, and Google smartphone crawler-style requests. The live file allows all crawlers except `/thank-you` and identifies `https://morrison-ins.net/sitemap.xml`.
+
+This evidence does not show a persistent site defect; it points to an intermittent or temporary Google-side fetch failure. Do not issue repeated indexing submissions. Re-run the live URL test during the scheduled Google Ads/Search Console review and request indexing only if that test reaches the site successfully.

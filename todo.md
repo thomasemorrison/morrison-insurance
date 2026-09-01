@@ -157,6 +157,7 @@
 - [x] Confirm the published ATV/UTV URL and public canonical and Open Graph metadata
 - [ ] Request Google indexing for the published ATV/UTV article
 - [ ] Re-test the ATV/UTV URL Inspection after the transient robots.txt-unreachable result, then request indexing if Google’s live test is healthy
+- [x] Diagnose the Search Console live-test robots.txt-unreachable error: source, build, and live crawler checks are healthy; re-test rather than apply a speculative site change
 - [x] Add the fishing-report workflow to the weekly social media wrap-up documentation
 - [x] Confirm the Thursday Content Desk fishing step is the sole active workflow; no separate schedule exists or should be restored
 - [x] Update the actual weekly social-media wrap-up documentation to name the Toledo Bend report as Thursday's social deliverable
