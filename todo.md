@@ -110,9 +110,10 @@
 - [x] Analyze the supplied weekly GSC report snapshot and identify immediate CTR/content opportunities
 - [ ] Pull full 28-day Search Console query and page performance for priority local search terms
 - [ ] Compare the current 28-day GSC period with the prior period to identify ranking gains, losses, and pages gaining or losing traction
+- [ ] Connect a live Search Console data source to the weekday Content Desk; it currently relies on a separate protected weekly report project
 - [x] Document a repeatable SEO measurement and weekly content decision process
 - [x] Inventory all active scheduled Manus searches and map each one to weather, fishing, sports, events, or SEO output
-- [ ] Consolidate overlapping scheduled searches into a single clear operating cadence without duplicate runs
+- [x] Consolidate overlapping scheduled searches into a single clear operating cadence without duplicate runs
 - [ ] Resolve the unavailable Gmail account-selection approval only if email-history tracing remains necessary
 - [x] Approve and implement the focused weekly rhythm plus safety monitor
 

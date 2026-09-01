@@ -14,6 +14,8 @@ If no material alert exists and today has no other assigned output below, end qu
 
 Use the existing Weekly GSC Report as the source of SEO measurement. Do not create a duplicate independent GSC report. When the GSC report or Search Console data is available, review the most recent 28-day query and page data, including clicks, impressions, CTR, and position. Compare it with the prior period if available. Identify gains, losses, high-impression/low-CTR opportunities, and queries ranking in positions 11–20.
 
+If the current GSC report or Search Console data is not accessible, do not infer rankings or make a data-backed SEO recommendation. Clearly flag the missing measurement input in the handoff, complete the community research, and ask the Morrison team to reconnect the GSC source before the next Monday run.
+
 Before proposing a new article, check existing site content. Refresh and strengthen an existing page when the topic already has a close match; only recommend a new article for a genuine gap. For each priority, state the exact query, page, impressions, clicks, CTR, position, change from the prior period if available, and a plain-language next action.
 
 Then research current Shelby County and Deep East Texas events and community information from Shelby County Today, Light & Champion, Shelby County government, and the five school districts. Produce a weekly handoff containing:
