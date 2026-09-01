@@ -169,6 +169,11 @@
 - [x] Build one cohesive review-ready weekly social media and editorial package without publishing or scheduling posts
 - [x] Exclude the already scheduled Toledo Bend fishing report from this manual package to avoid duplication
 
+## ATV/UTV Metricool Import (Sep 2026)
+- [x] Prepare public JPEG image URLs for the ATV/UTV Facebook, Instagram, and GBP import rows
+- [x] Build and validate a Metricool-compatible CSV for the approved ATV/UTV posts
+- [x] Keep the five-school carousel out of the import until the finished carousel media URL is available
+
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
 - [x] Add internal links from /auto-insurance service page to three Center TX articles
