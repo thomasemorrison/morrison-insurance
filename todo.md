@@ -163,6 +163,12 @@
 - [x] Update the actual weekly social-media wrap-up documentation to name the Toledo Bend report as Thursday's social deliverable
 - [x] Update the workflow audit to reflect the published ATV/UTV article and completed social handoff
 
+## Manual Weekly Content Rerun (Sep 2026)
+- [x] Check Metricool capacity before making any date/time recommendation in this week's review package
+- [x] Gather current SEO, local community, and five-school sports inputs
+- [x] Build one cohesive review-ready weekly social media and editorial package without publishing or scheduling posts
+- [x] Exclude the already scheduled Toledo Bend fishing report from this manual package to avoid duplication
+
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
 - [x] Add internal links from /auto-insurance service page to three Center TX articles
