@@ -282,6 +282,14 @@ The asset reports and ad reports now provide the following account-wide inventor
 | Morrison_Search_Commercial_Center-TX | Responsive search ad | `https://morrison-ins.net/business-insurance` | Eligible ad; no separate campaign assets displayed. HTTP 200 for the four request profiles. |
 
 The homepage header test initially had intermittent TLS connection delays under several crawler-style requests, while it continued to load normally in a browser and returned 200 to Android. A bounded HTTP/1.1 retry test then returned **HTTP 200** for desktop, Android, Googlebot, and AdsBot-style homepage requests. The current evidence therefore does not support a live landing-page outage.
+
+## Approved restoration implementation log
+
+The owner approved the September 1 restoration proposal in the current conversation. The following account changes have been applied and visibly confirmed in Google Ads: the **Auto Insurance** Performance Max average daily budget was reduced from **$10.00/day to $6.00/day**; its location option was changed from **Presence or interest** to **Presence: People in or regularly in your included locations**; and **Final URL expansion** was turned off while text customization and the other existing asset-optimization controls remained unchanged. The campaign remains enabled, its target CPA remains $18.00, and its three existing included counties were not altered. The remaining approved changes are still in progress and will be recorded here as they are saved.
+
+The **Morrison_Search_Home_Center-TX** campaign remains enabled. Its daily budget was reduced from **$10.00/day to $2.00/day**; **Google Search Partners** was turned off while Google Search Network remained on; and the location setting was changed to **Presence: people in or regularly in included locations**. Its five existing targets—Center plus Panola, Sabine, San Augustine, and Shelby Counties—were preserved. Its existing responsive search ad and landing page remain unchanged.
+
+The **Morrison_Search_Commercial_Center-TX** campaign remains enabled. Its daily budget was reduced from **$10.00/day to $2.00/day**; **Google Search Partners** was turned off while Google Search Network remained on; and the location setting was changed to **Presence: people in or regularly in included locations**. Its five existing targets—Center plus Panola, Sabine, San Augustine, and Shelby Counties—were preserved. Its existing responsive search ad and landing page remain unchanged.
 | Store locations | One location group | Verify that the correct Morrison Insurance Agency location is attached. |
 | Dynamic data feed | No data feed | Not material to the immediate campaign-restoration decision. |
 | Asset group | One eligible group, average ad strength, no audience signals | Search themes are broad: car insurance, insurance quote, auto insurance, insurance agent. The themes need locality and intent refinement before any expansion. |

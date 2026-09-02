@@ -101,7 +101,7 @@
 - [x] Inspect campaign status, policy disapprovals, billing/credit eligibility, destinations, conversions, budget, location targeting, and search terms
 - [ ] Verify live landing-page and tracking reliability for the exact final URLs used by paused ads
 - [x] Draft a conservative, hyper-local restoration plan aligned with the Morrison Insurance brand and Shelby County / Deep East Texas demand
-- [ ] Obtain explicit approval for the exact campaign status, budget, targeting, keyword, and ad changes before applying them
+- [x] Obtain explicit approval for the exact campaign status, budget, targeting, keyword, and ad changes before applying them
 - [ ] Apply only the approved campaign changes and verify the restoration outcome
 - [x] Verify every exact asset destination—including Auto campaign sitelinks—with public and crawler-style checks, then record the asset-to-URL mapping
 - [ ] Confirm Google Ads call and HubSpot form-conversion event wiring end-to-end without creating artificial production leads or conversions
@@ -190,6 +190,11 @@
 - [x] Upload the five approved school cards as public carousel image URLs in their intended order
 - [x] Build and validate a Facebook and Instagram draft carousel row for Friday, September 4 at 1:00 PM CDT
 - [x] Confirm the neutral county-wide caption and card details align with the five current school schedules
+
+## Instagram Audit Social Plan Revision (Sep 2026)
+- [x] Review the referenced Instagram audit and extract applicable recommendations
+- [x] Assess recommendations against Morrison Insurance brand standards, existing cadence, Metricool capacity limits, and GBP safeguards
+- [x] Update the consolidated social media plan and shared content calendar with approved strategic changes
 
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
