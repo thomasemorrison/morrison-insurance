@@ -203,6 +203,10 @@
 - [x] Create and validate an appropriate 4:5 Labor Day social visual
 - [x] Update the social content calendar and deliver the review-ready post package
 - [x] Visually proof the generated Labor Day graphic for exact closure text, readability, and Morrison brand fit
+- [x] Publish only after Morrison selects a capacity-safe single-channel placement or explicitly approves replacing an existing scheduled placement
+- [x] Replace the prior Facebook-only Labor Day publication option with the owner's September 6 exception authorization
+- [x] Publish the approved Labor Day office-closure post to Facebook and Instagram on September 6 under the owner's one-time capacity exception
+- [x] Verify Facebook and Instagram delivery status after the automatic Labor Day publications have processed
 
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 

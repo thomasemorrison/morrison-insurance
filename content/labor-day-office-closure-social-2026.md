@@ -1,7 +1,7 @@
 # Labor Day Office Closure — Social Post Package
 
 **Holiday:** Labor Day, Monday, September 7, 2026  
-**Status:** Review-ready only; no post has been created or scheduled.  
+**Status:** Published to Facebook and Instagram on September 6, 2026.  
 **Primary channels:** Facebook and Instagram  
 **Visual:** `morrison-labor-day-office-closure-2026.png` (1080 × 1350, 4:5)
 
@@ -11,10 +11,17 @@ Metricool was checked on September 6 using the Morrison Insurance brand and `Ame
 
 | Date | Existing placements | Capacity decision |
 |---|---:|---|
-| **Sunday, Sep. 6** | 2 — separate Facebook and Instagram ATV/UTV posts at 10:00 AM | Only **one** additional single-network placement could fit. A paired Facebook-and-Instagram Labor Day post would exceed the three-placement daily limit. |
+| **Sunday, Sep. 6** | 2 — separate Facebook and Instagram ATV/UTV posts at 10:00 AM | Morrison explicitly approved a one-time exception for the time-sensitive Labor Day closure notice. |
 | **Monday, Sep. 7** | 3 — Facebook and Instagram at 10:00 AM, GBP at 1:00 PM | No additional post may be added. The Labor Day date is already at the cross-network daily cap. |
 
-> **Recommendation:** Do not add a two-platform Labor Day post to September 6 or September 7. If the closure notice must be posted before the holiday, use the approved copy below for **one channel only** on September 6, or replace an existing placement only with explicit Morrison approval. No schedule has been changed.
+> **Decision:** Morrison explicitly approved the time-sensitive exception on September 6. The post is set to publish separately to Facebook at **3:15 PM CDT** and Instagram at **3:20 PM CDT**. September 7 remains unchanged because it is already at the daily cross-network cap.
+
+## Scheduled placements
+
+| Platform | Publication time | Delivery status | Post ID |
+|---|---|---|---:|
+| Facebook | Sep. 6, 2026, 3:15 PM CDT | Published — [View post](https://facebook.com/1540319534463364/posts/1610341870794463) | 371823873 |
+| Instagram | Sep. 6, 2026, 3:20 PM CDT | Published — [View post](https://www.instagram.com/p/Dc9YYb5jVAO/) — AI-generated image flag included | 371823962 |
 
 ## Facebook caption
 
