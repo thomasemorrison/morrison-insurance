@@ -107,6 +107,7 @@
 - [ ] Confirm Google Ads call and HubSpot form-conversion event wiring end-to-end without creating artificial production leads or conversions
 - [x] Create a complete account-wide asset-to-URL inventory covering ads, sitelinks, lead forms, call assets, and other destination-bearing assets
 - [x] Re-run bounded header checks for the homepage under desktop, Android, Googlebot, and AdsBot-style clients, and document any remaining availability limitation
+- [ ] Restore a usable Chrome-connected Google Ads sign-in path after the blank takeover screen, then resume the approved restoration
 
 ## DMARC Aggregate Reports (Aug 2026)
 - [x] Extract and compare the two attached Google DMARC reports
@@ -195,6 +196,13 @@
 - [x] Review the referenced Instagram audit and extract applicable recommendations
 - [x] Assess recommendations against Morrison Insurance brand standards, existing cadence, Metricool capacity limits, and GBP safeguards
 - [x] Update the consolidated social media plan and shared content calendar with approved strategic changes
+
+## Labor Day Office Closure Social Post (Sep 2026)
+- [x] Check September 7 Metricool capacity before recommending or scheduling a Labor Day post
+- [x] Prepare community-first Facebook and Instagram Labor Day office-closure copy
+- [x] Create and validate an appropriate 4:5 Labor Day social visual
+- [x] Update the social content calendar and deliver the review-ready post package
+- [x] Visually proof the generated Labor Day graphic for exact closure text, readability, and Morrison brand fit
 
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
