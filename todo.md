@@ -208,6 +208,13 @@
 - [x] Publish the approved Labor Day office-closure post to Facebook and Instagram on September 6 under the owner's one-time capacity exception
 - [x] Verify Facebook and Instagram delivery status after the automatic Labor Day publications have processed
 
+## Morrison-Only Content Workflow Consolidation (Sep 2026)
+- [x] Inventory the six referenced content workflows, their active schedules, delivery destinations, and overlap
+- [x] Preserve one consolidated Morrison Insurance Content Desk containing weather and burn alerts, weekly fishing, five-school sports, community research, and GSC-led editorial work
+- [x] Disable all duplicate or obsolete Morrison Insurance content schedules and eliminate Pack of Strays delivery from this content operation
+- [x] Update durable workflow documentation and the shared content calendar to name one owner, one thread, and one delivery route
+- [x] Verify the retained workflow schedule and report the consolidated operating model
+
 ## GSC Content Improvement — Auto/Car Insurance Cluster (Jul 20, 2026)
 
 - [x] Add internal links from /auto-insurance service page to three Center TX articles
