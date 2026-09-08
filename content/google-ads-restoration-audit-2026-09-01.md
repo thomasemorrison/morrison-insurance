@@ -290,6 +290,10 @@ The owner approved the September 1 restoration proposal in the current conversat
 The **Morrison_Search_Home_Center-TX** campaign remains enabled. Its daily budget was reduced from **$10.00/day to $2.00/day**; **Google Search Partners** was turned off while Google Search Network remained on; and the location setting was changed to **Presence: people in or regularly in included locations**. Its five existing targets—Center plus Panola, Sabine, San Augustine, and Shelby Counties—were preserved. Its existing responsive search ad and landing page remain unchanged.
 
 The **Morrison_Search_Commercial_Center-TX** campaign remains enabled. Its daily budget was reduced from **$10.00/day to $2.00/day**; **Google Search Partners** was turned off while Google Search Network remained on; and the location setting was changed to **Presence: people in or regularly in included locations**. Its five existing targets—Center plus Panola, Sabine, San Augustine, and Shelby Counties—were preserved. Its existing responsive search ad and landing page remain unchanged.
+
+### Outstanding access blocker — September 8
+
+The remaining user-approved settings cannot yet be completed because the Google Ads browser session available to this task is still signed out. The **My Browser** connector is enabled, but the session has not attached to the user’s authenticated local Chrome tab; the available Google account chooser shows `thomas@moonrabbitexp.com` as signed out. No additional Ads change will be attempted until that authenticated session is available. This does not affect the already saved Auto, Home, and Commercial budget, Search Partners, and presence-targeting changes above.
 | Store locations | One location group | Verify that the correct Morrison Insurance Agency location is attached. |
 | Dynamic data feed | No data feed | Not material to the immediate campaign-restoration decision. |
 | Asset group | One eligible group, average ad strength, no audience signals | Search themes are broad: car insurance, insurance quote, auto insurance, insurance agent. The themes need locality and intent refinement before any expansion. |
