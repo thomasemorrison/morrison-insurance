@@ -23,6 +23,12 @@ Prioritize real questions, local utility, familiar places, outdoor and rural lif
 
 Creative must feel rooted in Center, Shelby County, or Deep East Texas. Prefer authentic Morrison, community-approved, school-provided, archival-with-permission, or recognizable local imagery. Keep a clear visual hierarchy and one central point. Never use stock handshakes, suit-forward or carrier-style graphics, a generic photo that could be anywhere, or an agency headshot as the whole message. The complete operating standard is preserved in the shared project file **Morrison Insurance — Website, Content, and Design Direction**.
 
+## Four-week editorial backlog integration
+
+The September 21–October 18 backlog complements—not replaces—the standing school, material-safety, and fishing work. Its primary sequence is: a calm fall readiness checklist; a rights-cleared East Texas Poultry Festival community feature; a TxDOT-grounded fall deer-driving checklist; and a youth poultry-learning follow-through. Two New World screwworm journal entries are **conditional** on fresh USDA APHIS and Texas Animal Health Commission verification immediately before review and publication. The current detailed source record and reviewer gates are maintained in `content/four-week-educational-community-backlog-2026-09-16.md`.
+
+This is deliberately a **backlog**, not a posting calendar. School posts and weather/burn-ban updates remain Morrison-team work, and the Thursday Toledo Bend fishing handoff remains the only fishing stream. No post receives a date, time, or platform recommendation until its facts and creative are current, Metricool confirms fewer than three cross-network placements for that date, and Morrison gives current-task approval.
+
 ## Non-negotiable safeguards
 
 | Guardrail | Working rule |
