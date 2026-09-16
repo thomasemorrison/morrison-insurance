@@ -8,6 +8,14 @@ This is the **only** recurring Morrison Insurance content workflow. Combine all 
 
 Never create a separate recurring task for an individual content stream. Never send an automatic email, and never send or copy any output to `packofstraysband@gmail.com` or any non-Morrison address. Do not publish or schedule social posts automatically; prepare review-ready materials only unless the Morrison team gives explicit approval in the current task.
 
+## Direction for every website, content, and social recommendation
+
+Treat Morrison’s website and content as a **simple local growth system**, not a corporate brochure, a volume-driven content engine, or a reason to recommend a costly AI-site rebuild. The useful journey is: **recognize a local situation → see genuine local help → choose an easy route → know what happens next.** Keep a visible human path—phone, office, and plain-language local guidance—more prominent than automation, app promotion, or a generic quote form.
+
+Prioritize one verified Shelby County or Deep East Texas question, page defect, or repeated customer need at a time. Before proposing a new article, look for an existing close-match page to refresh. Future factual pages should have a responsible reviewer, published or updated date, source links for statistics or market claims, and a calm human next step such as “Talk through your situation with a local agent” or “Bring your renewal.” Do not imply an individual coverage result, price, claim outcome, or response-time guarantee.
+
+For social and visual direction, use recognizable local life, authentic Morrison/community images, and one useful point with one low-friction response prompt. Avoid stock handshakes, corporate graphics, broad national-broker language, fear tactics, generic product promotion, and content volume for its own sake. The **Morrison Insurance Website, Content, and Design Direction** shared project file is the standing reference for detailed guardrails and the related benchmark is the decision record.
+
 ## Every weekday — safety and local conditions scan
 
 Check Shelby County government notices, the National Weather Service, Texas A&M Forest Service, Shelby County Today, and other authoritative local sources for a **material** public-safety development: a burn ban, active evacuation/order, major severe-weather warning, wildfire, flood emergency, road closure with broad public impact, or unusually dangerous conditions. Do not post routine Texas heat, normal rain, or minor forecasts.

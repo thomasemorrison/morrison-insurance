@@ -15,6 +15,14 @@ Morrison Insurance should be **the useful, recognizable Shelby County account th
 
 This plan replaces the July 2026 two-post manual rotation. It aligns the Instagram audit with the active Weekday Content Desk, the weekly sports and fishing deliverables, current SEO work, and Morrison’s community-first brand requirements. It is a planning framework, not permission to post automatically.
 
+## Direction carried forward from the P&C website benchmark
+
+The social presence supports the same simple local journey as the website: **recognize a familiar situation → find useful local help → choose an easy human next step.** A post earns attention by being helpful, recognizable, or genuinely shareable first. It may then make a soft, relevant invitation to Morrison; it must not become a thinly disguised product pitch.
+
+Prioritize real questions, local utility, familiar places, outdoor and rural life, school and community information, and calm preparation guidance. When insurance education is appropriate, frame it around what someone can gather, notice, or ask before speaking with an agent. Use ordinary local language such as “Bring your renewal” or “Let’s walk through the questions,” rather than savings promises, fear-based urgency, or corporate claims.
+
+Creative must feel rooted in Center, Shelby County, or Deep East Texas. Prefer authentic Morrison, community-approved, school-provided, archival-with-permission, or recognizable local imagery. Keep a clear visual hierarchy and one central point. Never use stock handshakes, suit-forward or carrier-style graphics, a generic photo that could be anywhere, or an agency headshot as the whole message. The complete operating standard is preserved in the shared project file **Morrison Insurance — Website, Content, and Design Direction**.
+
 ## Non-negotiable safeguards
 
 | Guardrail | Working rule |
@@ -123,4 +131,3 @@ Before any post reaches a calendar date, confirm the following in order:
 [3]: https://help.instagram.com/1800814370401535/ "Instagram Help Center — Original Content"
 
 [4]: https://help.instagram.com/653964212890722 "Instagram Help Center — Recommendation Eligibility"
-
