@@ -38,13 +38,14 @@ This is deliberately a **backlog**, not a posting calendar. School posts and wea
 | **School coverage** | Include only Center, Joaquin, Shelbyville, Tenaha, and Timpson in Shelby County school content. Rotate the first carousel card; cover all active sports fairly; never include Martinsville. |
 | **Weather and burn bans** | Post only material, timely public-safety information. A material alert may replace a lower-priority item but never overrides the three-placement cap. |
 | **Fishing** | The Thursday Toledo Bend handoff is the sole fishing workflow. Do not recreate or duplicate it elsewhere in the weekly package. |
+| **Rural market note** | This Friday Content Desk lane uses the USDA Texas Weekly Cattle Auction Summary for a date-stamped Texas cattle snapshot. East Texas timber values appear only when Texas A&M Forest Service issues a new bi-monthly report; never repeat an older timber figure as a weekly price. Label all figures as a market snapshot—not a quote, valuation, prediction, or sell/buy recommendation. The note occupies the existing third weekly feed opportunity and yields to a material safety alert. |
 | **Images and video** | Prefer original Morrison, community-approved, school-provided, archival-with-permission, or recognizable local photography. Do not use corporate handshakes, suits, generic town imagery, or stock photos for GBP. |
 | **Google Business Profile** | Treat GBP separately: use the correct post type, a real local/building photo, no phone number or URL in the caption, no fear language, and the built-in action button for a link or call. |
 | **Approvals** | The Content Desk prepares review-ready material. No social post, website change, or schedule is made without Morrison’s approval. |
 
 ## Weekly publishing architecture
 
-The sustainable aim is **up to three strong permanent feed posts per week**, plus optional interactive Stories. The two standing community deliverables are a neutral school-sports carousel and a factual Toledo Bend report. A third placement is reserved for a local story, original staff Reel, local collaboration, or carefully chosen article promotion. A material alert replaces the lowest-priority item rather than adding a fourth theme.
+The sustainable aim is **up to three strong permanent feed posts per week**, plus optional interactive Stories. The two standing community deliverables are a neutral school-sports carousel and a factual Toledo Bend report. A third placement is reserved for a local story, original staff Reel, local collaboration, carefully chosen article promotion, or the Friday Rural Market Note. A material alert replaces the lowest-priority item rather than adding a fourth theme.
 
 | Timing | Primary content | Format and purpose | Required check |
 |---|---|---|---|
@@ -52,6 +53,7 @@ The sustainable aim is **up to three strong permanent feed posts per week**, plu
 | **Tuesday or Wednesday** | Five-school sports update | 5–7-slide neutral carousel, one dedicated card per school, with the order rotated weekly. Designed for saves, shares, and tags. | Verify each schedule; confirm Metricool capacity. |
 | **Thursday** | Toledo Bend fishing report | Local photo/carousel with factual lake conditions and an outdoor-life prompt. This is community service, not an insurance pitch. | Use current sources; do not duplicate another fishing post; confirm capacity. |
 | **Saturday or another open date** | Local history, people/place, original Reel, community collaboration, or a high-value article handoff | The third weekly feed placement. It should invite an easy response and feel rooted in Center or Shelby County. | Confirm the item does not duplicate the sports, fishing, or article workflow; confirm capacity. |
+| **Friday research / open-date placement** | Rural Market Note | A factual USDA cattle snapshot and, only when newly issued, an East Texas timber update. It may occupy the third feed placement only when it adds more local utility than the week’s other third-post option. | State source, report period, geography, grade/class, weight range, and unit. Mark it “market snapshot—not a quote.” Timber data must be new, not recycled. Confirm capacity. |
 | **Stories, when useful** | Polls, question boxes, event reminders, results, reposts with permission | Audience research and repeat interaction; no pressure sale. | Treat each scheduled Story placement as part of the daily-cap check. |
 | **Blog/article promotion** | Article handoff only when it adds timely local value | A published resource can replace the third weekly feed item; it is not an assumed automatic slot. | Confirm publication, image requirements, and Metricool capacity; never duplicate an RSS or previously scheduled promotion. |
 
@@ -64,6 +66,7 @@ The mix preserves insurance expertise while putting community usefulness first. 
 | **Shelby County utility and community** | 30% | Earn shares, saves, tags, and repeat visits. | Weekly sports, verified event guide, material safety update, new-business welcome, weekend planning. |
 | **Local people, places, and history** | 20% | Build recognition and emotional connection. | Rio Theatre memories, courthouse, community photographs, local landmarks, Morrison then-and-now only when the local story leads. |
 | **Farm, land, lake, and outdoor life** | 20% | Reflect how many East Texans live, work, and spend weekends. | Toledo Bend, hunting lease, poultry and farm stories, trailers, land, side-by-sides, local photo features. |
+| **Rural market literacy** | Within farm, land, lake, and outdoor life | Give producers and landowners source-labeled context without telling them what to sell, buy, harvest, or insure. | USDA cattle summary; Texas A&M Forest Service timber-report update; a plain-language note on reported class, unit, and period. |
 | **Localized insurance and preparedness** | 20% | Demonstrate useful expertise through familiar situations. | Storm photo checklist, deer-collision preparation, claim steps, truck/trailer inventory, farm-versus-homeowners questions. |
 | **Human service and direct offer** | 10% | Convert trust into an appropriate conversation. | Staff-led explanation, what happens after a claim call, independent-carrier shopping shown in plain language. |
 
