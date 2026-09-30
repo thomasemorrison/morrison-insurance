@@ -29,6 +29,12 @@ The September 21–October 18 backlog complements—not replaces—the standing 
 
 This is deliberately a **backlog**, not a posting calendar. School posts and weather/burn-ban updates remain Morrison-team work, and the Thursday Toledo Bend fishing handoff remains the only fishing stream. No post receives a date, time, or platform recommendation until its facts and creative are current, Metricool confirms fewer than three cross-network placements for that date, and Morrison gives current-task approval.
 
+### Timely homeowner question — Texas roof-age rule clarification
+
+Treat the September 2026 TDI roof-age clarification as a **plain-language homeowner question**, not a political or premium-savings story. The useful question is: “Can a Texas insurer decline or nonrenew a home policy just because the roof is old?” TDI says age alone cannot be the basis, while the physical condition of the roof and other home components may still be considered. TDI’s proposed amendment says it clarifies an existing prohibition and does not change its meaning or application. Do not promise acceptance, renewal, coverage, a rate reduction, or a market-wide affordability outcome.
+
+The preferred web direction is a focused, source-dated FAQ rather than a revision of the existing rate-increase article: **“Can a Texas Insurer Deny Home Insurance Because Your Roof Is Old? What the Rule Actually Says.”** It should distinguish roof age from roof condition, explain what a homeowner can gather when a notice arrives, state the limits clearly, and cite the TDI release and rulemaking document. Before publication, recheck the rulemaking status. A related feed post can replace—not add to—the third weekly feed opportunity only after the article is live, facts and image rights are refreshed, Metricool confirms fewer than three same-day placements, and Morrison approves. The source record and detailed drafting guardrails are in `content/texas-roof-age-rule-content-brief-2026-09-30.md`.
+
 ## Non-negotiable safeguards
 
 | Guardrail | Working rule |
