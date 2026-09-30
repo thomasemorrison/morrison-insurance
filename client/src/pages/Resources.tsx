@@ -19,6 +19,14 @@ function useScrollFadeUp() {
 
 const articles = [
   {
+    category: "Home Insurance",
+    title: "Can a Texas Insurer Deny Home Insurance Because Your Roof Is Old?",
+    excerpt: "Texas insurers cannot decline or nonrenew a home policy solely because of roof age. Here is what the TDI rule does—and does not—mean for East Texas homeowners.",
+    readTime: "5 min read",
+    href: "/resources/texas-roof-age-home-insurance-rule",
+    image: "/manus-storage/texas-roof-age-rule-hero_3c388c54.jpg",
+  },
+  {
     category: "Recreational",
     title: "Does Auto Insurance Cover Your ATV or UTV in Texas? An East Texas Guide",
     excerpt: "From checking fence lines to hunting camp, ATVs and side-by-sides are part of life in East Texas. Here is where regular auto coverage may end and the questions worth asking before the next ride.",

@@ -19,6 +19,12 @@ const BASE_URL = "https://morrison-ins.net";
 
 /** Canonical article meta — one entry per article route. */
 export const ARTICLE_META: Record<string, ArticleMeta> = {
+  "/resources/texas-roof-age-home-insurance-rule": {
+    title: "Can a Texas Insurer Deny Home Insurance Because Your Roof Is Old? | Morrison Insurance",
+    description: "Texas insurers cannot decline or nonrenew a home policy solely because of roof age. Here is what the TDI rule does—and does not—mean for East Texas homeowners.",
+    image: "/manus-storage/texas-roof-age-rule-hero_3c388c54.jpg",
+    slug: "texas-roof-age-home-insurance-rule",
+  },
   "/resources/atv-utv-insurance-east-texas": {
     title: "Does Auto Insurance Cover Your ATV or UTV in Texas? | Morrison Insurance",
     description: "Does auto insurance cover an ATV or UTV in Texas? A plain-language East Texas guide to separate side-by-side coverage, hunting land, and trails.",

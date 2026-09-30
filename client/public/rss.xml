@@ -8,7 +8,7 @@
     <copyright>Copyright 2026 Morrison Insurance</copyright>
     <managingEditor>hello@morrison-ins.net (Morrison Insurance)</managingEditor>
     <webMaster>hello@morrison-ins.net (Morrison Insurance)</webMaster>
-    <lastBuildDate>Tue, 01 Sep 2026 09:00:00 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 09:00:00 -0500</lastBuildDate>
     <atom:link href="https://morrison-ins.net/rss.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://morrison-ins.net/manus-storage/MIBldgcurrent_0dda216e.webp</url>
@@ -18,6 +18,17 @@
       <height>144</height>
       <description>Morrison Insurance — Resources &amp; Articles</description>
     </image>
+
+    <item>
+      <title>Can a Texas Insurer Deny Home Insurance Because Your Roof Is Old? What the Rule Actually Says</title>
+      <link>https://morrison-ins.net/resources/texas-roof-age-home-insurance-rule</link>
+      <description>Texas insurers cannot decline or nonrenew a home policy solely because of roof age. Here is what the TDI rule does—and does not—mean for East Texas homeowners.</description>
+      <category>Home Insurance</category>
+      <pubDate>Wed, 30 Sep 2026 09:00:00 -0500</pubDate>
+      <guid isPermaLink="true">https://morrison-ins.net/resources/texas-roof-age-home-insurance-rule</guid>
+      <enclosure url="https://morrison-ins.net/manus-storage/texas-roof-age-rule-hero_3c388c54.jpg" length="0" type="image/jpeg"/>
+      <media:content url="https://morrison-ins.net/manus-storage/texas-roof-age-rule-hero_3c388c54.jpg" medium="image"/>
+    </item>
 
     <item>
       <title>Does Auto Insurance Cover Your ATV or UTV in Texas? An East Texas Guide</title>

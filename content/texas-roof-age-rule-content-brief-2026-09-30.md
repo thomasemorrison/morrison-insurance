@@ -1,7 +1,7 @@
 # Morrison Insurance — Texas Roof-Age Rule Content Brief
 
 **Prepared:** September 30, 2026  
-**Status:** Research and planning only. No website, social post, Google Business Profile post, email, schedule, or paid-media change has been made.
+**Status:** Article production is in progress. The article is prepared for GitHub publication; no social post, Google Business Profile post, email, schedule, or paid-media change has been made.
 
 ## Bottom line
 
@@ -38,6 +38,8 @@ TDI’s September 29 news release describes the current regulatory work as a cla
 **Recommended working title:**
 
 > **Can a Texas Insurer Deny Home Insurance Because Your Roof Is Old? What the Rule Actually Says**
+
+**Production record:** The article component is registered at `/resources/texas-roof-age-home-insurance-rule`, using the unique Morrison-hosted 4:5 hero image `/manus-storage/texas-roof-age-rule-hero_3c388c54.jpg`. The route, Resources card, article metadata, RSS item, sitemap entry, and review-ready four-channel social handoff are prepared before validation and GitHub publication.
 
 **Why it is a real gap:**
 

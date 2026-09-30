@@ -46,6 +46,7 @@ import ArticleRentersCost from "./pages/articles/ArticleRentersCost";
 import ArticleHurricaneSeasonEastTexas from "./pages/articles/ArticleHurricaneSeasonEastTexas";
 import ArticleWildfireInsuranceEastTexas from "./pages/articles/ArticleWildfireInsuranceEastTexas";
 import ArticleAtvUtvInsuranceEastTexas from "./pages/articles/ArticleAtvUtvInsuranceEastTexas";
+import ArticleTexasRoofAgeRule from "./pages/articles/ArticleTexasRoofAgeRule";
 import CookieConsent from "./components/CookieConsent";
 import MorrisonFamilyHistory from "./pages/MorrisonFamilyHistory";
 
@@ -113,6 +114,7 @@ function Router() {
       <Route path="/resources/hurricane-season-insurance-checklist-east-texas" component={() => <Layout><ArticleHurricaneSeasonEastTexas /></Layout>} />
       <Route path="/resources/wildfire-insurance-east-texas" component={() => <Layout><ArticleWildfireInsuranceEastTexas /></Layout>} />
       <Route path="/resources/atv-utv-insurance-east-texas" component={() => <Layout><ArticleAtvUtvInsuranceEastTexas /></Layout>} />
+      <Route path="/resources/texas-roof-age-home-insurance-rule" component={() => <Layout><ArticleTexasRoofAgeRule /></Layout>} />
       <Route path="/morrison-family-history" component={() => <Layout><MorrisonFamilyHistory /></Layout>} />
       <Route path="/404" component={() => <Layout><NotFound /></Layout>} />
       <Route component={() => <Layout><NotFound /></Layout>} />
