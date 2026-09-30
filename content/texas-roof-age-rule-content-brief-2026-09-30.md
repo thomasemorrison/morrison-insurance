@@ -1,7 +1,7 @@
 # Morrison Insurance — Texas Roof-Age Rule Content Brief
 
 **Prepared:** September 30, 2026  
-**Status:** Article production is in progress. The article is prepared for GitHub publication; no social post, Google Business Profile post, email, schedule, or paid-media change has been made.
+**Status:** Published to the live Morrison website on September 30, 2026. No social post, Google Business Profile post, email, schedule, or paid-media change has been made.
 
 ## Bottom line
 
@@ -39,7 +39,7 @@ TDI’s September 29 news release describes the current regulatory work as a cla
 
 > **Can a Texas Insurer Deny Home Insurance Because Your Roof Is Old? What the Rule Actually Says**
 
-**Production record:** The article component is registered at `/resources/texas-roof-age-home-insurance-rule`, using the unique Morrison-hosted 4:5 hero image `/manus-storage/texas-roof-age-rule-hero_3c388c54.jpg`. The route, Resources card, article metadata, RSS item, sitemap entry, and review-ready four-channel social handoff are prepared before validation and GitHub publication.
+**Production record:** The article is live at `/resources/texas-roof-age-home-insurance-rule`, using the unique Morrison-hosted 4:5 hero image `/manus-storage/texas-roof-age-rule-hero_3c388c54.jpg`. The route, Resources card, article metadata, RSS item, sitemap entry, and review-ready four-channel social handoff are complete. TypeScript, 22 automated tests, production build, XML validation, preview rendering, live route metadata, and live sitemap checks passed. GitHub publication commit: `c928db6`.
 
 **Why it is a real gap:**
 
@@ -58,7 +58,7 @@ TDI’s September 29 news release describes the current regulatory work as a cla
 
 ### Publication gate
 
-Before the article is drafted for publication, verify whether TDI has adopted, changed, or withdrawn the proposed amendment. Keep the body grounded in the existing-rule clarification unless a later official action supports different language.
+The article was published with the existing-rule clarification after an official-source check. Before any future update or social promotion, recheck whether TDI has adopted, changed, or withdrawn the proposed amendment. Keep the body grounded in the existing-rule clarification unless a later official action supports different language.
 
 ## Recommended social treatment
 
