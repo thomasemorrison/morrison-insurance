@@ -1,7 +1,7 @@
 # Morrison Insurance — East Texas Poultry Festival Office-Closure Social Copy
 
 **Prepared:** September 30, 2026  
-**Status:** Review-ready only. No post has been scheduled or published.  
+**Status:** Published through Metricool at 10:06 AM CDT on September 30, 2026.
 **Office closure:** Thursday–Friday, October 1–2, 2026  
 **Event:** 50th Annual East Texas Poultry Festival  
 **Source review:** September 30, 2026
@@ -15,9 +15,17 @@ The Shelby County Chamber says the four streets around the Center square—Austi
 - https://scttx.com/articles/road-closures-50th-annual-east-texas-poultry-festival
 - https://shelbycountychamber.com/poultry-festival/
 
-## Scheduling status
+## Publication record
 
-Metricool is not available in this task. **No date/time recommendation, scheduling action, CSV import, or publication is included.** Before scheduling, use the live Metricool count for the target date and confirm that all networks combined have fewer than three scheduled placements. This timely closure notice may replace a lower-priority social item but does not override the daily cap without explicit approval.
+Morrison approved immediate publication. Metricool confirmed all three placements as **Published**:
+
+| Channel | Published | Image | Public post |
+|---|---|---|---|
+| Facebook | Sep. 30, 2026 · 10:06 AM CDT | Official 50th Annual East Texas Poultry Festival logo | https://facebook.com/1540319534463364/posts/1631640301997953 |
+| Instagram | Sep. 30, 2026 · 10:06 AM CDT | Official 50th Annual East Texas Poultry Festival logo | https://www.instagram.com/p/Dd6ntgnFNPj/ |
+| Google Business Profile | Sep. 30, 2026 · 10:06 AM CDT | Authentic Morrison Insurance office photo | https://local.google.com/place?id=15572216519757034494&use=posts&lpsid=CIHM0ogKEOu-4aKjoOCwwgE |
+
+**Daily-cap clarification:** Morrison’s limit is **three placements per individual network per day**, not a combined cross-network total. At publication, Facebook had two posts, Instagram had two posts, and GBP had one post for September 30. The post was within the per-network limit.
 
 ## Creative direction
 

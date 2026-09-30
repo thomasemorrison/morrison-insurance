@@ -20,7 +20,7 @@ For social and visual direction, use recognizable local life, authentic Morrison
 
 Check Shelby County government notices, the National Weather Service, Texas A&M Forest Service, Shelby County Today, and other authoritative local sources for a **material** public-safety development: a burn ban, active evacuation/order, major severe-weather warning, wildfire, flood emergency, road closure with broad public impact, or unusually dangerous conditions. Do not post routine Texas heat, normal rain, or minor forecasts.
 
-If a material alert exists, prepare concise Facebook and Instagram copy, an image direction, the source URL, and a recommended same-day time. Before recommending a social post, use Metricool to check the total number of posts already scheduled for that date. The cross-network daily limit is three. If the date already has three or more posts, do not recommend or schedule another; state the conflict and suggest the next eligible date. Do not schedule anything without explicit user approval.
+If a material alert exists, prepare concise Facebook and Instagram copy, an image direction, the source URL, and a recommended same-day time. Before recommending a social post, use Metricool to check the number of posts already scheduled on **each proposed network** for that date. The daily limit is three placements per network, not a combined cross-network total. If a proposed network already has three or more posts, do not recommend or schedule another on that network; state the conflict and suggest the next eligible date or channel. Do not schedule anything without explicit user approval.
 
 If no material alert exists and today has no other assigned output below, end quietly without a user-facing “all clear” message.
 
@@ -37,7 +37,7 @@ Then research current Shelby County and Deep East Texas events and community inf
 1. The highest-value SEO action for the week.
 2. A recommended article update or new article, grounded in the data.
 3. One timely community post concept.
-4. The week’s proposed social rhythm, honoring the three-post daily limit.
+4. The week’s proposed social rhythm, honoring the three-post-per-network daily limit.
 
 Do not publish, modify the website, or schedule posts without the user’s approval in the resulting task. For Google Business Profile ideas, label the post type and follow all GBP restrictions: factual Update posts; no phone numbers or URLs in caption text; real local/building photo only; use the appropriate button for links or calls.
 
@@ -45,7 +45,7 @@ Do not publish, modify the website, or schedule posts without the user’s appro
 
 Research the current week’s athletic schedules and notable results for **Center Roughriders, Joaquin Rams, Tenaha Tigers, Timpson Bears, and Shelbyville Dragons**. Do not include Martinsville in Shelby County messaging. Cover the sport that is currently active; do not favor football when volleyball, basketball, baseball, softball, cross country, tennis, or other sports have a stronger local story.
 
-Prepare carousel-ready details for each relevant school: opponent, sport, date, time, home/away, source URL, and any verified result or milestone. Rotate the order of school cards each week. Provide one neutral county-wide Facebook caption and one Instagram caption. If recommending a schedule date, check Metricool’s total post count first; never exceed three posts per day across all networks. Do not schedule without explicit user approval.
+Prepare carousel-ready details for each relevant school: opponent, sport, date, time, home/away, source URL, and any verified result or milestone. Rotate the order of school cards each week. Provide one neutral county-wide Facebook caption and one Instagram caption. If recommending a schedule date, check Metricool’s count for each selected network first; never exceed three posts per day on any network. Do not schedule without explicit user approval.
 
 ## Thursday — Toledo Bend fishing report
 
@@ -61,10 +61,10 @@ For timber, first check the [Texas A&M Forest Service Timber Price Trends](https
 
 Every Rural Market Note must carry a clear **“market snapshot—not a quote”** qualifier. Do not predict prices, imply a buy/sell decision, make a harvest recommendation, promise a valuation, or attach an insurance-product message. Use a real, rights-cleared East Texas photo—working pasture, pine stand, rural fence, or another recognizable rural scene—with a simple, readable 4:5 data card. Do not use corporate-dashboard imagery, livestock-sale spectacle, suits, stock handshakes, flames, or fear-based creative.
 
-The note uses Morrison’s existing third weekly feed opportunity; it never creates a fourth placement. A material public-safety post replaces the note rather than adds to it. Before proposing a date or time, check Metricool’s cross-network total and observe the three-placement daily cap. Produce review-ready Facebook and Instagram copy only; do not schedule, publish, create an import, send email, or contact a source without current-task Morrison approval. Treat the first four eligible notes as a pilot and record useful local engagement before retaining the series.
+The note uses Morrison’s existing third weekly feed opportunity; it never creates a fourth placement. A material public-safety post replaces the note rather than adds to it. Before proposing a date or time, check Metricool’s count for each selected network and observe the three-placement-per-network daily cap. Produce review-ready Facebook and Instagram copy only; do not schedule, publish, create an import, send email, or contact a source without current-task Morrison approval. Treat the first four eligible notes as a pilot and record useful local engagement before retaining the series.
 
 ## Quality controls and output format
 
 Use only current, sourceable facts. Link sources in the handoff. Avoid invented scores, schedules, events, claims, or testimonials. If a primary source is unavailable, say so rather than guessing. Keep completed work ready for user review, not automatically published or posted.
 
-For every proposed social post, provide the platform, date/time recommendation only after a Metricool capacity check, image direction, full copy, and source link. State the total posts already scheduled on the target date. This lets the Morrison team approve and schedule confidently.
+For every proposed social post, provide the platform, date/time recommendation only after a Metricool capacity check, image direction, full copy, and source link. State the number of posts already scheduled on **each selected network** for the target date. This lets the Morrison team approve and schedule confidently.
