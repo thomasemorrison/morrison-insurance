@@ -99,7 +99,7 @@
 
 ## Google Ads Campaign Restoration (Sep 2026)
 - [x] Inspect campaign status, policy disapprovals, billing/credit eligibility, destinations, conversions, budget, location targeting, and search terms
-- [ ] Verify live landing-page and tracking reliability for the exact final URLs used by paused ads
+- [ ] Verify conversion-event reliability for the exact final URLs used by paused ads; landing-page availability is verified, but the HubSpot/GTM path remains unconfirmed
 - [x] Draft a conservative, hyper-local restoration plan aligned with the Morrison Insurance brand and Shelby County / Deep East Texas demand
 - [x] Obtain explicit approval for the exact campaign status, budget, targeting, keyword, and ad changes before applying them
 - [ ] Apply only the approved campaign changes and verify the restoration outcome
