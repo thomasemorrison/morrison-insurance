@@ -5,7 +5,12 @@ import { nanoid } from "nanoid";
 import path from "path";
 import { createServer as createViteServer } from "vite";
 import viteConfig from "../../vite.config";
-import { ARTICLE_META, injectArticleMeta } from "./articleMeta";
+import {
+  ARTICLE_META,
+  STATIC_PAGE_META,
+  injectArticleMeta,
+  injectStaticPageMeta,
+} from "./articleMeta";
 import { getLegacyArticleRedirect } from "./legacyArticleRedirects";
 
 export async function setupVite(app: Express, server: Server) {
@@ -48,11 +53,14 @@ export async function setupVite(app: Express, server: Server) {
       );
       let page = await vite.transformIndexHtml(url, template);
 
-      // Inject per-article Open Graph / social meta for crawlers
+      // Inject route-specific metadata for crawlers that do not run React.
       const articlePath = url.split("?")[0]; // strip query string
       const articleMeta = ARTICLE_META[articlePath];
+      const staticPageMeta = STATIC_PAGE_META[articlePath];
       if (articleMeta) {
         page = injectArticleMeta(page, articleMeta);
+      } else if (staticPageMeta) {
+        page = injectStaticPageMeta(page, staticPageMeta);
       }
 
       res.status(200).set({ "Content-Type": "text/html" }).end(page);
@@ -76,7 +84,7 @@ export function serveStatic(app: Express) {
 
   app.use(express.static(distPath));
 
-  // fall through to index.html, injecting article meta for crawlers
+  // fall through to index.html, injecting route-specific meta for crawlers
   app.use("*", (req, res) => {
     const redirect = getLegacyArticleRedirect(req.originalUrl);
 
@@ -93,7 +101,12 @@ export function serveStatic(app: Express) {
       }
       const articlePath = req.originalUrl.split("?")[0];
       const articleMeta = ARTICLE_META[articlePath];
-      const page = articleMeta ? injectArticleMeta(html, articleMeta) : html;
+      const staticPageMeta = STATIC_PAGE_META[articlePath];
+      const page = articleMeta
+        ? injectArticleMeta(html, articleMeta)
+        : staticPageMeta
+          ? injectStaticPageMeta(html, staticPageMeta)
+          : html;
       res.status(200).set({ "Content-Type": "text/html" }).send(page);
     });
   });

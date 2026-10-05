@@ -1,5 +1,10 @@
 import { describe, it, expect } from "vitest";
-import { ARTICLE_META, injectArticleMeta } from "./_core/articleMeta";
+import {
+  ARTICLE_META,
+  STATIC_PAGE_META,
+  injectArticleMeta,
+  injectStaticPageMeta,
+} from "./_core/articleMeta";
 
 const SAMPLE_HTML = `<!doctype html>
 <html lang="en">
@@ -37,6 +42,17 @@ describe("ARTICLE_META", () => {
     for (const meta of Object.values(ARTICLE_META)) {
       expect(meta.image).toMatch(/^\/manus-storage\//);
     }
+  });
+});
+
+describe("STATIC_PAGE_META", () => {
+  it("has a complete canonical metadata entry for the local auto service page", () => {
+    const meta = STATIC_PAGE_META["/auto-insurance"];
+    expect(meta).toBeDefined();
+    expect(meta.title).toContain("Car Insurance in Center, TX");
+    expect(meta.description).toBeTruthy();
+    expect(meta.image).toMatch(/^\/manus-storage\//);
+    expect(meta.canonicalPath).toBe("/auto-insurance");
   });
 });
 
@@ -142,5 +158,24 @@ describe("injectArticleMeta", () => {
       images.add(match![1]);
     }
     expect(images.size).toBe(27);
+  });
+});
+
+describe("injectStaticPageMeta", () => {
+  const meta = STATIC_PAGE_META["/auto-insurance"];
+
+  it("replaces the generic title, description, and canonical URL", () => {
+    const result = injectStaticPageMeta(SAMPLE_HTML, meta);
+    expect(result).toContain("<title>Car Insurance in Center, TX | Morrison Insurance</title>");
+    expect(result).toContain(
+      '<link rel="canonical" href="https://morrison-ins.net/auto-insurance" />'
+    );
+    expect(result).toContain(
+      '<meta property="og:url" content="https://morrison-ins.net/auto-insurance" />'
+    );
+    expect(result).toContain('<meta property="og:type" content="website" />');
+    expect(result).toContain(
+      '<meta property="og:image" content="https://morrison-ins.net/manus-storage/MIBldgcurrent_0dda216e.webp" />'
+    );
   });
 });

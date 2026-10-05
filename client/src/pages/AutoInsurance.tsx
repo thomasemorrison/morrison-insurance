@@ -7,7 +7,7 @@ const HERO_IMAGE = "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d
 const schema = JSON.stringify({
   "@context": "https://schema.org",
   "@type": "Service",
-  "name": "Auto Insurance",
+  "name": "Car Insurance in Center, TX",
   "provider": {
     "@type": "InsuranceAgency",
     "name": "Morrison Insurance",
@@ -20,12 +20,12 @@ const schema = JSON.stringify({
     }
   },
   "areaServed": "Shelby County, TX",
-  "description": "Auto insurance for cars, trucks, motorcycles, boats, ATVs, and recreational vehicles in Center, TX and Shelby County.",
-  "url": "https://morrisoninsurance.com/auto-insurance"
+  "description": "Local car insurance and auto coverage guidance for drivers in Center, TX and Shelby County.",
+  "url": "https://morrison-ins.net/auto-insurance"
 });
 
 const relatedArticles = [
-  { href: "/resources/auto-insurance-center-tx", title: "Auto Insurance in Center, TX — What Shelby County Drivers Need to Know", desc: "What Texas requires, what it doesn't cover, and how to make sure you're actually protected." },
+  { href: "/resources/auto-insurance-center-tx", title: "Texas Auto Insurance Requirements for Center, TX Drivers", desc: "A plain-language guide to state minimums, coverage choices, and questions to ask before comparing policies." },
   { href: "/resources/car-insurance-quotes-center-tx", title: "How to Get Car Insurance Quotes in Center, TX", desc: "What to have ready, what to watch for, and how to compare quotes without getting lost in the details." },
   { href: "/resources/car-insurance-agents-center-tx", title: "Car Insurance Agents in Center, TX — What to Look For", desc: "The difference between an independent agent and a captive agent, and why it matters for your options." },
   { href: "/resources/car-insurance-companies-center-tx", title: "How to Compare Car Insurance Companies in Center, TX", desc: "A practical guide to evaluating your options — coverage, price, service, and what most people overlook." },
@@ -35,11 +35,11 @@ export default function AutoInsurancePage() {
   return (
     <div>
       <ServicePageLayout
-        seoTitle="Auto Insurance Center TX | Morrison Insurance | Shelby County"
-        metaDescription="Auto insurance for cars, trucks, motorcycles, boats, and recreational vehicles in Center, TX. Independent agency serving Shelby County since 1923."
-        heroHeadline="Auto Insurance in Center, TX — Coverage That Fits Your Life"
-        heroSubheadline="Whether you're commuting to work, hauling equipment, or heading out on the lake, we'll help you find auto coverage that makes sense for how you actually drive and live."
-        heroSupporting="Auto Insurance · Center, TX"
+        seoTitle="Car Insurance in Center, TX | Morrison Insurance"
+        metaDescription="Looking for car insurance in Center, TX? Morrison Insurance is an independent local agency serving Shelby County drivers with plain-language help comparing auto coverage options."
+        heroHeadline="Car Insurance in Center, TX — Local Auto Coverage for Shelby County Drivers"
+        heroSubheadline="Whether you are commuting to work, hauling equipment, or heading to the lake, compare auto coverage options in plain language with a local team."
+        heroSupporting="Car Insurance · Center, TX"
         heroImage={HERO_IMAGE}
         trustPoints={[
           "✔ Cars, trucks, motorcycles, boats & recreational vehicles",
@@ -70,11 +70,11 @@ export default function AutoInsurancePage() {
         ]}
         realScenariosHeader="When auto coverage matters most"
         realScenarios={[
-          "You're driving home from work and hit a deer on a rural county road — comprehensive coverage pays for the damage.",
-          "Another driver runs a red light and totals your truck — their liability pays for your vehicle, but what if they're uninsured?",
+          "You hit a deer on a rural county road — comprehensive coverage may be relevant, depending on the policy, deductible, and loss details.",
+          "Another driver runs a red light and totals your truck — their liability may be responsible, but it helps to know what applies if they are uninsured or underinsured.",
           "Your teenage driver gets into a fender-bender — we help you understand how it affects your policy and what to do next.",
           "Your boat trailer comes loose on the highway — we'll help you understand what's covered and how to file.",
-          "Hail damages your vehicle during a storm — comprehensive coverage handles it.",
+          "Hail damages your vehicle during a storm — review your policy, deductible, and claim options before assuming what applies.",
         ]}
         guidanceHeader="What we help you think through"
         guidanceCards={[
@@ -108,8 +108,8 @@ export default function AutoInsurancePage() {
           "We explain the differences so you can make an informed decision",
           "We review your policy regularly to make sure it still fits",
         ]}
-        localSeoHeader="Serving drivers across Shelby County"
-        localSeoBody="We provide auto insurance to drivers throughout Center, TX and the surrounding area."
+        localSeoHeader="Car insurance for Center and Shelby County"
+        localSeoBody="If you are comparing car insurance in Center, it helps to look at the same limits, deductibles, and vehicles on every quote. We help drivers across Shelby County understand those choices in plain language."
         localSeoList={[
           "Center, TX",
           "Shelbyville, TX",
@@ -139,6 +139,10 @@ export default function AutoInsurancePage() {
           {
             q: "How can I lower my auto insurance premium?",
             a: "There are several ways — bundling with home insurance, raising your deductible, maintaining a clean driving record, and making sure you're not paying for coverage you don't need. We'll walk through your options.",
+          },
+          {
+            q: "How do I compare car insurance rates in Center, TX?",
+            a: "Ask for quotes using the same liability limits, deductibles, drivers, and vehicles so you are comparing like with like. Then check what is included, such as uninsured motorist coverage or roadside assistance. Texas also offers HelpInsure, a public comparison resource; its results are informational and not a final quoted rate or policy language.",
           },
         ]}
         processHeader="How we help you get covered"

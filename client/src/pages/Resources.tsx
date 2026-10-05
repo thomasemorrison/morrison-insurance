@@ -188,8 +188,8 @@ const articles = [
   },
   {
     category: "Auto Insurance",
-    title: "Auto Insurance in Center, TX — What Shelby County Drivers Need to Know",
-    excerpt: "Finding the right auto insurance in Center, TX is about making sure you are actually protected when something goes wrong. Here's what Texas requires and what East Texas drivers should consider.",
+    title: "Texas Auto Insurance Requirements for Center, TX Drivers",
+    excerpt: "Before comparing policies, understand Texas liability minimums, common coverage choices, and the questions Shelby County drivers should ask about their own situation.",
     readTime: "5 min read",
     href: "/resources/auto-insurance-center-tx",
     image: "/manus-storage/auto-insurance-center-tx_9231ebfe.jpg",

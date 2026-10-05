@@ -20,8 +20,8 @@ function useScrollFadeUp(selector = ".fade-up") {
 
 export default function ArticleAutoInsuranceCenterTx() {
   useSeoMeta(
-    "Auto Insurance in Center, TX — What Shelby County Drivers Need to Know | Morrison Insurance",
-    "Auto insurance in Center, TX from a local independent agency serving Shelby County since 1923. Morrison Insurance compares multiple carriers to find the right coverage at the right price."
+    "Texas Auto Insurance Requirements for Center, TX Drivers | Morrison Insurance",
+    "Texas auto insurance requirements for Center, TX drivers: understand liability minimums, common coverage choices, and questions to ask before comparing policies."
   );
   useEffect(() => {
     const setMeta = (prop: string, val: string) => {
@@ -70,7 +70,7 @@ export default function ArticleAutoInsuranceCenterTx() {
             <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.75rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--amber-brand)", backgroundColor: "oklch(0.22 0.06 155)", padding: "0.25rem 0.75rem", borderRadius: "2rem" }}>Auto Insurance</span>
           </div>
           <h1 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.875rem, 4vw, 3rem)", color: "white", lineHeight: 1.2, marginTop: "1.25rem", marginBottom: "1.25rem", maxWidth: "800px", transitionDelay: "80ms" }}>
-            Auto Insurance in Center, TX — What Shelby County Drivers Need to Know
+            Texas Auto Insurance Requirements for Center, TX Drivers
           </h1>
           <div className="fade-up" style={{ display: "flex", alignItems: "center", gap: "1.25rem", transitionDelay: "160ms" }}>
             <span style={{ display: "flex", alignItems: "center", gap: "0.375rem", fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "oklch(0.65 0.01 80)" }}>
@@ -79,7 +79,7 @@ export default function ArticleAutoInsuranceCenterTx() {
             <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "oklch(0.55 0.01 80)" }}>Morrison Insurance · Center, TX</span>
           </div>
           <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.78 0.01 80)", lineHeight: 1.75, marginTop: "1.5rem", maxWidth: "680px", transitionDelay: "240ms" }}>
-            Finding the right auto insurance in Center, TX is not just about finding the cheapest rate. It is about making sure you are actually protected when something goes wrong — and that you have someone you can call who knows your name and your situation.
+            Before comparing car insurance options in Center, it helps to know what Texas requires, what those minimums do not explain, and the questions worth asking about your own situation.
           </p>
         </div>
       </section>
@@ -109,6 +109,12 @@ export default function ArticleAutoInsuranceCenterTx() {
           </ul>
           <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "2rem" }}>
             These minimums represent the least you are legally required to carry — not necessarily the amount that will fully protect you in a serious accident. Medical costs and vehicle repair costs in Texas have risen significantly in recent years, and a serious collision can easily exceed these limits. Many families in Shelby County choose higher liability limits to ensure they are not personally responsible for costs that exceed their policy.
+          </p>
+          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "0.9375rem", color: "oklch(0.42 0.01 250)", lineHeight: 1.75, marginTop: "-1rem", marginBottom: "2rem" }}>
+            <a href="https://www.tdi.texas.gov/consumer/auto-insurance.html" target="_blank" rel="noreferrer" style={{ color: "var(--pine)", fontWeight: 600, textDecoration: "underline", textUnderlineOffset: "3px" }}>
+              Texas Department of Insurance auto-insurance guidance
+            </a>{" "}
+            explains the state’s consumer resources and coverage basics.
           </p>
 
           <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>

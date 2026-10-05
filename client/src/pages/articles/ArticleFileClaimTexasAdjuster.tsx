@@ -1,7 +1,19 @@
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, type CSSProperties } from "react";
 import { Link } from "wouter";
 import { ArrowRight, ChevronRight, Clock } from "lucide-react";
 import { useSeoMeta } from "@/hooks/useSeoMeta";
+import { SchemaMarkup } from "@/components/SchemaMarkup";
+
+const CANONICAL_SLUG = "how-to-file-claim-texas-adjuster";
+const ARTICLE_URL = `https://morrison-ins.net/resources/${CANONICAL_SLUG}`;
+const HERO_IMAGE = "/manus-storage/file-claim-texas-adjuster-portrait_aae7ba5c.jpg";
+
+const sourceLinkStyle: CSSProperties = {
+  color: "var(--pine)",
+  fontWeight: 600,
+  textDecoration: "underline",
+  textUnderlineOffset: "3px",
+};
 
 function useScrollFadeUp(selector = ".fade-up") {
   const ref = useRef<HTMLDivElement>(null);
@@ -20,8 +32,8 @@ function useScrollFadeUp(selector = ".fade-up") {
 
 export default function ArticleFileClaimTexasAdjuster() {
   useSeoMeta(
-    "How to File a Claim with a Texas Adjuster — A Plain-Language Guide | Morrison Insurance",
-    "Not sure how to file a claim with a Texas adjuster? Morrison Insurance walks you through the process step by step — from the first call to final settlement. Local guidance from Center, TX."
+    "How to File a Claim with a Texas Adjuster: 5 Steps | Morrison Insurance",
+    "How to file a claim with a Texas adjuster: five practical steps, what to document, how to prepare for an inspection, and where to find Texas claim help."
   );
   useEffect(() => {
     const setMeta = (prop: string, val: string) => {
@@ -29,13 +41,30 @@ export default function ArticleFileClaimTexasAdjuster() {
       if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
       el.setAttribute("content", val);
     };
-    setMeta("og:image", "https://morrison-ins.net/manus-storage/file-claim-texas-adjuster-portrait_aae7ba5c.jpg");
+    setMeta("og:image", `https://morrison-ins.net${HERO_IMAGE}`);
     setMeta("og:type", "article");
     return () => { setMeta("og:type", "website"); };
   }, []);
   const pageRef = useScrollFadeUp();
   return (
     <div ref={pageRef}>
+      <SchemaMarkup
+        type="article"
+        headline="How to File a Claim with a Texas Adjuster: 5 Practical Steps"
+        description="How to file a claim with a Texas adjuster: five practical steps, what to document, how to prepare for an inspection, and where to find Texas claim help."
+        url={ARTICLE_URL}
+        datePublished="2026-07-13"
+        dateModified="2026-10-05"
+        authorName="Morrison Insurance"
+        publisherName="Morrison Insurance"
+        publisherUrl="https://morrison-ins.net"
+        imageUrl={HERO_IMAGE}
+        breadcrumbs={[
+          { name: "Home", url: "https://morrison-ins.net/" },
+          { name: "Resources", url: "https://morrison-ins.net/resources" },
+          { name: "Texas Adjuster Claim Guide", url: ARTICLE_URL },
+        ]}
+      />
       {/* Hero */}
       <section
         style={{
@@ -51,7 +80,7 @@ export default function ArticleFileClaimTexasAdjuster() {
           style={{
             position: "absolute",
             inset: 0,
-            backgroundImage: "url(/manus-storage/file-claim-texas-adjuster-portrait_aae7ba5c.jpg)",
+            backgroundImage: `url(${HERO_IMAGE})`,
             backgroundSize: "cover",
             backgroundPosition: "center 40%",
             zIndex: 0,
@@ -70,11 +99,11 @@ export default function ArticleFileClaimTexasAdjuster() {
             <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.75rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--amber-brand)", backgroundColor: "oklch(0.22 0.06 155)", padding: "0.25rem 0.75rem", borderRadius: "2rem" }}>Claims</span>
           </div>
           <h1 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.875rem, 4vw, 3rem)", color: "white", lineHeight: 1.2, marginTop: "1.25rem", marginBottom: "1.25rem", maxWidth: "800px", transitionDelay: "80ms" }}>
-            How to File a Claim with a Texas Adjuster — A Plain-Language Guide for East Texas Policyholders
+            How to File a Claim with a Texas Adjuster: 5 Practical Steps
           </h1>
           <div className="fade-up" style={{ display: "flex", alignItems: "center", gap: "1.25rem", transitionDelay: "160ms" }}>
             <span style={{ display: "flex", alignItems: "center", gap: "0.375rem", fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "oklch(0.65 0.01 80)" }}>
-              <Clock size={14} /> 6 min read
+              <Clock size={14} /> 7 min read
             </span>
             <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "oklch(0.55 0.01 80)" }}>Morrison Insurance · Center, TX</span>
           </div>
@@ -87,6 +116,16 @@ export default function ArticleFileClaimTexasAdjuster() {
       {/* Body */}
       <section style={{ backgroundColor: "var(--cream)", padding: "4rem 0" }}>
         <div className="container" style={{ maxWidth: "780px" }}>
+          <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
+            Before You Call: What to Have Ready
+          </h2>
+          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
+            The first call does not have to be perfect. A short description of what happened, the date and place, your policy information if you have it, and any photos or video you have already taken are a useful start. For an auto accident, save the other driver’s information, witness details, and a police report number when one is available.
+          </p>
+          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "2rem" }}>
+            Take reasonable steps to keep damage from getting worse, but keep receipts for temporary repairs or other expenses. Do not discard damaged property or begin permanent repairs before the carrier has had the chance to guide the process unless safety requires immediate action.
+          </p>
+
           <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
             What Is an Insurance Adjuster?
           </h2>
@@ -115,7 +154,7 @@ export default function ArticleFileClaimTexasAdjuster() {
               { step: "02", title: "Document everything", body: "Before any cleanup or repairs begin, photograph and video the damage thoroughly. Make a written list of damaged or lost items, including estimated values. Keep all receipts for any emergency expenses you incur — temporary repairs, hotel stays, rental vehicles — as these may be reimbursable." },
               { step: "03", title: "Cooperate with the adjuster's investigation", body: "The adjuster will contact you to schedule an inspection. Be present if possible, walk them through the damage, and provide any documentation they request. You are entitled to ask questions and to understand what they are assessing." },
               { step: "04", title: "Review the adjuster's estimate carefully", body: "Once the adjuster completes their assessment, they will provide an estimate of the covered loss. Review it carefully. If you believe the estimate is too low or that covered items have been missed, you have the right to dispute it." },
-              { step: "05", title: "Know your rights under Texas law", body: "Texas has specific timelines that insurance companies must follow. They must acknowledge your claim within 15 days of receiving it, accept or deny it within 15 business days of receiving all required documentation, and pay an accepted claim within 5 business days of notifying you of acceptance." },
+              { step: "05", title: "Know the usual Texas claim timelines", body: "For many home and auto claims, Texas Department of Insurance guidance says the company generally has 15 business days to acknowledge the claim and start its review, 15 business days after receiving needed information to decide whether to pay, and five business days to pay an accepted claim. There are important exceptions and extensions, including some weather-related catastrophes and third-party claims, so read the carrier’s notices and ask questions if a deadline is unclear." },
             ].map((item) => (
               <div key={item.step} style={{ display: "flex", gap: "1.25rem", alignItems: "flex-start" }}>
                 <div style={{ width: "2.5rem", height: "2.5rem", borderRadius: "50%", backgroundColor: "var(--pine)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, marginTop: "2px" }}>
@@ -139,18 +178,37 @@ export default function ArticleFileClaimTexasAdjuster() {
             You can request a re-inspection and provide additional documentation — contractor estimates, receipts, photographs — that supports a higher valuation. You can also invoke the appraisal clause in your policy, which allows both you and the insurance company to hire independent appraisers, with a neutral umpire resolving any disagreement.
           </p>
           <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "2rem" }}>
-            If you believe your claim has been handled unfairly, the Texas Department of Insurance (TDI) accepts consumer complaints and can investigate insurer conduct. Their consumer helpline is <strong>800-252-3439</strong>.
+            If you believe your claim has been handled unfairly, the Texas Department of Insurance (TDI) accepts consumer complaints and can investigate insurer conduct. TDI’s Help Line is <strong>800-252-3439</strong> during its posted business hours.
           </p>
 
           <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
             How a Local Agent Helps During the Claims Process
           </h2>
           <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
-            One of the most underappreciated benefits of working with a local insurance agent is having an advocate during the claims process. When you file a claim through Morrison Insurance, you are not navigating the process alone. We can help you initiate the claim correctly, communicate with the adjuster on your behalf, review the estimate, and make sure you are receiving what your policy entitles you to.
+            A local agent can be a useful starting point when a claim is unfamiliar. Morrison Insurance can help you find the carrier’s claim contact, talk through the next practical step, and help clarify questions about the process. The carrier, the policy, the facts of the loss, and the adjuster’s review determine the claim decision and payment.
           </p>
           <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8 }}>
-            This is particularly valuable in the aftermath of a major weather event — a hail storm, a tornado, or flooding — when adjusters are handling a high volume of claims and the process can feel impersonal and rushed. Having a local agent who knows your policy and your situation is a meaningful advantage.
+            This can be especially helpful after a major weather event, when many people are trying to begin a claim at the same time. Keep notes, save documents, and ask for a clear explanation of what information is still needed rather than guessing.
           </p>
+
+          <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginTop: "3rem", marginBottom: "1.25rem" }}>
+            Official Texas Sources and Review Date
+          </h2>
+          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
+            Reviewed October 5, 2026. Claim rules and timelines can vary by policy, type of loss, and circumstance. The state resources below explain the general process and where to get consumer help.
+          </p>
+          <ul className="fade-up" style={{ margin: "0 0 2rem", paddingLeft: "1.25rem", fontFamily: "Inter, sans-serif", fontSize: "1rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8 }}>
+            <li>
+              <a href="https://www.tdi.texas.gov/tips/getting-your-insurance-claim-paid.html" target="_blank" rel="noreferrer" style={sourceLinkStyle}>
+                Texas Department of Insurance: Steps to getting your home or car insurance claim paid
+              </a>
+            </li>
+            <li>
+              <a href="https://www.tdi.texas.gov/consumer/get-help-with-an-insurance-complaint.html" target="_blank" rel="noreferrer" style={sourceLinkStyle}>
+                Texas Department of Insurance: Get help with an insurance complaint
+              </a>
+            </li>
+          </ul>
         </div>
       </section>
 

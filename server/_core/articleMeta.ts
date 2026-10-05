@@ -15,7 +15,30 @@ export interface ArticleMeta {
   slug: string;
 }
 
+/** SEO metadata for high-priority service pages that are not resource articles. */
+export interface StaticPageMeta {
+  title: string;
+  description: string;
+  image: string;
+  canonicalPath: string;
+}
+
 const BASE_URL = "https://morrison-ins.net";
+
+/**
+ * Service pages need the same server-rendered title, description, canonical URL,
+ * and social metadata as resource articles. Client-side metadata alone is not
+ * reliable for crawlers that do not execute JavaScript.
+ */
+export const STATIC_PAGE_META: Record<string, StaticPageMeta> = {
+  "/auto-insurance": {
+    title: "Car Insurance in Center, TX | Morrison Insurance",
+    description:
+      "Looking for car insurance in Center, TX? Morrison Insurance is an independent local agency serving Shelby County drivers with plain-language help comparing auto coverage options.",
+    image: "/manus-storage/MIBldgcurrent_0dda216e.webp",
+    canonicalPath: "/auto-insurance",
+  },
+};
 
 /** Canonical article meta — one entry per article route. */
 export const ARTICLE_META: Record<string, ArticleMeta> = {
@@ -142,9 +165,9 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     slug: "hunting-lease-liability-insurance-east-texas",
   },
   "/resources/auto-insurance-center-tx": {
-    title: "Auto Insurance in Center, TX — What Shelby County Drivers Need to Know | Morrison Insurance",
+    title: "Texas Auto Insurance Requirements for Center, TX Drivers | Morrison Insurance",
     description:
-      "Auto insurance in Center, TX from a local independent agency serving Shelby County since 1923. Morrison Insurance compares multiple carriers to find the right coverage at the right price.",
+      "Texas auto insurance requirements for Center, TX drivers: understand liability minimums, common coverage choices, and questions to ask before comparing policies.",
     image: "/manus-storage/auto-insurance-center-tx-portrait_a89331da.jpg",
     slug: "auto-insurance-center-tx",
   },
@@ -191,11 +214,11 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     slug: "new-world-screwworm-texas-livestock-farm-insurance",
   },
   "/resources/how-to-file-claim-texas-adjuster": {
-    title: "How to File a Claim with a Texas Adjuster — A Plain-Language Guide | Morrison Insurance",
+    title: "How to File a Claim with a Texas Adjuster: 5 Steps | Morrison Insurance",
     description:
-      "Not sure how to file a claim with a Texas adjuster? Morrison Insurance walks you through the process step by step — from the first call to final settlement. Local guidance from Center, TX.",
+      "How to file a claim with a Texas adjuster: five practical steps, what to document, how to prepare for an inspection, and where to find Texas claim help.",
     image: "/manus-storage/file-claim-texas-adjuster-portrait_aae7ba5c.jpg",
-  slug: "how-to-file-claim-texas-adjuster",
+    slug: "how-to-file-claim-texas-adjuster",
   },
   "/resources/adding-teen-driver-insurance-texas": {
     title: "Adding a Teen Driver to Your Auto Insurance in Texas: What Parents Need to Know | Morrison Insurance",
@@ -278,6 +301,66 @@ export function injectArticleMeta(html: string, meta: ArticleMeta): string {
   result = setMetaProperty("og:description", meta.description, result);
   result = setMetaProperty("og:image", absoluteImage, result);
   // Twitter Card tags for completeness
+  result = setMetaName("twitter:card", "summary_large_image", result);
+  result = setMetaName("twitter:title", meta.title, result);
+  result = setMetaName("twitter:description", meta.description, result);
+  result = setMetaName("twitter:image", absoluteImage, result);
+  result = setCanonical(canonicalUrl, result);
+
+  return result;
+}
+
+/**
+ * Inject crawler-visible metadata for a non-article route. These pages are
+ * rendered client-side, so their route-specific metadata needs to be present
+ * in the initial HTML just as it is for resource articles.
+ */
+export function injectStaticPageMeta(html: string, meta: StaticPageMeta): string {
+  const canonicalUrl = `${BASE_URL}${meta.canonicalPath}`;
+  const absoluteImage = meta.image.startsWith("http")
+    ? meta.image
+    : `${BASE_URL}${meta.image}`;
+
+  const setMetaProperty = (property: string, content: string, h: string): string => {
+    const escapedContent = content.replace(/"/g, "&quot;");
+    const tagRegex = new RegExp(
+      `<meta\\s+property=["']${property}["'][^>]*>|<meta\\s+[^>]*property=["']${property}["'][^>]*>`,
+      "i"
+    );
+    const newTag = `<meta property="${property}" content="${escapedContent}" />`;
+    return tagRegex.test(h)
+      ? h.replace(tagRegex, newTag)
+      : h.replace("</head>", `  ${newTag}\n  </head>`);
+  };
+
+  const setMetaName = (name: string, content: string, h: string): string => {
+    const escapedContent = content.replace(/"/g, "&quot;");
+    const tagRegex = new RegExp(
+      `<meta\\s+name=["']${name}["'][^>]*>|<meta\\s+[^>]*name=["']${name}["'][^>]*>`,
+      "i"
+    );
+    const newTag = `<meta name="${name}" content="${escapedContent}" />`;
+    return tagRegex.test(h)
+      ? h.replace(tagRegex, newTag)
+      : h.replace("</head>", `  ${newTag}\n  </head>`);
+  };
+
+  const setCanonical = (url: string, h: string): string => {
+    const tagRegex = /<link\s+rel=["']canonical["'][^>]*>/i;
+    const newTag = `<link rel="canonical" href="${url}" />`;
+    return tagRegex.test(h)
+      ? h.replace(tagRegex, newTag)
+      : h.replace("</head>", `  ${newTag}\n  </head>`);
+  };
+
+  let result = html;
+  result = result.replace(/<title>[^<]*<\/title>/i, `<title>${meta.title}</title>`);
+  result = setMetaName("description", meta.description, result);
+  result = setMetaProperty("og:type", "website", result);
+  result = setMetaProperty("og:url", canonicalUrl, result);
+  result = setMetaProperty("og:title", meta.title, result);
+  result = setMetaProperty("og:description", meta.description, result);
+  result = setMetaProperty("og:image", absoluteImage, result);
   result = setMetaName("twitter:card", "summary_large_image", result);
   result = setMetaName("twitter:title", meta.title, result);
   result = setMetaName("twitter:description", meta.description, result);
