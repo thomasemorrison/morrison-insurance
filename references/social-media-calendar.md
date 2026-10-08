@@ -1,9 +1,9 @@
 # Morrison Insurance — Consolidated Social Media Plan
 
-**Last revised:** September 2, 2026  
+**Last revised:** October 8, 2026  
 **Primary platforms:** Facebook and Instagram  
 **Additional channels:** Google Business Profile as a separate compliant Update workflow; LinkedIn remains manual until the account has a stronger follower base.  
-**Scheduling rule:** Every proposed placement, including a Story, must be checked in Metricool immediately before it is recommended or scheduled. The maximum is **three placements per individual network per calendar day**. A Facebook-and-Instagram cross-post counts once for Facebook and once for Instagram; do not add those two counts together as one combined daily cap.
+**Scheduling rule:** Every proposed placement, including a Story, must be checked in Metricool immediately before it is recommended or scheduled. The maximum is **three cross-network placements per calendar day**. A Facebook-and-Instagram cross-post counts as two placements; adding GBP would count as a third. Do not schedule or recommend a fourth placement.
 
 ---
 
@@ -27,7 +27,7 @@ Creative must feel rooted in Center, Shelby County, or Deep East Texas. Prefer a
 
 The September 21–October 18 backlog complements—not replaces—the standing school, material-safety, and fishing work. Its primary sequence is: a calm fall readiness checklist; a rights-cleared East Texas Poultry Festival community feature; a TxDOT-grounded fall deer-driving checklist; and a youth poultry-learning follow-through. Two New World screwworm journal entries are **conditional** on fresh USDA APHIS and Texas Animal Health Commission verification immediately before review and publication. The current detailed source record and reviewer gates are maintained in `content/four-week-educational-community-backlog-2026-09-16.md`.
 
-This is deliberately a **backlog**, not a posting calendar. School posts and weather/burn-ban updates remain Morrison-team work, and the Thursday Toledo Bend fishing handoff remains the only fishing stream. No post receives a date, time, or platform recommendation until its facts and creative are current, Metricool confirms fewer than three placements on **each selected network** for that date, and Morrison gives current-task approval.
+This is deliberately a **backlog**, not a posting calendar. School posts and weather/burn-ban updates remain Morrison-team work, and the Thursday Toledo Bend fishing handoff remains the only fishing stream. No post receives a date, time, or platform recommendation until its facts and creative are current, Metricool confirms fewer than three **cross-network placements** for that date, and Morrison gives current-task approval.
 
 ### Timely homeowner question — Texas roof-age rule clarification
 
@@ -39,10 +39,10 @@ The preferred web direction is a focused, source-dated FAQ rather than a revisio
 
 | Guardrail | Working rule |
 |---|---|
-| **Daily capacity** | Check Metricool immediately before any recommendation, import, or schedule. The maximum is three placements **per selected network** per day. At three or more on a selected network, do not add that network; move it to the next eligible date or select an eligible channel. Do not total cross-posted network placements into a separate combined cap. |
+| **Daily capacity** | Check Metricool immediately before any recommendation, import, or schedule. The maximum is **three cross-network placements per calendar day**. Facebook plus Instagram equals two placements; GBP adds one. At three, do not add or recommend another post; move it to the next eligible date. |
 | **Source and accuracy** | Use current, sourceable facts. Verify schedules, alerts, event details, and local conditions again on the publishing date. |
 | **School coverage** | Include only Center, Joaquin, Shelbyville, Tenaha, and Timpson in Shelby County school content. Rotate the first carousel card; cover all active sports fairly; never include Martinsville. |
-| **Weather and burn bans** | Post only material, timely public-safety information. A material alert may replace a lower-priority item but never overrides the three-placement **per-network** cap. |
+| **Weather and burn bans** | Post only material, timely public-safety information. A material alert may replace a lower-priority item but never overrides the three-placement **cross-network** cap. |
 | **Fishing** | The Thursday Toledo Bend handoff is the sole fishing workflow. Do not recreate or duplicate it elsewhere in the weekly package. |
 | **Rural market note** | This Friday Content Desk lane uses the USDA Texas Weekly Cattle Auction Summary for a date-stamped Texas cattle snapshot. East Texas timber values appear only when Texas A&M Forest Service issues a new bi-monthly report; never repeat an older timber figure as a weekly price. Label all figures as a market snapshot—not a quote, valuation, prediction, or sell/buy recommendation. The note occupies the existing third weekly feed opportunity and yields to a material safety alert. |
 | **Images and video** | Prefer original Morrison, community-approved, school-provided, archival-with-permission, or recognizable local photography. Do not use corporate handshakes, suits, generic town imagery, or stock photos for GBP. |
@@ -96,6 +96,12 @@ Use a restrained, specific hashtag set rather than a long block. Start with the 
 
 This is a **content-direction calendar**, not a schedule. It deliberately assigns no time of day and no automatic publishing instruction. The exact day, time, and channel mix remain pending a fresh Metricool capacity check, source verification, and Morrison approval.
 
+## Three-month materials library — October 19, 2026 to January 17, 2027
+
+The current planning library is maintained in `content/three-month-social-materials-2026-10-07.md`. It provides two review-ready Facebook/Instagram concepts per week for 13 weeks: one community/local item and one seasonal, household, rural, or outdoor education item. It is deliberately a source-checked **replacement library**, not an automatic queue: a current five-school carousel, fishing report, rural-market note, verified article promotion, or material public-safety item may replace a planned item when it offers more immediate local utility.
+
+Every item requires its stated fact-refresh and image-rights gate, a fresh Metricool check under the three-placement cross-network cap, and current Morrison approval. The calendar deliberately keeps unverified December/January local-event slots open instead of inventing a future event. A legacy Metricool inventory found 20 pre-existing scheduled posts through December; those rows were not altered by planning work and must be reviewed against current brand and GBP compliance rules before being allowed to run.
+
 | Week | Standing community value | Third feed-post direction | Story and collaboration idea | Status and safeguards |
 |---|---|---|---|---|
 | **Sep. 7–13** | Five-school athletics carousel and the existing Toledo Bend handoff | Original local Reel or photo story: a recognizable Center location with a short “why local answers still matter” explanation; use the setting, not an agency headshot, as the lead visual. | School-week poll: “Home game or road game?” and one question box for the next sports update. | Prepare after the Tuesday/Thursday research. The existing ATV/UTV article handoff may replace this third item only if its promotion is not already scheduled and capacity is open. |
@@ -133,7 +139,7 @@ Before any post reaches a calendar date, confirm the following in order:
 1. The topic fits a current Content Desk source, an approved article handoff, or a verified local collaboration.
 2. The fact, event date, school schedule, safety status, or fishing condition has been checked against a current source.
 3. The proposed image is authentic, rights-cleared where needed, and meets the destination platform’s rules.
-4. Metricool shows fewer than three scheduled placements for **each selected network** on the proposed date.
+4. Metricool shows fewer than three scheduled **cross-network placements** on the proposed date.
 5. The copy has one clear audience benefit and one low-friction engagement prompt.
 6. Morrison has approved the post before it is scheduled or published.
 
