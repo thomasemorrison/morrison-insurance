@@ -88,7 +88,7 @@
 
 ## Google Correspondence Triage (Aug 2026)
 - [x] Document the new Search Console indexing-validation failure, Analytics report, Google Ads destination errors, Performance Max results, and $1,000 credit
-- [ ] Reproduce and diagnose Google Ads' Android HTTP 503 destination error across campaign ad and asset URLs
+- [x] Reproduce and diagnose Google Ads' Android HTTP 503 destination error across campaign ad and asset URLs
 - [ ] Inspect Search Console for the remaining "Crawled — currently not indexed" URLs and prioritise fixes
 - [ ] Review analytics engagement and bounce-rate signals alongside traffic growth
 - [x] Prepare a prioritised Google Ads working-session agenda for tomorrow, including conversion measurement and credit verification
@@ -153,7 +153,7 @@
 - [x] Include the ATV/UTV article as a review-ready seasonal draft in this week's materials; do not publish it automatically
 - [x] Add a concrete weekly queue entry recording the draft disposition and all required publication steps
 - [x] Verify the referenced hero image is 1536×2304 (2:3), not the required 4:5; replace it with a Morrison-hosted 4:5 image before publication
-- [ ] Publish the approved ATV/UTV article, request indexing, and schedule the prepared social handoff after confirming daily capacity
+- [ ] Request Google indexing for the published ATV/UTV article through Search Console, then schedule the prepared social handoff after confirming daily capacity
 
 ## ATV/UTV Article Publication Package (Sep 2026)
 - [x] Convert the supplied UTV photo to a unique, Morrison-hosted 4:5 JPEG hero image without losing the subject
@@ -162,13 +162,13 @@
 - [x] Run TypeScript, automated tests, production build, XML validation, and article rendering verification
 - [x] Update the distinct Open Graph image test expectation for the new 26-article registry
 - [x] Create compliant Facebook, Instagram, Google Business Profile, and LinkedIn handoff copy using the matching article image where permitted
-- [ ] Save a ready-to-publish checkpoint and request indexing after live publication
+- [ ] Request Google indexing after live publication; the live URL, crawler access, sitemap entry, and article checkpoint are verified, but Google’s deprecated sitemap-ping endpoint returned 404
 
 ## Fishing Workflow and ATV/UTV Publication Follow-up (Sep 2026)
 - [x] Inspect the referenced Toledo Bend fishing-report workflow and its intended social output
 - [x] Confirm the published ATV/UTV URL and public canonical and Open Graph metadata
-- [ ] Request Google indexing for the published ATV/UTV article
-- [ ] Re-test the ATV/UTV URL Inspection after the transient robots.txt-unreachable result, then request indexing if Google’s live test is healthy
+- [ ] Request Google indexing for the published ATV/UTV article through Search Console; crawler-style checks now return 200 and robots.txt permits the URL, but direct GSC access is required
+- [ ] Re-test the ATV/UTV URL Inspection in Search Console after the transient robots.txt-unreachable result, then request indexing if Google’s live test is healthy
 - [x] Diagnose the Search Console live-test robots.txt-unreachable error: source, build, and live crawler checks are healthy; re-test rather than apply a speculative site change
 - [x] Add the fishing-report workflow to the weekly social media wrap-up documentation
 - [x] Confirm the Thursday Content Desk fishing step is the sole active workflow; no separate schedule exists or should be restored

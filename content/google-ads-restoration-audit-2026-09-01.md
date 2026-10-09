@@ -309,3 +309,20 @@ The next read-only steps are to inspect campaign settings, locations, networks, 
 ## References
 
 [1] [HubSpot Developer Docs — Global form events](https://developers.hubspot.com/docs/api-reference/latest/marketing/forms/global-form-events)
+
+## Android destination recheck — October 9, 2026
+
+The reported Android HTTP 503 destination issue was rechecked read-only against every known Google Ads landing destination using an Android Chrome user agent and bounded HTTP/1.1 requests. Each returned **HTTP 200**:
+
+| Destination | Android-style result |
+| --- | --- |
+| `https://morrison-ins.net/` | 200 |
+| `https://morrison-ins.net/contact` | 200 |
+| `https://morrison-ins.net/auto-insurance` | 200 |
+| `https://morrison-ins.net/resources` | 200 |
+| `https://morrison-ins.net/about` | 200 |
+| `https://morrison-ins.net/home-insurance` | 200 |
+| `https://morrison-ins.net/business-insurance` | 200 |
+| `https://morrison-ins.net/privacy-policy` | 200 |
+
+This corroborates the September 1 desktop, Android, Googlebot, and AdsBot checks: the Android-specific 503 is **not currently reproducible** across the active ads, sitelinks, lead-form visit-site destination, or privacy-page destination. The evidence supports a prior transient availability or platform-side crawl condition, not an active website outage. No advertising, website, tracking, billing, or asset setting was changed during this recheck. Any remaining asset-policy remedy must wait for the authenticated Ads session and follow the owner-approved restoration plan.
