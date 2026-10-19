@@ -193,9 +193,9 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     slug: "is-allstate-captive-agency-independent-agent-difference",
   },
   "/resources/car-insurance-companies-center-tx": {
-    title: "How to Compare Car Insurance Companies in Center, TX | Morrison Insurance",
+    title: "How to Compare Car Insurance Rates in Center, TX | Morrison Insurance",
     description:
-      "Comparing car insurance companies in Center, TX? Here's what to look for beyond price — coverage limits, claims handling, and how an independent agent helps you find the right fit.",
+      "A same-coverage checklist for comparing car insurance rates in Center, TX: match limits, deductibles, drivers, vehicles, and policy details before deciding.",
     image: "/manus-storage/car-insurance-companies-center-tx-portrait_f8955df7.jpg",
     slug: "car-insurance-companies-center-tx",
   },

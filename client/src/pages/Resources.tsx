@@ -220,9 +220,9 @@ const articles = [
   },
   {
     category: "Auto Insurance",
-    title: "How to Compare Car Insurance Companies in Center, TX",
-    excerpt: "Comparing car insurance companies is about more than finding the cheapest rate. Here's what to actually look for — coverage, claims handling, and what most people overlook when shopping.",
-    readTime: "6 min read",
+    title: "How to Compare Car Insurance Rates in Center, TX",
+    excerpt: "A same-coverage checklist for comparing car insurance rates: match your limits, deductibles, drivers, vehicles, and policy details before deciding.",
+    readTime: "7 min read",
     href: "/resources/car-insurance-companies-center-tx",
     image: "/manus-storage/car-insurance-companies-center-tx-portrait_f8955df7.jpg",
   },
