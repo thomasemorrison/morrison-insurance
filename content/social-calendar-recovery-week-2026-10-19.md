@@ -1,7 +1,7 @@
 # Morrison Insurance — Social Calendar Recovery: Week of October 19, 2026
 
 **Prepared:** October 19, 2026  
-**Status:** Review-ready materials only. No new post was scheduled, published, paused, edited, or sent by this handoff.
+**Status:** The Wednesday library and Thursday article-promotion Facebook/Instagram pairs were scheduled on October 19 after a fresh Metricool capacity check. Friday remains review-ready only pending a real local rural image.
 
 ## Purpose
 
@@ -20,7 +20,7 @@ A fresh Metricool check on October 19 showed:
 - **Thursday, October 22:** no future placements were returned.
 - **Friday, October 23:** no future placements were returned.
 
-The Morrison team clarified that the daily maximum is **three placements per individual channel**, rather than three total placements across all networks. Each proposed Facebook/Instagram pair below would therefore create **one Facebook placement and one Instagram placement** on its date—well below the per-channel maximum. Recheck Metricool immediately before any scheduling because this is a point-in-time count.
+The Morrison team clarified that the daily maximum is **three placements per individual channel**, rather than three total placements across all networks. Each proposed Facebook/Instagram pair below creates **one Facebook placement and one Instagram placement** on its date—well below the per-channel maximum. The Wednesday and Thursday pairs below were scheduled after this review; recheck Metricool again before adding, moving, or duplicating any placement.
 
 **Excluded from this batch:**
 
@@ -38,6 +38,12 @@ The Morrison team clarified that the daily maximum is **three placements per ind
 | Fri., Oct. 23 | 10:00 AM | Facebook + Instagram | Deep East Texas Rural Market Note: Texas cattle snapshot | 1 Facebook; 1 Instagram |
 
 **Timing basis:** Facebook’s current Metricool timing data peaks at noon on Wednesday and 10 AM Thursday/Friday. Instagram has no usable historical timing scores, so use the paired Facebook time for a simple, coordinated post.
+
+### Scheduled placement record
+
+- **Wed., Oct. 21, 12:00 PM CDT — Facebook + Instagram:** Fannie Brown Booth Memorial Library Fall Book Sale; Metricool UUID `1542978926154042453`.
+- **Thu., Oct. 22, 10:00 AM CDT — Facebook + Instagram:** same-coverage car-rate comparison guide; Metricool UUID `4641467791312896777`. Instagram’s AI-generated-content disclosure is enabled for the website hero image.
+- **Fri., Oct. 23 — not scheduled:** rural-market copy remains held for an authentic, rights-cleared East Texas rural photo.
 
 ---
 

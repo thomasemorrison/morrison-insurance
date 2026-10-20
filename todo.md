@@ -287,3 +287,11 @@
 - [x] Save the final publication checkpoint and update the content calendar status from ready-to-publish to published
 - [x] Publish the latest checkpoint, then verify the public wildfire URL no longer returns 404
 - [x] Confirm public page HTML includes wildfire-specific og:title, og:description, og:image, and og:url after publication
+
+## Car-Rate Comparison Refresh and Social Recovery (Oct 2026)
+- [x] Refresh the existing Center car-rate comparison guide to answer the GSC query “comparing car insurance rates” with a same-coverage checklist and current Texas consumer sources
+- [x] Update crawler metadata, Resources card, RSS, sitemap, and tests; validate TypeScript, 24 automated tests, production build, and XML
+- [x] Push the validated refresh to the canonical GitHub repository and checkpoint the active project workspace
+- [x] Create and schedule the source-checked Facebook/Instagram library reminder for October 21 at 12 PM CDT with an authentic local library photo and alt text
+- [x] Create and schedule the Facebook/Instagram comparison-guide promotion for October 22 at 10 AM CDT with Instagram’s AI-content disclosure enabled
+- [ ] Confirm public-domain rollout of the comparison-guide refresh, then request indexing through a supported Search Console path; Google’s deprecated sitemap-ping endpoint returns 404
