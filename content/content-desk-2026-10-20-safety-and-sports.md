@@ -28,6 +28,8 @@ A review at approximately 6:33 AM CDT showed the following future placements:
 
 No new placement is recommended in this handoff. The recurring prompt supplied for this run says the limit is three *cross-network* posts per day, while Morrison’s standing project guidance records the owner’s later clarification that the cap is **three placements per individual network**. This did not change any decision today because nothing is being proposed or scheduled. Confirm which interpretation should govern before the next recommendation that would add a post.
 
+An attempt to update the sole retained Content Desk schedule with the current per-network wording was not applied because the schedule reports an unknown control source. Its schedule, title, connector scope, and delivery behavior remain untouched. The local Content Desk reference continues to preserve the per-network interpretation already recorded in the project; do not create a duplicate schedule as a workaround.
+
 ## Sources
 
 [1]: https://www.co.shelby.tx.us/ "Shelby County, Texas official homepage"
