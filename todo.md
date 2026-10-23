@@ -294,4 +294,4 @@
 - [x] Push the validated refresh to the canonical GitHub repository and checkpoint the active project workspace
 - [x] Create and schedule the source-checked Facebook/Instagram library reminder for October 21 at 12 PM CDT with an authentic local library photo and alt text
 - [x] Create and schedule the Facebook/Instagram comparison-guide promotion for October 22 at 10 AM CDT with Instagram’s AI-content disclosure enabled
-- [ ] Confirm public-domain rollout of the comparison-guide refresh, then request indexing through a supported Search Console path; Google’s deprecated sitemap-ping endpoint returns 404
+- [ ] Restore the public-domain rollout of the comparison-guide refresh: the GitHub and active project workspaces contain the rate-comparison version, but on October 21 the public domains still returned the older “How to Compare Car Insurance Companies” title and metadata. After the live rollout, request indexing through a supported Search Console path; Google’s deprecated sitemap-ping endpoint returns 404
