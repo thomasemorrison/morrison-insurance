@@ -295,3 +295,12 @@
 - [x] Create and schedule the source-checked Facebook/Instagram library reminder for October 21 at 12 PM CDT with an authentic local library photo and alt text
 - [x] Create and schedule the Facebook/Instagram comparison-guide promotion for October 22 at 10 AM CDT with Instagram’s AI-content disclosure enabled
 - [ ] Restore the public-domain rollout of the comparison-guide refresh: the GitHub and active project workspaces contain the rate-comparison version, but as of October 26 the public domains still returned the older “How to Compare Car Insurance Companies” title and metadata. GitHub main contains the refresh, but the repository has no `.github/workflows` directory and no GitHub Actions runs, so there is no repository-side deploy trigger to rerun. Identify the active hosting/deployment integration or its publish control, restore the live release, then request indexing through a supported Search Console path; Google’s deprecated sitemap-ping endpoint returns 404
+
+## October 28 Content Desk — Shelby County Burn Ban
+- [x] Verify the current October 23 Shelby County outdoor-burning order, active Texas A&M Forest Service listing, local notice, and Center forecast
+- [x] Prepare a Facebook-only safety recommendation at noon because the pending Facebook/Instagram farm-history pair already occupies two of the three cross-network daily placements; hold the Instagram version and create no schedule
+
+## October 29 Content Desk — Safety and Toledo Bend
+- [x] Verify Shelby County’s October 23 outdoor-burning order remains the controlling material safety notice and prepare a capacity-safe Facebook/Instagram safety pair for review only
+- [x] Research current Toledo Bend conditions from TWDB and SRA; document that TPWD’s weekly fishing reports are on hold and omit unsupported bite, species, and technique claims
+- [x] Prepare a separate, review-only Friday lake-conditions pair with a final same-day capacity and source recheck required before any scheduling
