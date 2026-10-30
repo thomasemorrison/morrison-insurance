@@ -1,0 +1,107 @@
+# Morrison Insurance — Late-December Week Research
+
+**Window:** Monday, December 14–Sunday, December 20, 2026  
+**Status:** Review-ready research only. Nothing is scheduled or published.  
+**Audience:** Center, Shelby County, and Deep East Texas neighbors.  
+**Prepared:** October 30, 2026  
+**Author:** Manus AI
+
+## Editorial direction for this week
+
+The week should be useful before it is promotional. The strongest verified anchors are winter household readiness, holiday travel planning without local-condition claims, Shelby County outdoor-rule literacy, Toledo Bend as a real regional place, neighbor-help prompts, and a solstice lead-in that does not misstate the date. The existing library already contains a Week 9 listening post and household communication-plan post; the concepts below deliberately move beyond those exact drafts rather than repeating them.
+
+Every Facebook/Instagram idea is a paired cross-post concept, with a distinct Facebook treatment and an Instagram treatment direction. Each day has one concept that is directly useful to a Shelby County or Deep East Texas neighbor. Use only Morrison-owned, permission-cleared, organizer-approved, or original photography. Do not use stock imagery, unapproved children’s/event photos, downloaded government artwork, or identifiable people without permission.
+
+## Verified anchors
+
+1. **Winter household preparedness:** Ready.gov recommends preparing a home to keep out the cold, learning how to prevent frozen pipes, testing smoke and carbon-monoxide alarms with battery backups, gathering supplies for several days without power, considering medicines and pets, and keeping an emergency kit in the car. It also says generators and grills belong outdoors and at least 20 feet from windows, doors, and attached garages. [1]
+2. **Official alerts and no local forecast:** Ready.gov directs readers to weather reports, emergency information, community warning systems, the Emergency Alert System, and NOAA Weather Radio. This supports general preparation, not a claim that Shelby County will experience a freeze, storm, outage, or hazardous road condition. [1] [2]
+3. **Holiday driving:** TxDOT’s official campaign says to arrange a sober ride ahead of time if drinking may occur and to help someone who has been drinking find a sober ride or stay put. Its campaign runs through New Year’s Day; do not add local crash, enforcement, or transportation-service claims. [3]
+4. **Shelby County outdoor context:** TPWD’s 2026–27 Shelby County page identifies Center as the county seat and lists active dates that overlap this week, including deer general season through January 3, dove December 11–January 14, duck December 5–January 31, squirrel through February 28, and woodcock beginning December 18. The page also contains species-specific requirements and restrictions. Any post must direct readers to the current official rules rather than compressing them into a casual “season is open” claim. [4]
+5. **Toledo Bend:** TPWD identifies Toledo Bend Reservoir as a Sabine River lake spanning Shelby, Sabine, and Newton counties, with official links for current lake level, current fishing report, regulations, access facilities, and a fish-consumption advisory. A fishing post should use the current report or current lake-level source on the day of posting, not evergreen conditions as if they were current. [5]
+6. **Winter solstice timing:** The U.S. Naval Observatory lists the 2026 December solstice as December 21 at 12:50 standard time in the page’s 8-hours-west-of-Greenwich setting. Therefore December 20 can be a “season turning soon” lead-in, but it must not call December 20 the solstice. [6]
+7. **Federal holiday boundary:** OPM lists Christmas Day as Friday, December 25, 2026. Christmas is outside this requested week. Do not imply Morrison office hours, local closures, school schedules, or holiday programming from the federal holiday listing. [7]
+8. **Local calendar check:** The Shelby County Chamber page currently shows December 3 Taste of the Holidays and December 5 Santa’s Lighted Christmas Parade, plus a January 16, 2027 Chamber awards banquet; it does not currently verify a Dec. 14–20 event. The library home page shows recurring resources and older/future listings but does not currently verify a Dec. 14–20, 2026 special event. [8] [9]
+
+## Date-by-date Facebook/Instagram map
+
+### Monday, December 14
+
+**Morning concept — “The 10-minute winter-home walk-through” (neighbor utility).** Facebook: a plain-language checklist carousel covering exposed outdoor faucets/hoses, unheated spaces, smoke and CO alarm batteries, flashlights, and the household’s pet/medicine needs. State clearly that this is seasonal preparation, not a forecast. Invite readers to comment with the first item they checked. Instagram: a five-panel carousel or short Reel showing an original local home-detail flat lay, with one check per panel and a final “save this for later” prompt. Website cross-link: Ready.gov winter weather. Visual: original Morrison or permission-cleared home-maintenance detail; no damage imagery. **Verification gate:** Recheck Ready.gov wording and remove any freeze language unless current NWS information supports it. [1] [2]
+
+**Afternoon concept — “What should a neighbor know before the week gets busy?” (community listening, distinct from the existing generic listening post).** Facebook: ask for one practical local resource people wish they could find in one place, offering categories such as road conditions, library access, lake information, rural chores, or winter home tasks; prohibit public sharing of policy or personal contact details. Instagram: Story poll with the same categories followed by a question sticker. Visual: original notebook beside a Center/Shelby County scene. **Verification gate:** Moderate replies; do not repeat an event, closure, need, or local claim unless an official source confirms it. No source required for the question itself.
+
+### Tuesday, December 15
+
+**Morning concept — “Generator safety, without the scare tactics.” (household preparedness).** Facebook: a simple explainer that generators and grills must stay outdoors and at least 20 feet from windows, doors, and attached garages; add a reminder to use working CO detectors and follow manufacturer instructions. Instagram: short Reel using a clearly safe outdoor demonstration or text-first animation made from original design; do not show a generator indoors or near an opening. Invite people to save the post and check detector batteries. Website cross-link: Ready.gov winter weather. **Verification gate:** Confirm the 20-foot distance and other safety language against the live Ready.gov page; do not imply a current outage or storm. [1]
+
+**Afternoon concept — “A small-acreage winter inventory.” (farm/rural usefulness).** Facebook: invite landowners to walk a property and note gates, fences, water access, feed storage, lighting, and contact information for the person who checks animals when plans change. Avoid livestock rates, veterinary guidance, burn advice, or property-specific conclusions. Instagram: photo carousel of an original pasture-fence, gate, trough, and notebook sequence. Invite readers to name one winter chore that prevents a bigger scramble. **Verification gate:** Use only broad seasonal language; obtain a current Texas A&M AgriLife or local Extension review before adding animal-care specifics. Source anchor for broad landowner context: AgriLife small-acreage resources [10].
+
+### Wednesday, December 16
+
+**Morning concept — “The winter car-kit check.” (Deep East Texas road utility).** Facebook: checklist for flashlight, warm layer/blanket, water, nonperishable snack, phone power, and basic vehicle supplies, based on Ready.gov’s winter guidance; explicitly say this is a preparedness checklist, not a statement about current road conditions. Instagram: Reel or carousel showing an original trunk-kit layout, with a final prompt asking what item people always keep in the vehicle. Website cross-link: Ready.gov winter weather. **Verification gate:** Recheck the live source; use DriveTexas only if the post makes a current-condition claim. [1] [11]
+
+**Afternoon concept — “Library resource reset, not an event announcement.” (Center local life).** Facebook: remind neighbors that Fannie Brown Booth Memorial Library has books, research, interlibrary-loan, children’s, language-learning, and genealogy resources, while directing them to check current hours and the calendar before visiting. Do not announce a Dec. 16 program because none is currently verified. Instagram: quiet library-exterior or book-spine photo with a Story question: “Which local resource do you forget is there?” Website cross-links: library home and calendar. **Verification gate:** Confirm hours, closures, and any event on the live library site the day of posting; if a verified Dec. 16 listing appears, replace the generic resource angle only after checking details and image rights. [9]
+
+### Thursday, December 17
+
+**Morning concept — “Toledo Bend Thursday: check the source before the boat.” (lake context).** Facebook: use the approved Thursday fishing lane only if a current TPWD Toledo Bend report is available; link readers to the official report and current lake-level page, and say conditions, access, and regulations should be checked before leaving. Instagram: original lake image or angler-gear detail with a three-step Story sequence: report, level/access, regulations. No forecast, bite guarantee, launch claim, or consumption advice beyond the current official source. **Verification gate:** Same-day TPWD report, lake-level, access, and regulation check; replace with evergreen lake orientation if no current report is available. [5]
+
+**Afternoon concept — “Outdoor rules are a two-minute habit.” (hunting/outdoor literacy).** Facebook: explain that TPWD’s Shelby County page is the place to verify species, dates, zones, licenses/endorsements, restricted areas, and applicable limits before a woods or water trip. Mention no species-specific season as a blanket recommendation. Instagram: carousel showing a boots-by-gate flat lay and a “check the current rule / check the county / check your license” sequence. Invite followers to share the gear item they double-check, not hunting locations or harvest details. **Verification gate:** Reopen the live county page and relevant species page on posting day; do not publish if the rule is unclear or changed. [4]
+
+### Friday, December 18
+
+**Morning concept — “Woodcock season begins: verify before sharing.” (conditional outdoor anchor).** Facebook: if the current TPWD page still lists woodcock regular season beginning Dec. 18, make a restrained informational post: “Some outdoor seasons change by date and species; use the official county rules before going.” Avoid telling people to hunt, naming a bag limit in graphic form, or implying a local opportunity. Instagram: text-first Story/carousel with the date as a verification prompt, not a sales or invitation message. Visual: original winter woods detail, no weapon or harvest imagery. **Verification gate:** Same-day TPWD check of woodcock page, Shelby County applicability, required endorsements, dates, and any current notices; if anything cannot be confirmed, use the general rules-check concept instead. [4]
+
+**Afternoon concept — “Holiday ride plan before the gathering.” (neighbor help).** Facebook: practical, nonjudgmental reminder to decide the ride home before the evening starts, with options such as a sober friend, rideshare, taxi, or staying put, following TxDOT. Instagram: Reel of keys on a table and a simple three-step plan; invite followers to tag the friend who is good at planning, without showing alcohol branding. **Verification gate:** Recheck the live TxDOT campaign; do not mention local enforcement, crash counts, or transportation availability. [3]
+
+### Saturday, December 19
+
+**Morning concept — “Cold-weather lake-day basics.” (Toledo Bend/outdoor household usefulness).** Facebook: a checklist to check the current report, access/launch information, life jackets and charged communication devices, weather alerts, and the applicable Texas/Louisiana rules before a Toledo Bend outing. Do not state that conditions are safe or that fish are biting. Instagram: original gear flat lay or lake shoreline image with a saveable checklist. **Verification gate:** Same-day TPWD and responsible lake/authority checks; no local weather or water-condition claim without current official support. [5] [2]
+
+**Afternoon concept — “Neighbor-help without guessing at a charity need.”** Facebook: encourage people who want to help to ask a local organization what is currently useful before collecting goods or volunteering; do not name a need, drive, meal, or recipient unless the organization has posted it. A possible source to check is Shelby County Outreach Ministries. Instagram: Story question asking, “What is one practical way you have seen neighbors help?” Visual: original pantry-staple or handwritten-note still life, no identifiable recipient. **Verification gate:** If naming Shelby County Outreach, confirm its current programs, hours, needs, and approved wording directly on the organization’s live source; otherwise keep it as an unnamed neighbor-help prompt. [12]
+
+### Sunday, December 20
+
+**Morning concept — “The season turns tomorrow.” (solstice lead-in).** Facebook: explain that the U.S. Naval Observatory places the 2026 December solstice on Dec. 21, then invite readers to notice one seasonal change in East Texas without making daylight, temperature, or weather claims. Instagram: quiet original tree-line or porch-light photo with a countdown-style Story that says “solstice tomorrow,” not “today.” **Verification gate:** Recheck the official USNO calculation and time-zone presentation; do not publish a local daylight duration unless separately calculated and verified. [6]
+
+**Afternoon concept — “Sunday household reset: who checks on whom?” (neighbor care).** Facebook: offer a low-pressure prompt to write down one person, pet, or household task that should not be left to assumption during a busy winter week; suggest checking in with an older neighbor or someone who may need practical help without claiming anyone locally needs assistance. Instagram: carousel with “one person / one pet / one task / one backup plan,” using an original home-detail visual. This is distinct from the existing Ready.gov communication-plan post because it focuses on a neighbor-care handoff rather than alerts, meeting points, or contact plans. **Verification gate:** Keep it general; do not identify local vulnerable groups, shelters, outages, closures, or service availability without current official confirmation. Optional resource cross-link: Ready.gov plan. [13]
+
+## GBP candidates — two separate, compliant options
+
+1. **GBP Update candidate: “A winter-home checklist for Center neighbors.”** Use a real Morrison-owned photo of an agency/office detail or authentic permission-cleared Center/Shelby County home-maintenance scene. Caption must be factual, short, and contain no URL or phone number: “A few calm winter checks can make a household week easier: look at exposed faucets and hoses, test smoke and carbon-monoxide alarms, gather flashlights and batteries, and remember that generators belong outdoors. Save the checklist for later.” Use the built-in button only if the approved destination is selected. **Gate:** Confirm current Ready.gov language and approve the real image; no local forecast or office-hours claim. [1]
+2. **GBP Update candidate: “A local outdoor-rules reminder.”** Use a real Morrison-owned or permission-cleared photo of boots by a gate, a Center/Shelby County landscape, or an authentic lake-access detail. Caption: “Before a winter woods or lake trip, check the current county rules, dates, licenses, access information, and notices. A two-minute source check is a good part of getting ready.” No URL or phone number in caption; use the built-in button only after approval. **Gate:** Recheck TPWD Shelby County and current Toledo Bend information on the proposed day; do not use a harvest, weapon, or unapproved outdoor photo. [4] [5]
+
+## LinkedIn candidates — two professional, community-facing options
+
+1. **“Preparedness is a form of neighbor care.”** A professional post for local employers and community partners: small businesses and households can make winter weeks easier by checking emergency contacts, backup communications, alarms/CO detectors, supplies, and the needs of pets, medicines, and people who may need assistance. Keep it educational, cite Ready.gov, and close with a question about one preparedness habit a local organization reviews each winter. Use an original Morrison office or community image. **Gate:** No business-continuity promise, local weather claim, or insurance advice. [1] [13]
+2. **“Local knowledge is part of responsible service.”** A professional reflection on why a Center agency’s community-facing content should point neighbors to primary sources: TPWD for Shelby County outdoor rules and Toledo Bend information, TxDOT for holiday ride planning, and official local calendars for events. The post should describe verification discipline, not claim expertise or sell a product. Use a real Morrison team/office photo only with consent. **Gate:** Recheck each linked source and do not state that an event, condition, or regulation is current without same-day confirmation. [3] [4] [5] [8] [9]
+
+## Risks and hold points
+
+- **No verified Dec. 14–20 local event is currently available** on the checked Chamber or library pages. Keep local-event language as a placeholder: “Replace if a City, library, school, or organizer posts a verified event.” Never invent a time, route, ticket detail, organizer, closure, or cancellation status. [8] [9]
+- **Weather and road conditions are live claims.** Do not write that a freeze, storm, outage, hazardous road, or travel problem is coming without a same-day official NWS, local emergency-management, utility, or DriveTexas source. [2] [11]
+- **Burn-ban status is not a content anchor until rechecked.** Use the Shelby County public-notices page and current county order, with Texas A&M Forest Service as corroboration; unchanged status is not news. [14] [15]
+- **Hunting rules are date-, species-, zone-, license-, and property-sensitive.** The TPWD page confirms the week intersects multiple seasons, but it does not justify a blanket “open season” message. Recheck all relevant pages and avoid legal conclusions. [4]
+- **Toledo Bend information changes.** Use current lake level, current report, access information, and the applicable Texas/Louisiana regulations when making a current fishing or boating post. Do not repeat the page’s advisory or water conditions without checking the live source and relevance to the proposed claim. [5]
+- **Holiday office status is not established here.** Christmas is Dec. 25, outside this week; do not mention Morrison hours, availability, school schedules, or closures unless separately verified. [7]
+- **Visual rights remain a publishing gate.** Use authentic Morrison/local photography, permission-cleared community images, organizer-approved school/event images, or original neutral photography. Never use stock handshakes, generic corporate art, downloaded government graphics, or identifiable people without permission.
+- **Platform-cap exception remains review-only.** The design direction permits two Facebook and two Instagram placements per day during the late-year exception, but nothing here authorizes scheduling or publication. Check Metricool immediately before any future recommendation and prevent stacking these concepts on top of noncompliant legacy rows.
+
+## References
+
+[1]: https://www.ready.gov/winter-weather "Ready.gov Winter Weather"
+[2]: https://api.weather.gov/alerts/active.atom?zone=TXZ153 "NWS active alerts for Shelby County, Texas"
+[3]: https://www.txdot.gov/safety/traffic-safety-campaigns/holiday-season.html "Texas Department of Transportation Holiday Season Safety Campaign"
+[4]: https://tpwd.texas.gov/regulations/outdoor-annual/regs/counties/shelby "Texas Parks and Wildlife Department Shelby County 2026–27 Regulations"
+[5]: https://tpwd.texas.gov/fishboat/fish/recreational/lakes/toledo_bend/ "Texas Parks and Wildlife Department Toledo Bend Reservoir"
+[6]: https://aa.usno.navy.mil/calculated/seasons?year=2026&tz=8&tz_sign=-1&tz_label=false&dst=true&submit=Get%20Data "U.S. Naval Observatory 2026 Earth Seasons"
+[7]: https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/ "U.S. Office of Personnel Management 2026 Federal Holidays"
+[8]: https://shelbycountychamber.com/chamber-events/ "Shelby County Chamber Events"
+[9]: https://www.centerlibrary.org/ "Fannie Brown Booth Memorial Library"
+[10]: https://agrilifeextension.tamu.edu/asset-external/livestock-for-small-acreage-landowners/ "Texas A&M AgriLife Extension Livestock for Small-Acreage Landowners"
+[11]: https://conditions.drivetexas.org/current/ "DriveTexas Current Road Conditions"
+[12]: https://shelbycountyoutreach.org/ "Shelby County Outreach Ministries"
+[13]: https://www.ready.gov/plan "Ready.gov Make a Plan"
+[14]: https://www.co.shelby.tx.us/page/shelby.Public.Notices "Shelby County Official Public Notices"
+[15]: https://tfsfrp.tamu.edu/WILDFIRES/BURNBAN.txt "Texas A&M Forest Service Burn-Ban List"

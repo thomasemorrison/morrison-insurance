@@ -1,9 +1,9 @@
 # Morrison Insurance — Consolidated Social Media Plan
 
-**Last revised:** October 8, 2026  
+**Last revised:** October 30, 2026  
 **Primary platforms:** Facebook and Instagram  
 **Additional channels:** Google Business Profile as a separate compliant Update workflow; LinkedIn remains manual until the account has a stronger follower base.  
-**Scheduling rule:** Every proposed placement, including a Story, must be checked in Metricool immediately before it is recommended or scheduled. The maximum is **three cross-network placements per calendar day**. A Facebook-and-Instagram cross-post counts as two placements; adding GBP would count as a third. Do not schedule or recommend a fourth placement.
+**Scheduling rule:** Every proposed placement, including a Story, must be checked in Metricool immediately before it is recommended or scheduled. The normal maximum is **three cross-network placements per calendar day**. The Morrison team explicitly authorized the temporary November 1–December 31, 2026 planning exception and the narrowly scoped Facebook/Instagram automation recorded below. No other item is automatically scheduled or published.
 
 ---
 
@@ -14,6 +14,23 @@ Morrison Insurance should be **the useful, recognizable Shelby County account th
 > **Content test:** Would someone in Shelby County find this useful, recognizable, or worth passing to a neighbor even if they were not shopping for insurance today? If not, it does not lead the calendar.
 
 This plan replaces the July 2026 two-post manual rotation. It aligns the Instagram audit with the active Weekday Content Desk, the weekly sports and fishing deliverables, current SEO work, and Morrison’s community-first brand requirements. It is a planning framework, not permission to post automatically.
+
+## Temporary late-year calendar exception — November 1–December 31, 2026
+
+On October 30, 2026, the Morrison team explicitly authorized an elevated **review-ready planning cadence** through December 31: two Facebook placements and two Instagram placements per day, plus up to two Google Business Profile candidates and two LinkedIn candidates per week. This is a time-bounded exception to the normal three-placement cross-network cap, not permission for automatic publication, automatic scheduling, repetitive sales messaging, or filler content.
+
+Every date still requires a fresh Metricool check for duplication or channel conflicts, current source verification where facts or events are involved, authentic/rights-cleared visual direction, and Morrison’s approval before scheduling. Google Business Profile posts must still follow all GBP compliance rules. LinkedIn copy remains manual and community/professional in tone. The normal three-placement cap resumes January 1, 2027 unless the Morrison team expressly extends it.
+
+The complete review-ready library is in `content/late-year-social-content-calendar-2026-11-01-to-12-31.md`. It provides two paired Facebook/Instagram packages for each date from November 1 through December 31, plus two separate GBP Update candidates and two manual LinkedIn candidates per week. It is a source-controlled working library—not a bulk scheduling authorization—and every regular row retains its posting-day source, rights, and Metricool gates.
+
+### Limited automated publication — approved October 30, 2026
+
+The Morrison team authorized two narrowly defined Facebook/Instagram exceptions:
+
+1. The **NWS Shelby Safety Publisher** watches the official NWS Atom feed for Shelby County. It publishes only a new Tornado, Severe Thunderstorm, Flash Flood, Flood, Winter Storm, Ice Storm, Red Flag, or Extreme Heat Warning—or an NWS emergency message requiring urgent protective action. It does not publish watches, advisories, special weather statements, routine forecasts, expired/cancelled items, or duplicates.
+2. The **Thursday Toledo Bend post** publishes to Facebook and Instagram at **10:00 AM Central** each Thursday after current authoritative source checks. It uses a factual lake-conditions note when no supportable bite report is available, and it skips publication if a rights-cleared public image or authoritative source cannot be confirmed.
+
+Both exceptions may proceed even when routine planned placements occupy the day. They never publish to GBP, LinkedIn, email, or any non-Morrison destination. They do not edit or cancel existing posts. Burn-ban changes remain immediate review-and-publish candidates until a separate official-source monitoring trigger is explicitly approved and validated.
 
 ## Direction carried forward from the P&C website benchmark
 
