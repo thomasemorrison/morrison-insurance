@@ -304,3 +304,9 @@
 - [x] Verify Shelby County’s October 23 outdoor-burning order remains the controlling material safety notice and prepare a capacity-safe Facebook/Instagram safety pair for review only
 - [x] Research current Toledo Bend conditions from TWDB and SRA; document that TPWD’s weekly fishing reports are on hold and omit unsupported bite, species, and technique claims
 - [x] Prepare a separate, review-only Friday lake-conditions pair with a final same-day capacity and source recheck required before any scheduling
+
+## October 30 Content Desk — Shelby County Burn Ban
+- [x] Verify that Shelby County’s official site and the Texas A&M Forest Service still list the October 23 outdoor-burning order as active, with no public renewal or lift found
+- [x] Check Metricool’s cross-network Friday capacity and prepare a 10 AM Facebook/Instagram safety pair for review only; zero placements were scheduled and no post was scheduled
+- [x] Hold the Friday Rural Market Note because the material safety item takes its weekly feed opportunity
+- [x] Repair the loaded shared content calendar from the durable project copy after a stale sync left it truncated; restore the October 27–30 Content Desk decision records
