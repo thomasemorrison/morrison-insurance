@@ -8,7 +8,7 @@
   "capacityBeforeActivation": {"2026-11-04": 0, "2026-11-05": 0, "2026-11-06": 0, "2026-11-13": 0},
   "activeCombinedCountAfterActivation": {"2026-11-04": 2, "2026-11-05": 0, "2026-11-06": 2, "2026-11-13": 2},
   "normalCapNote": "Six live schedules fit the normal combined three-placement cap. Three GBP drafts have reserved dates within that cap; reserve the Thursday November 5 fishing pair. No existing post was changed or duplicated.",
-  "googleButtonGate": "Metricool connector has no Learn More button field. Browser editor requires Metricool login. Attach each matching article URL using Learn More in the planner/GBP UI before activation; never put the URL in the caption.",
+  "googleButtonGate": "November 2, 11:35 AM CST: My Browser is authenticated and the Morrison draft editor is accessible. Neither the connector nor the inspected editor exposes a separate Learn More field. Metricool documentation describes a button generated from text plus link. Because Morrison prohibits pasting a URL into the Google caption, all three drafts remain unchanged pending explicit permission to test that conversion in draft preview. No URL was inserted and no Google post was activated.",
   "linkedin": "Three captions prepared only; not scheduled. Retain manual/follower gate.",
   "indexing": "No Search Console connector is available. Live routes and discovery files are verified separately from Google indexing; no indexing submission or indexed status is claimed.",
   "posts": [
