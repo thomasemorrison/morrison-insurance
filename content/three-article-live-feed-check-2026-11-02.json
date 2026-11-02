@@ -1,0 +1,22 @@
+[
+  {
+    "url": "https://morrison-ins.net/sitemap.xml",
+    "status": 200,
+    "result": "PASS: all three articles registered"
+  },
+  {
+    "url": "https://morrison-ins.net/rss.xml",
+    "status": 200,
+    "result": "PASS: all three articles registered"
+  },
+  {
+    "url": "https://www.morrison-ins.net/sitemap.xml",
+    "status": 200,
+    "result": "PASS: all three articles registered"
+  },
+  {
+    "url": "https://www.morrison-ins.net/rss.xml",
+    "status": 200,
+    "result": "PASS: all three articles registered"
+  }
+]

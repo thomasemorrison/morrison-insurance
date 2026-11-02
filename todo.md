@@ -318,7 +318,7 @@
 - [x] Pass TypeScript, 29 tests, production build, XML, public JPEG checks, desktop/mobile preview, and local production metadata checks
 - [x] Push canonical GitHub commit 5b59721 and synchronize the managed project; checkpoint 5b597213 is release-ready
 - [x] Create and read back nine dated Metricool drafts with distinct Facebook/Instagram/GBP copy, Instagram AI disclosure, and authentic GBP photography; prepare three held LinkedIn captions
-- [ ] Release checkpoint 5b597213 or a newer approved checkpoint through the Website panel’s Publish control, then verify all three public routes and RSS/sitemap; live metadata still old as of November 2 10:21 AM CST
-- [ ] After live verification, recheck capacity and activate the six Facebook/Instagram drafts dated November 4, 6, and 13; do not duplicate them
+- [x] User published the latest version November 2; all three public routes and crawler metadata passed on both domains, and live RSS/sitemap entries and matching hero images passed at 10:37 AM CST
+- [x] Rechecked capacity, activated the six existing Facebook/Instagram drafts dated November 4, 6, and 13, and independently read back draft=false/autoPublish=true plus Instagram AI disclosure; no duplicates or unrelated edits
 - [ ] Add each GBP draft’s Learn More button via the planner UI, then activate the three drafts dated November 5, 6, and 13 after live/capacity checks
 - [ ] Submit the live sitemap through an authorized Search Console path or manually request article indexing; inspection alone is not an indexing submission
