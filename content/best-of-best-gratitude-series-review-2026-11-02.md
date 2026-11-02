@@ -1,58 +1,41 @@
-# Shelby County, thank you — 2026 recognition series
+# Shelby County, thank you — scheduled 2026 recognition series
 
-**Prepared November 2, 2026. Review-ready only. No draft, schedule, post, tag or message was created in Metricool.**
+**Updated November 2, 2026. Four Facebook posts and four Instagram posts are active schedules in Morrison’s Metricool account. All eight are PENDING, not published.** The user approved the unchanged copy and scheduling at 1:37 PM CST. Creation finished at 1:42 PM; independent readback confirmed the exact dates, captions, images, alt text, autoPublish true and draft false. No unrelated post was changed or canceled.
 
-This is a quiet thank-you series, not an awards campaign built around being better than anyone else. One post thanks the voters for the agency recognition. One belongs entirely to Monica. The next turns the attention outward to the community. A fourth gives one fellow winner a moment of appreciation. No quote invitation, product pitch, vote total, rank claim, urgency or promise belongs in the copy.
+## Current cap and cadence
 
-The Morrison team expressly approved a **limited exception for this 2026 gratitude series**, including Monica’s individual spotlight, on November 2. The normal rule against award-led and agent-first content is unchanged outside this series. This approval permits preparation, **not scheduling or publication**.
+The user expressly replaced the former combined daily cap with **two placements per channel per America/Chicago calendar day**. There is no cross-network daily total. A Facebook/Instagram cross-post counts as one on Facebook and one on Instagram. On each of these four scheduled dates, the verified inventory is **Facebook 1/2; Instagram 1/2; GBP 0; LinkedIn 0**. One slot remains on each of Facebook and Instagram, independently. Check fresh counts before using that room; count scheduled Stories and verified already-published same-day activity on their own channel.
 
-## Proposed rhythm and capacity
+The planning target is **7–10 useful posts each week per Facebook and Instagram channel**, not two every day by default. Keep GBP and LinkedIn lighter, retaining the existing up-to-two-per-week review-ready planning cadence and their compliance/manual gates. Cadence alone never authorizes publication. The existing Unified Content Desk’s saved prompt was updated without changing its weekday 6:30 AM Central timing, same-thread delivery or existing narrow NWS/Thursday fishing permissions. Project-wide instruction/shared-file changes were submitted to the project-change card and are **pending approval, not yet applied across tasks**. The local plan already reflects the direct current-task approval.
 
-The old attachment referred to August and placed Monica six to nine weeks after the opening. This version uses current dates, gives Monica the second slot, and merges the old separate “reader thank-you” and “agency recognition” into one post so the agency does not thank itself twice. Leave at least 14 days between recognition posts. Nothing should mention waiting for other businesses’ posts to die down; readers only need the sincere thank-you.
+## Scheduled rhythm
 
-1. **Saturday, November 7 — Shelby County voter thank-you, agency recognition only.** Facebook 10:00 AM; Instagram 10:15 AM CST.
-2. **Saturday, November 21 — Monica Watson’s individual spotlight.** Facebook 10:00 AM; Instagram 10:15 AM CST. Do not add a second agency-award announcement to her caption.
-3. **Saturday, December 5 — Congratulations to fellow Shelby County winners.** Facebook 10:00 AM; Instagram 10:15 AM CST. The general version is complete without making the whole list a publishing prerequisite.
-4. **Saturday, December 19 — One neighbor-focused spotlight.** Facebook 10:00 AM; Instagram 10:15 AM CST. **Boo’s Battle is the verified suggested recipient, not a final agency selection.** Goodwyn Construction or another verified choice can replace it; do not add an extra post automatically. Skip this fourth post if it begins to feel repetitive or a more useful community item needs the room.
+- **November 7:** Agency voter thank-you. Facebook 10:00 AM; Instagram 10:15 AM CST.
+- **November 21:** Monica’s individual spotlight. Facebook 10:00 AM; Instagram 10:15 AM CST.
+- **December 5:** Congratulations to fellow Shelby County winners. Facebook 10:00 AM; Instagram 10:15 AM CST.
+- **December 19:** Boo’s Battle community spotlight. Facebook 10:00 AM; Instagram 10:15 AM CST.
 
-The fresh Metricool inventory at **1:24 PM CST November 2** showed **zero existing placements on each of those four dates**. Each proposed Facebook/Instagram pair would add two, producing a combined daily total of **two of the normal three available placements**, leaving one unreserved slot. This series does not rely on the temporary higher-cadence exception. These are capacity-checked proposals, not locked reservations. Recheck all networks immediately before any scheduling; if two or more placements occupy a proposed day, move the pair to the next suitable day and preserve spacing. Thursday fishing remains separate. Do not cancel or alter existing posts to make room.
+The 14-day spacing gives each message room. The agency and Monica captions remain distinct. There is no apology for posting later and no mention of waiting for other businesses’ announcements. The agency voter thank-you and agency recognition are one post, not two repetitive announcements. Goodwyn Construction remains an unscheduled alternative—not an extra post or a confirmed customer relationship. No GBP or LinkedIn award post was created.
 
-These morning times are an uncomplicated planning choice, **not a claim about measured optimal posting time**. All are America/Chicago CST for these dates. The late-year content library is review-ready material, not already-scheduled inventory. Avoid assigning a second routine Facebook/Instagram pair to an award date under the ordinary cap.
+## Photos, credit and source links
 
-## Credit, proof and linking
+The two supplied award photos were uploaded unchanged, without reopening them in a file viewer. Their captions make no guessed person tags. The December community posts use the site’s existing authentic **Center-square street** and **Shelby County courthouse** photographs, which were inspected separately. No stock or generated image was substituted. The courthouse image is a general community scene, not a photograph of Boo’s Battle, an award event or a fundraiser. All four Instagram posts have isAiGenerated false. No new logo, overlay, crop, photographer credit or tag was invented.
 
-Always attribute the results as **readers’ recognition in The Light and Champion’s 2026 Best of the Best / Shelby County Readers Choice awards**. Never convert the official category name into “the best agency in the county,” “most trusted,” “#1,” a quality guarantee or a comparison with another business. Do not add consecutive-year claims or voting numbers.
+The supplied group photo includes both the agency and Monica signs; that documentary detail remains intact, while Monica has her own separate caption and photograph on November 21. No person or sign was erased to create artificial separation. If the newspaper requires a specific additional photo credit or change, obtain the exact requirement rather than inventing one.
 
-The supplied photographs document the agency and Monica recognition. The prior research record also reports the official insert: page 4, Insurance Agent — Monica Watson — Morrison Insurance Company; page 5, Insurance Agency — Morrison Insurance. That PDF is not currently available here, so this packet does not pretend to have rechecked the full insert or recovered a public winners-list URL.
+Each caption thanks The Light and Champion. Each Facebook post links to its verified **August 14 celebration recap**, not a fabricated full winners-list page. That recap explains the contest and names Boo’s Battle as Best Charitable Organization; it does not enumerate Morrison and Monica in its retrieved text. Their recognition is supported by the supplied award photos and the prior official-insert review in `readers-choice-award-research.md`—page 4 for Insurance Agent, page 5 for Insurance Agency. The full insert was not newly recovered. No vote total, consecutive-year claim or quality guarantee was added. [1]
 
-The newly verified public contextual link is **The Light and Champion’s own “Shelby County’s Best celebrated” recap, dated August 14, 2026**. It explains the readers’ contest and August 7 celebration and explicitly identifies Boo’s Battle as Best Charitable Organization. Its retrieved text does **not** list Morrison or Monica. The Facebook captions therefore label it **celebration recap**, not “full winners list” or “proof of every award.” [1]
+No named person/business is described as a Morrison insured or customer without permission. This limited awards/Monica exception applies only to the approved 2026 gratitude series, not future agent-first or award-led content.
 
-Each Facebook caption below includes the verified recap link. Keep the authentic photograph as the main media rather than substituting a link-preview card. The publisher’s verified Facebook page is **The Light and Champion** at `facebook.com/TheLightAndChampion`; select the actual page in the composer if a tag is approved. Do not assume typing “@TheLightAndChampion” creates a working tag. No Instagram handle was verified; use the publisher’s written name rather than inventing one. Instagram captions cannot provide a clickable article URL; if a linked Story is later requested, count that as an additional placement and check capacity again. No extra Story is proposed here.
+## Scheduled captions and planner links
 
-The Light and Champion’s homepage is a valid publisher-identity link, **not** a substitute results page. Do not send readers to the current digital edition and claim it contains this year’s awards insert. [2]
+### Agency voter thank-you — 2026-11-07
 
-## Photography and creative
+**Active PENDING schedules:** [Facebook — 10:00 AM CST](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=4205797893698896743) · [Instagram — 10:15 AM CST](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-4509895696689574434).
 
-Use authentic photographs with minimal or no added design. No confetti, ranking graphics, stock imagery, oversized trophies, carrier styling, invented quotes or newly generated ceremony images. The photos supplied are already documentary evidence; no new graphic is needed. A credit does not itself establish reproduction rights. Before publication, confirm any newspaper/photographer’s reuse permission and the exact required credit, plus Monica’s comfort with her spotlight. Do not invent a credit or tag a personal profile without approval.
+**Photograph:** BestInsuranceAgencyMorrisonInsuranceAgency.jpg.
 
-**Agency post:** the supplied `BestInsuranceAgencyMorrisonInsuranceAgency.jpg` is an appropriate documentary group image. It visibly includes both the agency and Monica award signs; the caption is agency-only, but the photo is not. For strict visual separation, use an existing authentic Morrison storefront/team photo without Monica’s award sign instead. Do not erase a person or alter an official sign to manufacture that separation.
-
-**Monica post:** use `BestInsuranceAgentMonicaWatson.jpg` as the authentic award-presentation image. Keep the full context, not a new headshot/trophy collage. Confirm the people’s identities before writing person-specific alt text or tagging; the draft alt text deliberately describes the two-person scene without guessing who is who. Do not cut off the certificate/sign just to force 4:5. Retain a supported near-square crop or approve a new composition separately; no upscaling or alteration has been performed.
-
-**Community posts:** choose a permission-cleared real Center/Shelby County photo for the general congratulations and an approved Boo’s Battle/community image or native share for the named spotlight. Images and final alt text are still open for those two posts. The Goodwyn ad screenshot is a reference, not reusable Morrison artwork or evidence of a client relationship.
-
-The attached images were assessed only as already displayed in the conversation; they were **not reopened with a file tool, cropped, edited or uploaded**. Authentic photos should be marked `isAiGenerated:false` if later scheduled. Do not apply an AI disclosure to these real photographs.
-
-## Review-ready captions
-
-Copy blocks below are plain final draft text. Source/permission notes and word counts are production metadata, not part of the caption. Word counts are whitespace-delimited, including URLs/hashtags. No names or captions have been entered into a social platform.
-
-
-### 1 — Voter thank-you / agency recognition
-
-**Proposed date:** 2026-11-07; Facebook 10:00 AM / Instagram 10:15 AM CST. **Status:** review-ready; source/photo-permission and fresh capacity checks before any scheduling.
-
-#### Facebook — 150 words
+#### Facebook
 
 Shelby County, thank you for the trust you place in the people down the street.
 
@@ -71,7 +54,7 @@ https://www.facebook.com/TheLightAndChampion/posts/shelby-countys-best-celebrate
 
 #CenterTX #ShelbyCountyTX #DeepEastTexas
 
-#### Instagram — 87 words
+#### Instagram
 
 Shelby County, thank you.
 
@@ -83,16 +66,15 @@ The work stays the same: listen carefully, give clear answers, and take good car
 
 #CenterTX #ShelbyCountyTX #DeepEastTexas
 
-**Image:** BestInsuranceAgencyMorrisonInsuranceAgency.jpg
+**Alt text:** Group at the 2026 Shelby County awards celebration holding recognition signs for Morrison Insurance and Monica Watson.
 
-**Draft alt text:** Group at the 2026 Shelby County awards celebration holding recognition signs for Morrison Insurance and Monica Watson.
+### Monica’s individual spotlight — 2026-11-21
 
+**Active PENDING schedules:** [Facebook — 10:00 AM CST](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-8033641637859735636) · [Instagram — 10:15 AM CST](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-7651957368840763044).
 
-### 2 — Monica’s own spotlight
+**Photograph:** BestInsuranceAgentMonicaWatson.jpg.
 
-**Proposed date:** 2026-11-21; Facebook 10:00 AM / Instagram 10:15 AM CST. **Status:** review-ready; Monica approval, source/photo-permission and fresh capacity checks before any scheduling.
-
-#### Facebook — 139 words
+#### Facebook
 
 A separate thank-you today for the neighbors who took the time to recognize Monica Watson.
 
@@ -109,7 +91,7 @@ https://www.facebook.com/TheLightAndChampion/posts/shelby-countys-best-celebrate
 
 #CenterTX #ShelbyCountyTX #DeepEastTexas
 
-#### Instagram — 77 words
+#### Instagram
 
 Monica Watson, this thank-you is for you.
 
@@ -121,16 +103,15 @@ Please join us in congratulating Monica—she deserves her own moment of appreci
 
 #CenterTX #ShelbyCountyTX #DeepEastTexas
 
-**Image:** BestInsuranceAgentMonicaWatson.jpg
+**Alt text:** Two people at the 2026 Shelby County awards celebration with Monica Watson's Best Insurance Agent certificate and recognition sign.
 
-**Draft alt text:** Two people at the 2026 Shelby County awards celebration with Monica Watson's Best Insurance Agent certificate and recognition sign.
+### Fellow-winner congratulations — 2026-12-05
 
+**Active PENDING schedules:** [Facebook — 10:00 AM CST](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=7636828239052621013) · [Instagram — 10:15 AM CST](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-2417085032562867213).
 
-### 3 — Congratulations to fellow winners
+**Photograph:** Existing authentic Center-square street photograph, site asset square-street-5009_b6bc3049.jpg.
 
-**Proposed date:** 2026-12-05; Facebook 10:00 AM / Instagram 10:15 AM CST. **Status:** review-ready general version; no named client relationships or unverified tags.
-
-#### Facebook — 150 words
+#### Facebook
 
 Good work happens all around Shelby County, often without much fuss.
 
@@ -147,7 +128,7 @@ https://www.facebook.com/TheLightAndChampion/posts/shelby-countys-best-celebrate
 
 #CenterTX #ShelbyCountyTX #SupportLocal
 
-#### Instagram — 79 words
+#### Instagram
 
 A thank-you to the people who keep Shelby County moving.
 
@@ -159,16 +140,15 @@ Leave a kind word for a local business or helper who has made a difference to yo
 
 #CenterTX #ShelbyCountyTX #SupportLocal
 
-**Image:** Authentic rights-cleared Center or Shelby County community photo; choose before scheduling.
+**Alt text:** A street and local storefronts along the square in Center, Texas, beneath a blue sky.
 
-**Draft alt text:** Pending selection and inspection of the actual permission-cleared photograph; do not publish placeholder alt text.
+### Boo’s Battle community spotlight — 2026-12-19
 
+**Active PENDING schedules:** [Facebook — 10:00 AM CST](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=19069361154509627) · [Instagram — 10:15 AM CST](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-7661458803542309956).
 
-### 4 — Suggested Boo’s Battle spotlight
+**Photograph:** Existing authentic Shelby County courthouse photograph, site asset courthouse-5003_8a7066a7.jpg.
 
-**Proposed date:** 2026-12-19; Facebook 10:00 AM / Instagram 10:15 AM CST. **Status:** review-ready factual copy; agency recipient selection, preferred public page/photo and fresh capacity check before scheduling.
-
-#### Facebook — 126 words
+#### Facebook
 
 Neighbors helping neighbors is always worth recognizing.
 
@@ -185,7 +165,7 @@ https://www.facebook.com/TheLightAndChampion/posts/shelby-countys-best-celebrate
 
 #ShelbyCountyTX #CenterTX #NeighborsHelpingNeighbors
 
-#### Instagram — 74 words
+#### Instagram
 
 Neighbors helping neighbors deserves a thank-you.
 
@@ -195,27 +175,16 @@ Thank you to the readers, the people who contributed, and The Light and Champion
 
 #ShelbyCountyTX #CenterTX #NeighborsHelpingNeighbors
 
-**Image:** Permission-cleared Boo's Battle group/community image or authentic Shelby County community photo; do not invent a team or fundraising image.
+**Alt text:** Historic Shelby County courthouse in Center, Texas, with trees and flags outside; a general community scene, not a photograph of Boo's Battle.
 
-**Draft alt text:** Pending selection and inspection of the actual permission-cleared photograph; do not publish placeholder alt text.
+## Exact records and remaining boundaries
 
+The full canonical IDs, string UUIDs, provider status, media URLs, alt text and exact captions are in `best-of-best-social-planner-2026-11-02.json`. `best-of-best-fellow-winner-review-2026-11-02.md` preserves your other possible recipients and flags unverified names/categories. Do not schedule those alternatives without approval, verification and a fresh channel-specific count. No additional automatic publisher, email, paid-media action or site release was created.
 
-## Named congratulations without guessing or exposing customers
-
-The December 5 general caption is ready for review now. Keep named additions separate until exact names/categories and public handles are verified. The companion **Fellow-winner selection and verification notes** preserves your submitted choices, identifies unresolved transcription, explains the Goodwyn option, and keeps government/school recognition from turning into election messaging or a favored-school sports post.
-
-Do not describe named recipients as Morrison customers, insureds or partners without their explicit permission, even if they are. “Neighbors,” “local businesses” and “community members” say what is needed without exposing a private business relationship. Avoid a long tag list or a call to choose who is “best.” Congratulate people; do not re-run the contest.
-
-## Channel and approval boundary
-
-This first packet proposes **Facebook and Instagram only**, matching the attached scheduling packet. LinkedIn remains manual/held under its existing profile and approval gate. No GBP date or post is proposed; there is no need to repeat a celebratory series there, and its separate informational-photo/button rules still apply if an Update is requested later. The previous one-time Google URL-to-button approval for three article promotions does not apply to this series.
-
-Before any scheduling, approve the exact captions and selected named recipient; confirm Monica/photo permissions and any credit; select the community photographs and truthful alt text; verify optional names/handles; then refresh Metricool capacity and preserve at least 14-day spacing. Until then these are **local review-ready materials only**, not Metricool drafts or reservations. No email, website change, paid-media edit, trigger or recurring task was made. The earlier August package remains historical; use this dated packet for the current proposed series.
+The digital-logo lookup is separate. No verified public official badge download was found; the previously recorded transparent PNG and earlier raster variant currently return 403 when retrieved. No replacement badge was fabricated or inserted into these posts. The publisher’s contact page lists Ashley Chandler at ashley@texaslocalmedia.com and general inquiries at 936-598-3377. No contact was sent. [2]
 
 ## References
 
 [1]: https://www.facebook.com/TheLightAndChampion/posts/shelby-countys-best-celebratedto-celebrate-the-winners-in-its-annual-readers-cho/122209653734593001/ "The Light and Champion — Shelby County’s Best celebrated, August 14, 2026"
-[2]: https://www.lightandchampion.com/ "The Light and Champion — publisher website"
-
-Internal evidence: supplied awards photographs, supplied four-post packet and fellow-winner worksheet, supplied `Untitleddocument.pdf`, and `content/readers-choice-award-research.md`. Working source findings, capacity snapshot and caption JSON are retained in `/home/ubuntu/research/morrison-awards-2026-11-02/`. Current review copy is also retained in `content/best-of-best-social-review-2026-11-02.json`.
+[2]: https://www.lightandchampion.com/site/contact.html "The Light and Champion — official contact page"
 

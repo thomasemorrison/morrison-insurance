@@ -1,8 +1,8 @@
 # 2026 Best of the Best Community Recognition Campaign
 
-## Current preparation — November 2, 2026
+## Current execution — November 2, 2026
 
-The Morrison team approved a limited exception to the standing award/agent-first content rule for this humble 2026 gratitude series only, with preparation authorized but no scheduling or publication. Use `best-of-best-gratitude-series-review-2026-11-02.md` for the current eight Facebook/Instagram caption variants, source limitations, photo gates and capacity-checked proposed November 7/21 and December 5/19 dates. The new sequence combines the voter thank-you and agency recognition, gives Monica the second slot, then turns outward to fellow winners and an optional verified community spotlight. Named-recipient review is in `best-of-best-fellow-winner-review-2026-11-02.md`. These are local review materials, not scheduled placements or applied shared-calendar changes. The earlier sequence below is retained as history, not the current queue.
+The Morrison team approved a limited award/agent-first exception for this humble 2026 series and subsequently approved its copy and scheduling. All eight Facebook/Instagram placements are now active **PENDING** schedules: November 7 agency thank-you, November 21 Monica spotlight, December 5 fellow-winner congratulations, December 19 Boo’s Battle spotlight. Facebook is at 10:00 AM and Instagram at 10:15 AM CST; independent readback confirms one placement per channel on each date. The new standing cap is two placements per channel per day, with no combined cross-network gate, and Facebook/Instagram each target 7–10 useful weekly posts. See `best-of-best-gratitude-series-review-2026-11-02.md` for exact scheduled copy and `best-of-best-social-planner-2026-11-02.json` for IDs/media/planner links. The project-wide policy/calendar suggestion remains pending approval; the saved Content Desk prompt and local guides were updated. The earlier sequence below is retained as history, not the current queue.
 
 ## Purpose and Positioning
 

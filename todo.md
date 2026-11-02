@@ -324,3 +324,14 @@
 - [ ] Submit the live sitemap through an authorized Search Console path or manually request article indexing; inspection alone is not an indexing submission
 - [ ] At delivery, verify provider publication and actual Google button-only rendering; preview success is not a live Google display or click-through guarantee. Do not change or delete a policy deviation without user approval.
 - [ ] Review the unchanged November 9 and 10 legacy posts separately: each spans four networks and its GBP caption includes phone/URL content; no legacy edits were authorized by this three-article task.
+
+
+## November 2 — approved gratitude series and channel-based cadence
+
+- [x] Apply the current-task user revision: maximum two placements per channel per America/Chicago day, no combined total; Facebook/Instagram each target 7–10 useful weekly posts; keep GBP/LinkedIn lighter and existing gates intact.
+- [x] Update the existing Unified Content Desk’s saved prompt in place, preserving weekday 6:30 AM Central timing and same-thread delivery; no duplicate workflow created.
+- [x] Schedule and independently read back the eight approved awards placements: Facebook 10:00 AM / Instagram 10:15 AM CST on November 7/21 and December 5/19. Provider PENDING, draft false, autoPublish true; exact captions, authentic images and alt text retained; each date Facebook 1/2 and Instagram 1/2; no unrelated post changed.
+- [x] Update local operating guides and the local reusable skill/checker for per-channel capacity; 46 tests and skill validation passed; no replacement installed skill uploaded.
+- [x] Submit project instruction/shared-policy/calendar updates once, preserving complete durable calendar history.
+- [ ] Project-wide policy/calendar change remains pending user approval on the project-change card; do not claim applied synchronization or resubmit the same suggestion.
+- [x] Complete bounded digital-logo lookup: no verified official public download recovered; earlier stored badge paths return 403. Verified publisher contact Ashley Chandler at ashley@texaslocalmedia.com; no message sent, badge recreated, or scheduled photo replaced.
