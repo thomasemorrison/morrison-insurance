@@ -111,6 +111,9 @@ export default function ArticleCarInsuranceQuotesCenterTx() {
           <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "2rem" }}>
             That is genuinely all it takes to get started. There are no lengthy online forms, no automated phone trees, and no pressure to decide on the spot.
           </p>
+          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "2rem" }}>
+            For a more detailed list—including work use, loan information, and how to share documents safely—see the <Link href="/resources/car-insurance-quote-checklist-center-tx" style={{ color: "var(--pine)", fontWeight: 600 }}>car insurance quote preparation checklist for Center drivers</Link>.
+          </p>
 
           <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
             Why Independent Agents Offer More Options

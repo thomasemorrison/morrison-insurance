@@ -23,8 +23,8 @@ const SAMPLE_HTML = `<!doctype html>
 </html>`;
 
 describe("ARTICLE_META", () => {
-  it("has exactly 27 article entries", () => {
-    expect(Object.keys(ARTICLE_META)).toHaveLength(27);
+  it("has exactly 30 article entries", () => {
+    expect(Object.keys(ARTICLE_META)).toHaveLength(30);
   });
 
   it("every entry has a non-empty title, description, image, and slug", () => {
@@ -157,7 +157,7 @@ describe("injectArticleMeta", () => {
       expect(match).not.toBeNull();
       images.add(match![1]);
     }
-    expect(images.size).toBe(27);
+    expect(images.size).toBe(30);
   });
 });
 

@@ -165,7 +165,7 @@ export function RelatedArticles({
 }
 
 // Article CTA section
-export function ArticleCta() {
+export function ArticleCta({ educational = false }: { educational?: boolean } = {}) {
   return (
     <section style={{ backgroundColor: "var(--pine)", padding: "4rem 0" }}>
       <div className="container" style={{ maxWidth: "780px", textAlign: "center" }}>
@@ -191,9 +191,9 @@ export function ArticleCta() {
             margin: "0 auto 2rem",
           }}
         >
-          Morrison Insurance has been serving Shelby County since 1923. Call us or stop by our
-          office in Center — we'll walk through your options and find the right coverage for your
-          situation.
+          {educational
+            ? "Bring your paperwork and the questions you want to ask. A local agent in Center can help you read the details and understand the next step—without rushing your decision."
+            : "Morrison Insurance has been serving Shelby County since 1923. Call us or stop by our office in Center — we'll walk through your options and find the right coverage for your situation."}
         </p>
         <div style={{ display: "flex", gap: "1rem", justifyContent: "center", flexWrap: "wrap" }}>
           <Link href="/contact">
@@ -209,7 +209,7 @@ export function ArticleCta() {
                 cursor: "pointer",
               }}
             >
-              Get a Free Quote
+              {educational ? "Talk through your situation" : "Get a Free Quote"}
             </div>
           </Link>
           <a

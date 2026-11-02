@@ -111,6 +111,9 @@ const pageRef = useScrollFadeUp();
           <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8 }}>
             A BOP is a good starting point, but it's not a complete solution for every business. Depending on your industry and operations, you may need additional coverages — commercial auto, workers' compensation, professional liability, or industry-specific endorsements. An independent agent can help you build a complete program that covers your actual risks.
           </p>
+          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginTop: "1.25rem" }}>
+            If a customer or venue asks for proof of your business insurance, our <Link href="/resources/certificate-of-insurance-shelby-county-tx" style={{ color: "var(--pine)", textDecoration: "underline", textUnderlineOffset: "3px" }}>Shelby County certificate-of-insurance checklist</Link> explains what to gather and why a certificate does not change your policy.
+          </p>
         </div>
       </section>
 

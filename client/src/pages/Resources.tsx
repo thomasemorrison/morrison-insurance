@@ -19,6 +19,30 @@ function useScrollFadeUp() {
 
 const articles = [
   {
+    category: "Auto Insurance",
+    title: "What to Bring for a Car Insurance Quote in Center, TX",
+    excerpt: "A practical car insurance quote checklist for Center, TX: driver and vehicle information, current policy details, work use, and safer ways to share documents.",
+    readTime: "5 min read",
+    href: "/resources/car-insurance-quote-checklist-center-tx",
+    image: "/manus-storage/car-quote-checklist-2026-11-hero_057d7888.jpg",
+  },
+  {
+    category: "Auto Insurance",
+    title: "How to Switch Car Insurance in Texas Without a Coverage Gap",
+    excerpt: "Switching car insurance in Texas? Confirm effective dates, cancellation steps, lender information, and payment questions before ending your old policy.",
+    readTime: "5 min read",
+    href: "/resources/switch-car-insurance-texas-without-gap",
+    image: "/manus-storage/switch-car-insurance-2026-11-hero_3d48e552.jpg",
+  },
+  {
+    category: "Business Insurance",
+    title: "Asked for a Certificate of Insurance? A Shelby County Business Checklist",
+    excerpt: "A certificate of insurance checklist for Shelby County businesses: what to request, certificate holder versus additional insured, and what the document does not change.",
+    readTime: "5 min read",
+    href: "/resources/certificate-of-insurance-shelby-county-tx",
+    image: "/manus-storage/certificate-insurance-2026-11-hero_0c5c76af.jpg",
+  },
+  {
     category: "Home Insurance",
     title: "Can a Texas Insurer Deny Home Insurance Because Your Roof Is Old?",
     excerpt: "Texas insurers cannot decline or nonrenew a home policy solely because of roof age. Here is what the TDI rule does—and does not—mean for East Texas homeowners.",

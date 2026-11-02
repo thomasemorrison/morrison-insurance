@@ -42,6 +42,24 @@ export const STATIC_PAGE_META: Record<string, StaticPageMeta> = {
 
 /** Canonical article meta — one entry per article route. */
 export const ARTICLE_META: Record<string, ArticleMeta> = {
+  "/resources/car-insurance-quote-checklist-center-tx": {
+    title: "What to Bring for a Car Insurance Quote in Center, TX | Morrison Insurance",
+    description: "A practical car insurance quote checklist for Center, TX: driver and vehicle information, current policy details, work use, and safer ways to share documents.",
+    image: "/manus-storage/car-quote-checklist-2026-11-hero_057d7888.jpg",
+    slug: "car-insurance-quote-checklist-center-tx",
+  },
+  "/resources/switch-car-insurance-texas-without-gap": {
+    title: "How to Switch Car Insurance in Texas Without a Coverage Gap | Morrison Insurance",
+    description: "Switching car insurance in Texas? Confirm effective dates, cancellation steps, lender information, and payment questions before ending your old policy.",
+    image: "/manus-storage/switch-car-insurance-2026-11-hero_3d48e552.jpg",
+    slug: "switch-car-insurance-texas-without-gap",
+  },
+  "/resources/certificate-of-insurance-shelby-county-tx": {
+    title: "Asked for a Certificate of Insurance? A Shelby County Business Checklist | Morrison Insurance",
+    description: "A certificate of insurance checklist for Shelby County businesses: what to request, certificate holder versus additional insured, and what the document does not change.",
+    image: "/manus-storage/certificate-insurance-2026-11-hero_0c5c76af.jpg",
+    slug: "certificate-of-insurance-shelby-county-tx",
+  },
   "/resources/texas-roof-age-home-insurance-rule": {
     title: "Can a Texas Insurer Deny Home Insurance Because Your Roof Is Old? | Morrison Insurance",
     description: "Texas insurers cannot decline or nonrenew a home policy solely because of roof age. Here is what the TDI rule does—and does not—mean for East Texas homeowners.",

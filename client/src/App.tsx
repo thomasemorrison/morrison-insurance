@@ -47,6 +47,9 @@ import ArticleHurricaneSeasonEastTexas from "./pages/articles/ArticleHurricaneSe
 import ArticleWildfireInsuranceEastTexas from "./pages/articles/ArticleWildfireInsuranceEastTexas";
 import ArticleAtvUtvInsuranceEastTexas from "./pages/articles/ArticleAtvUtvInsuranceEastTexas";
 import ArticleTexasRoofAgeRule from "./pages/articles/ArticleTexasRoofAgeRule";
+import ArticleCarQuoteChecklist from "./pages/articles/ArticleCarQuoteChecklist";
+import ArticleSwitchCarInsurance from "./pages/articles/ArticleSwitchCarInsurance";
+import ArticleCertificateOfInsurance from "./pages/articles/ArticleCertificateOfInsurance";
 import CookieConsent from "./components/CookieConsent";
 import MorrisonFamilyHistory from "./pages/MorrisonFamilyHistory";
 
@@ -115,6 +118,9 @@ function Router() {
       <Route path="/resources/wildfire-insurance-east-texas" component={() => <Layout><ArticleWildfireInsuranceEastTexas /></Layout>} />
       <Route path="/resources/atv-utv-insurance-east-texas" component={() => <Layout><ArticleAtvUtvInsuranceEastTexas /></Layout>} />
       <Route path="/resources/texas-roof-age-home-insurance-rule" component={() => <Layout><ArticleTexasRoofAgeRule /></Layout>} />
+      <Route path="/resources/car-insurance-quote-checklist-center-tx" component={() => <Layout><ArticleCarQuoteChecklist /></Layout>} />
+      <Route path="/resources/switch-car-insurance-texas-without-gap" component={() => <Layout><ArticleSwitchCarInsurance /></Layout>} />
+      <Route path="/resources/certificate-of-insurance-shelby-county-tx" component={() => <Layout><ArticleCertificateOfInsurance /></Layout>} />
       <Route path="/morrison-family-history" component={() => <Layout><MorrisonFamilyHistory /></Layout>} />
       <Route path="/404" component={() => <Layout><NotFound /></Layout>} />
       <Route component={() => <Layout><NotFound /></Layout>} />

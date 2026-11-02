@@ -33,6 +33,7 @@ interface ArticleLayoutProps {
   readTime: string;
   excerpt: string;
   heroImage?: string;
+  educationalCta?: boolean;
   // Content
   children: React.ReactNode;
   // Related
@@ -48,6 +49,7 @@ export function ArticleLayout({
   readTime,
   excerpt,
   heroImage,
+  educationalCta = false,
   children,
   relatedArticles,
 }: ArticleLayoutProps) {
@@ -218,7 +220,7 @@ export function ArticleLayout({
       {children}
 
       {/* CTA */}
-      <ArticleCta />
+      <ArticleCta educational={educationalCta} />
 
       {/* Related articles */}
       <RelatedArticles articles={relatedArticles} />

@@ -220,6 +220,9 @@ export default function ArticleCarInsuranceCompaniesCenterTx() {
               <li key={item} style={{ ...bodyText, margin: 0, paddingLeft: "0.25rem" }}>{item}</li>
             ))}
           </ol>
+          <p className="fade-up" style={bodyText}>
+            If you decide to change companies, the <Link href="/resources/switch-car-insurance-texas-without-gap" style={{ color: "var(--pine)", fontWeight: 600 }}>Texas car-insurance switching checklist</Link> walks through effective dates, cancellation, lender information, and payment questions before you end the old policy.
+          </p>
 
           <div className="fade-up" style={{ borderTop: "1px solid var(--border)", paddingTop: "1.5rem", marginTop: "2.5rem" }}>
             <h2 style={{ ...sectionTitle, fontSize: "1.35rem" }}>Sources and review</h2>
