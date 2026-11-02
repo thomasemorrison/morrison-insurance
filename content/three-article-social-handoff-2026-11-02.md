@@ -1,43 +1,49 @@
 # Morrison Insurance — Three-Article Social Copy Handoff
 
-**Status as of November 2, 10:37 AM CST: all three articles are verified live on both public domains. Six Facebook/Instagram promotions are active schedules; three Google Updates remain drafts pending Learn More buttons.** No promotion has published yet. LinkedIn remains copy-only.
+**Status as of November 2, 11:56 AM CST: all three articles remain verified live on both public domains. All nine existing article promotions are activated in Metricool with `draft: false`, `autoPublish: true`, and provider status `PENDING` (not published).** The six Facebook/Instagram schedules are unchanged. Each of the three Google Business Profile Updates passed the user-approved conditional one-time URL-to-button preview gate before activation. LinkedIn remains copy-only and held.
 
-Prepared for Morrison Insurance, the independent agency in Center, Texas, serving Shelby County since 1923. Captions below reproduce the JSON text exactly. Official source URLs are reference metadata, not additions to the captions.
+Captions below reproduce the JSON text exactly. Official source URLs are reference metadata, not additions to the captions.
 
 ## Verified Metricool promotion queue
 
-All times are America/Chicago **CST**. Facebook/Instagram entries have `draft: false` and `autoPublish: true`; Google entries still have `draft: true`. All were read back. Only this batch’s six drafts were activated; no unrelated post was edited or canceled.
+All times are America/Chicago **CST**. The parent verified all nine existing article entries as `draft: false`, `autoPublish: true`, and provider status `PENDING` at 11:56 AM CST. The six Facebook/Instagram entries were activated first and remain unchanged; the three Google Updates are now also activated. No promotion has published, and no unrelated legacy post was edited, canceled, or moved.
 
 | Guide | Channel | Date/time | Post ID / planner |
 |---|---|---|---|
 | Quote checklist | Facebook | 2026-11-04 10:00 CST | [414217290](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-8462317912768298082) |
 | Quote checklist | Instagram | 2026-11-04 10:15 CST | [414217329](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=6014914522648757481) |
-| Quote checklist | Google Business Profile Update | 2026-11-05 08:30 CST | [414198279](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=407231681415431540) |
+| Quote checklist | Google Business Profile Update | 2026-11-05 08:30 CST | [414310000](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=407231681415431540) |
 | Switching guide | Facebook | 2026-11-06 10:00 CST | [414217390](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-9169541630245256000) |
 | Switching guide | Instagram | 2026-11-06 10:15 CST | [414217447](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=4672651556169400551) |
-| Switching guide | Google Business Profile Update | 2026-11-06 13:00 CST | [414198349](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-2505700324724748477) |
+| Switching guide | Google Business Profile Update | 2026-11-06 13:00 CST | [414313655](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-2505700324724748477) |
 | Business certificate checklist | Facebook | 2026-11-13 10:00 CST | [414217522](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-3654178022769147011) |
 | Business certificate checklist | Instagram | 2026-11-13 10:15 CST | [414217582](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-3406893846403855022) |
-| Business certificate checklist | Google Business Profile Update | 2026-11-13 13:00 CST | [414198391](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=7194380236199052482) |
+| Business certificate checklist | Google Business Profile Update | 2026-11-13 13:00 CST | [414318146](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=7194380236199052482) |
 
-A fresh Metricool check immediately before activation showed **zero other active placements** on November 4, 5, 6, and 13. Current active totals are **2 on November 4, 0 on November 5, 2 on November 6, and 2 on November 13**. Activating the Google drafts would make the totals 2, 1, 3, and 3 respectively. Reserve November 5’s other two placements for the authorized Thursday fishing pair. These dates fit the normal three-cross-network cap and therefore do not require the November–December exception. Recheck all networks immediately before activation because other work may have filled a slot.
+A fresh Metricool check immediately before the initial Facebook/Instagram activation showed **zero other active placements** on November 4, 5, 6, and 13. The initial active totals were 2, 0, 2, and 2 respectively. After Google activation, the current combined active totals are **2 on November 4, 1 on November 5, 3 on November 6, and 3 on November 13**. Reserve November 5’s other two placements for the already authorized Thursday fishing pair, which is **not yet scheduled**. These dates fit the normal three-cross-network cap without relying on the temporary November–December exception. Recheck capacity before scheduling that pair.
 
-**GBP button gate — updated November 2, 11:35 AM CST:** My Browser is authenticated and the Morrison draft editor is accessible. Neither the connector nor the inspected editor exposes a separate Learn More field. [Metricool's documentation](https://metricool.com/schedule-google-mybusiness/) describes generating the button from text plus a link. That input method conflicts with Morrison's instruction not to paste a URL into a Google caption, so permission is needed before testing it in draft preview. No URL was entered, no Google draft was saved or activated, and the original IDs and dates remain the reference. Keep the authentic building photographs and existing informational captions. The fresh 11:32 AM capacity check still showed zero active placements November 5 and two each November 6 and 13.
+**GBP validation history — November 2, 11:35 AM CST (superseded gate, retained for history):** My Browser was authenticated and the Morrison draft editor was accessible. Neither the connector nor the inspected editor exposed a separate Learn More field. [Metricool's documentation](https://metricool.com/schedule-google-mybusiness/) describes generating the button from text plus a link. At that point the method conflicted with Morrison's no-URL-in-caption input instruction, so permission was required before testing it in draft preview. No URL had yet been entered and no Google draft had been saved or activated; the original Google IDs were 414198279, 414198349, and 414198391. The authentic building photographs and informational captions were retained. The 11:32 AM capacity check showed zero active placements November 5 and two each November 6 and 13.
+
+**GBP button gate — passed individually; parent verified November 2, 11:56 AM CST:** The user conditionally approved a one-time URL-to-button preview for each of these three Updates. Each full visible caption contained no URL or domain, and the matching article URL appeared in a distinct **More info** anchor outside `.preview__content`. The API stores the original informational body **plus the matching article URL** for Metricool's documented conversion; the stored API text is not URL-free. The plain GBP copy blocks below preserve the visible caption text, not the complete API payload. The authentic Morrison building image, its alt text, and the Update publication type were preserved. These are Metricool preview observations, not a test of actual live Google rendering or click-through. No future general authorization is granted by these three conditional approvals.
+
+No browser **Save** or **Schedule** action was used because of a displayed-time discrepancy; connector times are authoritative. Retained HTML evidence: switching guide `/home/ubuntu/upload/app.metricool.com_planner_calendar_blogId_6256215_userId_4822283_1793641832907.html`; certificate checklist `/home/ubuntu/upload/app.metricool.com_planner_calendar_blogId_6256215_userId_4822283_1793642111235.html`.
 
 **Website release verified:** all three live routes passed title, description, canonical, and hero metadata checks on both domains. The live RSS and sitemap include all three articles and matching image elements. Search Console indexing remains a separate manual step; no connector is available and no indexing request has been submitted.
+
+**Durable history:** updated locally in these handoff documents. Final shared project-calendar synchronization is separately pending confirmation; no applied shared sync is claimed.
 
 ## Release and media gates
 
 - All hero placeholders are replaced with unique hosted JPEGs. The articles and linked metadata are verified publicly available.
 - Facebook and Instagram may use the specified illustrative AI-generated heroes; they must not be represented as real customer, office, or document photographs.
 - Set Instagram `isAiGenerated: true` for each illustrative hero.
-- GBP uses an authentic photograph of the actual Morrison Insurance building only. Its caption contains no URL, phone number, or hashtag. Set the separate **Learn More** button manually to the matching article URL.
+- GBP retains the authentic Morrison Insurance building photograph, its alt text, and Update publication type. Its full visible Metricool preview caption contains no URL/domain, phone number, or hashtag; the distinct **More info** CTA targets the matching article URL. The API body includes that URL for Metricool conversion, not a separately entered manual button. The one-time preview gates are complete for these three Updates only; this is not future general authorization.
 - Hold LinkedIn for manual handling unless the parent confirms the applicable profile gate permits posting.
 - Confirm final image appearance before applying the proposed alt text. The illustrative hero alt text is not suitable for the GBP building photograph.
 
 ## Length validation
 
-Whitespace-delimited word counts include displayed URLs and hashtags. GBP character counts include spaces and paragraph breaks. Counts exclude the separate button and all metadata.
+Whitespace-delimited word counts include displayed URLs and hashtags. GBP character counts describe the plain visible caption blocks below, including spaces and paragraph breaks; they exclude the conversion URL stored in the API, the separate More info CTA, and all metadata.
 
 | Guide | Facebook words | Instagram words | GBP words | GBP characters | LinkedIn words |
 |---|---:|---:|---:|---:|---:|
@@ -51,7 +57,7 @@ Whitespace-delimited word counts include displayed URLs and hashtags. GBP charac
 
 **Article URL:** https://morrison-ins.net/resources/car-insurance-quote-checklist-center-tx
 
-**Status:** Article live; Facebook and Instagram actively scheduled; GBP draft held for its Learn More button. LinkedIn remains manual-only.
+**Status:** Article live; Facebook, Instagram, and GBP Update activated with provider status PENDING, not published. GBP's individual conditional preview gate passed. LinkedIn remains copy-only and held.
 
 ### Facebook
 
@@ -90,8 +96,9 @@ The declarations page summarizes coverages, limits, and deductibles. An insuranc
 
 If a detail is missing or estimated, say so rather than guessing. Different insurers can request different information. Keep license numbers, birth dates, policy numbers, and document photos out of public comments, and ask the agency how to share paperwork privately. The checklist is preparation guidance, not confirmation that coverage has begun.
 
-**Separate manual button:** Learn More
+**Observed distinct CTA:** More info, outside `.preview__content`.
 **Button URL:** https://morrison-ins.net/resources/car-insurance-quote-checklist-center-tx
+**Method:** User-approved one-time Metricool URL-to-button conversion; API stores the original body plus this URL. Full visible preview caption has no URL/domain. Live Google rendering and click-through were not tested; no future general authorization.
 
 ### LinkedIn — manual hold
 
@@ -122,7 +129,7 @@ https://morrison-ins.net/resources/car-insurance-quote-checklist-center-tx
 - https://www.tdi.texas.gov/pubs/consumer/cb020.html
 - https://www.tdi.texas.gov/tips/adding-teen-driver-to-insurance-policy.html
 
-**Website release complete; GBP button activation and Search Console indexing remain pending.**
+**Website release complete; GBP preview gate passed and schedule activated (PENDING, not published). Manual Search Console indexing remains open; no request submitted. Shared calendar final sync is separately pending confirmation.**
 
 ## How to Switch Car Insurance in Texas Without a Coverage Gap
 
@@ -130,7 +137,7 @@ https://morrison-ins.net/resources/car-insurance-quote-checklist-center-tx
 
 **Article URL:** https://morrison-ins.net/resources/switch-car-insurance-texas-without-gap
 
-**Status:** Article live; Facebook and Instagram actively scheduled; GBP draft held for its Learn More button. LinkedIn remains manual-only.
+**Status:** Article live; Facebook, Instagram, and GBP Update activated with provider status PENDING, not published. GBP's individual conditional preview gate passed. LinkedIn remains copy-only and held.
 
 ### Facebook
 
@@ -169,8 +176,9 @@ The guide also covers checking loan or lease requirements, saving policy confirm
 
 Keep the new coverage confirmation and old cancellation confirmation together. Request an itemized final statement rather than assuming a particular refund amount. Actual policy terms, billing arrangements, and loan or lease requirements matter. This is general preparation guidance, not a determination of coverage for an individual driver.
 
-**Separate manual button:** Learn More
+**Observed distinct CTA:** More info, outside `.preview__content`.
 **Button URL:** https://morrison-ins.net/resources/switch-car-insurance-texas-without-gap
+**Method:** User-approved one-time Metricool URL-to-button conversion; API stores the original body plus this URL. Full visible preview caption has no URL/domain. Live Google rendering and click-through were not tested; no future general authorization.
 
 ### LinkedIn — manual hold
 
@@ -202,7 +210,7 @@ https://morrison-ins.net/resources/switch-car-insurance-texas-without-gap
 - https://www.tdi.texas.gov/tips/was-your-auto-insurance-not-renewed-or-canceled.html
 - https://www.tdi.texas.gov/commissioner/documents/bill-of-rights-auto.pdf
 
-**Website release complete; GBP button activation and Search Console indexing remain pending.**
+**Website release complete; GBP preview gate passed and schedule activated (PENDING, not published). Manual Search Console indexing remains open; no request submitted. Shared calendar final sync is separately pending confirmation.**
 
 ## Asked for a Certificate of Insurance? A Shelby County Business Checklist
 
@@ -210,7 +218,7 @@ https://morrison-ins.net/resources/switch-car-insurance-texas-without-gap
 
 **Article URL:** https://morrison-ins.net/resources/certificate-of-insurance-shelby-county-tx
 
-**Status:** Article live; Facebook and Instagram actively scheduled; GBP draft held for its Learn More button. LinkedIn remains manual-only.
+**Status:** Article live; Facebook, Instagram, and GBP Update activated with provider status PENDING, not published. GBP's individual conditional preview gate passed. LinkedIn remains copy-only and held.
 
 ### Facebook
 
@@ -249,8 +257,9 @@ A certificate summarizes insurance; it cannot amend, extend, or alter the policy
 
 Before forwarding the paperwork, check names, policy dates, and requested attachments. Ask about mismatches rather than editing the certificate yourself. Keep contracts, certificates, and policy numbers out of public comments. The guide also discusses expiration reminders and verified delivery. It is general information, not a determination that a particular policy meets a contract's requirements.
 
-**Separate manual button:** Learn More
+**Observed distinct CTA:** More info, outside `.preview__content`.
 **Button URL:** https://morrison-ins.net/resources/certificate-of-insurance-shelby-county-tx
+**Method:** User-approved one-time Metricool URL-to-button conversion; API stores the original body plus this URL. Full visible preview caption has no URL/domain. Live Google rendering and click-through were not tested; no future general authorization.
 
 ### LinkedIn — manual hold
 
@@ -280,4 +289,4 @@ https://morrison-ins.net/resources/certificate-of-insurance-shelby-county-tx
 - https://www.tdi.texas.gov/certificates/index.html
 - https://www.tdi.texas.gov/certificates/faq.html
 
-**Website release complete; GBP button activation and Search Console indexing remain pending.**
+**Website release complete; GBP preview gate passed and schedule activated (PENDING, not published). Manual Search Console indexing remains open; no request submitted. Shared calendar final sync is separately pending confirmation.**
