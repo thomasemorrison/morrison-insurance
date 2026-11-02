@@ -133,6 +133,10 @@ The September plan already contains a validated but **draft-only** five-school c
 
 The Rio Theatre concept, farm-versus-homeowners SEO refresh, and published ATV/UTV resource remain available as current editorial inputs. The article handoff should be promoted only where it has a clear seasonal fit; it must replace the third weekly feed concept rather than create an extra post.
 
+### Limited 2026 gratitude series — prepared November 2
+
+The Morrison team expressly approved an award/individual-spotlight exception for this 2026 series only; the standing community-first rule is otherwise unchanged. Preparation is authorized, not scheduling or publication. The current packet is `content/best-of-best-gratitude-series-review-2026-11-02.md`, with a fellow-winner review ledger alongside it. Proposed Facebook/Instagram pairs are November 7 (agency voter thank-you), November 21 (Monica alone), December 5 (fellow-winner congratulations), and December 19 (optional selected neighbor spotlight; Boo’s Battle is the newly publisher-verified suggestion). The November 2, 1:24 PM CST all-network inventory showed zero placements on each date; a pair would total two of three. Recheck immediately before scheduling and preserve 14-day spacing. No date is reserved, no named recipient/customer relationship is assumed, no GBP/LinkedIn placement is proposed, and no existing post was changed. These local review notes are not an applied shared-project calendar synchronization.
+
 ## Thirty-day measurement and review
 
 The account is small enough that a few interactions can create large percentage changes. Evaluate **series**, not a single post. For the next four weeks, log each post’s subject, format, reach, likes, comments, saves, shares, profile activity, follows, and any qualitative local response.

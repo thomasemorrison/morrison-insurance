@@ -1,5 +1,9 @@
 # 2026 Best of the Best Community Recognition Campaign
 
+## Current preparation — November 2, 2026
+
+The Morrison team approved a limited exception to the standing award/agent-first content rule for this humble 2026 gratitude series only, with preparation authorized but no scheduling or publication. Use `best-of-best-gratitude-series-review-2026-11-02.md` for the current eight Facebook/Instagram caption variants, source limitations, photo gates and capacity-checked proposed November 7/21 and December 5/19 dates. The new sequence combines the voter thank-you and agency recognition, gives Monica the second slot, then turns outward to fellow winners and an optional verified community spotlight. Named-recipient review is in `best-of-best-fellow-winner-review-2026-11-02.md`. These are local review materials, not scheduled placements or applied shared-calendar changes. The earlier sequence below is retained as history, not the current queue.
+
 ## Purpose and Positioning
 
 This campaign acknowledges the readers who recognized Morrison Insurance as **Best Insurance Agency** and Monica Watson as **Best Insurance Agent** in The Light and Champion’s 2026 Shelby County Readers Choice Best of the Best Awards. It is a **community thank-you**, not a victory lap. Each announcement stands on its own, thanks the people who voted, and makes room to congratulate other Shelby County winners.
