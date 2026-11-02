@@ -24,4 +24,16 @@ Social planning uses the documented November–December capacity exception. Chec
 
 Detailed verified factual sources and overlap notes are recorded in the three companion research files. Search discovery included TDI's auto shopping guide and certificates hub, and public local/industry intent pages. Final articles cite the authoritative pages actually read during research.
 
-Publication, indexing, and scheduling results will be recorded here once validated.
+## Implementation and release status — November 2, 10:22 AM CST
+
+All three articles are complete and pushed to the canonical GitHub main branch in commit **5b59721**. The managed project is synchronized to that commit and offers checkpoint **5b597213**. Every article has a unique Morrison-hosted 4:5 JPEG, route, Resources card, crawler-visible title/description/canonical/Open Graph metadata, article structured data, RSS enclosure and media content, and sitemap entry. Contextual links from the established quote, comparison, and small-business guides preserve the parent pages' head-query intent. Each new guide has a visible publication date, editorial-responsibility line, official source links, and a calm educational next step.
+
+TypeScript, **29 tests**, production build, RSS/sitemap parsing, and all three production-preview metadata checks passed. The public hosted JPEGs were checked, and all three desktop and 375-pixel mobile previews rendered correctly.
+
+**Public release is not complete.** A live-domain check at 10:21 AM CST still returned the older generic site title for all three routes rather than their article metadata. No Google indexing request was made, and no indexing success is claimed. A deferred request asks the Morrison team to use the Website panel's Publish control for the current checkpoint. After release, rerun `scripts/verify-november-articles.py https://morrison-ins.net`, check the public RSS/sitemap and both domain variants, and use supported Search Console sitemap submission or manual Request Indexing. URL Inspection API inspects status; it does not submit an indexing request. Do not use the discontinued sitemap-ping endpoint.
+
+**Nine dated Metricool drafts were created and independently read back:** three Facebook, three Instagram, and three GBP Updates. These are drafts, not active schedules; no blog promotion has published. Dates are November 4–13, within the requested two-week window. Instagram AI disclosure is enabled and GBP uses the authentic Morrison building photograph. Each GBP draft still needs its separate Learn More button linked through the planner UI because the connector does not expose that button field. LinkedIn's three captions remain manual-only under the existing profile gate.
+
+The exact post IDs, times, and planner URLs are in `content/three-article-social-planner-2026-11-02.json`; the readable copy and date table are in `content/three-article-social-handoff-2026-11-02.md`. Recheck Metricool immediately before activating any draft. Preserve the existing posts and reserve the automatic Thursday fishing pair's capacity. No Ads, email, trigger, recurring schedule, or LinkedIn publication was changed.
+
+The durable project-calendar copy contains the November 2 production/draft queue entry. Its shared-file configuration update was submitted for user review, **not applied yet**; approve or skip that project-change card separately. No repeat save was attempted.

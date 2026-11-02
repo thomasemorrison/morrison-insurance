@@ -310,3 +310,15 @@
 - [x] Check Metricool’s cross-network Friday capacity and prepare a 10 AM Facebook/Instagram safety pair for review only; zero placements were scheduled and no post was scheduled
 - [x] Hold the Friday Rural Market Note because the material safety item takes its weekly feed opportunity
 - [x] Repair the loaded shared content calendar from the durable project copy after a stale sync left it truncated; restore the October 27–30 Content Desk decision records
+
+## November 2 — Three new GSC-led local articles and promotions
+- [x] Analyze the supplied GSC report and research three distinct preparation/process opportunities without duplicating established guides
+- [x] Write three sourced TSX guides with unique hosted 4:5 visuals, educational next steps, visible dates, and editorial responsibility
+- [x] Register routes, Resources, crawler metadata/schema, contextual links, RSS media, sitemap, and regression tests
+- [x] Pass TypeScript, 29 tests, production build, XML, public JPEG checks, desktop/mobile preview, and local production metadata checks
+- [x] Push canonical GitHub commit 5b59721 and synchronize the managed project; checkpoint 5b597213 is release-ready
+- [x] Create and read back nine dated Metricool drafts with distinct Facebook/Instagram/GBP copy, Instagram AI disclosure, and authentic GBP photography; prepare three held LinkedIn captions
+- [ ] Release checkpoint 5b597213 or a newer approved checkpoint through the Website panel’s Publish control, then verify all three public routes and RSS/sitemap; live metadata still old as of November 2 10:21 AM CST
+- [ ] After live verification, recheck capacity and activate the six Facebook/Instagram drafts dated November 4, 6, and 13; do not duplicate them
+- [ ] Add each GBP draft’s Learn More button via the planner UI, then activate the three drafts dated November 5, 6, and 13 after live/capacity checks
+- [ ] Submit the live sitemap through an authorized Search Console path or manually request article indexing; inspection alone is not an indexing submission
