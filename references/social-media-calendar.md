@@ -36,6 +36,8 @@ Both exceptions may proceed even when routine planned placements occupy the day.
 
 The November 2 cadence update does not expand, replace, or create automation under these existing narrowly scoped exceptions. Routine planning must reserve channel room for the Thursday fishing placement rather than fill both Thursday slots first.
 
+**Fishing creative — approved November 5, 9:20 AM CST:** The team's supplied PNG and two MP4 graphics are reusable for the existing weekly Facebook/Instagram fishing pair. See `references/approved-fishing-report-assets.md` for exact public URLs, durable originals and handling directions. Use the unchanged generic PNG with the week's sourced information in the captions by default; overlay-capable creative is optional. These specific supplied graphics resolve the fishing image blocker without requiring a fresh lake photograph each week. They do not authorize unrelated stock creative or use on GBP/NWS safety posts. The November 5 pair was scheduled at 10:00 AM CST and independently verified PENDING at 9:22 AM, one Facebook and one Instagram placement. No duplicate fishing workflow or bulk future queue was created.
+
 ## Direction carried forward from the P&C website benchmark
 
 The social presence supports the same simple local journey as the website: **recognize a familiar situation → find useful local help → choose an easy human next step.** A post earns attention by being helpful, recognizable, or genuinely shareable first. It may then make a soft, relevant invitation to Morrison; it must not become a thinly disguised product pitch.

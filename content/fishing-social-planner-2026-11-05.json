@@ -1,0 +1,127 @@
+{
+  "brandId": "6256215",
+  "checkedAt": "2026-11-05T09:22:27-06:00",
+  "timezone": "America/Chicago",
+  "outcome": "SCHEDULED_PENDING",
+  "sourceReading": {
+    "at": "2026-11-05 08:45",
+    "elevationFt": 167.74,
+    "conservationPoolFt": 172.0,
+    "heightBelowPoolFt": 4.26,
+    "provisional": true
+  },
+  "todayCounts": {
+    "gmb": 1,
+    "facebook": 1,
+    "instagram": 1
+  },
+  "weeklyCounts": {
+    "facebook": 5,
+    "instagram": 5,
+    "gmb": 3
+  },
+  "additionalFishingReservation": {
+    "facebook": 0,
+    "instagram": 0
+  },
+  "dailyCapPerChannel": 2,
+  "userAssetApproval": "2026-11-05T09:20:29-06:00",
+  "sourceGraphicUrl": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663724333063/HiiYWMoCxJcuMnNk.png",
+  "posts": [
+    {
+      "autoPublish": true,
+      "brandTags": [],
+      "creationDate": {
+        "dateTime": "2026-11-05T09:21:00",
+        "timezone": "America/Chicago"
+      },
+      "creatorUserId": 4822283,
+      "creatorUserMail": "hello@morrison-ins.net",
+      "draft": false,
+      "facebookData": {
+        "type": "POST"
+      },
+      "firstCommentText": "",
+      "hasNotReadNotes": false,
+      "id": 417865948,
+      "imageVariants": false,
+      "instagramData": {
+        "autoPublish": true,
+        "isAiGenerated": false
+      },
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-2630434896685044138.png"
+      ],
+      "mediaAltText": [
+        "Blue Toledo Bend Fishing Report graphic with a bass leaping from water and Morrison Insurance branding."
+      ],
+      "providers": [
+        {
+          "detailedStatus": "Pending",
+          "network": "facebook",
+          "status": "PENDING"
+        }
+      ],
+      "publicationDate": {
+        "dateTime": "2026-11-05T10:00:00",
+        "timezone": "America/Chicago"
+      },
+      "saveExternalMediaFiles": false,
+      "shortener": false,
+      "text": "A Toledo Bend lake note for November 5, for neighbors planning time on the water.\n\nThe Texas Water Development Board's 8:45 AM reading puts the lake at 167.74 feet\u2014about 4.3 feet below its 172-foot conservation pool. That reading is provisional, so check the current level and your chosen launch before heading out.\n\nTPWD's regular weekly fishing reports are still on hold. This week's note sticks to the lake level rather than guessing at a lakewide bite or recommending a lure from an old report.\n\nBass, crappie or catfish\u2014which one is on your list for the next trip?\n\nCurrent lake data: https://waterdatafortexas.org/reservoirs/individual/toledo-bend\nReport availability: https://tpwd.texas.gov/fishboat/fish/action/reptform2.php?lake=TOLEDO+BEND&yearcat=current&archive=latest&Submit=Go\n\n#ToledoBend #ShelbyCountyTX #DeepEastTexas",
+      "twitterData": {
+        "type": "POST"
+      },
+      "uuid": "5719261165733234148",
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=5719261165733234148"
+    },
+    {
+      "autoPublish": true,
+      "brandTags": [],
+      "creationDate": {
+        "dateTime": "2026-11-05T09:22:00",
+        "timezone": "America/Chicago"
+      },
+      "creatorUserId": 4822283,
+      "creatorUserMail": "hello@morrison-ins.net",
+      "draft": false,
+      "firstCommentText": "",
+      "hasNotReadNotes": false,
+      "id": 417865994,
+      "imageVariants": false,
+      "instagramData": {
+        "autoPublish": true,
+        "isAiGenerated": false,
+        "showReelOnFeed": true,
+        "type": "POST"
+      },
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-818437735458283983.png"
+      ],
+      "mediaAltText": [
+        "Blue Toledo Bend Fishing Report graphic with a bass leaping from water and Morrison Insurance branding."
+      ],
+      "providers": [
+        {
+          "detailedStatus": "Pending",
+          "network": "instagram",
+          "status": "PENDING"
+        }
+      ],
+      "publicationDate": {
+        "dateTime": "2026-11-05T10:00:00",
+        "timezone": "America/Chicago"
+      },
+      "saveExternalMediaFiles": false,
+      "shortener": false,
+      "text": "Toledo Bend check-in \u00b7 November 5\n\nThe 8:45 AM TWDB reading shows 167.74 feet\u2014about 4.3 feet below conservation pool. Check the latest level and your chosen launch before heading out; readings can change.\n\nTPWD's regular weekly fishing reports remain on hold, so this is a dated lake-conditions note, not a promise about the bite.\n\nBass, crappie or catfish for your next trip?\n\nSource: Texas Water Development Board\nhttps://waterdatafortexas.org/reservoirs/individual/toledo-bend\nType the address into your browser for current readings; it is not a clickable link in this caption.\n\n#ToledoBend #ShelbyCountyTX #DeepEastTexas",
+      "twitterData": {
+        "type": "POST"
+      },
+      "uuid": "1101708045665259304",
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=1101708045665259304"
+    }
+  ],
+  "earlierRunOutcome": "SKIPPED_IMAGE_GATE at 6:35AM; resolved by current user graphic approval",
+  "providerPublicationVerified": false
+}

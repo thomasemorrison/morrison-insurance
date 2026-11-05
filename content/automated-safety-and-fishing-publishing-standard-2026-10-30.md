@@ -32,6 +32,8 @@ When a current source supports species or technique language, use it plainly and
 
 The fishing post may run even if routine calendar placements already exist. It does not automatically publish to GBP or LinkedIn.
 
+**Approved visual update — November 5, 2026, 9:20 AM CST:** The Morrison team supplied `FishingReportgeneric.png`, `FishingReportforinfo.mp4`, and `FishingReportGeneric.mp4` expressly for this weekly fishing series. These specific supplied graphics are approved reusable creative for the existing Facebook/Instagram pair; a new real lake photograph is not required when using one of them. Prefer the unchanged generic PNG with refreshed, dated information in the captions. Preserve the originals; do not imply their illustrated scene documents an actual location, catch or current conditions. Exact durable paths, public URLs and reuse instructions are in `references/approved-fishing-report-assets.md`. This limited visual approval does not broaden stock-image permissions, change the NWS building image, satisfy GBP photo rules, add destinations or create a second recurring workflow. Continue all current-source, duplication and per-channel capacity checks.
+
 ## 3. Burn-ban changes — not yet automated
 
 Burn-ban changes are materially important to Shelby County and should be acted on promptly. At present, there is no discovered native official county change event. A scheduled monitor would need explicit separate approval for its frequency and official page/PDF scope before it can be activated. Until then, the Unified Content Desk prepares an immediate review-ready Facebook/Instagram post from the official Shelby County order or rescission notice.
