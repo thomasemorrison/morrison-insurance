@@ -1,8 +1,8 @@
 {
   "brandId": "6256215",
-  "checkedAt": "2026-11-05T09:22:27-06:00",
+  "checkedAt": "2026-11-06T06:31:54-06:00",
   "timezone": "America/Chicago",
-  "outcome": "SCHEDULED_PENDING",
+  "outcome": "PROVIDER_PUBLISHED",
   "sourceReading": {
     "at": "2026-11-05 08:45",
     "elevationFt": 167.74,
@@ -57,9 +57,11 @@
       ],
       "providers": [
         {
-          "detailedStatus": "Pending",
+          "detailedStatus": "Published",
+          "id": "1666771771818139",
           "network": "facebook",
-          "status": "PENDING"
+          "publicUrl": "https://facebook.com/1540319534463364/posts/1666771771818139",
+          "status": "PUBLISHED"
         }
       ],
       "publicationDate": {
@@ -103,9 +105,11 @@
       ],
       "providers": [
         {
-          "detailedStatus": "Pending",
+          "detailedStatus": "Published",
+          "id": "https://www.instagram.com/p/DfXba_AFbUG/",
           "network": "instagram",
-          "status": "PENDING"
+          "publicUrl": "https://www.instagram.com/p/DfXba_AFbUG/",
+          "status": "PUBLISHED"
         }
       ],
       "publicationDate": {
@@ -123,5 +127,9 @@
     }
   ],
   "earlierRunOutcome": "SKIPPED_IMAGE_GATE at 6:35AM; resolved by current user graphic approval",
-  "providerPublicationVerified": false
+  "providerPublicationVerified": true,
+  "originalScheduledCheckAt": "2026-11-05T09:22:27-06:00",
+  "livePageRenderingIndependentlyVerified": false,
+  "historicalSchedulingCountsDate": "2026-11-05T09:22:27-06:00",
+  "deliveryVerification": "Fresh Nov6 inventory confirms both intended providers PUBLISHED with public URLs; original creation time/date/media/captions preserved. No external edits."
 }
