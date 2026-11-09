@@ -1,6 +1,6 @@
 # Car Insurance Quotes in Center, TX: What to Ask Before You Choose
 
-**Approved and pushed November 9, 2026 · Public release still unverified.** Original publication July 13 is preserved; same existing URL, no new article. Morrison team owner/editorial approval received in this task. Commit 9b9ef86 and checkpoint 5c973531 contain the approved source; the user reported Publish, but both domains still serve the prior build. Visible agency responsibility is retained; no separate licensed review is claimed.
+**Published November 9, 2026; verified live on both public domains at 1:45 PM CST.** Original July 13 publication is preserved; same existing URL, no new article. Morrison team owner/editorial approval received in this task. Commit 9b9ef86 is the approved source. Visible agency responsibility remains; no separate licensed review is claimed.
 
 Published July 13, 2026 · Updated November 9, 2026 · Editorial responsibility: Morrison Insurance.
 

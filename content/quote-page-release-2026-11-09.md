@@ -1,27 +1,29 @@
-# November 9 — approved quote-page release status
+# November 9 — quote-page release confirmed
 
-**Current status, 1:39 PM CST:** code is approved, pushed and present in the active project, but **public deployment is not verified**. The user reported Publish for checkpoint **5c973531** at 1:31 PM. Checks through 1:37 PM still returned the old article, RSS title and sitemap modification date on both Morrison domains. The eight approved Facebook/Instagram promotions are active schedules and are unaffected by this website blocker.
+**Current status, 1:45 PM CST: the approved quote refresh is live on both public Morrison domains.** Fresh verification passes for the exact new title, description, canonical, hero, updated existing RSS item and sitemap lastmod. The browser shows the new guidance, original July 13 publication and November 9 update. The prior deployment blocker is resolved. The eight approved Facebook/Instagram promotions remain active schedules at their planned dates, provider PENDING—not yet published.
 
-## Completed release preparation
+## Approved and tested source
 
 The Morrison team approved the displayed social batch and quote-page refresh at 1:25 PM CST: “Looks great! Let's get it all posted.” This records owner/editorial approval, not a fabricated licensed-agent review. Visible editorial responsibility remains Morrison Insurance.
 
-Scoped code commit **9b9ef86**, “Refresh Center car insurance quote guide (2026-11-09),” pushed successfully to `thomasemorrison/morrison-insurance` main. Six files only: existing quote TSX, Resources card, server article metadata, existing RSS item, sitemap entry and quote-refresh regression test. Original July 13 publication, canonical URL and existing 1080 × 1350 hero retained; no duplicate page, route or feed item.
+Scoped code commit **9b9ef86**, “Refresh Center car insurance quote guide (2026-11-09),” was pushed to `thomasemorrison/morrison-insurance` main. Six files only: existing quote TSX, Resources card, server article metadata, existing RSS item, sitemap entry and quote-refresh regression test. Original July 13 publication, canonical URL and existing 1080 × 1350 hero retained; no duplicate page, route or feed item.
 
-The active project was fast-forwarded to that exact commit from the verified canonical clone. Its own remote credential helper was unavailable, so a local Git fetch/fast-forward was used without modifying credentials, global Git settings or the working GitHub connector. Active-project TypeScript, all **34 tests**, production build and preview title check passed. Prior mobile/desktop and XML checks also passed. Existing dependency/chunk-size warnings remain unchanged.
+The active project was fast-forwarded to that exact commit from the verified canonical clone. Its own remote credential helper was unavailable, so a local Git fetch/fast-forward was used without modifying credentials, global Git settings or the working GitHub connector. Active-project TypeScript, all **34 tests**, production build and preview title check passed. Mobile/desktop and XML checks also passed. Existing dependency/chunk-size warnings remain unchanged.
 
-Release-ready checkpoint **5c973531** contains the approved website source. A checkpoint and Git push are not public deployment. The sandbox browser redirects to Manus sign-in and cannot access the Website panel's Publish control; the tool catalog exposes no separate public deploy/status operation. No authentication, auto-publish, hosting, domain or deployment-mode change was attempted.
+Release-ready checkpoint **5c973531** included the approved source. Documentation checkpoint **648f68b6** retained that same source and recorded the initial rollout issue. A push/checkpoint alone was not treated as deployment. The sandbox browser could not reach the signed-in Website Publish control, and no hosting, auto-publish or deployment-setting workaround was used.
 
-## Public evidence after the reported Publish action
+## Actual public verification
 
-At the final check, both `morrison-ins.net` and `www.morrison-ins.net` returned HTTP 200 but still served **“How to Get Car Insurance Quotes in Center, TX | Morrison Insurance”**, the prior description and old body. The intended title is **“Car Insurance Quotes in Center, TX: What to Ask Before You Choose | Morrison Insurance.”** RSS and sitemap also remain from the prior release. The existing hero is accessible and remains a valid 1080 × 1350 JPEG.
+The user reported Publish at 1:31 PM. Initial checks through 1:37 PM still served the old article, including cache-bypassed requests. Those dated findings remain historical evidence—not the current status. After the user's renewed “Publish” message at 1:44 PM, the 1:45 PM verification passed and the platform also reported successful deployment on Morrison's domains.
 
-Cache-bypassed requests likewise returned the old response with `Cache-Control: no-cache, no-store, must-revalidate`, and the public JavaScript asset was `/assets/index-DklEoDqz.js`, not the new built `/assets/index-DQXhUJzv.js`. This is evidence that the new public build is not yet being served; it is not a claim that Google Search or the site has stopped working. A five-minute finite rollout check completed without the expected release. No recurring monitor was created.
+[Read the live quote guide](https://morrison-ins.net/resources/car-insurance-quotes-center-tx).
 
-[Final raw public verification](/home/ubuntu/research/quote-release-2026-11-09/public-verification.json) · [Cache-bypass evidence](/home/ubuntu/research/quote-release-2026-11-09/cache-bypass-check.json).
+Both `morrison-ins.net` and `www.morrison-ins.net` now return **“Car Insurance Quotes in Center, TX: What to Ask Before You Choose | Morrison Insurance”**, the approved description and canonical, and matching hero. The existing RSS entry occurs once with the updated title and both image elements; the live RSS build date and quote sitemap lastmod reflect November 9. The existing hero is HTTP 200, JPEG, 1080 × 1350. Browser verification confirms the new body and visible original/update dates.
 
-## Remaining input
+[Final raw public verification](/home/ubuntu/research/quote-release-2026-11-09/public-verification.json). The earlier [cache-bypass evidence](/home/ubuntu/research/quote-release-2026-11-09/cache-bypass-check.json) documents only the pre-release state.
 
-Inspect the existing Website panel's deployment result for **5c973531**: whether it is still deploying, reported an error, or marked a different release live. Do not repeatedly click Publish, change domains, enable auto-publish or introduce a new hosting workflow without diagnosing that result. After the actual release reaches production, verify exact article metadata/body/update date, hero, RSS and sitemap on both domains. Search Console indexing is separate and remains unsubmitted; URL Inspection API alone is not Request Indexing.
+## Social and indexing status
 
-Sunday's active quote-question pair links the existing, already-live comparison guide. The three community pairs retain their original approved dates. All eight are provider PENDING—scheduled, not published. Existing GBP/LinkedIn and legacy posts were unchanged. Sports and water-status holds remain. No Ads, GTM, email, Trigger or recurring-workflow setting changed.
+Eight existing FB/IG drafts were activated and independently read back, with unchanged approved copy, media, alt text, UUIDs and dates. They are scheduled PENDING, not published. Actual weekly placements: eight Facebook and eight Instagram, plus one separately reserved Thursday fishing pair makes a source-gated nine-per-channel plan. No new GBP/LinkedIn or legacy edits. Sunday links the existing comparison guide as originally approved; no caption link was silently swapped.
+
+Search Console indexing remains separate and unsubmitted. When access is available, use the verified Morrison property and URL Inspection → Request Indexing for the updated canonical URL. Inspection API alone is not a request. Sports and water-status holds remain. No Ads, GTM, email, Trigger or recurring-workflow setting changed.

@@ -1,6 +1,6 @@
 # Morrison Insurance — November 9–15 social schedules and SEO release record
 
-**Updated November 9, 2026, 1:39 PM CST. Eight approved Facebook/Instagram promotions are active schedules**, independently verified with draft=false and autoPublish=true; provider PENDING means scheduled, not published. Existing posts were preserved. The quote refresh is pushed as 9b9ef86 and present in release-ready checkpoint 5c973531. The user reported Publish, but the five-minute verification window still found the old article/RSS/sitemap on both public domains. Public release remains blocked—not falsely marked complete. No Ads, GTM, email or recurring-workflow settings changed.
+**Updated November 9, 2026, 1:45 PM CST. Eight approved Facebook/Instagram promotions are active schedules**, independently verified with draft=false and autoPublish=true; provider PENDING means scheduled, not published. Existing posts were preserved. The quote refresh is pushed as 9b9ef86 and present in release-ready checkpoint 5c973531. The refreshed quote page is now verified live on both public domains, with matching metadata, hero, RSS and sitemap. The earlier rollout blocker is resolved. No Ads, GTM, email or recurring-workflow settings changed.
 
 ## What is still useful
 
@@ -233,31 +233,31 @@ The user’s new report partially resolves this morning’s measurement gap. Sit
 
 That is a better-supported opportunity than the other 1–2-impression examples. It is not proof that all 35 impressions belong to one page. Query clicks/CTR and a query-to-page export are missing. Do not infer a zero-CTR query or claim a ranking trend from overlapping report snapshots. No new Monica/award-led SEO page is justified by one impression.
 
-[Read the full prepared quote-page refresh](/home/ubuntu/morrison-insurance/content/quote-page-refresh-review-2026-11-09.md).
+[Read the full published quote-page refresh](/home/ubuntu/morrison-insurance/content/quote-page-refresh-review-2026-11-09.md).
 
 **Existing URL retained:** https://morrison-ins.net/resources/car-insurance-quotes-center-tx
 
 **Title:** Car Insurance Quotes in Center, TX: What to Ask Before You Choose
 
-The page now has a prepared request-to-written-quote explanation: how to ask for local help, which terms to compare, safe document sharing, what still needs verification, and why a quote does not establish coverage. It removes unsupported local-price, turnaround and whole-market claims. The November 2 preparation checklist, rate-comparison guide and switching guide remain distinct and linked.
+The live page now explains the request-to-written-quote process: how to ask for local help, which terms to compare, safe document sharing, what still needs verification, and why a quote does not establish coverage. It removes unsupported local-price, turnaround and whole-market claims. The November 2 preparation checklist, rate-comparison guide and switching guide remain distinct and linked.
 
-The original July 13 publication date and unique 1080 × 1350 JPEG are preserved. The approved code includes the November 9 modification date; this is not yet visible on the public domains. Morrison team owner/editorial approval was received in this task at 1:25 PM. Visible editorial responsibility remains Morrison Insurance; no separate licensed review is fabricated.
+The original July 13 publication date and unique 1080 × 1350 JPEG are preserved. The November 9 modification date is now visible on the public page, while the original date remains unchanged. Morrison team owner/editorial approval was received in this task at 1:25 PM. Visible editorial responsibility remains Morrison Insurance; no separate licensed review is fabricated.
 
-**Integration prepared:** existing TSX, Resources card, crawler metadata, article schema/visible dates, internal and official-source links, the existing RSS item and sitemap entry. No duplicate route, GUID or new RSS item was added.
+**Integration published:** existing TSX, Resources card, crawler metadata, article schema/visible dates, internal and official-source links, the existing RSS item and sitemap entry. No duplicate route, GUID or new RSS item was added.
 
 **Validation passed:** TypeScript; all 34 tests, including five new refresh regression checks; production build; RSS/sitemap XML; local mobile 375 px and desktop 1440 px title, description, canonical and schema checks; no horizontal overflow. The existing hero decodes as a 1080 × 1350 JPEG and renders correctly, although its download response uses application/octet-stream. Existing dependency/chunk-size warnings were not addressed by this narrow refresh.
 
-[Download the complete tested site patch](/home/ubuntu/morrison-insurance/content/quote-page-refresh-2026-11-09.patch). The six changes were committed and pushed as **9b9ef86**, then fast-forwarded into the managed project. Release-ready checkpoint **5c973531** includes the approved source. The user reported Publish at 1:31 PM; public verification still shows the old release. Do not label the refreshed page live.
+[Download the complete tested site patch](/home/ubuntu/morrison-insurance/content/quote-page-refresh-2026-11-09.patch). The six changes were committed and pushed as **9b9ef86**, then fast-forwarded into the managed project. Release-ready checkpoint **5c973531** includes the approved source. The user reported Publish at 1:31 PM; initial checks stayed stale, but fresh checks at 1:45 PM pass on both domains. The refresh is now live.
 
-Completed: owner approval, scoped commit/push, active-project sync, another passing 34-test/build run, and release-ready checkpoint. Publish was reported, but both public domains failed the new article/feed/date checks through 1:37 PM and cache-bypassed requests also returned the old no-cache release. The Website panel deployment status is the remaining diagnostic input. No indexing request was submitted. Sunday’s active pair uses the already-live comparison guide and is independent of this blocked refresh.
+Completed: owner approval, scoped commit/push, active-project sync, another passing 34-test/build run, release checkpoint and actual public release. At 1:45 PM, both domains pass the exact title/description/canonical/hero, updated RSS entry and sitemap date; the browser confirms the new article body and original/update dates. Earlier stale checks are retained as history in the release log. No indexing request was submitted. Sunday’s active pair retains its approved link to the existing comparison guide.
 
 Official sources opened: [TDI shopping guide](https://www.tdi.texas.gov/consumer/auto-insurance-shopping-guide.html), [TDI auto guide](https://www.tdi.texas.gov/pubs/consumer/cb020.html), [NAIC quote guide](https://content.naic.org/article/consumer-insight-comparing-online-auto-insurance-quotes).
 
-## Optional four-channel handoff — future release only
+## Optional GBP and LinkedIn copy — held, no new placement
 
-No extra GBP or LinkedIn date is recommended this week because existing placements already cover their lighter cadence. The following copy is not a saved post and must not describe an unreleased refresh as published.
+No extra GBP or LinkedIn date is recommended this week because existing placements already cover their lighter cadence. The following copy is not a saved post. The article is now live, but the unique-photo, capacity, CTA-method and separate channel-approval gates still apply.
 
-### GBP Update body — hold until release and a unique photo
+### GBP Update body — hold for a unique photo and approved placement
 
 Shopping for car insurance quotes in Center can raise more questions than the price alone answers. A useful first step is to ask for the written details together: the drivers and vehicles listed, the proposed limits and deductibles, the policy period and total cost, and any exclusions or information still needing verification.
 
@@ -265,7 +265,7 @@ An independent agency can discuss options from the companies it represents; that
 
 Morrison Insurance’s plain-language Center guide explains the conversation from the first question to the written proposal, with links to preparation, comparison, and switching checklists. Keep private documents out of public comments. Bring your renewal and the questions it raised to a local agent.
 
-**Held metadata:** Update type; Learn More button → https://morrison-ins.net/resources/car-insurance-quotes-center-tx after public release verification. No URL or phone in the visible body.
+**Held metadata:** Update type; Learn More button → https://morrison-ins.net/resources/car-insurance-quotes-center-tx for a future approved placement; public article verification now passed. No URL or phone in the visible body.
 
 **Unique-photo gate:** an approved real local parked-vehicle scene without an identifiable plate, a real consenting paperwork conversation without private documents, or a relevant authentic office detail. No automatic building fallback, AI/stock image, or information card. Do not reuse the November 2 one-time URL-to-button authorization for a new post. No GBP draft was created.
 
@@ -273,15 +273,15 @@ Morrison Insurance’s plain-language Center guide explains the conversation fro
 
 A renewal quote is easier to discuss when the written details are together. For a Center or Shelby County household, start with the drivers, vehicles and use, then compare limits, deductibles, policy periods, payment details and exclusions. Ask what still needs verification before treating a price as final.
 
-The prepared Center quote guide explains that conversation without promising savings or a coverage result. Once the refresh is reviewed and released, it can be a useful reference to share with a colleague who wants better questions for a renewal discussion. What part of a quote is hardest to compare? Please keep policy paperwork private.
+The published Center quote guide explains that conversation without promising savings or a coverage result. It can be a useful reference to share with a colleague who wants better questions for a renewal discussion. What part of a quote is hardest to compare? Please keep policy paperwork private.
 
-Hold for approved manual use after release; no LinkedIn publication.
+Hold for approved manual use; no new LinkedIn publication.
 
 ## Remaining actions
 
 The four Facebook/Instagram pairs are approved and active at their original dates; no additional activation is needed. Check actual provider delivery around the dates. Do not duplicate the posts or automatically retime them.
 
-The quote-page content is approved and pushed; identify the Website panel’s current deployment result because the public domains still serve the old build. Keep unverified sports and water status held. Thursday fishing remains under its existing narrow approval and fresh-source gate. No new GBP/LinkedIn publication or legacy-post correction was inferred from this batch. The market and November 16 Screwworm items remain separate source-gated backlog work.
+The quote-page refresh is now live and verified on both domains. Search Console Request Indexing remains unsubmitted and is a separate next step when access is available. Keep unverified sports and water status held. Thursday fishing remains under its existing narrow approval and fresh-source gate. No new GBP/LinkedIn publication or legacy-post correction was inferred from this batch. The market and November 16 Screwworm items remain separate source-gated backlog work.
 
-[Source recheck and holds](/home/ubuntu/research/content-desk-2026-11-09/afternoon/community-refresh.md) · [Canonical draft mapping](/home/ubuntu/morrison-insurance/content/weekly-social-planner-2026-11-09.json)
+[Source recheck and holds](/home/ubuntu/research/content-desk-2026-11-09/afternoon/community-refresh.md) · [Canonical schedule mapping](/home/ubuntu/morrison-insurance/content/weekly-social-planner-2026-11-09.json)
 
