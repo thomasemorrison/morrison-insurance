@@ -335,3 +335,14 @@
 - [x] Submit project instruction/shared-policy/calendar updates once, preserving complete durable calendar history.
 - [ ] Project-wide policy/calendar change remains pending user approval on the project-change card; do not claim applied synchronization or resubmit the same suggestion.
 - [x] Complete bounded digital-logo lookup: no verified official public download recovered; earlier stored badge paths return 403. Verified publisher contact Ashley Chandler at ashley@texaslocalmedia.com; no message sent, badge recreated, or scheduled photo replaced.
+
+
+## November 9 — Monday Content Desk
+
+- [x] Complete one source-linked Monday handoff and five-district community checks; no new external action. See `content/content-desk-2026-11-09-monday-handoff.md`.
+- [x] Verify the November 2 guides' public metadata and rendered Resources registration; record switching/gratitude provider publication without claiming live Google rendering.
+- [x] Check fresh per-channel inventory and preserve one Thursday fishing reservation each; nine-per-channel plan is conditional, not an active queue.
+- [ ] Review/approve the blood-drive, Veterans Day and theatre copy with valid image permission or approved original creative; refresh capacity before actual scheduling.
+- [ ] Confirm Jackson water-system notice's current status before any public use; do not call the November 4 notice newly issued November 9.
+
+Existing GSC access/current-export and legacy November 9/10 review tasks above remain open. The current GSC dashboard requires sign-in; request access or its current dated exports before November 16, without creating a duplicate report. Add November 11's sales-forward parody to the manual voice review, not an automatic edit. Shared project-change approval remains unverified; no identical configuration suggestion was resubmitted.
