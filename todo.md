@@ -342,7 +342,7 @@
 - [x] Complete one source-linked Monday handoff and five-district community checks; no new external action. See `content/content-desk-2026-11-09-monday-handoff.md`.
 - [x] Verify the November 2 guides' public metadata and rendered Resources registration; record switching/gratitude provider publication without claiming live Google rendering.
 - [x] Check fresh per-channel inventory and preserve one Thursday fishing reservation each; nine-per-channel plan is conditional, not an active queue.
-- [ ] Review/approve the blood-drive, Veterans Day and theatre copy with valid image permission or approved original creative; refresh capacity before actual scheduling.
+- [x] November 9 at 1:25 PM: owner approved the blood-drive, Veterans Day, theatre and quote-question copy/original graphics; refreshed capacity and activated all eight existing FB/IG drafts at unchanged dates.
 - [ ] Confirm Jackson water-system notice's current status before any public use; do not call the November 4 notice newly issued November 9.
 
 Existing GSC access/current-export and legacy November 9/10 review tasks above remain open. The current GSC dashboard requires sign-in; request access or its current dated exports before November 16, without creating a duplicate report. Add November 11's sales-forward parody to the manual voice review, not an automatic edit. Shared project-change approval remains unverified; no identical configuration suggestion was resubmitted.
@@ -352,10 +352,11 @@ Existing GSC access/current-export and legacy November 9/10 review tasks above r
 
 - [x] Recheck the three upcoming community events; create four original information graphics and four complete Facebook/Instagram caption pairs.
 - [x] Save and independently verify eight inactive Morrison Metricool drafts (draft=true, autoPublish=false), preserving all six existing planner rows. Exact records: `content/weekly-social-planner-2026-11-09.json`.
-- [x] Use the newly supplied GSC report to prioritize the 35-impression Center quote query at average position 11.1; prepare the existing quote-page refresh, not another duplicate article. TypeScript, 34 tests, build, XML and local phone/desktop checks passed. Quote refresh remains local/uncommitted/unpushed/unreleased.
+- [x] Use the supplied GSC report to prioritize the 35-impression Center quote query at position 11.1; refresh the existing page, not a duplicate. TypeScript, 34 tests, build, XML and phone/desktop checks passed; approved code pushed as 9b9ef86 and synced to release-ready checkpoint 5c973531.
 - [x] Assemble `content/weekly-social-and-seo-review-2026-11-09.md`, the readable article review and downloadable graphic bundle; preserve full durable calendar history.
-- [ ] Obtain approval to activate the four new paired draft topics after fresh source/capacity/time checks; retime the Monday reminder if its slot has passed. Drafts are not an active nine-post queue.
-- [ ] Designate a factual reviewer and approve the quote-page refresh before scoped GitHub commit/push, managed sync and actual public release. Verify public metadata/feeds after release; GSC indexing remains unsubmitted.
+- [x] Activate exactly four approved FB/IG pairs; fresh independent 1:32 PM readback verifies eight schedules, preserved dates/captions/media/alt, draft=false/autoPublish=true/provider PENDING, no duplicates and six legacy rows unchanged.
+- [x] Record Morrison team owner/editorial approval of the quote refresh; preserve visible agency responsibility without fabricating licensed review. Commit/push, managed sync, 34-test/build rerun and release checkpoint completed.
+- [ ] Resolve public deployment: user reported Publish at 1:31 PM, but both domains and feeds still served the old build through the five-minute rollout check. Obtain Website panel deployment status/error before another publish attempt or change; indexing remains unsubmitted.
 - [ ] Complete Tenaha opponent/full-venue and Shelbyville current-schedule facts before releasing the optional five-school carousel; do not publish unverified-status filler cards.
 
-Current plan: nine separately on Facebook and Instagram, including one Thursday fishing reservation each. Existing GBP three and LinkedIn two retained, no new placement. This new screenshot supplies editorial priority but does not restore full GSC access or close query-page/indexing verification. Existing legacy review, water-status and paid-media safeguards remain open and unchanged.
+Current actual queue: eight separately on Facebook and Instagram; one Thursday fishing reservation each brings the source-gated plan to nine. Existing GBP three and LinkedIn two retained, no new placement. The report supplies editorial priority but does not restore full GSC access or close query-page/indexing verification. Legacy review, water-status and paid-media safeguards remain open and unchanged.

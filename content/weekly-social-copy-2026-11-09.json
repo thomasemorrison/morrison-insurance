@@ -1,7 +1,7 @@
 {
   "brandId": "6256215",
   "timezone": "America/Chicago",
-  "status": "review-ready; not activated",
+  "status": "four approved FB/IG pairs active and independently verified; scheduled PENDING, not published",
   "posts": [
     {
       "key": "blood-drive",
@@ -72,11 +72,13 @@
   ],
   "notes": [
     "New material only: existing legacy schedules are preserved, not silently endorsed or edited.",
-    "Ordinary publication approval is still required. Saving drafts is not scheduling active publication.",
     "Thursday November12 fishing uses the existing narrow standing approval and must be freshly sourced on Thursday; no speculative fishing copy created now.",
     "Five-school sports is an optional tenth weekly item, held until missing facts and graphic approval are resolved.",
     "No additional GBP schedule: three existing Google placements already occupy this week. Future copy requires a distinct topical authentic photo and the appropriate CTA/type gate.",
     "No new LinkedIn schedule; two existing placements already present. Any additional copy is manual-review-only.",
-    "Sunday points to the already-live comparison guide, not the unapproved quote-page refresh."
-  ]
+    "Sunday points to the already-live comparison guide, not the unapproved quote-page refresh.",
+    "Current-task approval received; eight existing drafts activated at unchanged times. Website public refresh still blocked despite user-reported Publish. No new GBP/LinkedIn post."
+  ],
+  "approvedAt": "2026-11-09T13:25:44-06:00",
+  "verificationRecord": "weekly-social-planner-2026-11-09.json"
 }

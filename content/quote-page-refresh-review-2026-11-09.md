@@ -1,6 +1,6 @@
 # Car Insurance Quotes in Center, TX: What to Ask Before You Choose
 
-**Prepared November 9, 2026 · Review draft—not live.** Original publication July 13, 2026 is preserved. Same existing URL; no new article. Editorial owner: Morrison Insurance. Named factual reviewer and release approval are not yet confirmed.
+**Approved and pushed November 9, 2026 · Public release still unverified.** Original publication July 13 is preserved; same existing URL, no new article. Morrison team owner/editorial approval received in this task. Commit 9b9ef86 and checkpoint 5c973531 contain the approved source; the user reported Publish, but both domains still serve the prior build. Visible agency responsibility is retained; no separate licensed review is claimed.
 
 Published July 13, 2026 · Updated November 9, 2026 · Editorial responsibility: Morrison Insurance.
 
@@ -78,4 +78,3 @@ This is general shopping guidance. The actual policy, insurer's review, and your
 - [TDI: How to shop smart for auto insurance](https://www.tdi.texas.gov/consumer/auto-insurance-shopping-guide.html)
 - [TDI: Auto insurance guide](https://www.tdi.texas.gov/pubs/consumer/cb020.html)
 - [NAIC: Comparing online auto insurance quotes](https://content.naic.org/article/consumer-insight-comparing-online-auto-insurance-quotes)
-

@@ -1,18 +1,18 @@
 {
-  "status": "eight inactive drafts independently verified; no activation",
+  "status": "eight approved existing drafts activated and independently verified; scheduled PENDING, not published",
   "brandId": "6256215",
   "posts": [
     {
       "topic": "blood-drive",
       "channel": "facebook",
-      "id": "422279803",
+      "id": "422301700",
       "uuid": "357829597829811006",
       "publicationDate": {
         "dateTime": "2026-11-09T16:00:00",
         "timezone": "America/Chicago"
       },
-      "draft": true,
-      "autoPublish": false,
+      "draft": false,
+      "autoPublish": true,
       "providerStatus": "PENDING",
       "media": [
         "https://static.metricool.com/planner/202611/6256215-file-6451544163996437200.jpeg"
@@ -20,19 +20,36 @@
       "mediaAltText": [
         "Community information card: Farmers State Bank blood drive, November 12, 10 a.m. to 2:30 p.m., donor coach at 115 Shelbyville Street in Center; appointments preferred and walk-ins welcome."
       ],
-      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=357829597829811006"
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=357829597829811006",
+      "idHistory": [
+        {
+          "id": "422279803",
+          "validUntil": "2026-11-09T13:31:37-06:00",
+          "draft": true,
+          "autoPublish": false,
+          "reason": "Prior inactive draft ID; replaced on approved activation; UUID and planner URL unchanged"
+        }
+      ],
+      "status": "scheduled; not published",
+      "approvedAt": "2026-11-09T13:25:00-06:00",
+      "activatedAt": "2026-11-09T13:31:37-06:00",
+      "verifiedAt": "2026-11-09T13:32:05-06:00",
+      "type": "POST",
+      "firstCommentText": "",
+      "isAiGenerated": false,
+      "instagramAutoPublish": true
     },
     {
       "topic": "blood-drive",
       "channel": "instagram",
-      "id": "422279856",
+      "id": "422301757",
       "uuid": "-6957912596591784852",
       "publicationDate": {
         "dateTime": "2026-11-09T16:15:00",
         "timezone": "America/Chicago"
       },
-      "draft": true,
-      "autoPublish": false,
+      "draft": false,
+      "autoPublish": true,
       "providerStatus": "PENDING",
       "media": [
         "https://static.metricool.com/planner/202611/6256215-file-13144838791544303744.jpeg"
@@ -40,19 +57,36 @@
       "mediaAltText": [
         "Community information card: Farmers State Bank blood drive, November 12, 10 a.m. to 2:30 p.m., donor coach at 115 Shelbyville Street in Center; appointments preferred and walk-ins welcome."
       ],
-      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6957912596591784852"
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6957912596591784852",
+      "idHistory": [
+        {
+          "id": "422279856",
+          "validUntil": "2026-11-09T13:31:39-06:00",
+          "draft": true,
+          "autoPublish": false,
+          "reason": "Prior inactive draft ID; replaced on approved activation; UUID and planner URL unchanged"
+        }
+      ],
+      "status": "scheduled; not published",
+      "approvedAt": "2026-11-09T13:25:00-06:00",
+      "activatedAt": "2026-11-09T13:31:39-06:00",
+      "verifiedAt": "2026-11-09T13:32:05-06:00",
+      "type": "POST",
+      "firstCommentText": "",
+      "isAiGenerated": false,
+      "instagramAutoPublish": true
     },
     {
       "topic": "veterans-day",
       "channel": "facebook",
-      "id": "422279908",
+      "id": "422301822",
       "uuid": "-6236106146064544327",
       "publicationDate": {
         "dateTime": "2026-11-11T07:30:00",
         "timezone": "America/Chicago"
       },
-      "draft": true,
-      "autoPublish": false,
+      "draft": false,
+      "autoPublish": true,
       "providerStatus": "PENDING",
       "media": [
         "https://static.metricool.com/planner/202611/6256215-file-8709354021141044618.jpeg"
@@ -60,19 +94,36 @@
       "mediaAltText": [
         "Joaquin ISD Veterans Day program information: November 11 at 9 a.m. in the high-school gym; public program, followed by a library reception for veterans and their families."
       ],
-      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6236106146064544327"
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6236106146064544327",
+      "idHistory": [
+        {
+          "id": "422279908",
+          "validUntil": "2026-11-09T13:31:42-06:00",
+          "draft": true,
+          "autoPublish": false,
+          "reason": "Prior inactive draft ID; replaced on approved activation; UUID and planner URL unchanged"
+        }
+      ],
+      "status": "scheduled; not published",
+      "approvedAt": "2026-11-09T13:25:00-06:00",
+      "activatedAt": "2026-11-09T13:31:42-06:00",
+      "verifiedAt": "2026-11-09T13:32:05-06:00",
+      "type": "POST",
+      "firstCommentText": "",
+      "isAiGenerated": false,
+      "instagramAutoPublish": true
     },
     {
       "topic": "veterans-day",
       "channel": "instagram",
-      "id": "422279962",
+      "id": "422301896",
       "uuid": "2268159231088348603",
       "publicationDate": {
         "dateTime": "2026-11-11T07:45:00",
         "timezone": "America/Chicago"
       },
-      "draft": true,
-      "autoPublish": false,
+      "draft": false,
+      "autoPublish": true,
       "providerStatus": "PENDING",
       "media": [
         "https://static.metricool.com/planner/202611/6256215-file-14364935422919199533.jpeg"
@@ -80,19 +131,36 @@
       "mediaAltText": [
         "Joaquin ISD Veterans Day program information: November 11 at 9 a.m. in the high-school gym; public program, followed by a library reception for veterans and their families."
       ],
-      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=2268159231088348603"
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=2268159231088348603",
+      "idHistory": [
+        {
+          "id": "422279962",
+          "validUntil": "2026-11-09T13:31:46-06:00",
+          "draft": true,
+          "autoPublish": false,
+          "reason": "Prior inactive draft ID; replaced on approved activation; UUID and planner URL unchanged"
+        }
+      ],
+      "status": "scheduled; not published",
+      "approvedAt": "2026-11-09T13:25:00-06:00",
+      "activatedAt": "2026-11-09T13:31:46-06:00",
+      "verifiedAt": "2026-11-09T13:32:05-06:00",
+      "type": "POST",
+      "firstCommentText": "",
+      "isAiGenerated": false,
+      "instagramAutoPublish": true
     },
     {
       "topic": "theatre",
       "channel": "facebook",
-      "id": "422280015",
+      "id": "422301994",
       "uuid": "-6604547985089871288",
       "publicationDate": {
         "dateTime": "2026-11-14T09:00:00",
         "timezone": "America/Chicago"
       },
-      "draft": true,
-      "autoPublish": false,
+      "draft": false,
+      "autoPublish": true,
       "providerStatus": "PENDING",
       "media": [
         "https://static.metricool.com/planner/202611/6256215-file-9904223276442346120.jpeg"
@@ -100,19 +168,36 @@
       "mediaAltText": [
         "Panola College Theatre information card for The Tin Woman: Saturday, November 14, at 3 p.m. and 7 p.m.; Q.M. Martin Auditorium, 1109 W. Panola in Carthage; tickets $15 at the door."
       ],
-      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6604547985089871288"
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6604547985089871288",
+      "idHistory": [
+        {
+          "id": "422280015",
+          "validUntil": "2026-11-09T13:31:49-06:00",
+          "draft": true,
+          "autoPublish": false,
+          "reason": "Prior inactive draft ID; replaced on approved activation; UUID and planner URL unchanged"
+        }
+      ],
+      "status": "scheduled; not published",
+      "approvedAt": "2026-11-09T13:25:00-06:00",
+      "activatedAt": "2026-11-09T13:31:49-06:00",
+      "verifiedAt": "2026-11-09T13:32:05-06:00",
+      "type": "POST",
+      "firstCommentText": "",
+      "isAiGenerated": false,
+      "instagramAutoPublish": true
     },
     {
       "topic": "theatre",
       "channel": "instagram",
-      "id": "422280073",
+      "id": "422302060",
       "uuid": "-7177383860927510684",
       "publicationDate": {
         "dateTime": "2026-11-14T09:15:00",
         "timezone": "America/Chicago"
       },
-      "draft": true,
-      "autoPublish": false,
+      "draft": false,
+      "autoPublish": true,
       "providerStatus": "PENDING",
       "media": [
         "https://static.metricool.com/planner/202611/6256215-file-15102046670624714100.jpeg"
@@ -120,19 +205,36 @@
       "mediaAltText": [
         "Panola College Theatre information card for The Tin Woman: Saturday, November 14, at 3 p.m. and 7 p.m.; Q.M. Martin Auditorium, 1109 W. Panola in Carthage; tickets $15 at the door."
       ],
-      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-7177383860927510684"
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-7177383860927510684",
+      "idHistory": [
+        {
+          "id": "422280073",
+          "validUntil": "2026-11-09T13:31:52-06:00",
+          "draft": true,
+          "autoPublish": false,
+          "reason": "Prior inactive draft ID; replaced on approved activation; UUID and planner URL unchanged"
+        }
+      ],
+      "status": "scheduled; not published",
+      "approvedAt": "2026-11-09T13:25:00-06:00",
+      "activatedAt": "2026-11-09T13:31:52-06:00",
+      "verifiedAt": "2026-11-09T13:32:05-06:00",
+      "type": "POST",
+      "firstCommentText": "",
+      "isAiGenerated": false,
+      "instagramAutoPublish": true
     },
     {
       "topic": "quote-questions",
       "channel": "facebook",
-      "id": "422280138",
+      "id": "422302115",
       "uuid": "9168817999039841022",
       "publicationDate": {
         "dateTime": "2026-11-15T10:00:00",
         "timezone": "America/Chicago"
       },
-      "draft": true,
-      "autoPublish": false,
+      "draft": false,
+      "autoPublish": true,
       "providerStatus": "PENDING",
       "media": [
         "https://static.metricool.com/planner/202611/6256215-file-460455529150486738.jpeg"
@@ -140,19 +242,36 @@
       "mediaAltText": [
         "Five questions for comparing car insurance quotes: same drivers, vehicles and use; limits and deductibles; policy period and total cost; exclusions; and details that need verification."
       ],
-      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=9168817999039841022"
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=9168817999039841022",
+      "idHistory": [
+        {
+          "id": "422280138",
+          "validUntil": "2026-11-09T13:31:55-06:00",
+          "draft": true,
+          "autoPublish": false,
+          "reason": "Prior inactive draft ID; replaced on approved activation; UUID and planner URL unchanged"
+        }
+      ],
+      "status": "scheduled; not published",
+      "approvedAt": "2026-11-09T13:25:00-06:00",
+      "activatedAt": "2026-11-09T13:31:55-06:00",
+      "verifiedAt": "2026-11-09T13:32:05-06:00",
+      "type": "POST",
+      "firstCommentText": "",
+      "isAiGenerated": false,
+      "instagramAutoPublish": true
     },
     {
       "topic": "quote-questions",
       "channel": "instagram",
-      "id": "422280177",
+      "id": "422302159",
       "uuid": "-6616187572406630903",
       "publicationDate": {
         "dateTime": "2026-11-15T10:15:00",
         "timezone": "America/Chicago"
       },
-      "draft": true,
-      "autoPublish": false,
+      "draft": false,
+      "autoPublish": true,
       "providerStatus": "PENDING",
       "media": [
         "https://static.metricool.com/planner/202611/6256215-file-13799054869810589958.jpeg"
@@ -160,8 +279,240 @@
       "mediaAltText": [
         "Five questions for comparing car insurance quotes: same drivers, vehicles and use; limits and deductibles; policy period and total cost; exclusions; and details that need verification."
       ],
-      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6616187572406630903"
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6616187572406630903",
+      "idHistory": [
+        {
+          "id": "422280177",
+          "validUntil": "2026-11-09T13:31:57-06:00",
+          "draft": true,
+          "autoPublish": false,
+          "reason": "Prior inactive draft ID; replaced on approved activation; UUID and planner URL unchanged"
+        }
+      ],
+      "status": "scheduled; not published",
+      "approvedAt": "2026-11-09T13:25:00-06:00",
+      "activatedAt": "2026-11-09T13:31:57-06:00",
+      "verifiedAt": "2026-11-09T13:32:05-06:00",
+      "type": "POST",
+      "firstCommentText": "",
+      "isAiGenerated": false,
+      "instagramAutoPublish": true
     }
   ],
-  "existingSchedulePreserved": true
+  "existingSchedulePreserved": true,
+  "timezone": "America/Chicago",
+  "approval": {
+    "approvedAt": "2026-11-09T13:25:00-06:00",
+    "quote": "Looks great! Let's get it all posted.",
+    "scope": "Activate exactly four approved Facebook/Instagram pairs at unchanged planned future dates; not immediate publication, not duplicate creation."
+  },
+  "updatedAt": "2026-11-09T13:33:59-06:00",
+  "activatedAt": "2026-11-09T13:31:57-06:00",
+  "independentlyVerifiedAt": "2026-11-09T13:32:05-06:00",
+  "verification": {
+    "readbackAt": "2026-11-09T13:32:05-06:00",
+    "allEightVerified": true,
+    "targets": [
+      {
+        "uuid": "357829597829811006",
+        "id": "422301700",
+        "exactlyOnce": true,
+        "providerStatus": "PENDING",
+        "draft": false,
+        "autoPublish": true,
+        "allApprovedFieldsPreserved": true,
+        "captionSha256": "9e660771c3b8f289a9b6e55fad71097d80390da77cd2d8e882ce417b47b8a064"
+      },
+      {
+        "uuid": "-6957912596591784852",
+        "id": "422301757",
+        "exactlyOnce": true,
+        "providerStatus": "PENDING",
+        "draft": false,
+        "autoPublish": true,
+        "allApprovedFieldsPreserved": true,
+        "captionSha256": "6108f2f192c3a6df0e5a0af94f9e49ca5a66359bd07386d58c1548a2a4eaea9d"
+      },
+      {
+        "uuid": "-6236106146064544327",
+        "id": "422301822",
+        "exactlyOnce": true,
+        "providerStatus": "PENDING",
+        "draft": false,
+        "autoPublish": true,
+        "allApprovedFieldsPreserved": true,
+        "captionSha256": "3e0dc81998f1ca05a0c2853abb5f09c0037d9d58258718755f598e181d5024ba"
+      },
+      {
+        "uuid": "2268159231088348603",
+        "id": "422301896",
+        "exactlyOnce": true,
+        "providerStatus": "PENDING",
+        "draft": false,
+        "autoPublish": true,
+        "allApprovedFieldsPreserved": true,
+        "captionSha256": "898cf1833173621b448cf0b022f9be3ce3678987b89d35b161d4960893748635"
+      },
+      {
+        "uuid": "-6604547985089871288",
+        "id": "422301994",
+        "exactlyOnce": true,
+        "providerStatus": "PENDING",
+        "draft": false,
+        "autoPublish": true,
+        "allApprovedFieldsPreserved": true,
+        "captionSha256": "70a20db8d243559fdb910f974179c09e7249eff2063d4ea1d9d9b20e9e2bd0ea"
+      },
+      {
+        "uuid": "-7177383860927510684",
+        "id": "422302060",
+        "exactlyOnce": true,
+        "providerStatus": "PENDING",
+        "draft": false,
+        "autoPublish": true,
+        "allApprovedFieldsPreserved": true,
+        "captionSha256": "a99a2acf1cd3bc82f2c323f96823f8fe4be47666ec34d8728288bddd68438a29"
+      },
+      {
+        "uuid": "9168817999039841022",
+        "id": "422302115",
+        "exactlyOnce": true,
+        "providerStatus": "PENDING",
+        "draft": false,
+        "autoPublish": true,
+        "allApprovedFieldsPreserved": true,
+        "captionSha256": "4b58786a1a26aef7d4b1eba454b7fa6dfac019ba343aab47e5f06d0ffdc528a0"
+      },
+      {
+        "uuid": "-6616187572406630903",
+        "id": "422302159",
+        "exactlyOnce": true,
+        "providerStatus": "PENDING",
+        "draft": false,
+        "autoPublish": true,
+        "allApprovedFieldsPreserved": true,
+        "captionSha256": "f59eb5d549dab22a540b99e8a801444d0c47de712bd6603b414a0e47a2c5e07c"
+      }
+    ],
+    "sixLegacyRows": [
+      {
+        "uuid": "-1140575387033058348",
+        "id": "347593775",
+        "unchanged": true
+      },
+      {
+        "uuid": "7761060232935918487",
+        "id": "347605681",
+        "unchanged": true
+      },
+      {
+        "uuid": "-8790560660986442556",
+        "id": "358100179",
+        "unchanged": true
+      },
+      {
+        "uuid": "-3654178022769147011",
+        "id": "414217522",
+        "unchanged": true
+      },
+      {
+        "uuid": "-3406893846403855022",
+        "id": "414217582",
+        "unchanged": true
+      },
+      {
+        "uuid": "7194380236199052482",
+        "id": "414318146",
+        "unchanged": true
+      }
+    ],
+    "duplicates": [],
+    "stories": [],
+    "dailyActual": {
+      "2026-11-09": {
+        "facebook": 2,
+        "instagram": 2,
+        "gmb": 1,
+        "linkedin": 1
+      },
+      "2026-11-10": {
+        "facebook": 1,
+        "instagram": 1,
+        "gmb": 1,
+        "linkedin": 1
+      },
+      "2026-11-11": {
+        "facebook": 2,
+        "instagram": 2
+      },
+      "2026-11-12": {},
+      "2026-11-13": {
+        "facebook": 1,
+        "instagram": 1,
+        "gmb": 1
+      },
+      "2026-11-14": {
+        "facebook": 1,
+        "instagram": 1
+      },
+      "2026-11-15": {
+        "facebook": 1,
+        "instagram": 1
+      }
+    },
+    "weeklyActual": {
+      "facebook": 8,
+      "instagram": 8,
+      "gmb": 3,
+      "linkedin": 2
+    },
+    "fishingReservation": {
+      "2026-11-12": {
+        "facebook": 1,
+        "instagram": 1
+      }
+    },
+    "dailyIncludingReservation": {
+      "2026-11-09": {
+        "facebook": 2,
+        "instagram": 2,
+        "gmb": 1,
+        "linkedin": 1
+      },
+      "2026-11-10": {
+        "facebook": 1,
+        "instagram": 1,
+        "gmb": 1,
+        "linkedin": 1
+      },
+      "2026-11-11": {
+        "facebook": 2,
+        "instagram": 2
+      },
+      "2026-11-12": {
+        "facebook": 1,
+        "instagram": 1
+      },
+      "2026-11-13": {
+        "facebook": 1,
+        "instagram": 1,
+        "gmb": 1
+      },
+      "2026-11-14": {
+        "facebook": 1,
+        "instagram": 1
+      },
+      "2026-11-15": {
+        "facebook": 1,
+        "instagram": 1
+      }
+    },
+    "weeklyIncludingReservation": {
+      "facebook": 9,
+      "instagram": 9
+    },
+    "capacityRule": "Maximum two placements per channel/day, no combined cap",
+    "capacityPass": true
+  },
+  "executionRecord": "/home/ubuntu/morrison-insurance/content/weekly-social-activation-2026-11-09.md"
 }

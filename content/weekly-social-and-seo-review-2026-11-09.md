@@ -1,10 +1,10 @@
-# Morrison Insurance — November 9–15 social and SEO review package
+# Morrison Insurance — November 9–15 social schedules and SEO release record
 
-**Prepared November 9, 2026, afternoon CST.** Eight inactive Metricool drafts have been saved and independently verified. No new post was activated. Existing schedules and the live website remain unchanged. No Ads, GTM, email or recurring-workflow settings were changed.
+**Updated November 9, 2026, 1:39 PM CST. Eight approved Facebook/Instagram promotions are active schedules**, independently verified with draft=false and autoPublish=true; provider PENDING means scheduled, not published. Existing posts were preserved. The quote refresh is pushed as 9b9ef86 and present in release-ready checkpoint 5c973531. The user reported Publish, but the five-minute verification window still found the old article/RSS/sitemap on both public domains. Public release remains blocked—not falsely marked complete. No Ads, GTM, email or recurring-workflow settings changed.
 
 ## What is still useful
 
-The three researched community events are still upcoming and source-backed: Farmers State Bank’s Center blood drive on November 12, Joaquin ISD’s public Veterans Day program on November 11, and Panola College Theatre’s performances on November 13–14. The Saturday post uses only November 14’s performances. No cancellation or changed detail was found in the focused organizer-source recheck; confirm again before activation.
+The three researched community events are still upcoming and source-backed: Farmers State Bank’s Center blood drive on November 12, Joaquin ISD’s public Veterans Day program on November 11, and Panola College Theatre’s performances on November 13–14. The Saturday post uses only November 14’s performances. The event sources passed the activation recheck; the dated school invitation resolved a stale feed extraction. No attached images were reopened.
 
 The new graphics are original information cards. They do not borrow an organizer’s flyer or newspaper artwork, so those earlier image-permission blockers do not apply to these cards. These are Facebook/Instagram assets, **not GBP photographs**.
 
@@ -12,9 +12,9 @@ Do not reuse an expired library event or old cattle prices as current news. The 
 
 ## Per-channel capacity and weekly cadence
 
-The November 2 direction controls: **at most two placements on each channel per day**, not a combined cross-network total. The readback includes each provider on grouped rows and November 9’s already-published placements once each. No scheduled Stories were returned. Native posts outside this returned inventory have not been independently verified and must be reconciled before activation.
+The November 2 direction controls: **at most two placements on each channel per day**, not a combined cross-network total. The readback includes each provider on grouped rows and November 9’s already-published placements once each. No scheduled Stories were returned. Native posts outside this returned inventory remain unverified; no extra native placements were asserted.
 
-| Date | Existing Facebook | Existing Instagram | New draft FB / IG | Fishing reservation FB / IG | Planned Facebook / Instagram | Remaining room FB / IG |
+| Date | Existing Facebook | Existing Instagram | Activated FB / IG | Fishing reservation FB / IG | Planned Facebook / Instagram | Remaining room FB / IG |
 |---|---:|---:|---:|---:|---:|---:|
 | Nov 9 | 1 | 1 | 1 / 1 | 0 / 0 | 2 / 2 | 0 / 0 |
 | Nov 10 | 1 | 1 | 0 / 0 | 0 / 0 | 1 / 1 | 1 / 1 |
@@ -24,11 +24,11 @@ The November 2 direction controls: **at most two placements on each channel per 
 | Nov 14 | 0 | 0 | 1 / 1 | 0 / 0 | 1 / 1 | 1 / 1 |
 | Nov 15 | 0 | 0 | 1 / 1 | 0 / 0 | 1 / 1 | 1 / 1 |
 
-**Facebook:** 4 existing + 4 new drafts + 1 Thursday fishing reservation = **9 planned posts**.
+**Facebook:** 4 prior placements + 4 activated promotions + 1 Thursday fishing reservation = **9 planned posts**.
 
-**Instagram:** 4 existing + 4 new drafts + 1 fishing reservation = **9 planned posts**.
+**Instagram:** 4 prior placements + 4 activated promotions + 1 fishing reservation = **9 planned posts**.
 
-Both plans meet the 7–10 weekly target if the drafts are approved and the fishing source gate passes. Only four placements per channel are active/already published now; drafts and reservations are not active schedules. No fishing post was present in the inventory, so the reservation is not double-counted. The existing Thursday workflow will source the November 12 lake note fresh for the already-approved 10 a.m. pair. A resolved and approved Tuesday sports pair could bring each channel to ten; it is excluded from the nine-post plan.
+Both plans meet the 7–10 weekly target if Thursday fishing passes its fresh-source gate. Eight placements per channel are active/already published now; the fishing reservation is not an active schedule. No fishing post was present in the inventory, so the reservation is not double-counted. The existing Thursday workflow will source the November 12 lake note fresh for the already-approved 10 a.m. pair. A resolved and approved Tuesday sports pair could bring each channel to ten; it is excluded from the nine-post plan.
 
 **GBP:** three existing placements this week—November 9 published, November 10 pending, and the November 13 COI update pending. No new GBP placement was added. Three is above the lighter two-per-week planning preference, but existing posts were not removed without approval. Future GBP work needs a unique topical authentic photograph, not an automatic building-photo fallback.
 
@@ -36,13 +36,13 @@ Both plans meet the 7–10 weekly target if the drafts are approved and the fish
 
 **Legacy review flag:** November 9’s older material has already published. November 10’s fear-led business copy and Google phone/URL body, plus November 11’s sales-forward parody, conflict with current voice/compliance direction. They were flagged for manual review, not endorsed, changed or deleted under this build request.
 
-## Four new pairs — full copy, graphics and inactive planner links
+## Four approved active pairs — full copy, graphics and planner links
 
-All times are CST. The selected times fit the current per-channel inventory; no best-time analytics claim is made. The Monday blood-drive slot must be retimed after another capacity check if approval comes after 4 p.m. No automatic late publication is authorized.
+All times are CST. The approved times were preserved and passed the fresh per-channel check. All eight schedules were independently read back at 1:32:05 PM CST. No immediate flood of posts or best-time analytics claim is made.
 
 ### Center community blood drive
 
-**2026-11-09 · Facebook 16:00 · Instagram 16:15 CST. Inactive drafts only.**
+**2026-11-09 · Facebook 16:00 · Instagram 16:15 CST. Active schedules; provider PENDING, not published.**
 
 [Final JPEG](/home/ubuntu/research/content-desk-2026-11-09-afternoon/graphics/blood-drive.jpg) · [PNG](/home/ubuntu/research/content-desk-2026-11-09-afternoon/graphics/blood-drive.png)
 
@@ -65,7 +65,7 @@ https://www.commitforlife.org/donor/schedules/drive_schedule/407330
 
 #CenterTX #ShelbyCounty #EastTexas
 
-[Open inactive facebook draft](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=357829597829811006) · ID 422279803 · UUID 357829597829811006. draft=true and autoPublish=false. Provider PENDING does not mean published.
+[Open scheduled facebook post](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=357829597829811006) · Current ID 422301700 · UUID 357829597829811006. draft=false, autoPublish=true; provider PENDING, not published.
 
 #### Instagram
 
@@ -82,11 +82,11 @@ Save the details or share this with a neighbor who may be interested.
 
 #CenterTX #ShelbyCounty #EastTexas
 
-[Open inactive instagram draft](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6957912596591784852) · ID 422279856 · UUID -6957912596591784852. draft=true and autoPublish=false. Provider PENDING does not mean published.
+[Open scheduled instagram post](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6957912596591784852) · Current ID 422301757 · UUID -6957912596591784852. draft=false, autoPublish=true; provider PENDING, not published.
 
 ### Veterans Day thanks and Joaquin public program
 
-**2026-11-11 · Facebook 07:30 · Instagram 07:45 CST. Inactive drafts only.**
+**2026-11-11 · Facebook 07:30 · Instagram 07:45 CST. Active schedules; provider PENDING, not published.**
 
 [Final JPEG](/home/ubuntu/research/content-desk-2026-11-09-afternoon/graphics/veterans-day.jpg) · [PNG](/home/ubuntu/research/content-desk-2026-11-09-afternoon/graphics/veterans-day.png)
 
@@ -110,7 +110,7 @@ https://www.joaquinisd.net/live-feed/
 
 #ShelbyCounty #EastTexas #VeteransDay
 
-[Open inactive facebook draft](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6236106146064544327) · ID 422279908 · UUID -6236106146064544327. draft=true and autoPublish=false. Provider PENDING does not mean published.
+[Open scheduled facebook post](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6236106146064544327) · Current ID 422301822 · UUID -6236106146064544327. draft=false, autoPublish=true; provider PENDING, not published.
 
 #### Instagram
 
@@ -122,11 +122,11 @@ Check the district’s latest invitation before attending. Share these details w
 
 #ShelbyCounty #EastTexas #VeteransDay
 
-[Open inactive instagram draft](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=2268159231088348603) · ID 422279962 · UUID 2268159231088348603. draft=true and autoPublish=false. Provider PENDING does not mean published.
+[Open scheduled instagram post](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=2268159231088348603) · Current ID 422301896 · UUID 2268159231088348603. draft=false, autoPublish=true; provider PENDING, not published.
 
 ### Saturday theatre option in neighboring Carthage
 
-**2026-11-14 · Facebook 09:00 · Instagram 09:15 CST. Inactive drafts only.**
+**2026-11-14 · Facebook 09:00 · Instagram 09:15 CST. Active schedules; provider PENDING, not published.**
 
 [Final JPEG](/home/ubuntu/research/content-desk-2026-11-09-afternoon/graphics/theatre.jpg) · [PNG](/home/ubuntu/research/content-desk-2026-11-09-afternoon/graphics/theatre.png)
 
@@ -149,7 +149,7 @@ https://www.panola.edu/about/news/2026-panola-college-theatre-present-tin-woman
 
 #EastTexas #CarthageTX #CommunityArts
 
-[Open inactive facebook draft](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6604547985089871288) · ID 422280015 · UUID -6604547985089871288. draft=true and autoPublish=false. Provider PENDING does not mean published.
+[Open scheduled facebook post](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6604547985089871288) · Current ID 422301994 · UUID -6604547985089871288. draft=false, autoPublish=true; provider PENDING, not published.
 
 #### Instagram
 
@@ -167,11 +167,11 @@ Save the details or share with a friend who enjoys a local theatre outing.
 
 #EastTexas #CarthageTX #CommunityArts
 
-[Open inactive instagram draft](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-7177383860927510684) · ID 422280073 · UUID -7177383860927510684. draft=true and autoPublish=false. Provider PENDING does not mean published.
+[Open scheduled instagram post](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-7177383860927510684) · Current ID 422302060 · UUID -7177383860927510684. draft=false, autoPublish=true; provider PENDING, not published.
 
 ### Five questions before choosing a car quote
 
-**2026-11-15 · Facebook 10:00 · Instagram 10:15 CST. Inactive drafts only.**
+**2026-11-15 · Facebook 10:00 · Instagram 10:15 CST. Active schedules; provider PENDING, not published.**
 
 [Final JPEG](/home/ubuntu/research/content-desk-2026-11-09-afternoon/graphics/quote-questions.jpg) · [PNG](/home/ubuntu/research/content-desk-2026-11-09-afternoon/graphics/quote-questions.png)
 
@@ -199,7 +199,7 @@ https://morrison-ins.net/resources/car-insurance-companies-center-tx
 
 #CenterTX #ShelbyCounty #EastTexas
 
-[Open inactive facebook draft](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=9168817999039841022) · ID 422280138 · UUID 9168817999039841022. draft=true and autoPublish=false. Provider PENDING does not mean published.
+[Open scheduled facebook post](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=9168817999039841022) · Current ID 422302115 · UUID 9168817999039841022. draft=false, autoPublish=true; provider PENDING, not published.
 
 #### Instagram
 
@@ -217,7 +217,7 @@ Which detail is hardest to compare? Please keep policy numbers and document phot
 
 #CenterTX #ShelbyCounty #EastTexas
 
-[Open inactive instagram draft](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6616187572406630903) · ID 422280177 · UUID -6616187572406630903. draft=true and autoPublish=false. Provider PENDING does not mean published.
+[Open scheduled instagram post](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6616187572406630903) · Current ID 422302159 · UUID -6616187572406630903. draft=false, autoPublish=true; provider PENDING, not published.
 
 ## Five-school sports — optional tenth item, held
 
@@ -241,15 +241,15 @@ That is a better-supported opportunity than the other 1–2-impression examples.
 
 The page now has a prepared request-to-written-quote explanation: how to ask for local help, which terms to compare, safe document sharing, what still needs verification, and why a quote does not establish coverage. It removes unsupported local-price, turnaround and whole-market claims. The November 2 preparation checklist, rate-comparison guide and switching guide remain distinct and linked.
 
-The original July 13 publication date and existing unique 1080 × 1350 JPEG are preserved. A genuine November 9 modification date is in the prepared draft—not a claim that it is already live. Editorial owner: Morrison Insurance. A named factual reviewer and release approval are still required; no licensed review is fabricated.
+The original July 13 publication date and unique 1080 × 1350 JPEG are preserved. The approved code includes the November 9 modification date; this is not yet visible on the public domains. Morrison team owner/editorial approval was received in this task at 1:25 PM. Visible editorial responsibility remains Morrison Insurance; no separate licensed review is fabricated.
 
 **Integration prepared:** existing TSX, Resources card, crawler metadata, article schema/visible dates, internal and official-source links, the existing RSS item and sitemap entry. No duplicate route, GUID or new RSS item was added.
 
 **Validation passed:** TypeScript; all 34 tests, including five new refresh regression checks; production build; RSS/sitemap XML; local mobile 375 px and desktop 1440 px title, description, canonical and schema checks; no horizontal overflow. The existing hero decodes as a 1080 × 1350 JPEG and renders correctly, although its download response uses application/octet-stream. Existing dependency/chunk-size warnings were not addressed by this narrow refresh.
 
-[Download the complete tested site patch](/home/ubuntu/morrison-insurance/content/quote-page-refresh-2026-11-09.patch). The six changes are local in the canonical clone at base commit 453f597: **not committed, pushed or deployed**. The managed website’s client/server/shared code is unchanged.
+[Download the complete tested site patch](/home/ubuntu/morrison-insurance/content/quote-page-refresh-2026-11-09.patch). The six changes were committed and pushed as **9b9ef86**, then fast-forwarded into the managed project. Release-ready checkpoint **5c973531** includes the approved source. The user reported Publish at 1:31 PM; public verification still shows the old release. Do not label the refreshed page live.
 
-After approval: designated factual review → commit/push the scoped files → synchronize the managed project and save a release checkpoint → actual Website Publish → verify both public domains and discovery files → manual Search Console URL Inspection / Request Indexing when access is available. No indexing request was submitted. Sunday’s social pair deliberately uses the already-live comparison guide, independent of this pending refresh.
+Completed: owner approval, scoped commit/push, active-project sync, another passing 34-test/build run, and release-ready checkpoint. Publish was reported, but both public domains failed the new article/feed/date checks through 1:37 PM and cache-bypassed requests also returned the old no-cache release. The Website panel deployment status is the remaining diagnostic input. No indexing request was submitted. Sunday’s active pair uses the already-live comparison guide and is independent of this blocked refresh.
 
 Official sources opened: [TDI shopping guide](https://www.tdi.texas.gov/consumer/auto-insurance-shopping-guide.html), [TDI auto guide](https://www.tdi.texas.gov/pubs/consumer/cb020.html), [NAIC quote guide](https://content.naic.org/article/consumer-insight-comparing-online-auto-insurance-quotes).
 
@@ -277,11 +277,11 @@ The prepared Center quote guide explains that conversation without promising sav
 
 Hold for approved manual use after release; no LinkedIn publication.
 
-## Next actions and approval
+## Remaining actions
 
-Approve the four new Facebook/Instagram pairs to activate the existing drafts after a fresh capacity/source/time check. If Monday’s slot has passed, retime the blood-drive reminder while the November 12 event is still upcoming. Do not publish an outdated “today” caption.
+The four Facebook/Instagram pairs are approved and active at their original dates; no additional activation is needed. Check actual provider delivery around the dates. Do not duplicate the posts or automatically retime them.
 
-Approve the quote-page content and designate its factual reviewer before GitHub push and release. Keep unverified sports and water status held. Thursday fishing remains under its existing narrow approval and fresh-source gate. A Friday market note needs genuinely fresh data and a useful approved visual, not old prices for filler. The Screwworm source update remains a November 16 backlog item; it was not researched or published in this run.
+The quote-page content is approved and pushed; identify the Website panel’s current deployment result because the public domains still serve the old build. Keep unverified sports and water status held. Thursday fishing remains under its existing narrow approval and fresh-source gate. No new GBP/LinkedIn publication or legacy-post correction was inferred from this batch. The market and November 16 Screwworm items remain separate source-gated backlog work.
 
 [Source recheck and holds](/home/ubuntu/research/content-desk-2026-11-09/afternoon/community-refresh.md) · [Canonical draft mapping](/home/ubuntu/morrison-insurance/content/weekly-social-planner-2026-11-09.json)
 
