@@ -1,213 +1,290 @@
-import { useEffect, useRef } from "react";
+import type { CSSProperties } from "react";
 import { Link } from "wouter";
-import { ArrowRight, ChevronRight, Clock } from "lucide-react";
-import { useSeoMeta } from "@/hooks/useSeoMeta";
+import {
+  ArticleLayout,
+  ArticleSection,
+  ArticleH2,
+  ArticleP,
+  ArticleCallout,
+} from "@/components/ArticleLayout";
+import { SchemaMarkup } from "@/components/SchemaMarkup";
 
-function useScrollFadeUp(selector = ".fade-up") {
-  const ref = useRef<HTMLDivElement>(null);
-  useEffect(() => {
-    const container = ref.current;
-    if (!container) return;
-    const observer = new IntersectionObserver(
-      (entries) => entries.forEach((e) => { if (e.isIntersecting) { e.target.classList.add("visible"); observer.unobserve(e.target); } }),
-      { threshold: 0.08, rootMargin: "0px 0px -30px 0px" }
-    );
-    container.querySelectorAll(selector).forEach((el) => observer.observe(el));
-    return () => observer.disconnect();
-  }, [selector]);
-  return ref;
-}
+const CANONICAL_SLUG = "car-insurance-quotes-center-tx";
+const ARTICLE_URL = `https://morrison-ins.net/resources/${CANONICAL_SLUG}`;
+const HERO_IMAGE = "/manus-storage/car-insurance-quotes-center-tx-portrait_4d76811a.jpg";
+const TITLE = "Car Insurance Quotes in Center, TX: What to Ask Before You Choose";
+const DESCRIPTION =
+  "Looking for car insurance quotes in Center, TX? Learn how to request local help, understand a quote, compare the options offered, and confirm when coverage starts.";
+const linkStyle: CSSProperties = {
+  color: "var(--pine)",
+  fontWeight: 600,
+  textDecoration: "underline",
+  textUnderlineOffset: "3px",
+};
+const listStyle: CSSProperties = {
+  margin: "0 0 1.5rem",
+  paddingLeft: "1.25rem",
+  fontFamily: "Inter, sans-serif",
+  fontSize: "1rem",
+  color: "var(--text-body)",
+  lineHeight: 1.8,
+};
+const related = [
+  {
+    category: "Auto Insurance",
+    title: "What to Bring for a Car Insurance Quote in Center, TX",
+    href: "/resources/car-insurance-quote-checklist-center-tx",
+    image: "/manus-storage/car-quote-checklist-2026-11-hero_057d7888.jpg",
+  },
+  {
+    category: "Auto Insurance",
+    title: "How to Compare Car Insurance Rates in Center, TX",
+    href: "/resources/car-insurance-companies-center-tx",
+    image: "/manus-storage/car-insurance-companies-center-tx-portrait_f8955df7.jpg",
+  },
+  {
+    category: "Auto Insurance",
+    title: "How to Switch Car Insurance in Texas Without a Coverage Gap",
+    href: "/resources/switch-car-insurance-texas-without-gap",
+    image: "/manus-storage/switch-car-insurance-2026-11-hero_3d48e552.jpg",
+  },
+];
 
 export default function ArticleCarInsuranceQuotesCenterTx() {
-  useSeoMeta(
-    "How to Get Car Insurance Quotes in Center, TX | Morrison Insurance",
-    "Looking for car insurance quotes in Center, TX? Morrison Insurance has served Shelby County since 1923. Get a free, no-pressure quote from a local independent agent who knows East Texas."
-  );
-  useEffect(() => {
-    const setMeta = (prop: string, val: string) => {
-      let el = document.querySelector(`meta[property="${prop}"]`) as HTMLMetaElement | null;
-      if (!el) { el = document.createElement("meta"); el.setAttribute("property", prop); document.head.appendChild(el); }
-      el.setAttribute("content", val);
-    };
-    setMeta("og:image", "https://morrison-ins.net/manus-storage/car-insurance-quotes-center-tx-portrait_4d76811a.jpg");
-    setMeta("og:type", "article");
-    return () => { setMeta("og:type", "website"); };
-  }, []);
-  const pageRef = useScrollFadeUp();
   return (
-    <div ref={pageRef}>
-      {/* Hero */}
-      <section
-        style={{
-          position: "relative",
-          minHeight: "380px",
-          display: "flex",
-          alignItems: "flex-end",
-          overflow: "hidden",
-          paddingBottom: "3rem",
-        }}
-      >
-        <div
-          style={{
-            position: "absolute",
-            inset: 0,
-            backgroundImage: "url(/manus-storage/car-insurance-quotes-center-tx-portrait_4d76811a.jpg)",
-            backgroundSize: "cover",
-            backgroundPosition: "center 35%",
-            zIndex: 0,
-          }}
-        />
-        <div style={{ position: "absolute", inset: 0, background: "linear-gradient(to top, oklch(0.12 0.05 155 / 0.92) 0%, oklch(0.12 0.05 155 / 0.65) 50%, oklch(0.12 0.05 155 / 0.30) 100%)", zIndex: 1 }} />
-        <div className="container" style={{ position: "relative", zIndex: 3, paddingTop: "5rem" }}>
-          <nav style={{ marginBottom: "1.5rem", display: "flex", gap: "0.5rem", alignItems: "center", flexWrap: "wrap" }}>
-            <Link href="/" style={{ fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "oklch(0.65 0.01 80)", textDecoration: "none" }}>Home</Link>
-            <ChevronRight size={14} style={{ color: "oklch(0.50 0.01 80)" }} />
-            <Link href="/resources" style={{ fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "oklch(0.65 0.01 80)", textDecoration: "none" }}>Resources</Link>
-            <ChevronRight size={14} style={{ color: "oklch(0.50 0.01 80)" }} />
-            <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "var(--amber-brand)" }}>Auto Insurance</span>
-          </nav>
-          <div className="fade-up">
-            <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.75rem", fontWeight: 600, letterSpacing: "0.1em", textTransform: "uppercase", color: "var(--amber-brand)", backgroundColor: "oklch(0.22 0.06 155)", padding: "0.25rem 0.75rem", borderRadius: "2rem" }}>Auto Insurance</span>
-          </div>
-          <h1 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.875rem, 4vw, 3rem)", color: "white", lineHeight: 1.2, marginTop: "1.25rem", marginBottom: "1.25rem", maxWidth: "800px", transitionDelay: "80ms" }}>
-            How to Get Car Insurance Quotes in Center, TX — And Why Working with a Local Agent Makes All the Difference
-          </h1>
-          <div className="fade-up" style={{ display: "flex", alignItems: "center", gap: "1.25rem", transitionDelay: "160ms" }}>
-            <span style={{ display: "flex", alignItems: "center", gap: "0.375rem", fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "oklch(0.65 0.01 80)" }}>
-              <Clock size={14} /> 5 min read
-            </span>
-            <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "oklch(0.55 0.01 80)" }}>Morrison Insurance · Center, TX</span>
-          </div>
-          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.78 0.01 80)", lineHeight: 1.75, marginTop: "1.5rem", maxWidth: "680px", transitionDelay: "240ms" }}>
-            Getting a car insurance quote used to mean sitting across a desk from someone you trusted — someone who knew your family, knew the roads you drove, and could give you a straight answer. In Center, TX, that kind of relationship still exists.
-          </p>
-        </div>
-      </section>
+    <ArticleLayout
+      pageTitle={`${TITLE} | Morrison Insurance`}
+      metaDescription={DESCRIPTION}
+      canonicalSlug={CANONICAL_SLUG}
+      category="Auto Insurance"
+      title={TITLE}
+      readTime="6 min read"
+      excerpt="A renewal notice, a newly purchased car, or a change in household drivers can start the same question: how do you get a quote you can understand? Start with the options available to your situation, then ask what each written quote includes and what still needs confirmation."
+      heroImage={`https://morrison-ins.net${HERO_IMAGE}`}
+      educationalCta
+      relatedArticles={related}
+    >
+      <SchemaMarkup
+        type="article"
+        headline={TITLE}
+        description={DESCRIPTION}
+        url={ARTICLE_URL}
+        datePublished="2026-07-13"
+        dateModified="2026-11-09"
+        authorName="Morrison Insurance"
+        publisherName="Morrison Insurance"
+        publisherUrl="https://morrison-ins.net"
+        imageUrl={`https://morrison-ins.net${HERO_IMAGE}`}
+        breadcrumbs={[
+          { name: "Home", url: "https://morrison-ins.net/" },
+          { name: "Resources", url: "https://morrison-ins.net/resources" },
+          { name: "Car Insurance Quotes in Center, TX", url: ARTICLE_URL },
+        ]}
+      />
 
-      {/* Body */}
-      <section style={{ backgroundColor: "var(--cream)", padding: "4rem 0" }}>
-        <div className="container" style={{ maxWidth: "780px" }}>
-          <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
-            What You Need to Get a Car Insurance Quote
-          </h2>
-          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
-            The quoting process is straightforward, and most people can complete it in a single conversation. Before you call or stop by, it helps to have the following on hand:
-          </p>
-          <ul className="fade-up" style={{ listStyle: "none", padding: 0, margin: "0 0 2rem 0", display: "flex", flexDirection: "column", gap: "0.75rem" }}>
-            {[
-              "Your driver's license number and the license numbers of any other drivers in your household",
-              "Your vehicle's year, make, model, and VIN (found on your registration or on the dashboard near the windshield)",
-              "Your current insurance policy, if you have one — this helps your agent match or improve your existing coverage",
-              "Your address and how many miles you drive each year",
-            ].map((item, i) => (
-              <li key={i} style={{ display: "flex", gap: "0.875rem", alignItems: "flex-start" }}>
-                <span style={{ width: "20px", height: "20px", borderRadius: "50%", backgroundColor: "var(--amber-brand)", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, marginTop: "2px" }}>
-                  <svg width="10" height="8" viewBox="0 0 10 8" fill="none"><path d="M1 4L3.5 6.5L9 1" stroke="white" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/></svg>
-                </span>
-                <span style={{ fontFamily: "Inter, sans-serif", fontSize: "1rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.7 }}>{item}</span>
-              </li>
-            ))}
-          </ul>
-          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "2rem" }}>
-            That is genuinely all it takes to get started. There are no lengthy online forms, no automated phone trees, and no pressure to decide on the spot.
-          </p>
-          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "2rem" }}>
-            For a more detailed list—including work use, loan information, and how to share documents safely—see the <Link href="/resources/car-insurance-quote-checklist-center-tx" style={{ color: "var(--pine)", fontWeight: 600 }}>car insurance quote preparation checklist for Center drivers</Link>.
-          </p>
+      <ArticleSection>
+        <ArticleP>
+          Published <time dateTime="2026-07-13">July 13, 2026</time> · Updated{" "}
+          <time dateTime="2026-11-09">November 9, 2026</time> · Editorial responsibility:
+          Morrison Insurance.
+        </ArticleP>
+        <ArticleH2>Start with a conversation, not a price promise</ArticleH2>
+        <ArticleP>
+          For car insurance quotes in Center, TX, you can speak with a local agent,
+          contact an insurer directly, or use an insurer&apos;s online quote process.
+          Whichever route you choose, ask who will receive your information, which
+          company is being quoted, and how you will receive the written details.
+        </ArticleP>
+        <ArticleP>
+          A quote request is not a commitment to buy. It is a chance to describe your
+          household and ask about available options. Start with a current renewal,
+          a new-car purchase, or the change you want help understanding. You do not
+          need to know every insurance term before asking a question.
+        </ArticleP>
+        <ArticleP>
+          The Texas Department of Insurance recommends getting quotes from several
+          companies and using its comparison worksheet. Its{" "}
+          <a href="https://www.tdi.texas.gov/consumer/auto-insurance-shopping-guide.html" target="_blank" rel="noreferrer" style={linkStyle}>
+            auto insurance shopping guide
+          </a>{" "}
+          also explains what to ask about cost, exclusions, discounts, and the way
+          you use your car.
+        </ArticleP>
+      </ArticleSection>
 
-          <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
-            Why Independent Agents Offer More Options
-          </h2>
-          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
-            When you call a captive insurance company — one of the large national brands — you are getting a quote from exactly one carrier. The agent works for that company and can only offer you that company's products. If their rates are not competitive for your situation, there is nothing they can do for you.
-          </p>
-          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
-            Morrison Insurance is an independent agency. That means we work with multiple insurance carriers and can compare rates and coverage options across all of them on your behalf. When you ask us for a car insurance quote, we are shopping the market for you — not selling you a single product.
-          </p>
-          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "2rem" }}>
-            For drivers in Center and Shelby County, this matters. East Texas has its own risk profile: rural roads, deer crossings, severe weather, and a mix of newer vehicles and older farm trucks. Not every carrier prices that risk the same way. An independent agent who knows this area can find the carrier that treats your specific situation most favorably.
-          </p>
+      <ArticleSection white>
+        <ArticleH2>How to request local quote help in Center</ArticleH2>
+        <ArticleP>
+          To talk with a Morrison Insurance agent, use the phone or contact options
+          on the{" "}
+          <Link href="/contact" style={linkStyle}>Contact page</Link>{" "}
+          or visit the Center office at 125 Shelbyville Street. Say whether you are
+          requesting a new quote, comparing a renewal, or reviewing a change to an
+          existing policy. That helps explain the purpose of the conversation.
+        </ArticleP>
+        <ArticleP>
+          An independent agency can discuss options from the companies it
+          represents. That is not a quote from every insurer in Texas, and not every
+          company or policy is available for every driver. Ask which options are
+          available for your particular household and vehicles; do not assume the
+          result will be a lower price.
+        </ArticleP>
+        <ArticleP>
+          Before sending documents, ask for the agency&apos;s preferred private
+          delivery method. Keep license numbers, vehicle identification numbers,
+          dates of birth, policy numbers, and document photos out of public comments
+          and general web-form messages. A short explanation of the question is
+          enough to start a general inquiry.
+        </ArticleP>
+      </ArticleSection>
 
-          <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
-            What Affects Your Car Insurance Rate in Texas
-          </h2>
-          <div className="fade-up" style={{ display: "flex", flexDirection: "column", gap: "1.25rem", marginBottom: "2rem" }}>
-            {[
-              { title: "Your driving record", body: "The most significant factor. A clean record with no accidents or violations typically qualifies you for the best available rates. Most carriers look back three to five years." },
-              { title: "Your vehicle", body: "Newer vehicles with advanced safety features often qualify for discounts, but they also cost more to repair, which affects comprehensive and collision premiums. Older vehicles may warrant dropping collision coverage entirely if the vehicle's value no longer justifies the premium." },
-              { title: "Where you live and how much you drive", body: "Drivers in rural Shelby County generally pay less than drivers in Houston or Dallas, but your annual mileage and whether you use your vehicle for business purposes will also factor in." },
-              { title: "Your coverage selections", body: "Liability limits, deductibles, and optional coverages like uninsured motorist and roadside assistance all affect your final premium. Your agent can walk you through what each option means in plain language." },
-            ].map((item, i) => (
-              <div key={i} style={{ backgroundColor: "white", borderRadius: "0.5rem", padding: "1.5rem", boxShadow: "0 2px 8px rgba(0,0,0,0.06)", borderLeft: "3px solid var(--amber-brand)" }}>
-                <p style={{ fontFamily: "Inter, sans-serif", fontWeight: 600, fontSize: "1rem", color: "var(--pine)", marginBottom: "0.5rem" }}>{item.title}</p>
-                <p style={{ fontFamily: "Inter, sans-serif", fontSize: "0.9375rem", color: "oklch(0.40 0.01 250)", lineHeight: 1.75, margin: 0 }}>{item.body}</p>
-              </div>
-            ))}
-          </div>
+      <ArticleSection>
+        <ArticleH2>What happens after you ask for a quote?</ArticleH2>
+        <ol className="fade-up" style={listStyle}>
+          <li><strong>Describe the situation.</strong> Explain the drivers, vehicles, where the cars normally stay, and how they are used.</li>
+          <li><strong>Ask what needs verification.</strong> Mark missing details as unknown instead of guessing. The insurer may need additional information before it offers final terms.</li>
+          <li><strong>Request the written quote.</strong> Ask for the company name, proposed coverages, limits, deductibles, policy period, and payment details together.</li>
+          <li><strong>Talk through differences.</strong> Ask which choices or assumptions explain a change in price, and what must happen if you decide to proceed.</li>
+        </ol>
+        <ArticleP>
+          The{" "}
+          <a href="https://content.naic.org/article/consumer-insight-comparing-online-auto-insurance-quotes" target="_blank" rel="noreferrer" style={linkStyle}>
+            National Association of Insurance Commissioners&apos; quote-shopping guidance
+          </a>{" "}
+          notes that some online services send the information to an agent and not
+          every site provides an immediate quote. Ask who will follow up and what
+          remains outstanding rather than assuming a response time or acceptance.
+        </ArticleP>
+      </ArticleSection>
 
-          <h2 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.5rem, 2.5vw, 2rem)", color: "var(--pine)", marginBottom: "1.25rem" }}>
-            What to Expect When You Call Morrison Insurance
-          </h2>
-          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8, marginBottom: "1.25rem" }}>
-            When you contact us for a quote, you will speak with someone who works here — not a call center in another state. We will ask you a few questions, explain your options clearly, and give you a quote that reflects what you actually need. If we can save you money compared to what you are currently paying, we will tell you. If your current coverage is already competitive, we will tell you that too.
-          </p>
-          <p className="fade-up" style={{ fontFamily: "Inter, sans-serif", fontSize: "1.0625rem", color: "oklch(0.35 0.01 250)", lineHeight: 1.8 }}>
-            Morrison Insurance has been a part of the Center community for over a century. We are not trying to sell you something — we are trying to make sure you and your family are protected at a price that makes sense.
-          </p>
-        </div>
-      </section>
+      <ArticleSection white>
+        <ArticleH2>Take the preparation checklist, not a second paperwork list</ArticleH2>
+        <ArticleP>
+          Have your current policy summary or renewal handy, if you are insured,
+          along with the driver and vehicle details you already have. If something
+          is missing, say so. The exact information required depends on the insurer
+          and your situation.
+        </ArticleP>
+        <ArticleP>
+          The separate{" "}
+          <Link href="/resources/car-insurance-quote-checklist-center-tx" style={linkStyle}>
+            Center car insurance quote preparation checklist
+          </Link>{" "}
+          covers what to gather, including household drivers, vehicle use, loan
+          details, and safer document sharing. This page focuses on the conversation
+          and decisions that follow, rather than repeating that checklist.
+        </ArticleP>
+      </ArticleSection>
 
-      {/* CTA */}
-      <section style={{ backgroundColor: "var(--pine)", padding: "4rem 0" }}>
-        <div className="container" style={{ maxWidth: "780px" }}>
-          <div className="fade-up" style={{ backgroundColor: "oklch(0.22 0.06 155)", borderRadius: "0.75rem", padding: "2.5rem", borderLeft: "4px solid var(--amber-brand)" }}>
-            <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "clamp(1.375rem, 2vw, 1.75rem)", color: "white", marginBottom: "0.875rem" }}>
-              Ready to get started?
-            </h2>
-            <p style={{ fontFamily: "Inter, sans-serif", fontSize: "1rem", color: "oklch(0.78 0.01 80)", lineHeight: 1.75, marginBottom: "1.5rem" }}>
-              Call us or stop by our office at 125 Shelbyville St. in Center. We are here Monday through Friday and happy to answer any questions before you decide anything.
-            </p>
-            <div style={{ display: "flex", gap: "1rem", flexWrap: "wrap" }}>
-              <Link href="/contact">
-                <button className="btn-amber" style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
-                  Get a Free Quote <ArrowRight size={16} />
-                </button>
-              </Link>
-              <a href="tel:+19365982791">
-                <button className="btn-white" style={{ display: "flex", alignItems: "center", gap: "0.5rem" }}>
-                  Call (936) 598-2791
-                </button>
-              </a>
-            </div>
-          </div>
-        </div>
-      </section>
+      <ArticleSection>
+        <ArticleH2>Five questions to ask before comparing the price</ArticleH2>
+        <ol className="fade-up" style={listStyle}>
+          <li>Are these quotes for the same drivers, vehicles, and use?</li>
+          <li>Are the dollar limits and deductibles the same, and which optional coverages differ?</li>
+          <li>What is the total cost for the same policy period, including the selected payment plan and any fees?</li>
+          <li>Are any drivers or uses excluded, and where is that written?</li>
+          <li>Which discounts or other assumptions still need to be confirmed?</li>
+        </ol>
+        <ArticleP>
+          A smaller monthly payment alone does not tell you whether two proposals
+          offer the same terms. Ask for mismatched quotes to be revised to the same
+          choices before deciding. For a detailed side-by-side method, use the{" "}
+          <Link href="/resources/car-insurance-companies-center-tx" style={linkStyle}>
+            Center car insurance rate comparison guide
+          </Link>.
+        </ArticleP>
+        <ArticleCallout label="Bring the question you actually have">
+          “This price changed, but I cannot tell what changed with it” is a useful
+          starting point. Ask the agent to point to the differences in the written
+          quote rather than treating the lowest number as the whole answer.
+        </ArticleCallout>
+      </ArticleSection>
 
-      {/* Related Articles */}
-      <section style={{ backgroundColor: "var(--cream-dark)", padding: "4rem 0" }}>
-        <div className="container" style={{ maxWidth: "780px" }}>
-          <h3 className="fade-up" style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 700, fontSize: "1.375rem", color: "var(--pine)", marginBottom: "1.5rem" }}>Related Articles</h3>
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            {[
-              { href: "/resources/auto-insurance-center-tx", title: "Auto Insurance in Center, TX — What Shelby County Drivers Need to Know", category: "Auto Insurance" },
-              { href: "/resources/car-insurance-agents-center-tx", title: "Car Insurance Agents in Center, TX — What to Look For", category: "Auto Insurance" },
-              { href: "/resources/car-insurance-companies-center-tx", title: "How to Compare Car Insurance Companies in Center, TX", category: "Auto Insurance" },
-              { href: "/auto-insurance", title: "Auto Insurance in Center, TX — Morrison Insurance", category: "Service Page" },
-            ].map((a) => (
-              <Link key={a.href} href={a.href} style={{ textDecoration: "none" }}>
-                <div className="fade-up" style={{ backgroundColor: "white", borderRadius: "0.5rem", padding: "1.5rem", boxShadow: "0 2px 8px rgba(0,0,0,0.06)", borderTop: "3px solid var(--pine)", transition: "transform 200ms, box-shadow 200ms" }}
-                  onMouseEnter={(e) => { (e.currentTarget as HTMLElement).style.transform = "translateY(-3px)"; (e.currentTarget as HTMLElement).style.boxShadow = "0 8px 24px rgba(0,0,0,0.10)"; }}
-                  onMouseLeave={(e) => { (e.currentTarget as HTMLElement).style.transform = "translateY(0)"; (e.currentTarget as HTMLElement).style.boxShadow = "0 2px 8px rgba(0,0,0,0.06)"; }}
-                >
-                  <span style={{ fontFamily: "Inter, sans-serif", fontSize: "0.75rem", fontWeight: 600, textTransform: "uppercase", letterSpacing: "0.08em", color: "var(--amber-brand)" }}>{a.category}</span>
-                  <p style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontWeight: 600, fontSize: "1rem", color: "var(--pine)", marginTop: "0.5rem", lineHeight: 1.4 }}>{a.title}</p>
-                  <span style={{ display: "flex", alignItems: "center", gap: "0.375rem", fontFamily: "Inter, sans-serif", fontSize: "0.875rem", color: "var(--pine)", fontWeight: 600, marginTop: "0.875rem" }}>Read Article <ArrowRight size={13} /></span>
-                </div>
-              </Link>
-            ))}
-          </div>
-        </div>
-      </section>
-    </div>
+      <ArticleSection white>
+        <ArticleH2>Why can a quote change after the first estimate?</ArticleH2>
+        <ArticleP>
+          TDI explains that insurers consider factors such as driving and claims
+          history, where the vehicle is kept, the kind of car, and its use. The
+          company&apos;s underwriting review determines whether it will offer a policy
+          and the price. If verified information differs from the initial request,
+          ask for an updated written quote and an explanation of the changed details.
+        </ArticleP>
+        <ArticleP>
+          There is no single reliable price for every Center or Shelby County
+          driver. A statewide average, another household&apos;s premium, or an online
+          starting estimate is not your personal quote. This guide does not promise
+          a discount, acceptance, a coverage result, or a faster response.
+        </ArticleP>
+      </ArticleSection>
+
+      <ArticleSection>
+        <ArticleH2>Does receiving a quote mean coverage has started?</ArticleH2>
+        <ArticleP>
+          No. A quote conversation alone is not proof that coverage is in force.
+          Before driving on the assumption that a new policy has begun, ask for
+          written confirmation of the effective date and time, any payment or
+          application steps still required, and proof of coverage from the company
+          or an authorized agent.
+        </ArticleP>
+        <ArticleP>
+          TDI advises not cancelling your current policy until you receive the new
+          policy or a written statement proving coverage. If you are switching,
+          use the{" "}
+          <Link href="/resources/switch-car-insurance-texas-without-gap" style={linkStyle}>
+            Texas switching guide
+          </Link>{" "}
+          to prepare the start-date and cancellation questions. Do not assume an
+          estimated quote date is the same as a confirmed coverage start.
+        </ArticleP>
+      </ArticleSection>
+
+      <ArticleSection white>
+        <ArticleH2>Common questions about car insurance quotes in Center</ArticleH2>
+        <ArticleP>
+          <strong>Can I ask for a quote if I do not currently have insurance?</strong>{" "}
+          Tell the agent that plainly, including when you need help. Ask what
+          information and options apply; a conversation is not a promise that a
+          particular company will accept the application.
+        </ArticleP>
+        <ArticleP>
+          <strong>Can I ask someone to explain a quote I already received?</strong>{" "}
+          Bring its written details and your current summary if available. Ask about
+          the terms and unanswered questions. Do not assume that another company&apos;s
+          proposal can be reproduced exactly.
+        </ArticleP>
+        <ArticleP>
+          <strong>Is an independent agent quoting the whole market?</strong>{" "}
+          No. Ask about the companies the agency represents and the options actually
+          available to you. Independence describes how options can be discussed;
+          it is not a guarantee of the lowest price.
+        </ArticleP>
+        <ArticleP>
+          <strong>How can I check the insurer or agent?</strong>{" "}
+          TDI&apos;s shopping guide links to company licensing and complaint information.
+          Use its official resources, then ask about the service and claim-contact
+          process before choosing.
+        </ArticleP>
+      </ArticleSection>
+
+      <ArticleSection>
+        <ArticleH2>Bring your renewal and the questions it raised</ArticleH2>
+        <ArticleP>
+          Keep the current summary, written proposals, and unanswered questions
+          together. Ask what changed, what still needs verification, and what the
+          next step is. A clear explanation is more useful than pressure to decide.
+          <Link href="/contact" style={linkStyle}> Talk through your situation with a local agent.</Link>
+        </ArticleP>
+        <ArticleP>
+          This is general shopping guidance. The actual policy, insurer&apos;s review,
+          and your circumstances determine the available terms; this article is
+          not an individual coverage or price determination.
+        </ArticleP>
+        <ul className="fade-up" style={listStyle} aria-label="Official sources">
+          <li><a href="https://www.tdi.texas.gov/consumer/auto-insurance-shopping-guide.html" target="_blank" rel="noreferrer" style={linkStyle}>TDI: How to shop smart for auto insurance</a></li>
+          <li><a href="https://www.tdi.texas.gov/pubs/consumer/cb020.html" target="_blank" rel="noreferrer" style={linkStyle}>TDI: Auto insurance guide</a></li>
+          <li><a href="https://content.naic.org/article/consumer-insight-comparing-online-auto-insurance-quotes" target="_blank" rel="noreferrer" style={linkStyle}>NAIC: Comparing online auto insurance quotes</a></li>
+        </ul>
+      </ArticleSection>
+    </ArticleLayout>
   );
 }

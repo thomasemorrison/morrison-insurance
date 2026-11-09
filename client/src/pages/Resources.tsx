@@ -220,11 +220,11 @@ const articles = [
   },
   {
     category: "Auto Insurance",
-    title: "How to Get Car Insurance Quotes in Center, TX",
-    excerpt: "Getting a car insurance quote used to mean sitting across a desk from someone you trusted. In Center, TX, that kind of relationship still exists at Morrison Insurance.",
-    readTime: "5 min read",
+    title: "Car Insurance Quotes in Center, TX: What to Ask Before You Choose",
+    excerpt: "How to request local quote help, understand the written details, compare the options offered, and confirm when coverage starts—without guessing or chasing a price promise.",
+    readTime: "6 min read",
     href: "/resources/car-insurance-quotes-center-tx",
-    image: "/manus-storage/car-insurance-quotes-center-tx_f15f9549.jpg",
+    image: "/manus-storage/car-insurance-quotes-center-tx-portrait_4d76811a.jpg",
   },
   {
     category: "Auto Insurance",

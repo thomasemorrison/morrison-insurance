@@ -190,9 +190,9 @@ export const ARTICLE_META: Record<string, ArticleMeta> = {
     slug: "auto-insurance-center-tx",
   },
   "/resources/car-insurance-quotes-center-tx": {
-    title: "How to Get Car Insurance Quotes in Center, TX | Morrison Insurance",
+    title: "Car Insurance Quotes in Center, TX: What to Ask Before You Choose | Morrison Insurance",
     description:
-      "Looking for car insurance quotes in Center, TX? Morrison Insurance has served Shelby County since 1923. Get a free, no-pressure quote from a local independent agent who knows East Texas.",
+      "Looking for car insurance quotes in Center, TX? Learn how to request local help, understand a quote, compare the options offered, and confirm when coverage starts.",
     image: "/manus-storage/car-insurance-quotes-center-tx-portrait_4d76811a.jpg",
     slug: "car-insurance-quotes-center-tx",
   },
