@@ -1,0 +1,167 @@
+{
+  "status": "eight inactive drafts independently verified; no activation",
+  "brandId": "6256215",
+  "posts": [
+    {
+      "topic": "blood-drive",
+      "channel": "facebook",
+      "id": "422279803",
+      "uuid": "357829597829811006",
+      "publicationDate": {
+        "dateTime": "2026-11-09T16:00:00",
+        "timezone": "America/Chicago"
+      },
+      "draft": true,
+      "autoPublish": false,
+      "providerStatus": "PENDING",
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-6451544163996437200.jpeg"
+      ],
+      "mediaAltText": [
+        "Community information card: Farmers State Bank blood drive, November 12, 10 a.m. to 2:30 p.m., donor coach at 115 Shelbyville Street in Center; appointments preferred and walk-ins welcome."
+      ],
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=357829597829811006"
+    },
+    {
+      "topic": "blood-drive",
+      "channel": "instagram",
+      "id": "422279856",
+      "uuid": "-6957912596591784852",
+      "publicationDate": {
+        "dateTime": "2026-11-09T16:15:00",
+        "timezone": "America/Chicago"
+      },
+      "draft": true,
+      "autoPublish": false,
+      "providerStatus": "PENDING",
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-13144838791544303744.jpeg"
+      ],
+      "mediaAltText": [
+        "Community information card: Farmers State Bank blood drive, November 12, 10 a.m. to 2:30 p.m., donor coach at 115 Shelbyville Street in Center; appointments preferred and walk-ins welcome."
+      ],
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6957912596591784852"
+    },
+    {
+      "topic": "veterans-day",
+      "channel": "facebook",
+      "id": "422279908",
+      "uuid": "-6236106146064544327",
+      "publicationDate": {
+        "dateTime": "2026-11-11T07:30:00",
+        "timezone": "America/Chicago"
+      },
+      "draft": true,
+      "autoPublish": false,
+      "providerStatus": "PENDING",
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-8709354021141044618.jpeg"
+      ],
+      "mediaAltText": [
+        "Joaquin ISD Veterans Day program information: November 11 at 9 a.m. in the high-school gym; public program, followed by a library reception for veterans and their families."
+      ],
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6236106146064544327"
+    },
+    {
+      "topic": "veterans-day",
+      "channel": "instagram",
+      "id": "422279962",
+      "uuid": "2268159231088348603",
+      "publicationDate": {
+        "dateTime": "2026-11-11T07:45:00",
+        "timezone": "America/Chicago"
+      },
+      "draft": true,
+      "autoPublish": false,
+      "providerStatus": "PENDING",
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-14364935422919199533.jpeg"
+      ],
+      "mediaAltText": [
+        "Joaquin ISD Veterans Day program information: November 11 at 9 a.m. in the high-school gym; public program, followed by a library reception for veterans and their families."
+      ],
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=2268159231088348603"
+    },
+    {
+      "topic": "theatre",
+      "channel": "facebook",
+      "id": "422280015",
+      "uuid": "-6604547985089871288",
+      "publicationDate": {
+        "dateTime": "2026-11-14T09:00:00",
+        "timezone": "America/Chicago"
+      },
+      "draft": true,
+      "autoPublish": false,
+      "providerStatus": "PENDING",
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-9904223276442346120.jpeg"
+      ],
+      "mediaAltText": [
+        "Panola College Theatre information card for The Tin Woman: Saturday, November 14, at 3 p.m. and 7 p.m.; Q.M. Martin Auditorium, 1109 W. Panola in Carthage; tickets $15 at the door."
+      ],
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6604547985089871288"
+    },
+    {
+      "topic": "theatre",
+      "channel": "instagram",
+      "id": "422280073",
+      "uuid": "-7177383860927510684",
+      "publicationDate": {
+        "dateTime": "2026-11-14T09:15:00",
+        "timezone": "America/Chicago"
+      },
+      "draft": true,
+      "autoPublish": false,
+      "providerStatus": "PENDING",
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-15102046670624714100.jpeg"
+      ],
+      "mediaAltText": [
+        "Panola College Theatre information card for The Tin Woman: Saturday, November 14, at 3 p.m. and 7 p.m.; Q.M. Martin Auditorium, 1109 W. Panola in Carthage; tickets $15 at the door."
+      ],
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-7177383860927510684"
+    },
+    {
+      "topic": "quote-questions",
+      "channel": "facebook",
+      "id": "422280138",
+      "uuid": "9168817999039841022",
+      "publicationDate": {
+        "dateTime": "2026-11-15T10:00:00",
+        "timezone": "America/Chicago"
+      },
+      "draft": true,
+      "autoPublish": false,
+      "providerStatus": "PENDING",
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-460455529150486738.jpeg"
+      ],
+      "mediaAltText": [
+        "Five questions for comparing car insurance quotes: same drivers, vehicles and use; limits and deductibles; policy period and total cost; exclusions; and details that need verification."
+      ],
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=9168817999039841022"
+    },
+    {
+      "topic": "quote-questions",
+      "channel": "instagram",
+      "id": "422280177",
+      "uuid": "-6616187572406630903",
+      "publicationDate": {
+        "dateTime": "2026-11-15T10:15:00",
+        "timezone": "America/Chicago"
+      },
+      "draft": true,
+      "autoPublish": false,
+      "providerStatus": "PENDING",
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-13799054869810589958.jpeg"
+      ],
+      "mediaAltText": [
+        "Five questions for comparing car insurance quotes: same drivers, vehicles and use; limits and deductibles; policy period and total cost; exclusions; and details that need verification."
+      ],
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6616187572406630903"
+    }
+  ],
+  "existingSchedulePreserved": true
+}

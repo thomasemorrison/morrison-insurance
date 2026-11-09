@@ -346,3 +346,16 @@
 - [ ] Confirm Jackson water-system notice's current status before any public use; do not call the November 4 notice newly issued November 9.
 
 Existing GSC access/current-export and legacy November 9/10 review tasks above remain open. The current GSC dashboard requires sign-in; request access or its current dated exports before November 16, without creating a duplicate report. Add November 11's sales-forward parody to the manual voice review, not an automatic edit. Shared project-change approval remains unverified; no identical configuration suggestion was resubmitted.
+
+
+## November 9 — afternoon social and SEO build
+
+- [x] Recheck the three upcoming community events; create four original information graphics and four complete Facebook/Instagram caption pairs.
+- [x] Save and independently verify eight inactive Morrison Metricool drafts (draft=true, autoPublish=false), preserving all six existing planner rows. Exact records: `content/weekly-social-planner-2026-11-09.json`.
+- [x] Use the newly supplied GSC report to prioritize the 35-impression Center quote query at average position 11.1; prepare the existing quote-page refresh, not another duplicate article. TypeScript, 34 tests, build, XML and local phone/desktop checks passed. Quote refresh remains local/uncommitted/unpushed/unreleased.
+- [x] Assemble `content/weekly-social-and-seo-review-2026-11-09.md`, the readable article review and downloadable graphic bundle; preserve full durable calendar history.
+- [ ] Obtain approval to activate the four new paired draft topics after fresh source/capacity/time checks; retime the Monday reminder if its slot has passed. Drafts are not an active nine-post queue.
+- [ ] Designate a factual reviewer and approve the quote-page refresh before scoped GitHub commit/push, managed sync and actual public release. Verify public metadata/feeds after release; GSC indexing remains unsubmitted.
+- [ ] Complete Tenaha opponent/full-venue and Shelbyville current-schedule facts before releasing the optional five-school carousel; do not publish unverified-status filler cards.
+
+Current plan: nine separately on Facebook and Instagram, including one Thursday fishing reservation each. Existing GBP three and LinkedIn two retained, no new placement. This new screenshot supplies editorial priority but does not restore full GSC access or close query-page/indexing verification. Existing legacy review, water-status and paid-media safeguards remain open and unchanged.
