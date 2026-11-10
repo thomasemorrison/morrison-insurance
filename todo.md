@@ -357,6 +357,18 @@ Existing GSC access/current-export and legacy November 9/10 review tasks above r
 - [x] Activate exactly four approved FB/IG pairs; fresh independent 1:32 PM readback verifies eight schedules, preserved dates/captions/media/alt, draft=false/autoPublish=true/provider PENDING, no duplicates and six legacy rows unchanged.
 - [x] Record Morrison team owner/editorial approval of the quote refresh; preserve visible agency responsibility without fabricating licensed review. Commit/push, managed sync, 34-test/build rerun and release checkpoint completed.
 - [x] Resolve public deployment: fresh 1:45 PM checks after the renewed Publish message pass on both public domains for new title/description/canonical/hero, RSS and sitemap; browser confirms new content and dates. Earlier stale-rollout findings are history, not an ongoing blocker. Indexing remains separate and unsubmitted.
-- [ ] Complete Tenaha opponent/full-venue and Shelbyville current-schedule facts before releasing the optional five-school carousel; do not publish unverified-status filler cards.
+- [x] Resolve whole-carousel gap in the November 10 checks: Tenaha district confirms Friday playoff stadium; SCTTX November 9 supplies Shelbyville's current playoff details with an explicit supplemental-source caveat. All five schools have usable events; Tenaha's separate basketball, Center's unnamed gyms and other incomplete listings remain excluded. Graphics/approval are not complete and no carousel was posted.
 
 Current actual queue: eight separately on Facebook and Instagram; one Thursday fishing reservation each brings the source-gated plan to nine. Existing GBP three and LinkedIn two retained, no new placement. The report supplies editorial priority but does not restore full GSC access or close query-page/indexing verification. Legacy review, water-status and paid-media safeguards remain open and unchanged.
+
+
+## November 10 — Tuesday Content Desk
+
+- [x] Fresh-check all five schools and deliver one neutral carousel-ready handoff in the rotated weekly order; six selected verified listings, Shelbyville's supplemental-source caveat retained, no fabricated results.
+- [x] Complete the dated safety scan; no new publication supported, Jackson water status held, existing burn ban not recast as a new alert.
+- [x] Refresh Metricool per-channel counts at 6:39:50 AM and record both blood-drive posts as provider PUBLISHED without editing any external post.
+- [x] Save `content/content-desk-2026-11-10-tuesday-handoff.md`, the five-school packet and durable calendar addendum.
+- [x] Execute the November 10 9:49 AM approval: build/proof five matching 1080x1350 cards from flattened template references, refresh facts/capacity and schedule Facebook at noon (423340780) and Instagram at 12:15 PM (423340834). Both non-drafts are autoPublish true and independently provider PENDING at 9:58 AM; not yet published. Timpson is JV-only after the current varsity conflict; all five schools remain represented. See `content/five-school-carousel-scheduled-2026-11-10.md` and the final ZIP.
+- [ ] Keep Timpson varsity out of public copy until a current authoritative correction resolves Gary 7:30 PM versus Stanley 5:30 PM. The supported JV Gary 6 PM game is included. Check eventual sports provider delivery in the existing Content Desk, not a new recurring task.
+
+The final 9:58 AM readback has nine known actual placements on each of Facebook and Instagram; today is two each with no routine room left. The separately reserved Thursday fishing pair could make ten each only if its fresh-source gate passes. Legacy 10 AM voice/GBP review and all other standing holds remain unchanged.

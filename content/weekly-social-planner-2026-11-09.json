@@ -1,5 +1,5 @@
 {
-  "status": "eight approved existing drafts activated and independently verified; scheduled PENDING, not published",
+  "status": "eight approved placements preserved: two blood-drive posts provider PUBLISHED; six future posts scheduled PENDING",
   "brandId": "6256215",
   "posts": [
     {
@@ -13,7 +13,7 @@
       },
       "draft": false,
       "autoPublish": true,
-      "providerStatus": "PENDING",
+      "providerStatus": "PUBLISHED",
       "media": [
         "https://static.metricool.com/planner/202611/6256215-file-6451544163996437200.jpeg"
       ],
@@ -30,14 +30,15 @@
           "reason": "Prior inactive draft ID; replaced on approved activation; UUID and planner URL unchanged"
         }
       ],
-      "status": "scheduled; not published",
+      "status": "provider reports published; live rendering/engagement not independently checked",
       "approvedAt": "2026-11-09T13:25:00-06:00",
       "activatedAt": "2026-11-09T13:31:37-06:00",
-      "verifiedAt": "2026-11-09T13:32:05-06:00",
+      "verifiedAt": "2026-11-10T06:32:54-06:00",
       "type": "POST",
       "firstCommentText": "",
       "isAiGenerated": false,
-      "instagramAutoPublish": true
+      "instagramAutoPublish": true,
+      "providerPublicUrl": "https://facebook.com/1540319534463364/posts/1671182204710429"
     },
     {
       "topic": "blood-drive",
@@ -50,7 +51,7 @@
       },
       "draft": false,
       "autoPublish": true,
-      "providerStatus": "PENDING",
+      "providerStatus": "PUBLISHED",
       "media": [
         "https://static.metricool.com/planner/202611/6256215-file-13144838791544303744.jpeg"
       ],
@@ -67,14 +68,15 @@
           "reason": "Prior inactive draft ID; replaced on approved activation; UUID and planner URL unchanged"
         }
       ],
-      "status": "scheduled; not published",
+      "status": "provider reports published; live rendering/engagement not independently checked",
       "approvedAt": "2026-11-09T13:25:00-06:00",
       "activatedAt": "2026-11-09T13:31:39-06:00",
-      "verifiedAt": "2026-11-09T13:32:05-06:00",
+      "verifiedAt": "2026-11-10T06:32:54-06:00",
       "type": "POST",
       "firstCommentText": "",
       "isAiGenerated": false,
-      "instagramAutoPublish": true
+      "instagramAutoPublish": true,
+      "providerPublicUrl": "https://www.instagram.com/p/DfiYbLsoOtB/"
     },
     {
       "topic": "veterans-day",
@@ -514,5 +516,6 @@
     "capacityRule": "Maximum two placements per channel/day, no combined cap",
     "capacityPass": true
   },
-  "executionRecord": "/home/ubuntu/morrison-insurance/content/weekly-social-activation-2026-11-09.md"
+  "executionRecord": "/home/ubuntu/morrison-insurance/content/weekly-social-activation-2026-11-09.md",
+  "latestDeliveryReadbackAt": "2026-11-10T06:32:54-06:00"
 }
