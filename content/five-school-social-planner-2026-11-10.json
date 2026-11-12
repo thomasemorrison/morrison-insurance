@@ -21,7 +21,7 @@
   "facebookTarget": "2026-11-10T12:00:00-06:00",
   "instagramTarget": "2026-11-10T12:15:00-06:00",
   "instagramIsAiGenerated": true,
-  "status": "Two active non-draft schedules independently verified. Provider PENDING; not published yet.",
+  "status": "Both sports posts are provider PUBLISHED as verified November11 06:36:45 CST. This confirms provider delivery, not independently inspected live layout or engagement.",
   "sourceRefresh": {
     "checkedAt": "2026-11-10T09:51:00-06:00",
     "joaquin": "Current district flyer/feed matches; no change observed.",
@@ -69,9 +69,11 @@
       ],
       "providers": [
         {
-          "detailedStatus": "Pending",
+          "detailedStatus": "Published",
+          "id": "131902670236644_1672086277953355",
           "network": "facebook",
-          "status": "PENDING"
+          "publicUrl": "https://facebook.com/1540319534463364/posts/1672086277953355",
+          "status": "PUBLISHED"
         }
       ],
       "publicationDate": {
@@ -123,9 +125,11 @@
       ],
       "providers": [
         {
-          "detailedStatus": "Pending",
+          "detailedStatus": "Published",
+          "id": "https://www.instagram.com/p/DfkiYJjFHWh/",
           "network": "instagram",
-          "status": "PENDING"
+          "publicUrl": "https://www.instagram.com/p/DfkiYJjFHWh/",
+          "status": "PUBLISHED"
         }
       ],
       "publicationDate": {
@@ -164,5 +168,6 @@
       "instagram": 1
     },
     "visibility": "Includes provider placements and returned published posts. No Stories returned. The connector has no separate native-published listing; unseen native posts are not asserted zero."
-  }
+  },
+  "deliveryVerifiedAt": "2026-11-11T06:36:45-06:00"
 }

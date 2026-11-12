@@ -372,3 +372,23 @@ Current actual queue: eight separately on Facebook and Instagram; one Thursday f
 - [ ] Keep Timpson varsity out of public copy until a current authoritative correction resolves Gary 7:30 PM versus Stanley 5:30 PM. The supported JV Gary 6 PM game is included. Check eventual sports provider delivery in the existing Content Desk, not a new recurring task.
 
 The final 9:58 AM readback has nine known actual placements on each of Facebook and Instagram; today is two each with no routine room left. The separately reserved Thursday fishing pair could make ten each only if its fresh-source gate passes. Legacy 10 AM voice/GBP review and all other standing holds remain unchanged.
+
+
+## November 11 — Wednesday safety and delivery follow-up
+
+- [x] Resolve Jackson water-status hold with affirmative submitted November10 rescission of November4 notice; preserve original affected-road scope, not countywide all-clear.
+- [x] Fresh-check channel capacity and prepare full review-only FB/IG handoff; no added same-day placement because both channels2/2. Thursday fallback source/approval/capacity gate retained, fishing reserve separate, potential weekly11 noted.
+- [x] Verify both Nov10 sports providersPUBLISHED and update only the local JSON delivery receipt. Live rendering/engagement not independently inspected.
+- [ ] Team decision on targeted water-update publication: approve any same-day legacy10AM substitution separately, or use next open Thursday slot only after renewed source/capacity check. Nothing posted or scheduled by this run.
+
+
+## November 12 — Thursday Content Desk
+
+- [x] Verify provisional TWDB 6:15 AM 167.73-ft reading and Matthew Loetscher's October 31, 2026 November outlook; distinguish seasonal pointers from a same-day bite report while TPWD weekly reports remain on hold.
+- [x] Use approved supplied PNG unchanged, without attachment re-view or new graphic/video.
+- [x] Schedule Facebook 425631839 and Instagram 425631875 for 10 AM CST under existing permission. Independent 6:36:39 AM readback: exact captions/media/alt, active non-drafts, autoPublish true, provider PENDING—not yet published.
+- [x] Complete safety scan with internal no-new-supported-change/hold; unchanged Jackson scope, no safety post. Record provider-PUBLISHED Veterans Day status locally only.
+- [x] Save full Thursday handoff and append durable calendar. Known weekly ten placements each on Facebook and Instagram; today one of two each with fishing reservation consumed. GBP three/LinkedIn two unchanged.
+- [ ] Check eventual 10 AM fishing provider delivery during the existing Content Desk, not a new recurring monitor.
+
+All prior indexing, Timpson varsity, GBP-image and legacy-review holds remain. Yesterday's unchanged Jackson rescission copy was not approved or scheduled; daily room does not authorize additional publication.

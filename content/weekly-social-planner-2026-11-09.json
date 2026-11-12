@@ -113,7 +113,17 @@
       "type": "POST",
       "firstCommentText": "",
       "isAiGenerated": false,
-      "instagramAutoPublish": true
+      "instagramAutoPublish": true,
+      "providers": [
+        {
+          "detailedStatus": "Published",
+          "id": "1672929354535714",
+          "network": "facebook",
+          "publicUrl": "https://facebook.com/1540319534463364/posts/1672929354535714",
+          "status": "PUBLISHED"
+        }
+      ],
+      "deliveryVerifiedAt": "2026-11-12T06:36:39-06:00"
     },
     {
       "topic": "veterans-day",
@@ -150,7 +160,17 @@
       "type": "POST",
       "firstCommentText": "",
       "isAiGenerated": false,
-      "instagramAutoPublish": true
+      "instagramAutoPublish": true,
+      "providers": [
+        {
+          "detailedStatus": "Published",
+          "id": "https://www.instagram.com/p/DfmntWSlTgI/",
+          "network": "instagram",
+          "publicUrl": "https://www.instagram.com/p/DfmntWSlTgI/",
+          "status": "PUBLISHED"
+        }
+      ],
+      "deliveryVerifiedAt": "2026-11-12T06:36:39-06:00"
     },
     {
       "topic": "theatre",
