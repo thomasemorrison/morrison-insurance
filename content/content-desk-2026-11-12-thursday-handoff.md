@@ -1,21 +1,21 @@
 # Morrison Insurance — Thursday Content Desk
 
-**November 12, 2026 · Completed at approximately 6:38 AM CST**
+**November 12, 2026 · Morning handoff completed; publication confirmed at 8:41:02 AM CST**
 
 ## Completed action
 
-Today's Toledo Bend note is actively scheduled for **10:00 AM Central on both Facebook and Instagram**, under the existing Thursday fishing permission. Both are non-drafts with auto-publish enabled and independently read back as **PENDING at 6:36:39 AM**. This confirms scheduling, not publication. The supplied generic fishing PNG is used unchanged, with accurate alt text; its public bytes match the approved original. No attached image was reopened and no new graphic, overlay or video was generated.
+Today's Toledo Bend note is **published on Facebook and Instagram**, with both providers independently reporting **PUBLISHED at 8:41:02 AM CST**. The user's 8:36 AM “Post them” instruction authorized advancing these same two posts from 10 AM to **8:39 AM** for immediate delivery. Captions, images, alt text, UUIDs and platform settings were preserved; no duplicate or remaining 10 AM fishing post appears in today's readback. Future Thursday 10 AM timing is unchanged. The supplied generic fishing PNG was used unchanged, with accurate alt text; its public bytes matched the approved original. No attached image was reopened and no new graphic, overlay or video was generated.
 
 The note combines today's provisional lake reading with a clearly attributed **November seasonal outlook**, rather than inventing a current bite grade. TPWD still has its weekly reports on hold. The original guide article is dated **October 31, 2026**, not November 1 as a secondary recap said; its November 12 site header is not its publication date. Bass around grass/channel edges and crappie around bridges/timber are seasonal pointers, not claims of conditions observed today. [1] [2] [3]
 
-- [Facebook planner](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-1932028829321441813): ID **425631839**, UUID **-1932028829321441813**, 10:00 AM CST.
-- [Instagram planner](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=2713745874461935848): ID **425631875**, UUID **2713745874461935848**, 10:00 AM CST.
+- [Facebook post](https://facebook.com/1540319534463364/posts/1674035961091720): current Metricool ID **425774615**, UUID **-1932028829321441813**, 8:39 AM CST.
+- [Instagram post](https://www.instagram.com/p/DfpSoPzFbq6/): current Metricool ID **425774641**, UUID **2713745874461935848**, 8:39 AM CST.
 
-The [exact schedule receipt](/home/ubuntu/morrison-insurance/content/fishing-social-planner-2026-11-12.json) retains both complete records, media, captions, status and capacity. Nothing was posted to GBP, LinkedIn or email. No existing post, website, advertisement, trigger or recurring-task setting changed.
+The [exact publication receipt](/home/ubuntu/morrison-insurance/content/fishing-social-planner-2026-11-12.json) retains both complete records, media, captions, status, capacity and original scheduling history. Nothing was posted to GBP, LinkedIn or email. Only these two existing fishing times were advanced; no unrelated post, website, advertisement, trigger or recurring-task setting changed. Provider publication is confirmed; live layout and engagement were not independently inspected.
 
 ## Current per-channel room
 
-Fresh pre-write inventory at **6:35:49 AM** showed **Facebook 0/2** and **Instagram 0/2** today. One Thursday fishing placement was reserved separately on each channel. No existing fishing duplicate or Story was returned. Final readback at **6:36:39 AM** shows:
+Fresh initial inventory at **6:35:49 AM** showed **Facebook 0/2** and **Instagram 0/2** today, with one fishing reservation separately each. The later **8:37:23 AM** pre-update check found the same two pending posts, no additional placement. **8:41:02 AM** publication readback confirms the counts below remain unchanged; the original 10 AM entries were replaced, not duplicated. No Story was returned.
 
 - **Facebook: 1 of 2 daily placements occupied; 1 remaining.** The fishing reservation is now the actual schedule, with zero extra reservation to count.
 - **Instagram: 1 of 2 daily placements occupied; 1 remaining.** The fishing reservation is now the actual schedule, with zero extra reservation to count.
@@ -98,7 +98,7 @@ The [detailed safety-source check](/home/ubuntu/research/content-desk-2026-11-12
 
 Both approved Veterans Day posts are now provider **PUBLISHED** in the fresh inventory; their local receipt was updated without changing any external post. The sports pair is also provider PUBLISHED, as previously recorded. No live rendering or engagement result is claimed from provider status alone.
 
-Monday's quote-page refresh is already live; its separate indexing follow-up remains open. No new SEO, school crawl or rural-market refresh was launched just to fill Thursday. Fishing delivery status can be checked in the existing Content Desk after 10 AM; no new monitor or recurring workflow was created. GBP Friday's approved COI post, unique-photo process and prior manual-review holds are unchanged.
+Monday's quote-page refresh is already live; its separate indexing follow-up remains open. No new SEO, school crawl or rural-market refresh was launched just to fill Thursday. Both fishing providers now report PUBLISHED after the user's one-time immediate-publication instruction; the delivery task is complete, with no second 10 AM pair due. Future Thursday timing remains 10 AM. No new monitor or recurring workflow was created. GBP Friday's approved COI post, unique-photo process and prior manual-review holds are unchanged.
 
 ## Sources
 

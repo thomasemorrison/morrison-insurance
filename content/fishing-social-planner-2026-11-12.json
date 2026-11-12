@@ -2,12 +2,12 @@
   "authorization": "Standing October30 2026 Thursday10AM Central Toledo Bend Facebook/Instagram exception; user-supplied graphic reuse approved November5.",
   "brandId": "6256215",
   "timezone": "America/Chicago",
-  "target": "2026-11-12T10:00:00-06:00",
+  "target": "2026-11-12T08:39:00-06:00",
   "publicationDate": {
-    "dateTime": "2026-11-12T10:00:00",
+    "dateTime": "2026-11-12T08:39:00",
     "timezone": "America/Chicago"
   },
-  "status": "Two active non-draft fishing schedules, independently provider PENDING at06:36:39 CST; not yet published.",
+  "status": "Both providers PUBLISHED; independently confirmed08:41:02 CST. No remaining10AM duplicate.",
   "sourceImage": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663724333063/HiiYWMoCxJcuMnNk.png",
   "mediaAltText": [
     "Blue Toledo Bend Fishing Report graphic with a bass leaping from water and Morrison Insurance branding."
@@ -20,7 +20,7 @@
       "autoPublish": true,
       "brandTags": [],
       "creationDate": {
-        "dateTime": "2026-11-12T06:36:00",
+        "dateTime": "2026-11-12T08:37:00",
         "timezone": "America/Chicago"
       },
       "creatorUserId": 4822283,
@@ -31,7 +31,7 @@
       },
       "firstCommentText": "",
       "hasNotReadNotes": false,
-      "id": 425631839,
+      "id": 425774615,
       "imageVariants": false,
       "instagramData": {
         "autoPublish": true,
@@ -45,13 +45,15 @@
       ],
       "providers": [
         {
-          "detailedStatus": "Pending",
+          "detailedStatus": "Published",
+          "id": "1674035961091720",
           "network": "facebook",
-          "status": "PENDING"
+          "publicUrl": "https://facebook.com/1540319534463364/posts/1674035961091720",
+          "status": "PUBLISHED"
         }
       ],
       "publicationDate": {
-        "dateTime": "2026-11-12T10:00:00",
+        "dateTime": "2026-11-12T08:39:00",
         "timezone": "America/Chicago"
       },
       "saveExternalMediaFiles": false,
@@ -67,7 +69,7 @@
       "autoPublish": true,
       "brandTags": [],
       "creationDate": {
-        "dateTime": "2026-11-12T06:36:00",
+        "dateTime": "2026-11-12T08:38:00",
         "timezone": "America/Chicago"
       },
       "creatorUserId": 4822283,
@@ -75,7 +77,7 @@
       "draft": false,
       "firstCommentText": "",
       "hasNotReadNotes": false,
-      "id": 425631875,
+      "id": 425774641,
       "imageVariants": false,
       "instagramData": {
         "autoPublish": true,
@@ -91,13 +93,15 @@
       ],
       "providers": [
         {
-          "detailedStatus": "Pending",
+          "detailedStatus": "Published",
+          "id": "https://www.instagram.com/p/DfpSoPzFbq6/",
           "network": "instagram",
-          "status": "PENDING"
+          "publicUrl": "https://www.instagram.com/p/DfpSoPzFbq6/",
+          "status": "PUBLISHED"
         }
       ],
       "publicationDate": {
-        "dateTime": "2026-11-12T10:00:00",
+        "dateTime": "2026-11-12T08:39:00",
         "timezone": "America/Chicago"
       },
       "saveExternalMediaFiles": false,
@@ -110,7 +114,7 @@
       "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=2713745874461935848"
     }
   ],
-  "verifiedAt": "2026-11-12T06:36:39-06:00",
+  "verifiedAt": "2026-11-12T08:41:02-06:00",
   "capacity": {
     "verified_at": "2026-11-12T06:36:39-06:00",
     "today_each": {
@@ -247,6 +251,19 @@
         "remaining": 1
       }
     ],
-    "visibility": "Returned published placements included; no Stories returned. Separate native-published listing unavailable; unseen native posts not asserted zero."
-  }
+    "visibility": "Returned published placements included; no Stories returned. Separate native-published listing unavailable; unseen native posts not asserted zero.",
+    "today_reverified_at": "2026-11-12T08:41:02-06:00"
+  },
+  "history": [
+    {
+      "previousTarget": "2026-11-12T10:00:00-06:00",
+      "previousIds": [
+        425631839,
+        425631875
+      ],
+      "previousStatus": "Two active non-draft fishing schedules, independently provider PENDING at06:36:39 CST; not yet published.",
+      "authorization": "User: Post them. November12 08:36:54 CST. One-time advance of these existing posts only."
+    }
+  ],
+  "immediatePublicationAuthorization": "November12 08:36:54 CST user instruction: Post them. Future Thursday10AM timing remains unchanged."
 }

@@ -389,6 +389,6 @@ The final 9:58 AM readback has nine known actual placements on each of Facebook 
 - [x] Schedule Facebook 425631839 and Instagram 425631875 for 10 AM CST under existing permission. Independent 6:36:39 AM readback: exact captions/media/alt, active non-drafts, autoPublish true, provider PENDING—not yet published.
 - [x] Complete safety scan with internal no-new-supported-change/hold; unchanged Jackson scope, no safety post. Record provider-PUBLISHED Veterans Day status locally only.
 - [x] Save full Thursday handoff and append durable calendar. Known weekly ten placements each on Facebook and Instagram; today one of two each with fishing reservation consumed. GBP three/LinkedIn two unchanged.
-- [ ] Check eventual 10 AM fishing provider delivery during the existing Content Desk, not a new recurring monitor.
+- [x] Execute the user's 8:36 AM “Post them” instruction by advancing the same two fishing posts to 8:39 AM CST. New IDs Facebook425774615/Instagram425774641, unchanged UUIDs, copy and media. Both providers PUBLISHED with public URLs at the 8:41:02 AM readback; no remaining 10 AM duplicates. Future Thursday10AM schedule unchanged.
 
 All prior indexing, Timpson varsity, GBP-image and legacy-review holds remain. Yesterday's unchanged Jackson rescission copy was not approved or scheduled; daily room does not authorize additional publication.
