@@ -12,11 +12,26 @@ Call the series **Rural Ag Report**, with **Shelby County & Deep East Texas** as
 
 Choose one main rural topic. Add one short garden note when it is timely and well supported. Cattle, timber and gardening do not all need a section every week. Rotate subjects according to genuine usefulness rather than filling a template.
 
-**Cattle:** Offer a brief explanation of a verified market direction or a basic question relevant to a small herd. When discussing auction activity, cite the latest USDA AMS Texas Weekly Cattle Auction Summary and name its covered week. Explain that a statewide summary is not the price a local seller will receive. Keep the report's detailed classes, weights and units in internal research, not a public price table. Do not predict prices or recommend buying or selling. [8]
+**Cattle:** Lead with the seller's question: are prices favorable, softer or about unchanged for the kind of feeder cattle the report covers? Give a plain-language answer supported by the latest USDA AMS Texas Weekly Cattle Auction Summary and an appropriate comparison, not just a list of movements. Name the covered week. A softer week is not automatically a historically poor market, and a rise is not automatically a strong market. Keep detailed classes, weights and units in internal research, not a public price table. A statewide summary is not a local offer; do not predict prices or recommend buying or selling. [8]
 
-**Timber:** Explain one small-landowner question in everyday language. Use Texas A&M Forest Service resources. Its Timber Price Trends series reports periods longer than a week; check the actual release and covered months before describing a change. If there is no newer report, omit a price update. A separately sourced, evergreen woodland-care topic is still possible, but do not repeat old prices as fresh news. Do not suggest a tract value, logging return or timber-harvest decision. [9]
+**Timber:** Answer “How are timber prices for a landowner selling trees?” using Texas A&M Forest Service evidence. Keep pine sawtimber, chip-n-saw and pulpwood separate internally; one product's improvement does not establish that all timber is doing well. Use standing-tree prices for this landowner question, not delivered-log prices. The report periods are longer than a week; name the actual release's covered months. If no current evidence supports a verdict, say so or omit the price update, rather than defaulting to “not great” or “looking good.” Do not suggest a tract value, logging return or timber-harvest decision. [9] [10]
 
 **Gardening:** Share a small, seasonal preparation, planting or harvest point that fits local conditions. Start with Texas A&M AgriLife and Shelby County Extension; use crop-specific Texas guidance for fruit topics. A short planning question or soil-preparation tip can be more helpful than a long crop calendar. Verify any planting window, variety, harvest sign or pruning recommendation before including it. [1] [2] [3] [4]
+
+## The seller's plain-language answer
+
+Open a market item with a short verdict, then one sentence explaining why and naming the comparison period. These are **conditional wording examples**, not today's market assessment or instructions to sell:
+
+- **“Not great for sellers.”** Use only when current evidence shows an unfavorable price level against a stated, relevant benchmark. For a weekly decline without that wider context, say **“A softer week for sellers”** instead.
+- **“About the same as the last report.”** Use when comparable evidence shows little change. **“About the same as it's been for years”** needs a verified multi-year comparison—not just two reports or personal impressions.
+- **“Looking better for sellers.”** Use for supported improvement while acknowledging any still-weak historical level. Reserve **“Looking good for sellers”** for evidence of a favorable level, not simply one upward movement.
+- **“Mixed—better for sawtimber, still weak for pulpwood.”** Use only if both parts are supported. If current evidence is missing, say **“No fresh price read yet”** rather than forcing a verdict.
+
+Keep the underlying checks internal: comparable cattle classes or timber products, the same geography and price basis, report dates, recent direction and the longer-term level when needed. State what “same,” “better” or “weak” is compared with. Do not invent a scoring formula or present an editorial judgment as a quoted source statement.
+
+The Piney Woods audience deserves genuine good news when it appears. Look for supported improvements in standing-timber prices and credible buyer or mill-demand information. Distinguish an encouraging signal from a sustained recovery; a single mill announcement or better month does not prove that landowners are receiving strong prices. Do not adopt the user's long-downturn impression as a historical fact without checking the relevant series. Share supported optimism warmly, with no promise that prices or activity will keep rising.
+
+The public purpose remains useful local information. Morrison's potential growth in truck or business accounts is internal business context, not a caption angle, insurance pitch or reason to overstate a recovery.
 
 ## Temperature, soil and almanacs
 
@@ -67,3 +82,4 @@ After the first four published reports, review useful local responses, shares, s
 [7]: https://www.farmersalmanac.com/calendar/gardening "Farmers' Almanac — Gardening calendar and method"
 [8]: https://mymarketnews.ams.usda.gov/viewReport/1955 "USDA AMS — Texas Weekly Cattle Auction Summary"
 [9]: https://tfsweb.tamu.edu/forest-land/forest-industry-economics/timber-price-trends/ "Texas A&M Forest Service — Timber Price Trends"
+[10]: https://tfsweb.tamu.edu/forest-land/forest-industry-economics/timber-price-trends/timber-price-trends-frequently-asked-questions/ "Texas A&M Forest Service — Standing-tree versus delivered timber prices"

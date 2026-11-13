@@ -413,3 +413,16 @@ Existing GSC/indexing, Timpson varsity, GBP image and legacy voice/caption revie
 - [x] Update the series standard, Friday draft and social guide; remove the technical price captions/card while preserving raw source evidence internally and the withdrawn burn-ban announcement.
 - [x] Update the one existing Unified Content Desk instruction in place and read it back: still active, weekdays 6:30 AM America/Chicago, same thread/connectors and unchanged narrow publishing permissions.
 - [ ] Prepare future garden notes with crop-specific, locally relevant sources, current conditions, an approved photo and normal capacity/approval checks. No new rural post, standing publisher, email or recurring task was authorized.
+
+
+## November 13 — seller-outlook clarification
+
+- [x] Make market items answer whether prices are favorable for the seller, with a short supported verdict/reason and a stated comparison; distinguish improvement from a strong historical level.
+- [x] Revise the held cattle captions to the supported softer-week USDA observation, without declaring a historically poor market or adding price grids.
+- [x] Check usable official timber evidence: no current seller verdict/recovery claim supported; retain the source/access limits rather than force optimism, pessimism or “unchanged.”
+- [x] Preserve Boles Feed as an internal future collaboration idea, not a public customer reference, endorsement, partnership or contact authorization.
+- [x] Refine the one existing Friday Content Desk instruction and read it back, preserving timing, accounts, thread and publication permissions.
+- [ ] In future rural reports, seek usable comparable timber/cattle evidence before assigning a seller verdict; claim long-term stagnation or recovery only when supported. No separate price monitor is created.
+- [ ] Consider a Boles Feed collaboration only after genuine series engagement and a separately approved scope/consent; no outreach or public relationship statement is authorized now.
+
+Existing gardening, fire-safety, image, posting, SEO, GBP and other holds are unchanged. No new social post or external contact was made.

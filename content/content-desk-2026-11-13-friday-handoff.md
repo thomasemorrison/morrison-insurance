@@ -50,17 +50,19 @@ This item is **outside the automatic NWS publisher's scope**. No source contact,
 
 **Revised after the user's November 13, 9:30–9:32 AM direction:** write for neighbors with a few feeder cattle, a small timber tract or a backyard garden. The technical market captions and three-row price card are withdrawn. Detailed cattle rows remain in internal source files, not public copy. The series standard now includes locally grounded gardening notes; no garden planting date is recommended in this handoff.
 
+**Seller-focus clarification, 9:40 AM:** lead market items with a supported answer to “How are prices for the seller?” Distinguish the recent direction from whether the overall level is favorable. This draft supports “a softer week for sellers” for the dated USDA period, not an unverified conclusion that cattle prices are historically poor. Timber optimism is welcome only when seller-level evidence supports it; a current recovery or years-long stagnation is not asserted. Boles Feed remains a private potential-collaboration idea, not a partner announcement or a public customer reference.
+
 USDA's latest verified PDF at the morning check was published November 6 and covered November 1–7. It reported feeder steers and heifers mostly lower than the previous week, with some exceptions. This is statewide context, not a Shelby County offer or a price for an individual animal. A November 13 release was not yet verified; refresh the source before any later use. The listing and current PDF disagreed on the latest period, so this draft uses the PDF's own dated period. [5] [8]
 
-No newer East Texas timber report was verified in the morning check. Do not repeat old values. A separately sourced basic woodland-care question can be considered in a future report rather than making every week a price update. [6]
+No newer East Texas timber report was verified. The targeted seller-outlook check also could not obtain usable price figures from the latest verified July–August issue. There is not enough evidence here to call today's timber prices weak, unchanged or favorable, or claim recovery. Do not mistake this data gap for a negative market verdict. A separately supported garden or woodland-care topic can be considered instead of forcing a price story. Evidence: `/home/ubuntu/research/content-desk-2026-11-13/seller-timber-outlook-evidence.md`. [6]
 
 ### Facebook — basic review draft, held
 
-Raising a few feeder cattle in Shelby County? USDA's latest verified Texas auction summary covers November 1–7 and was published November 6. It reported feeder steers and heifers mostly lower than the previous week, with some exceptions.
+A softer week for cattle sellers in the latest verified Texas report. USDA's November 1–7 summary, published November 6, said feeder steers and heifers were mostly lower than the previous week, with some exceptions.
 
-That is a statewide snapshot, not a price for your cattle or advice about when to sell.
+That tells us the week was softer—not that today's prices are necessarily poor compared with past years. It is a statewide snapshot, not a Shelby County offer or advice about when to sell.
 
-The Rural Ag Report will keep things simple: useful cattle and small-woodland context, plus seasonal garden notes that fit our area. Which would you like to see more of—small-herd basics, caring for a few acres of trees, or backyard gardening?
+Which seller question would you like the Rural Ag Report to tackle next: feeder cattle or standing timber?
 
 USDA source: https://www.ams.usda.gov/mnreports/ams_1955.pdf
 
@@ -68,11 +70,11 @@ USDA source: https://www.ams.usda.gov/mnreports/ams_1955.pdf
 
 ### Instagram — basic review draft, held
 
-A few feeder cattle, a small tract of trees or a backyard garden—rural life does not have to be a big operation.
+A softer week for cattle sellers—not automatically a poor market overall.
 
-USDA's November 1–7 Texas cattle summary reported feeder steers and heifers mostly lower, with some exceptions. It is a statewide snapshot, not a local offer or selling advice.
+USDA's November 1–7 Texas summary, published November 6, reported feeder steers and heifers mostly lower than the prior week, with some exceptions. That is a statewide snapshot, not a local offer or advice about when to sell.
 
-Which Rural Ag Report topic would help you most: cattle basics, small-woodland care or garden notes?
+Which seller question should come next: feeder cattle or standing timber?
 
 #ShelbyCountyTX #DeepEastTexas
 
