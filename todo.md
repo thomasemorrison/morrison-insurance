@@ -402,6 +402,14 @@ All prior indexing, Timpson varsity, GBP-image and legacy-review holds remain. Y
 - [x] Refresh 6:36 AM per-channel inventory: today Facebook/Instagram one each with one daily slot remaining; week ten each, fishing reservation consumed. Preserve pending COI promotions and published fishing pair.
 - [x] Follow the user's November 13 9:27 AM caution: withdraw the lifting-related public copy and expired placement recommendation. Do not promote this lifting announcement, including through a link preview; preserve source verification internally. No social post or schedule was created, changed or canceled.
 - [ ] Only if later requested and explicitly approved, use a fresh-checked caution-only Firefighters Association draft with no lifting discussion, court-motive speculation or unverified weather measurements. Current revised copy is held, with no replacement posting time. Image and per-channel capacity gates remain.
-- [ ] Keep Rural Market Note held behind material safety priority and missing approved real rural photo; update all source dates/figures/card if a newer USDA release appears. No pilot engagement outcome claimed.
+- [ ] Keep the basic Rural Ag Report draft held behind material safety priority and missing approved local photo. Refresh any dated trend before future use; the three-class price grid and technical card are withdrawn under the 9:30–9:32 AM direction. No pilot engagement outcome claimed.
 
 Existing GSC/indexing, Timpson varsity, GBP image and legacy voice/caption review items remain unchanged. The Friday safety/market drafts have no automatic publication permission; no new task, monitor, email or configuration change was created.
+
+## November 13 — basic Rural Ag Report direction
+
+- [x] Adapt the series for small-herd owners, small timber-tract owners and backyard gardeners; cattle/timber stay high-level, with one main topic and an optional seasonal garden note.
+- [x] Check local Extension, USDA zone definitions and both almanacs; distinguish frost/soil guidance from optional moon tradition. No county-wide soil type or crop date was guessed.
+- [x] Update the series standard, Friday draft and social guide; remove the technical price captions/card while preserving raw source evidence internally and the withdrawn burn-ban announcement.
+- [x] Update the one existing Unified Content Desk instruction in place and read it back: still active, weekdays 6:30 AM America/Chicago, same thread/connectors and unchanged narrow publishing permissions.
+- [ ] Prepare future garden notes with crop-specific, locally relevant sources, current conditions, an approved photo and normal capacity/approval checks. No new rural post, standing publisher, email or recurring task was authorized.

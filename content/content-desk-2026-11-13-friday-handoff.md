@@ -1,10 +1,10 @@
 # Morrison Insurance — Friday Content Desk
 
-**Editorial revision: November 13, 2026, following the user's 9:27 AM direction. No new post, draft, import or schedule created. Capacity and source observations below remain the dated 6:36 AM snapshot, not a fresh posting check.**
+**Editorial revisions: November 13, 2026, following the user's 9:27 AM fire-safety direction and 9:30–9:32 AM Rural Ag Report direction. No new post, draft, import or schedule created. Capacity and source observations below remain the dated 6:36 AM snapshot, not a fresh posting check.**
 
 **The earlier lifting-related captions and same-day placement recommendation are withdrawn.** Morrison will not distribute the current burn-ban lifting announcement or frame it as permission or encouragement to burn. Any later public draft must focus on the firefighters' request to postpone burning, omit the lifting and legal-status discussion, and receive fresh fact/image/capacity checks and explicit approval. Do not speculate about pressure on the court or its motives. Nothing in this reply authorizes publication. The private source notes below are retained as history, not public copy.
 
-The newer USDA cattle PDF covers **November 1–7**, published **November 6**, not this week's sales. It supports a dated cattle-only review draft. **No new public East Texas timber report this week.** The market note stays held: safety takes priority, an approved real rural photograph has not been established, and this week's existing plan already has ten placements on each of Facebook and Instagram. [5] [6]
+The newer USDA cattle PDF covers **November 1–7**, published **November 6**, not this week's sales. It supports a basic, dated cattle-context draft, without technical price rows. **No new public East Texas timber report this week.** The market note stays held: safety takes priority, an approved real rural photograph has not been established, and this week's existing plan already has ten placements on each of Facebook and Instagram. [5] [6]
 
 ## Fire-safety source context — internal only
 
@@ -44,90 +44,45 @@ Source: Shelby County Firefighters Association notice, published by Shelby Count
 
 **Image direction if later approved:** a rights-cleared real local photograph with the calm central message “A brush pile can wait.” No lifting announcement, court graphic, permission-to-burn implication, flames, fear imagery or weather measurements without verification. No graphic or attached image was created in this revision.
 
-This item is **outside the automatic NWS publisher's scope**. No source contact, phone call, social post or automation change was made. If approved, it displaces the Rural Market Note opportunity rather than adding both items today.
+This item is **outside the automatic NWS publisher's scope**. No source contact, phone call, social post or automation change was made. If approved, it displaces the Rural Ag Report opportunity rather than adding both items today.
 
-## Rural Market Note — cattle-only draft, held
+## Rural Ag Report — basic cattle context, held
 
-USDA's official current PDF now shows the Texas Weekly Cattle Auction Summary published **Friday November 6, 2026**, covering **November 1–7, 2026**. It says feeder steers and heifers were mostly **$4–$10 lower** than its prior week, with exceptions for some weaned stocker heifers. Do not say every class or Shelby County price fell. A November 13 release was not verified in this early check. [5]
+**Revised after the user's November 13, 9:30–9:32 AM direction:** write for neighbors with a few feeder cattle, a small timber tract or a backyard garden. The technical market captions and three-row price card are withdrawn. Detailed cattle rows remain in internal source files, not public copy. The series standard now includes locally grounded gardening notes; no garden planting date is recommended in this handoff.
 
-Three exact **FEEDER CATTLE / Medium and Large 1 / Per Cwt / Actual Wt** rows are selected, excluding separately marked Fancy, Unweaned, Full or Replacement rows:
+USDA's latest verified PDF at the morning check was published November 6 and covered November 1–7. It reported feeder steers and heifers mostly lower than the previous week, with some exceptions. This is statewide context, not a Shelby County offer or a price for an individual animal. A November 13 release was not yet verified; refresh the source before any later use. The listing and current PDF disagreed on the latest period, so this draft uses the PDF's own dated period. [5] [8]
 
-- **Steers, 500–545 lb: $350.00–$430.00/cwt.** Page 1.
-- **Heifers, 500–541 lb: $320.00–$376.00/cwt.** Page 3.
-- **Steers, 600–648 lb: $325.00–$387.50/cwt.** Page 1.
+No newer East Texas timber report was verified in the morning check. Do not repeat old values. A separately sourced basic woodland-care question can be considered in a future report rather than making every week a price update. [6]
 
-These are Texas-wide auction ranges in dollars per hundredweight on an actual-weight basis. No invented average, merged grade, rounded weight band or local offer is presented. [5]
+### Facebook — basic review draft, held
 
-**Source discrepancy:** the USDA latest-release landing page still labels October 25–31, published October 30, while the official current PDF header and covered-week line show November 6 and November 1–7. The draft uses the PDF's actual dates and values together, not a mixture. A dated copy of the retrieved PDF is saved because the public current-report URL may change. Recheck immediately before approval or scheduling on release Friday and replace the period, narrative, all values and card together if a newer release is posted. [5] [8]
+Raising a few feeder cattle in Shelby County? USDA's latest verified Texas auction summary covers November 1–7 and was published November 6. It reported feeder steers and heifers mostly lower than the previous week, with some exceptions.
 
-Texas A&M Forest Service's official bi-monthly index and archives still identify **July–August 2026** as newest; no September–October or later release was verified. No older timber values or paid TimberMart figures are reproduced. [6]
+That is a statewide snapshot, not a price for your cattle or advice about when to sell.
 
-### Facebook — review-ready market copy
+The Rural Ag Report will keep things simple: useful cattle and small-woodland context, plus seasonal garden notes that fit our area. Which would you like to see more of—small-herd basics, caring for a few acres of trees, or backyard gardening?
 
-For Shelby County neighbors following cattle markets, USDA's latest verified Texas summary covers November 1–7 and was published November 6. Feeder steers and heifers were mostly $4–$10 lower than the report's prior week, with exceptions for some weaned stocker heifers.
+USDA source: https://www.ams.usda.gov/mnreports/ams_1955.pdf
 
-Three reported feeder-cattle ranges, all Medium and Large 1, in dollars per hundredweight:
+#ShelbyCountyTX #DeepEastTexas
 
-Steers, 500–545 lb: $350–$430.
-Heifers, 500–541 lb: $320–$376.
-Steers, 600–648 lb: $325–$387.50.
+### Instagram — basic review draft, held
 
-These are Texas-wide auction ranges, not Shelby County offers or a price for a particular animal. Market snapshot—not a quote.
+A few feeder cattle, a small tract of trees or a backyard garden—rural life does not have to be a big operation.
 
-No new public East Texas timber report this week.
+USDA's November 1–7 Texas cattle summary reported feeder steers and heifers mostly lower, with some exceptions. It is a statewide snapshot, not a local offer or selling advice.
 
-Which would be useful to unpack next: the cattle-class labels or the price units?
+Which Rural Ag Report topic would help you most: cattle basics, small-woodland care or garden notes?
 
-USDA report: https://www.ams.usda.gov/mnreports/ams_1955.pdf
+#ShelbyCountyTX #DeepEastTexas
 
-#ShelbyCountyTX #DeepEastTexas #TexasCattle
+**Caption source:** USDA [5], published November 6. No detailed price table, cattle-class grid or timber-price graphic accompanies these captions. Recheck the source before posting; do not carry this dated trend forward as a new week's result.
 
-### Instagram — review-ready market copy
+### Simple image and placement gate
 
-Texas cattle snapshot · November 1–7
-USDA AMS publication: November 6.
+Use a rights-cleared local pasture, small woodland or garden image with a short **RURAL AG REPORT** heading and, optionally, **Shelby County & Deep East Texas** underneath. A 4:5 image is preferred, but a dense data panel is not needed. A suitable approved photo is still unresolved; no new graphic has been created. Write accurate alt text only after selecting the actual image.
 
-Reported feeder cattle, Medium and Large 1, in dollars per hundredweight:
-
-Steers 500–545 lb: $350–$430.
-Heifers 500–541 lb: $320–$376.
-Steers 600–648 lb: $325–$387.50.
-
-Texas-wide auction ranges—not Shelby County offers. Market snapshot—not a quote.
-
-No new public East Texas timber report this week.
-
-Which needs a plain-language explanation: cattle classes or price units?
-
-#ShelbyCountyTX #DeepEastTexas #TexasCattle
-
-**Caption sources:** USDA [5] and Forest Service [6]. The direct USDA link accompanies the Instagram handoff, not a promise of a clickable caption.
-
-### Market image and card gate
-
-Use a **real, rights-cleared Deep East Texas pasture, rural fence or pine-edge photo**, with a simple readable **1080 × 1350, 4:5** data panel. No approved matching real rural photo has been established in the reviewed records. An illustration or generic stock scene is not substituted. **Creative is not production-ready.** No image was generated or old attachment reopened.
-
-Exact card text for review:
-
-> DEEP EAST TEXAS RURAL MARKET NOTE
->
-> TEXAS AUCTION SUMMARY · NOV. 1–7, 2026
->
-> FEEDER CATTLE · MEDIUM AND LARGE 1
->
-> Steers · 500–545 lb · $350–$430/cwt
->
-> Heifers · 500–541 lb · $320–$376/cwt
->
-> Steers · 600–648 lb · $325–$387.50/cwt
->
-> USDA AMS · Published Nov. 6, 2026
->
-> MARKET SNAPSHOT—NOT A QUOTE
-
-No timber-price card, coverage message, price forecast, sale advice or harvest recommendation. Write photo-specific alt text only after the actual photo is selected.
-
-**Placement decision:** hold; no additional date/time recommended for this market draft. Fire guidance takes today's review priority, the rural image is unresolved, and this week's existing Facebook/Instagram plan already meets the top of its 7–10 target. Do not move these numbers into next week unchanged. If a later source and image refresh supports the note, select it within that week's useful mix and fresh per-channel capacity; approval is still required. Daily spare room is not a reason to add both drafts.
+**Placement decision remains held.** No additional date/time is recommended: this week's plan already has ten known placements on each of Facebook and Instagram, the image is unresolved, and safety takes review priority. This editorial direction does not approve a post. Fresh source, image, per-channel capacity and explicit scheduling approval are still required.
 
 ## Current capacity and this week's actual mix
 
@@ -137,7 +92,7 @@ Metricool brand **6256215 — Morrison Insurance**, timezone **America/Chicago**
 
 **Week of November 9–15:** the known plan is **10 Facebook placements and separately 10 Instagram placements**, including provider-PUBLISHED posts already delivered. Monday, Tuesday and Wednesday each have two per channel; Thursday has one; Friday, Saturday and Sunday each have one. The mix includes community blood-drive and Veterans Day notices, the one five-school carousel, yesterday's one Toledo Bend note, COI education, Saturday's theatre outing and Sunday's quote-question card, alongside existing legacy posts. Neither sports nor fishing is duplicated. No filler is needed.
 
-No extra safety placement or routine-post substitution is recommended in this revision. No existing post is moved, canceled or edited. Both the revised caution drafts and Rural Market Note remain held; the weekly target and daily spare room are not publication authority.
+No extra safety placement or routine-post substitution is recommended in this revision. No existing post is moved, canceled or edited. Both the revised caution drafts and Rural Ag Report remain held; the weekly target and daily spare room are not publication authority.
 
 Thursday's fishing reservation is fully consumed by the actual published pair; **zero extra reserved placements** are counted. Next Thursday's separate reservation belongs to next week's plan, not today's totals. GBP has **three known weekly placements**, including two published legacy posts and today's pending COI Update; LinkedIn has **two legacy published placements**. No new GBP or LinkedIn candidate is added, given their lighter up-to-two weekly review planning and unchanged approval/manual gates. Prior legacy voice and GBP-caption concerns remain team-review items, not implied edit/deletion authority.
 
@@ -149,7 +104,7 @@ Jackson's November 4 boil-water notice remains rescinded effective November 10 f
 
 Both fishing posts remain provider **PUBLISHED** in today's readback: Facebook **425774615** and Instagram **425774641**, at yesterday's user-requested **8:39 AM**, with no second 10 AM pair. Future Thursday timing remains 10 AM; no workflow was changed. The COI Facebook/Instagram/GBP promotions are **PENDING**, scheduled—not yet published. This run does not claim their live rendering or the future GBP body/button behavior is verified.
 
-No source contact, automatic email, new task, Trigger, recurring setting, website code/deployment, paid-media change or external social action was made. This Rural Market Note is a review candidate, not another published pilot installment. No engagement result is invented. The safety conflict and source/rights gates remain in this same Content Desk.
+No source contact, automatic email, new task, Trigger, website code/deployment, paid-media change or external social action was made. The existing Content Desk instruction was revised in place for the basic Rural Ag Report and current fire-safety restriction; its timing, destinations and publication permissions stay unchanged. This Rural Ag Report is a review candidate, not another published pilot installment. No engagement result is invented. The safety conflict and source/rights gates remain in this same Content Desk.
 
 ## References
 

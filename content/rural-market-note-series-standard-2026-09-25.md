@@ -1,85 +1,69 @@
-# Morrison Insurance — Rural Market Note Series Standard
+# Morrison Insurance — Rural Ag Report
 
-**Adopted:** September 25, 2026  
-**Status:** Review-ready production standard; no post is scheduled or published by this document.
+**Revised November 13, 2026.** This replaces the public-facing Rural Market Note format adopted September 25. The existing Friday Content Desk remains the only recurring home for the series. Materials are review-ready; this direction does not authorize automatic publication.
 
-## Decision
+## Who the report helps
 
-Add one **Rural Market Note** lane to the existing **Morrison Insurance — Unified Content Desk**. It is not a new schedule, task, email, or automatic publishing process.
+Write for Shelby County neighbors who raise a few feeder cattle, maintain a small tract of trees, or tend a backyard garden. They need useful, understandable information—not a commercial market bulletin. Keep cattle and timber coverage basic and high-level. No cattle-class price grids, technical timber-price cards, commodity dashboards or investment-style commentary.
 
-The series serves people who live and work around timberland, cattle, and rural property in Shelby County and Deep East Texas. It shares plainly sourced market context—not a price promise, selling advice, farm valuation, insurance pitch, or prediction.
+Call the series **Rural Ag Report**, with **Shelby County & Deep East Texas** as an optional small subtitle. Lead with the reader's question or a practical seasonal point, never the agency. An insurance pitch does not belong in this series.
 
-> **Cadence rule:** cattle information may be refreshed weekly; timber information is refreshed only when a new source report is issued. A weekly post must never make an older timber figure look like a new weekly timber price.
+## What goes into a report
 
-## Why the cadence must differ
+Choose one main rural topic. Add one short garden note when it is timely and well supported. Cattle, timber and gardening do not all need a section every week. Rotate subjects according to genuine usefulness rather than filling a template.
 
-| Market input | Primary source | Actual update rhythm | How it may appear in the series |
-|---|---|---|---|
-| Texas cattle auction activity | [USDA AMS Texas Weekly Cattle Auction Summary](https://mymarketnews.ams.usda.gov/viewReport/1955) | Weekly, released Friday after covered sales | A weekly, date-stamped Texas market snapshot. |
-| East Texas timber | [Texas A&M Forest Service — Timber Price Trends](https://tfsweb.tamu.edu/forest-land/forest-industry-economics/timber-price-trends/) | Bi-monthly | A new-report update only, clearly labeled with the covered months and report publication date. |
-| Texas timber context | [TimberMart-South Texas state averages](https://timbermart-south.com/resources/state-stumpage-prices/texas/) | Quarterly; the public page showed July 7, 2026 as its last update and October 15, 2026 as the next update when reviewed | Supplemental context only. Use only public figures or information specifically authorized for reuse; do not reproduce a paid report or make it appear county-specific. |
+**Cattle:** Offer a brief explanation of a verified market direction or a basic question relevant to a small herd. When discussing auction activity, cite the latest USDA AMS Texas Weekly Cattle Auction Summary and name its covered week. Explain that a statewide summary is not the price a local seller will receive. Keep the report's detailed classes, weights and units in internal research, not a public price table. Do not predict prices or recommend buying or selling. [8]
 
-Texas A&M Forest Service says its East Texas timber averages are based on actual timber sales reported by up to 60 cooperating market participants and weighted by volume sold. TimberMart-South states that its reported values are averages, not absolute lows or highs, and individual markets vary. USDA’s report is a Texas-wide weighted auction summary, with prices tied to reported grade, weight, head count, and sale conditions. These are useful indicators, but they are not a local offer, appraisal, harvest quote, or expected result for any individual producer or landowner.
+**Timber:** Explain one small-landowner question in everyday language. Use Texas A&M Forest Service resources. Its Timber Price Trends series reports periods longer than a week; check the actual release and covered months before describing a change. If there is no newer report, omit a price update. A separately sourced, evergreen woodland-care topic is still possible, but do not repeat old prices as fresh news. Do not suggest a tract value, logging return or timber-harvest decision. [9]
 
-## Friday Content Desk workflow
+**Gardening:** Share a small, seasonal preparation, planting or harvest point that fits local conditions. Start with Texas A&M AgriLife and Shelby County Extension; use crop-specific Texas guidance for fruit topics. A short planning question or soil-preparation tip can be more helpful than a long crop calendar. Verify any planting window, variety, harvest sign or pruning recommendation before including it. [1] [2] [3] [4]
 
-The Friday Content Desk run completes the normal material-safety scan first. It then performs the Rural Market Note check.
+## Temperature, soil and almanacs
 
-1. **Cattle:** Open the latest USDA AMS Texas Weekly Cattle Auction Summary; record its publication date and covered week. Use its plain-English weekly direction and no more than three clearly labeled classes or ranges. Keep grade, weight range, unit, and source visible.
-2. **Timber:** Check whether Texas A&M Forest Service has issued a new bi-monthly report since the last Rural Market Note. If a new report exists, use only the exact East Texas figure(s), product definition(s), units, covered months, and source link shown in that report. If there is no new report, write either **“No new public East Texas timber report this week”** or omit the timber card; do not repeat a stale price as current.
-3. **Editorial gate:** State that the information is a market snapshot, not a quote or recommendation. Do not speculate about next week’s prices, demand, harvest timing, cattle buying/selling, timber value, or insurance needs.
-4. **Capacity gate:** Before any date or time is recommended, check Metricool’s total cross-network count for that day. Respect the three-placement daily limit. The Rural Market Note occupies the existing third weekly feed opportunity; it never creates a fourth weekly placement. A material public-safety alert replaces it rather than adds to it.
-5. **Approval gate:** Produce review-ready copy only. Do not schedule, publish, create an import, send email, or contact a market source without current-task Morrison approval.
+A USDA hardiness zone describes average winter cold. It does not identify soil type or provide this week's planting date. Do not give the whole county one soil classification or assume every yard shares identical conditions. For annual vegetables, use locally relevant frost windows, the current forecast and actual soil conditions. For soil amendments, point readers toward a soil test rather than prescribing a blanket lime or fertilizer rate. [1] [5] [6]
 
-## Required source and copy standards
+The **Old Farmer's Almanac** has a Center, Texas 75935 planting calendar based on local average frost timing. It can supplement Extension guidance, but the dates are starting windows, not guarantees. Distinguish indoor seed starting, transplanting and planting seeds directly outdoors. Check the current year and the individual crop row before quoting a date. Do not reproduce an entire copyrighted calendar or chart. [5]
 
-### Cattle data
+**Farmers' Almanac** is a different publication. Its general gardening calendar uses moon phases and positions and says its listed dates apply across growing zones. If mentioned, label this as gardening tradition—not proven local planting advice or a yield promise. Do not turn a broad recommendation for “Texas” into a Center-specific instruction. Local frost and soil guidance takes priority; neither almanac replaces official weather or safety information. [7]
 
-- Use the latest USDA report only; cite the direct report URL.
-- Lead with the **covered week** and the report’s stated comparison with last week.
-- Preserve the source’s category, grade/class, weight range, and price unit. Do not merge grades, weight bands, auction types, or categories into an invented average.
-- Say **“Texas auction summary”** or **“Texas market snapshot,”** not “Shelby County cattle price.”
-- If the report is delayed, unavailable, or has thin/no test for a chosen class, say so and do not substitute a social post with speculative commentary.
+## Simple topic rotation
 
-### Timber data
+These are undated topic ideas, not approved posts or schedule recommendations. Check the relevant source and season when preparing each one:
 
-- Default to Texas A&M Forest Service’s public East Texas report; cite the direct PDF or report page.
-- Label the report’s covered months and use its stated product/measurement terms. Explain unfamiliar units only when the explanation itself is sourceable.
-- Timber values are **change-only** in the weekly series: a new report can produce a timber update; an older report can be named as the latest available report but must not be placed in a fresh “this week’s price” graphic.
-- The user-provided TimberMart-South **Q2 2026** page is a helpful visual and source example. It shows stated Texas standing-timber averages for pine sawtimber, chip-n-saw, and pulpwood, with product specifications. It is not to be republished as a live Shelby County price card without confirming current data, rights, and geographic/product scope.
+- A small-herd question: what a statewide auction report can and cannot tell you.
+- A small-woodland question: what information to gather before asking a forester about your trees.
+- A garden-preparation question: why a soil test comes before choosing amendments.
+- A planting question: starting seeds indoors versus moving plants outside.
+- A harvest question: what to check on the plant instead of relying only on a calendar date.
 
-### Caption and visual treatment
+A friendly closing question can invite experience: “What are you growing?” or “Which small-acreage question would be useful next?” Treat reader replies as personal experiences, not verified agricultural advice.
 
-- Name the series plainly: **“Deep East Texas Rural Market Note.”**
-- Open with the useful fact, not Morrison Insurance.
-- Put the reporting period, geography, units, and source in the graphic or caption. Use a small, readable **“market snapshot—not a quote”** note.
-- Use a real, rights-cleared East Texas photo: working pasture fence, cattle at a distance, pine timber stand, log truck at a safe/public vantage, or another recognizable rural scene. Use one calm photo plus a simple data card; do not use corporate dashboards, livestock-sale spectacle, suits, stock handshakes, flames, or fear-based imagery.
-- Invite a low-friction response only when appropriate: “What local market question would be useful to unpack next?” Do not encourage a buy/sell decision.
-- Do not attach an insurance product message. A quiet final line such as “Morrison Insurance is glad to share useful local information” is optional and must never lead the post.
+## Copy and images
 
-## Platform output
+Facebook should normally be about 90–150 words and Instagram about 50–90 words. Shorter is fine when the useful point is complete. Use one main point, plain language, a source link where the platform supports it, and an optional low-pressure question. Do not use technical jargon, fear, sales framing or unsupported weather and market claims.
 
-| Platform | Deliverable | Guardrail |
-|---|---|---|
-| Facebook | 90–150-word factual caption, visual direction, source link, and any eligible time only after a fresh Metricool check | Present data as a Texas or East Texas market indicator, not an offer or forecast. |
-| Instagram | 50–90-word caption and 4:5 visual/card direction | Keep the data card simple; label source, period, class, and units. If an AI image is ever used, use the required disclosure—but real local imagery is preferred. |
-| Google Business Profile | Normally **not used** for this series | Only consider an informational Update when there is a clearly local, sourceable public-interest angle and a real local photo. No phone number or URL in the caption body. |
-| LinkedIn | Optional manual professional/rural-business version only | Do not recommend scheduling until the profile meets the existing follower threshold. |
+Prefer a rights-cleared local pasture, pine stand, garden bed or hands-at-work photo. A calm 4:5 card with a short heading is sufficient; no dense data display is required. Do not imply a generic image shows an actual local crop, property or market condition. Keep any required AI disclosure. Missing image permission remains a hold, not a reason to borrow third-party pictures.
 
-## Pilot and measurement
+Retain the November 13 fire-safety direction: do not amplify the current burn-ban lifting announcement, imply outdoor burning is safe, repeat speculation about officials' motives, or use clearing/burning tips to encourage risky activity.
 
-Treat the first four eligible Rural Market Notes as a **four-week pilot**, not a commitment to permanent weekly volume. Log reach, saves, shares, comments, local messages, and useful topic requests. At the review, retain the series only if it generates genuine local usefulness without crowding out school, fishing, timely safety, or community posts.
+## Friday production and approval
 
-## Current source record
+Complete the existing material-safety scan first. Then check current rural sources and select the useful topic. Preserve factual evidence internally even when the public explanation is simple. If a time-sensitive source is stale, unavailable or contradictory, omit that claim rather than guess; an independently supported basic garden or woodland topic may be used instead.
 
-- USDA latest page reviewed September 25, 2026: report for **September 20–26, 2026**, published September 25; its narrative said steer and heifer calves sold **$3.00 to $15.00 higher** than the prior week, with yearlings not well tested. Use the next release for any actual future post rather than carrying these figures forward.
-- Texas A&M Forest Service public page reviewed September 25, 2026: the latest listed report was **May–June 2026**. Do not relabel it as September data.
-- TimberMart-South public Texas page reviewed September 25, 2026: it reported a **July 7, 2026** update and an expected **October 15, 2026** next update.
+Keep this as one Friday rural lane within the existing target of **7–10 Facebook posts and 7–10 Instagram posts per week**. Before recommending a date or scheduling, check each intended channel's fresh Metricool inventory, including Stories and verified same-day published placements. The ceiling is **two placements per channel per day**, with no combined cross-network cap. Respect Thursday's fishing reservation without double-counting an existing post.
+
+Prepare Facebook and Instagram materials for review only. Do not schedule, publish, create an import, contact a source or send email without current-task approval. No separate recurring task, reminder, monitor or automatic publisher is created. GBP is normally not used for this series; LinkedIn remains optional and manual under its existing gates.
+
+After the first four published reports, review useful local responses, shares, saves and topic requests. Research-only drafts do not count as published pilot entries. Adjust the mix with the Morrison team rather than adding volume or changing automation on your own.
 
 ## References
 
-1. [USDA AMS — Texas Weekly Cattle Auction Summary](https://mymarketnews.ams.usda.gov/viewReport/1955)
-2. [USDA AMS — September 20–26, 2026 Texas Weekly Cattle Auction Summary (PDF)](https://mymarketnews.ams.usda.gov/filerepo/sites/default/files/1955/2026-09-20/1353891/ams_1955_00362.pdf)
-3. [Texas A&M Forest Service — Timber Price Trends](https://tfsweb.tamu.edu/forest-land/forest-industry-economics/timber-price-trends/)
-4. [Texas A&M Forest Service — Texas Timber Price Trends, May–June 2026](https://tfsweb.tamu.edu/elibrary-item/texas-timber-price-trends-2026-may-june/)
-5. [TimberMart-South — Texas State-wide Average Stumpage Prices](https://timbermart-south.com/resources/state-stumpage-prices/texas/)
+[1]: https://agrilifeextension.tamu.edu/library/gardening/texas-home-vegetable-gardening-guide/ "Texas A&M AgriLife — Texas Home Vegetable Gardening Guide"
+[2]: https://agrilifeextension.tamu.edu/browse/featured-solutions/gardening-landscaping/fall-vegetable-gardening-guide-for-texas/ "Texas A&M AgriLife — Fall Vegetable Gardening Guide for Texas"
+[3]: https://shelby.agrilife.org/ "Shelby County AgriLife Extension"
+[4]: https://aggie-horticulture.tamu.edu/fruit-nut/ "Aggie Horticulture — Fruit and Nut Production resources"
+[5]: https://www.almanac.com/gardening/planting-calendar/zipcode/75935 "Old Farmer's Almanac — Center Texas planting calendar"
+[6]: https://www.ars.usda.gov/news-events/news/research-news/2023/usda-unveils-updated-plant-hardiness-zone-map/ "USDA — Plant Hardiness Zone Map definition"
+[7]: https://www.farmersalmanac.com/calendar/gardening "Farmers' Almanac — Gardening calendar and method"
+[8]: https://mymarketnews.ams.usda.gov/viewReport/1955 "USDA AMS — Texas Weekly Cattle Auction Summary"
+[9]: https://tfsweb.tamu.edu/forest-land/forest-industry-economics/timber-price-trends/ "Texas A&M Forest Service — Timber Price Trends"
