@@ -426,3 +426,13 @@ Existing GSC/indexing, Timpson varsity, GBP image and legacy voice/caption revie
 - [ ] Consider a Boles Feed collaboration only after genuine series engagement and a separately approved scope/consent; no outreach or public relationship statement is authorized now.
 
 Existing gardening, fire-safety, image, posting, SEO, GBP and other holds are unchanged. No new social post or external contact was made.
+
+
+## November 13 — reusable Rural Ag skill and feed/garden drafts
+
+- [x] Create `morrison-rural-ag-report` skill with seller-verdict, seasonal-care and partner-audience branches; validate, pass eight regression tests and exercise both real care records. Deliver a skill card, not a claim of installation.
+- [x] Draft two distinct Facebook/Instagram topic pairs for Boles Feed's small-herd/garden audience: hay-first feed preparation and November soil-testing preparation. Preserve inspected AgriLife sources; no unverified crop date, stock, pricing or relationship claim.
+- [x] Check current Morrison weekly/per-channel inventory, record native-visibility limits and preserve source/capacity files. Existing weekly total ten each; no extra placement recommended or made.
+- [ ] If scheduling is later requested, confirm destination/voice, image permissions, final consent and fresh relevant-account capacity. Boles Feed's calendar has not been checked; no outreach, partnership or publication is authorized by draft preparation.
+
+See `content/cattle-feed-and-garden-drafts-2026-11-13.md` and `content/rural-ag-draft-source-pack-2026-11-13.zip`. No change to the existing recurring Content Desk or its narrow publication exceptions.
