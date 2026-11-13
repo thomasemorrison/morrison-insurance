@@ -444,3 +444,17 @@ Current receipt: `content/rural-ag-social-scheduled-2026-11-13.md` and `content/
 
 - [x] Replace only the image/alt on today’s existing 1 PM certificate-guide GBP Update after user approval of IMG_7456.HEIC as supplied. Real desktop JPEG, full composition preserved and EXIF removed; original private and unchanged. New ID 427229512, UUID 7194380236199052482 unchanged.
 - [x] Independently verify 11:15:09 AM readback: caption/article-link input, type and 1 PM CST time unchanged; autoPublish true, draft false, PENDING; no duplicate, no unrelated-post change, no additional daily placement. Update canonical planner and dated records. See `content/gbp-desktop-photo-replacement-2026-11-13.json`. Actual Google delivery/rendering remains unclaimed; no new reminder/monitor or future-use approval created.
+
+
+## November 13 — weekly website-to-lead growth cycle
+
+- [x] Prepare `content/weekly-local-lead-growth-plan-2026-11-13.md`: genuine qualified local inquiries first, one evidence-backed change per week, comparable dated scorecard and specific first-month work sequence. No promised traffic/rank/revenue gain.
+- [x] Inspect the current homepage, quote resource, auto and contact visitor path read-only. Existing call CTAs confirmed; proposed homepage hours/first-conversation block is a hypothesis, not a missing-button claim or released edit.
+- [x] Specify accepted form/phone/inquiry measurement and privacy-safe attribution; confirm current-editor versus legacy HubSpot success mechanisms. Historical /thank-you dependency remains a risk to verify, not a proven failure. No form test, tracking, GTM, Ads conversion or code change made.
+- [x] Add Monday lead-growth work and Friday closeout to the ONE existing enabled Unified Content Desk; independent readback preserves weekday 6:30 AM Central timing, same thread, connectors, model and narrow publication/approval gates. First Monday cycle November 16; no new recurring task, publisher or email.
+- [x] Save supplied GA4/GSC rows separately in `content/weekly-lead-growth-scorecard.csv`; unavailable lead/session/attribution fields remain blank. Preserve definitions, source references and sanitized workflow receipt.
+- [ ] Obtain authorized read-only GA4/GSC access or dated acquisition/landing-page/key-event and query/page exports, plus anonymous agency website-inquiry totals; do not ask for passwords or share customer data. Data-limited weekly reports must name the gap rather than claim growth.
+- [ ] November 16: review the current HubSpot completion/receipt and tracking path, establish a usable inquiry baseline, and prepare exact approval scope for any necessary repair. Tracking implementation and synthetic test submission require separate approval; Google Ads restoration remains outside this lane.
+- [ ] Prepare the homepage support-copy test with confirmed office hours and designated agency reviewer; deploy only after current approval and GitHub-first tests/public verification. Retain one primary visitor-path change at a time and measure long enough for low volume.
+
+Existing social capacity, school/Timpson, fire-safety, private-partner, GBP-photo/CTA, indexing and paid-media holds remain. The November 9 quote refresh is already live; do not create a duplicate page or automatically repeat that rewrite based on its historical GSC rank.

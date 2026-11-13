@@ -1,0 +1,10 @@
+{
+  "blankMeaning": "Unknown/unavailable, not zero. No fabricated leads or traffic source data.",
+  "windowRule": "Keep source periods, timezones, filters and latest final dates explicit. Use separate completed7day operating view and matched28day trend periods.",
+  "primaryOutcome": "Genuine deduplicated website-origin insurance inquiries with separately agency-qualified local subset. Private qualification/deduplication record; no personal identifiers in scorecard/GA4.",
+  "sourceCompatibility": "GA4 and GSC rows are separate supplied snapshots, not one combined baseline. GSC click totals are not a sessions denominator.",
+  "rateRule": "Verified submission session rate = sessions with one or more accepted website submissions / eligible measured sessions of the same source window/filter. Genuine inquiry rate unavailable without compatible attribution and denominator.",
+  "attribution": "Confirmed/reported/unknown website origin tracked privately; unknown stays unknown. Session acquisition and first-user acquisition are not interchangeable.",
+  "measurementState": "Phone clicks, connected calls, submissions, genuine inquiries and qualified leads are distinct; do not sum them. Tracking specification not implemented.",
+  "targetState": "No numerical lead forecast or guarantee. Establish genuine baseline and agree a target first."
+}

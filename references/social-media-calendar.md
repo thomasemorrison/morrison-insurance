@@ -54,6 +54,12 @@ Prioritize real questions, local utility, familiar places, outdoor and rural lif
 
 Creative must feel rooted in Center, Shelby County, or Deep East Texas. Prefer authentic Morrison, community-approved, school-provided, archival-with-permission, or recognizable local imagery. Keep a clear visual hierarchy and one central point. Never use stock handshakes, suit-forward or carrier-style graphics, a generic photo that could be anywhere, or an agency headshot as the whole message. The complete operating standard is preserved in the shared project file **Morrison Insurance — Website, Content, and Design Direction**.
 
+### Weekly website-to-lead cycle — added November 13
+
+The same Unified Content Desk now prepares a Monday dated lead/traffic scorecard and ONE evidence-backed website, measurement or local SEO improvement, with a short Friday outcome check in the existing handoff. First weekly cycle: November 16. Use `content/weekly-local-lead-growth-plan-2026-11-13.md`; missing Analytics/GSC/agency lead data stays unavailable, never fabricated or replaced by total events. Genuine qualified local website inquiries are the primary measure, not social likes or phone-link clicks alone.
+
+Supporting social content belongs within the existing community-first mix and must point to a verified helpful live page. It does not create a second weekly publisher or additional routine quota. Fresh per-channel capacity, source/image, GBP button/photo, LinkedIn manual and current-task approval gates remain; ordinary posts and website/tracking changes are review-ready, not automatically active. No existing schedule is edited by adding this instruction, and paid-media changes are outside its scope.
+
 ## Four-week editorial backlog integration
 
 The September 21–October 18 backlog complements—not replaces—the standing school, material-safety, and fishing work. Its primary sequence is: a calm fall readiness checklist; a rights-cleared East Texas Poultry Festival community feature; a TxDOT-grounded fall deer-driving checklist; and a youth poultry-learning follow-through. Two New World screwworm journal entries are **conditional** on fresh USDA APHIS and Texas Animal Health Commission verification immediately before review and publication. The current detailed source record and reviewer gates are maintained in `content/four-week-educational-community-backlog-2026-09-16.md`.
