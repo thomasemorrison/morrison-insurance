@@ -1,6 +1,8 @@
 # Cattle feed and November garden preparation — social drafts
 
-**For the small-herd and backyard-garden audience Boles Feed serves. Prepared November 13, 2026, for this week's review library, November 13–15.** These are neutral community captions that can fit Morrison's Rural Ag Report or be reviewed separately by Boles Feed; the publishing account has not been selected. They do not announce a collaboration, disclose a customer relationship, name inventory, or imply a sale. No post, Metricool draft, import, schedule or outreach has been created.
+**Current status — November 13, 10:51:43 AM CST:** Four approved posts are now active PENDING schedules on Morrison Insurance's Facebook and Instagram. Cattle feed is November 16 at 4/4:15 PM; garden preparation is November 18 at 10/10:15 AM, all CST. Original checklist graphics are attached with accurate alt text and Instagram disclosure. [Full scheduled copy and exact receipt](/home/ubuntu/morrison-insurance/content/rural-ag-social-scheduled-2026-11-13.md). No partnership, customer relationship, stock or Boles Feed account is represented.
+
+The captions below are preserved as approved. Their photograph directions, preparation holds and 9:53 AM capacity notes are **historical draft-stage context**, superseded by the completed schedule receipt; these are not current blockers or permission to create a duplicate. No outreach, website release or recurring change was made.
 
 ## Cattle feed — start with the hay already on hand
 
