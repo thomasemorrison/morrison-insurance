@@ -2,7 +2,7 @@
   "brandId": "6256215",
   "timezone": "America/Chicago",
   "verifiedAt": "2026-11-02T11:56:18-06:00",
-  "status": "All three articles live. All nine existing Facebook, Instagram and GBP promotions are active pending schedules, independently read back; none has published yet.",
+  "status": "Historical November 2 activation snapshot retained. November 13 certificate-guide FB/IG provider PUBLISHED verified; GBP photo replaced under current approval and remains PENDING for 1 PM CST. Earlier six posts are not rechecked in this scoped run.",
   "websiteCheckpoint": "11e45264",
   "articleCommit": "5b59721",
   "capacityBeforeActivation": {
@@ -17,8 +17,8 @@
     "2026-11-06": 3,
     "2026-11-13": 3
   },
-  "normalCapNote": "This nine-placement batch fits the normal combined three-placement daily cap. Reserve November 5's two remaining slots for the separately authorized Thursday fishing pair, which was not present in this inventory. No unrelated post was changed or duplicated. Legacy November 9 and 10 rows each have four network placements and remain unchanged pending review.",
-  "googleButtonGate": "User authorized one-time tests only for these three GBP drafts, with activation conditional on button-only preview links. Each individually passed: full visible preview caption excludes URLs, with separate More info CTA. Existing drafts activated via connector, preserving API publicationDate, authentic building media/alt and publication type. API text stores original caption plus matching URL for conversion. Browser preview changes were discarded; no browser Save/Schedule used. Actual Google rendering and click-through remain unverified until publication. This is not standing authorization for future URL-input methods.",
+  "normalCapNote": "This nine-placement batch fits the normal combined three-placement daily cap. Reserve November 5's two remaining slots for the separately authorized Thursday fishing pair, which was not present in this inventory. No unrelated post was changed or duplicated. Legacy November 9 and 10 rows each have four network placements and remain unchanged pending review. Historical cap above was superseded November 2 at 1:37 PM CST by two placements per channel per day. November 13 image-only replacement adds no placement; current returned counts are one FB, one IG and one GBP.",
+  "googleButtonGate": "User authorized one-time tests only for these three GBP drafts, with activation conditional on button-only preview links. Each individually passed: full visible preview caption excludes URLs, with separate More info CTA. Existing drafts activated via connector, preserving API publicationDate, authentic building media/alt and publication type. API text stores original caption plus matching URL for conversion. Browser preview changes were discarded; no browser Save/Schedule used. Actual Google rendering and click-through remain unverified until publication. This is not standing authorization for future URL-input methods. November 13 certificate-guide image-only replacement preserves the approved caption and link-conversion input; its new photo is the user-approved desktop JPEG, not the original building image.",
   "previewEvidence": {
     "switch-car-insurance-texas-without-gap": "/home/ubuntu/upload/app.metricool.com_planner_calendar_blogId_6256215_userId_4822283_1793641832907.html",
     "certificate-of-insurance-shelby-county-tx": "/home/ubuntu/upload/app.metricool.com_planner_calendar_blogId_6256215_userId_4822283_1793642111235.html",
@@ -118,8 +118,9 @@
       "date": "2026-11-13T10:00:00-06:00",
       "draft": false,
       "autoPublish": true,
-      "status": "PENDING",
-      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-3654178022769147011"
+      "status": "PUBLISHED",
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-3654178022769147011",
+      "verifiedAt": "2026-11-13T11:15:09-06:00"
     },
     {
       "slug": "certificate-of-insurance-shelby-county-tx",
@@ -130,14 +131,15 @@
       "date": "2026-11-13T10:15:00-06:00",
       "draft": false,
       "autoPublish": true,
-      "status": "PENDING",
+      "status": "PUBLISHED",
       "isAiGenerated": true,
-      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-3406893846403855022"
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-3406893846403855022",
+      "verifiedAt": "2026-11-13T11:15:09-06:00"
     },
     {
       "slug": "certificate-of-insurance-shelby-county-tx",
       "network": "gmb",
-      "id": 414318146,
+      "id": 427229512,
       "previousDraftId": 414198391,
       "uuid": "7194380236199052482",
       "date": "2026-11-13T13:00:00-06:00",
@@ -148,7 +150,18 @@
         "type": "publication"
       },
       "previewPassed": true,
-      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=7194380236199052482"
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=7194380236199052482",
+      "verifiedAt": "2026-11-13T11:15:09-06:00",
+      "previousMediaUpdateId": 414318146,
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-16913294518668656687.jpeg"
+      ],
+      "mediaAltText": [
+        "Real photograph of an office desktop with a laptop, two monitors showing forest wallpaper, and papers on a desk mat."
+      ],
+      "imageApproval": "November 13, 2026, 11:13:52 AM CST: It is fine to post. Explicit acceptance of the previously inspected photo as supplied.",
+      "photoReplacementReceipt": "/home/ubuntu/morrison-insurance/content/gbp-desktop-photo-replacement-2026-11-13.json"
     }
-  ]
+  ],
+  "certificateGuideVerifiedAt": "2026-11-13T11:15:09-06:00"
 }

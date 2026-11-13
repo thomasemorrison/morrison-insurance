@@ -1,5 +1,7 @@
 # Google article promotion completion — November 2, 2026
 
+**Scoped update — November 13, 11:15 AM CST:** The certificate-guide GBP Update now uses the user's approved real desktop photo in place of the building photo. Current numeric ID **427229512** (previously 414318146); UUID unchanged. November 13 **1:00 PM CST**, informational Update, approved caption/link-conversion input and autoPublish remain unchanged. Independent readback confirms PENDING, non-draft, no duplicate and one GBP placement today. Related FB/IG certificate promotions are provider PUBLISHED. Other batch posts are not rechecked here. [Replacement receipt](/home/ubuntu/morrison-insurance/content/gbp-desktop-photo-replacement-2026-11-13.json). Statements below are dated November 2 history, not current delivery statuses; the old combined cap is superseded by two per channel per day.
+
 The user authorized completion of three Google Business Profile article promotions after confirming the website release. The six Facebook/Instagram placements are already scheduled.
 
 **Current status — 11:56 AM CST:** All three Google drafts individually passed the approved button-only preview test and are now active PENDING schedules. Together with Facebook/Instagram, all nine article promotions are scheduled, not published. The sections below are a chronological execution history; the final readback supersedes earlier draft/login/button blockers. Search Console indexing and actual Google delivery/rendering checks remain open.

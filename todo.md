@@ -438,3 +438,9 @@ Existing gardening, fire-safety, image, posting, SEO, GBP and other holds are un
 See `content/cattle-feed-and-garden-drafts-2026-11-13.md` and `content/rural-ag-draft-source-pack-2026-11-13.zip`. No change to the existing recurring Content Desk or its narrow publication exceptions.
 
 Current receipt: `content/rural-ag-social-scheduled-2026-11-13.md` and `content/rural-ag-social-planner-2026-11-13.json`. Next week's known queue is five on each FB/IG channel; one unconsumed Thursday fishing reservation each would make six. The existing Content Desk still needs the remaining useful weekly mix toward 7–10, not filler or an extra recurring task. Monday is two per channel; Wednesday one. Provider delivery remains a normal future readback, not a new monitor.
+
+
+## November 13 — approved GBP desktop photo replacement
+
+- [x] Replace only the image/alt on today’s existing 1 PM certificate-guide GBP Update after user approval of IMG_7456.HEIC as supplied. Real desktop JPEG, full composition preserved and EXIF removed; original private and unchanged. New ID 427229512, UUID 7194380236199052482 unchanged.
+- [x] Independently verify 11:15:09 AM readback: caption/article-link input, type and 1 PM CST time unchanged; autoPublish true, draft false, PENDING; no duplicate, no unrelated-post change, no additional daily placement. Update canonical planner and dated records. See `content/gbp-desktop-photo-replacement-2026-11-13.json`. Actual Google delivery/rendering remains unclaimed; no new reminder/monitor or future-use approval created.

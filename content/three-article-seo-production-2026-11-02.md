@@ -1,5 +1,7 @@
 # Three new SEO-supporting articles — November 2, 2026
 
+**Scoped update — November 13, 11:15 AM CST:** The certificate-guide GBP Update now uses the user's approved real desktop photo in place of the building photo. Current numeric ID **427229512** (previously 414318146); UUID unchanged. November 13 **1:00 PM CST**, informational Update, approved caption/link-conversion input and autoPublish remain unchanged. Independent readback confirms PENDING, non-draft, no duplicate and one GBP placement today. Related FB/IG certificate promotions are provider PUBLISHED. Other batch posts are not rechecked here. [Replacement receipt](/home/ubuntu/morrison-insurance/content/gbp-desktop-photo-replacement-2026-11-13.json). Statements below are dated November 2 history, not current delivery statuses; the old combined cap is superseded by two per channel per day.
+
 ## Current status — November 2, 11:56 AM CST
 
 The Morrison team confirmed publication of the latest website version. All three articles return HTTP 200 with their exact article-specific title, description, canonical URL, and hosted hero metadata on both `morrison-ins.net` and `www.morrison-ins.net`. The live RSS and sitemap were independently downloaded and parsed on both domains: all three article URLs are registered, and both RSS image elements match the corresponding article hero. Website publication is complete and unchanged; Google indexing is a separate step and is not claimed.
@@ -16,7 +18,7 @@ Before the initial Facebook/Instagram activation, the fresh Metricool check show
 |---|---|---|---|
 | Quote checklist | 414310000 | 407231681415431540 | November 5, 2026, 08:30 |
 | Switching guide | 414313655 | -2505700324724748477 | November 6, 2026, 13:00 |
-| Business certificate checklist | 414318146 | 7194380236199052482 | November 13, 2026, 13:00 |
+| Business certificate checklist | 427229512 | 7194380236199052482 | November 13, 2026, 13:00 |
 
 No browser **Save** or **Schedule** action was used because of a displayed-time discrepancy; connector times are authoritative. Retained HTML evidence: switching guide `/home/ubuntu/upload/app.metricool.com_planner_calendar_blogId_6256215_userId_4822283_1793641832907.html`; certificate checklist `/home/ubuntu/upload/app.metricool.com_planner_calendar_blogId_6256215_userId_4822283_1793642111235.html`.
 

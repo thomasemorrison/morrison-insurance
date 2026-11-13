@@ -1,5 +1,7 @@
 # Morrison Insurance — Three-Article Social Copy Handoff
 
+**Scoped update — November 13, 11:15 AM CST:** The certificate-guide GBP Update now uses the user's approved real desktop photo in place of the building photo. Current numeric ID **427229512** (previously 414318146); UUID unchanged. November 13 **1:00 PM CST**, informational Update, approved caption/link-conversion input and autoPublish remain unchanged. Independent readback confirms PENDING, non-draft, no duplicate and one GBP placement today. Related FB/IG certificate promotions are provider PUBLISHED. Other batch posts are not rechecked here. [Replacement receipt](/home/ubuntu/morrison-insurance/content/gbp-desktop-photo-replacement-2026-11-13.json). Statements below are dated November 2 history, not current delivery statuses; the old combined cap is superseded by two per channel per day.
+
 **Status as of November 2, 11:56 AM CST: all three articles remain verified live on both public domains. All nine existing article promotions are activated in Metricool with `draft: false`, `autoPublish: true`, and provider status `PENDING` (not published).** The six Facebook/Instagram schedules are unchanged. Each of the three Google Business Profile Updates passed the user-approved conditional one-time URL-to-button preview gate before activation. LinkedIn remains copy-only and held.
 
 Captions below reproduce the JSON text exactly. Official source URLs are reference metadata, not additions to the captions.
@@ -18,7 +20,7 @@ All times are America/Chicago **CST**. The parent verified all nine existing art
 | Switching guide | Google Business Profile Update | 2026-11-06 13:00 CST | [414313655](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-2505700324724748477) |
 | Business certificate checklist | Facebook | 2026-11-13 10:00 CST | [414217522](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-3654178022769147011) |
 | Business certificate checklist | Instagram | 2026-11-13 10:15 CST | [414217582](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-3406893846403855022) |
-| Business certificate checklist | Google Business Profile Update | 2026-11-13 13:00 CST | [414318146](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=7194380236199052482) |
+| Business certificate checklist | Google Business Profile Update | 2026-11-13 13:00 CST | [427229512](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=7194380236199052482) |
 
 A fresh Metricool check immediately before the initial Facebook/Instagram activation showed **zero other active placements** on November 4, 5, 6, and 13. The initial active totals were 2, 0, 2, and 2 respectively. After Google activation, the current combined active totals are **2 on November 4, 1 on November 5, 3 on November 6, and 3 on November 13**. Reserve November 5’s other two placements for the already authorized Thursday fishing pair, which is **not yet scheduled**. These dates fit the normal three-cross-network cap without relying on the temporary November–December exception. Recheck capacity before scheduling that pair.
 

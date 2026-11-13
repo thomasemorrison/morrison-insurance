@@ -1,0 +1,41 @@
+{
+  "approval": "November 13, 2026, 11:13:52 AM CST: It is fine to post. Explicit acceptance of the previously inspected photo as supplied.",
+  "verifiedAt": "2026-11-13T11:15:09-06:00",
+  "brandId": "6256215",
+  "title": "Certificate-of-insurance guide: GBP photo replacement",
+  "previousId": 414318146,
+  "id": 427229512,
+  "uuid": "7194380236199052482",
+  "publicationDate": {
+    "dateTime": "2026-11-13T13:00:00",
+    "timezone": "America/Chicago"
+  },
+  "providerStatus": "PENDING",
+  "autoPublish": true,
+  "draft": false,
+  "media": [
+    "https://static.metricool.com/planner/202611/6256215-file-16913294518668656687.jpeg"
+  ],
+  "mediaAltText": [
+    "Real photograph of an office desktop with a laptop, two monitors showing forest wallpaper, and papers on a desk mat."
+  ],
+  "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=7194380236199052482",
+  "mediaDimensions": [
+    4032,
+    3024
+  ],
+  "captionAndApprovedLinkInputUnchanged": true,
+  "typeUnchanged": true,
+  "unrelatedPostsUnchanged": true,
+  "duplicates": false,
+  "dailyChannelCountsReturned": {
+    "facebook": 1,
+    "instagram": 1,
+    "gmb": 1
+  },
+  "originalSource": "IMG_7456.HEIC supplied by user; unchanged original retained privately.",
+  "processing": "Full-composition HEIC-to-JPEG conversion only with orientation applied and EXIF stripped. No crop, retouch, text or redaction.",
+  "privacy": "User approved the as-supplied image after prior privacy cautions; no broader privacy clearance or future-use permission claimed.",
+  "scope": "Only today\u2019s existing GBP certificate-guide Update media and alt text replaced. No new post, other channel change, website release, trigger or recurring action.",
+  "renderingLimit": "The previously approved button-conversion input is unchanged. No new preview/live Google rendering or publication is claimed."
+}
