@@ -392,3 +392,16 @@ The final 9:58 AM readback has nine known actual placements on each of Facebook 
 - [x] Execute the user's 8:36 AM “Post them” instruction by advancing the same two fishing posts to 8:39 AM CST. New IDs Facebook425774615/Instagram425774641, unchanged UUIDs, copy and media. Both providers PUBLISHED with public URLs at the 8:41:02 AM readback; no remaining 10 AM duplicates. Future Thursday10AM schedule unchanged.
 
 All prior indexing, Timpson varsity, GBP-image and legacy-review holds remain. Yesterday's unchanged Jackson rescission copy was not approved or scheduled; daily room does not authorize additional publication.
+
+
+## November 13 — Friday Content Desk
+
+- [x] Complete one review-ready handoff: `content/content-desk-2026-11-13-friday-handoff.md`; no new external action.
+- [x] Verify new November 12 local fire guidance and record conflict between reported lifting and still-posted county/Forest Service ban status. No automatic NWS publication or public all-clear.
+- [x] Prepare exact dated November 6 USDA cattle draft for November 1–7 with three unmixed Medium and Large 1 classes/ranges; no new timber report or stale weekly timber values.
+- [x] Refresh 6:36 AM per-channel inventory: today Facebook/Instagram one each with one daily slot remaining; week ten each, fishing reservation consumed. Preserve pending COI promotions and published fishing pair.
+- [x] Follow the user's November 13 9:27 AM caution: withdraw the lifting-related public copy and expired placement recommendation. Do not promote this lifting announcement, including through a link preview; preserve source verification internally. No social post or schedule was created, changed or canceled.
+- [ ] Only if later requested and explicitly approved, use a fresh-checked caution-only Firefighters Association draft with no lifting discussion, court-motive speculation or unverified weather measurements. Current revised copy is held, with no replacement posting time. Image and per-channel capacity gates remain.
+- [ ] Keep Rural Market Note held behind material safety priority and missing approved real rural photo; update all source dates/figures/card if a newer USDA release appears. No pilot engagement outcome claimed.
+
+Existing GSC/indexing, Timpson varsity, GBP image and legacy voice/caption review items remain unchanged. The Friday safety/market drafts have no automatic publication permission; no new task, monitor, email or configuration change was created.
