@@ -471,3 +471,24 @@ Existing social capacity, school/Timpson, fire-safety, private-partner, GBP-phot
 - [ ] Confirm whether current November19 Monica timing is intended before any reschedule; no duplicate November21 pair. Thursday fishing reservation remains one per FB/IG.
 - [ ] Resolve HubSpot readiness/confirmation/receipt and current GA4/GTM measurement evidence under authorized read-only access; reconcile an appropriate genuine inquiry or separately approved safe verification method. Existing baseline/export tasks remain open; do not claim broken submission or install a second event listener blind.
 - [ ] Community pairs require confirmed permitted topical images, publication-day event/capacity checks and current activation approval. Tuesday school research and Thursday fishing remain their sole existing lanes.
+
+
+## November 16 — acquisition challenge and proposed reset
+
+- [x] Audit current and prior non-overlapping 28-day social metrics, returned post formats/reach/link actions, public acquisition paths and the supplied GSC snapshot without reopening attachments.
+- [x] Deliver `content/acquisition-challenge-and-reset-2026-11-16.md` and `content/acquisition-evidence-2026-11-16.zip`; qualify missing GBP dates, tiny GSC query samples, unavailable lead attribution and unequal post ages.
+- [x] Fresh-check 8:44:54 AM per-channel inventory: five FB and five IG weekly; Monday two each; Thursday fishing still one separately reserved placement each. No live post or configuration changed.
+- [ ] Review the proposed four-week format substitution, authentic collaboration/review approach and existing auto-page refresh brief. These are proposals, not an activated content mix, outreach campaign or site change.
+- [ ] Current measurement/data tasks remain open; obtain compatible GA4/GSC/native GBP data and anonymous qualified inquiry totals. Do not count link clicks or followers as leads.
+
+Immediate legacy post approval, Monica timing, safety, indexing, partner privacy and paid-media restrictions remain unchanged. No added recurring task, publisher, automatic email or spend authorization.
+
+
+## November 16 — broader independent-agency funnel examples
+
+- [x] Inspect five locally rooted independent agencies beyond Shelby County: Berry, Crowley, Paradiso, Murray Group and McGhee. Trace public education/proof/contact paths; no forms submitted, outreach or backend assumptions.
+- [x] Preserve the named Berry vendor case study with 2020/2021 form/close-rate definitions and limitations; the other examples show mechanics, not proven current qualified-lead performance.
+- [x] Deliver `content/independent-agency-funnel-benchmark-2026-11-16.md` and structured comparison evidence; service-focused adaptations and visible friction are available as research references, not competitor attack copy.
+- [ ] Review one existing-page pilot combining optional practical preparation, a named human next step and confirmed service expectations after the inquiry-measurement gap is resolved. No duplicate home/rural URL, widget, software, new publishing lane or customer outreach approved.
+
+Prior weekly growth, legacy post, Monica timing, safety, partner privacy, indexing and paid-media holds remain unchanged. All benchmark adaptations are proposals only.
