@@ -19,7 +19,7 @@ const schema = JSON.stringify({
   },
   "areaServed": "Shelby County, TX",
   "description": "Homeowners insurance for homes, mobile homes, lake houses, and rental properties in Center, TX and Shelby County.",
-  "url": "https://morrisoninsurance.com/home-insurance"
+  "url": "https://morrison-ins.net/home-insurance"
 });
 
 export default function HomeInsurancePage() {

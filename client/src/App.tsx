@@ -52,6 +52,9 @@ import ArticleSwitchCarInsurance from "./pages/articles/ArticleSwitchCarInsuranc
 import ArticleCertificateOfInsurance from "./pages/articles/ArticleCertificateOfInsurance";
 import CookieConsent from "./components/CookieConsent";
 import MorrisonFamilyHistory from "./pages/MorrisonFamilyHistory";
+import StartHere from "./pages/StartHere";
+import PrepareConversation from "./pages/PrepareConversation";
+import WhatToExpect from "./pages/WhatToExpect";
 
 function ScrollToTop() {
   const [location] = useLocation();
@@ -85,6 +88,9 @@ function Router() {
       <Route path="/business-insurance" component={() => <Layout><BusinessInsurance /></Layout>} />
       <Route path="/farm-ranch-insurance" component={() => <Layout><FarmRanchInsurance /></Layout>} />
       <Route path="/contact" component={() => <Layout><Contact /></Layout>} />
+      <Route path="/start-here" component={() => <Layout><StartHere /></Layout>} />
+      <Route path="/prepare-for-a-conversation" component={() => <Layout><PrepareConversation /></Layout>} />
+      <Route path="/what-to-expect" component={() => <Layout><WhatToExpect /></Layout>} />
       <Route path="/resources" component={() => <Layout><Resources /></Layout>} />
       <Route path="/privacy-policy" component={() => <Layout><PrivacyPolicy /></Layout>} />
       <Route path="/thank-you" component={() => <ThankYou />} />

@@ -31,6 +31,24 @@ const BASE_URL = "https://morrison-ins.net";
  * reliable for crawlers that do not execute JavaScript.
  */
 export const STATIC_PAGE_META: Record<string, StaticPageMeta> = {
+  "/start-here": {
+    title: "Start With Your Insurance Question | Morrison Insurance, Center TX",
+    description: "Choose a useful starting point for a renewal, home or rural property, business paperwork, or existing-policy question. Talk with a local person in Center, Texas.",
+    image: "/manus-storage/MIBldgcurrent_0dda216e.webp",
+    canonicalPath: "/start-here",
+  },
+  "/prepare-for-a-conversation": {
+    title: "Prepare for an Insurance Conversation | Morrison Insurance",
+    description: "Free, ungated checklists for auto renewals, home and rural-property questions, and small-business paperwork. Bring one question; keep personal documents private.",
+    image: "/manus-storage/MIBldgcurrent_0dda216e.webp",
+    canonicalPath: "/prepare-for-a-conversation",
+  },
+  "/what-to-expect": {
+    title: "What Happens After You Get in Touch | Morrison Insurance",
+    description: "Know how to start with a general question, what to discuss with a local person, and how to arrange the next step without posting sensitive documents online.",
+    image: "/manus-storage/MIBldgcurrent_0dda216e.webp",
+    canonicalPath: "/what-to-expect",
+  },
   "/auto-insurance": {
     title: "Car Insurance in Center, TX | Morrison Insurance",
     description:

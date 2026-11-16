@@ -19,7 +19,7 @@ const schema = JSON.stringify({
   },
   "areaServed": "Shelby County, TX",
   "description": "Farm and ranch insurance for land, equipment, livestock, and rural properties in Center, TX and Shelby County.",
-  "url": "https://morrisoninsurance.com/farm-ranch-insurance"
+  "url": "https://morrison-ins.net/farm-ranch-insurance"
 });
 
 export default function FarmRanchInsurancePage() {

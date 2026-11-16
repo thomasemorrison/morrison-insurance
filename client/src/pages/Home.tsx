@@ -5,6 +5,7 @@ import { BRAND, IMAGES, STAFF } from "@/lib/constants";
 import QuoteForm from "@/components/QuoteForm";
 import AppBanner from "@/components/AppBanner";
 import { useSeoMeta } from "@/hooks/useSeoMeta";
+import AcquisitionPath from "@/components/AcquisitionPath";
 
 function useScrollFadeUp(selector = ".fade-up") {
   const ref = useRef<HTMLDivElement>(null);
@@ -252,6 +253,8 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      <AcquisitionPath />
 
       {/* ── TRUST STRIP ── */}
       <section style={{ backgroundColor: "var(--pine)", padding: "1.25rem 0" }}>

@@ -6,7 +6,7 @@
     <loc>https://morrison-ins.net/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
-    <lastmod>2026-07-04</lastmod>
+    <lastmod>2026-11-16</lastmod>
   </url>
   <url>
     <loc>https://morrison-ins.net/about</loc>
@@ -18,13 +18,33 @@
     <loc>https://morrison-ins.net/contact</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-11-16</lastmod>
   </url>
   <url>
     <loc>https://morrison-ins.net/resources</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-    <lastmod>2026-11-02</lastmod>
+    <lastmod>2026-11-16</lastmod>
+  </url>
+
+  <!-- Ungated preparation and human-service pathways -->
+  <url>
+    <loc>https://morrison-ins.net/start-here</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://morrison-ins.net/prepare-for-a-conversation</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-11-16</lastmod>
+  </url>
+  <url>
+    <loc>https://morrison-ins.net/what-to-expect</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <lastmod>2026-11-16</lastmod>
   </url>
 
   <!-- Service pages -->
@@ -32,25 +52,25 @@
     <loc>https://morrison-ins.net/auto-insurance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-10-05</lastmod>
+    <lastmod>2026-11-16</lastmod>
   </url>
   <url>
     <loc>https://morrison-ins.net/home-insurance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-11-16</lastmod>
   </url>
   <url>
     <loc>https://morrison-ins.net/business-insurance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-11-16</lastmod>
   </url>
   <url>
     <loc>https://morrison-ins.net/farm-ranch-insurance</loc>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
-    <lastmod>2026-06-07</lastmod>
+    <lastmod>2026-11-16</lastmod>
   </url>
 
   <!-- SEO blog articles -->

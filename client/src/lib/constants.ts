@@ -49,6 +49,7 @@ export const NAV_LINKS = [
   },
   { label: "About", href: "/about" },
   { label: "Resources", href: "/resources" },
+  { label: "Start Here", href: "/start-here" },
   { label: "Contact", href: "/contact" },
 ];
 
@@ -59,6 +60,9 @@ export const FOOTER_LINKS = [
   { label: "Farm & Ranch", href: "/farm-ranch-insurance" },
   { label: "About Us", href: "/about" },
   { label: "Resources", href: "/resources" },
+  { label: "Start Here", href: "/start-here" },
+  { label: "Preparation Checklists", href: "/prepare-for-a-conversation" },
+  { label: "What to Expect", href: "/what-to-expect" },
   { label: "Contact", href: "/contact" },
 ];
 

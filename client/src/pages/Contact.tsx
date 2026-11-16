@@ -78,6 +78,15 @@ export default function ContactPage() {
       {/* Main content */}
       <section style={{ backgroundColor: "var(--cream)", padding: "5rem 0" }}>
         <div className="container">
+          <aside aria-label="Optional help before getting in touch" style={{ border: "1px solid oklch(0.82 0.03 155)", borderRadius: "0.75rem", padding: "1.5rem", marginBottom: "2.5rem", background: "white" }}>
+            <h2 style={{ fontFamily: "'Cormorant Garamond', Georgia, serif", fontSize: "1.75rem", color: "var(--pine)", marginBottom: "0.5rem" }}>A question is enough to start.</h2>
+            <p style={{ lineHeight: 1.7, marginBottom: "1rem" }}>You can call or send a general question without completing a checklist. If preparation would help, these optional tools explain what to bring and what to ask next. Keep policy numbers, IDs and documents out of public comments; ask the team how to share them privately.</p>
+            <div style={{ display: "flex", flexWrap: "wrap", gap: "1rem 1.5rem", color: "var(--pine)", fontWeight: 600 }}>
+              <Link href="/start-here" style={{ textDecoration: "underline", textUnderlineOffset: "4px" }}>Choose a starting point</Link>
+              <Link href="/prepare-for-a-conversation" style={{ textDecoration: "underline", textUnderlineOffset: "4px" }}>Prepare for a conversation</Link>
+              <Link href="/what-to-expect" style={{ textDecoration: "underline", textUnderlineOffset: "4px" }}>Know what happens next</Link>
+            </div>
+          </aside>
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-start">
             {/* Contact info */}
             <div>

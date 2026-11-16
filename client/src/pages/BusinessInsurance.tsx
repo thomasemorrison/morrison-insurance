@@ -19,7 +19,7 @@ const schema = JSON.stringify({
   },
   "areaServed": "Shelby County, TX",
   "description": "Business insurance for contractors, restaurants, retail, and small businesses in Center, TX and Shelby County.",
-  "url": "https://morrisoninsurance.com/business-insurance"
+  "url": "https://morrison-ins.net/business-insurance"
 });
 
 export default function BusinessInsurancePage() {
@@ -43,7 +43,7 @@ export default function BusinessInsurancePage() {
         "Commercial property — covers your building, equipment, and inventory",
         "Business interruption — replaces lost income if you can't operate after a covered loss",
         "Commercial auto — covers vehicles used for business purposes",
-        "Workers' compensation — required in Texas for most employers with employees",
+        "Workers' compensation — most private Texas employers are not required to carry it, but some contracts and government projects have requirements worth reviewing",
         "Professional liability — protects service businesses against claims of errors or negligence",
         "Umbrella/excess liability — additional protection above your standard limits",
       ]}

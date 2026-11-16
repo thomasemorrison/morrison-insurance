@@ -1,6 +1,7 @@
 import { useEffect, useRef } from "react";
 import { Link } from "wouter";
 import { ArrowRight, Clock } from "lucide-react";
+import AcquisitionPath from "@/components/AcquisitionPath";
 
 function useScrollFadeUp() {
   const ref = useRef<HTMLDivElement>(null);
@@ -341,6 +342,8 @@ export default function ResourcesPage() {
           </div>
         </div>
       </section>
+
+      <AcquisitionPath />
 
       {/* Articles */}
       <section style={{ backgroundColor: "var(--cream)", padding: "5rem 0" }}>

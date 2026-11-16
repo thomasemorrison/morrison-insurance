@@ -4,6 +4,7 @@ import { ArrowRight, CheckCircle, ChevronDown, ChevronUp } from "lucide-react";
 import QuoteForm from "./QuoteForm";
 import AppBanner from "./AppBanner";
 import { useSeoMeta } from "@/hooks/useSeoMeta";
+import AcquisitionPath from "./AcquisitionPath";
 
 export interface ServicePageProps {
   seoTitle: string;
@@ -202,8 +203,8 @@ export default function ServicePageLayout(props: ServicePageProps) {
               {props.heroSubheadline}
             </p>
             <div style={{ display: "flex", flexWrap: "wrap", gap: "0.875rem" }}>
-              <Link href="/contact" className="btn-amber">
-                Get a Personalized Quote
+              <Link href="/start-here" className="btn-amber">
+                Start with your question
                 <ArrowRight size={15} />
               </Link>
               <Link href="/contact" className="btn-white" style={{ fontSize: "0.9375rem" }}>
@@ -213,6 +214,8 @@ export default function ServicePageLayout(props: ServicePageProps) {
           </div>
         </div>
       </section>
+
+      <AcquisitionPath />
 
       {/* Trust strip */}
       <section style={{ backgroundColor: "var(--pine)", padding: "1.25rem 0" }}>
