@@ -458,3 +458,16 @@ Current receipt: `content/rural-ag-social-scheduled-2026-11-13.md` and `content/
 - [ ] Prepare the homepage support-copy test with confirmed office hours and designated agency reviewer; deploy only after current approval and GitHub-first tests/public verification. Retain one primary visitor-path change at a time and measure long enough for low volume.
 
 Existing social capacity, school/Timpson, fire-safety, private-partner, GBP-photo/CTA, indexing and paid-media holds remain. The November 9 quote refresh is already live; do not create a duplicate page or automatically repeat that rewrite based on its historical GSC rank.
+
+
+## November 16 — Monday first lead-growth cycle
+
+- [x] Complete read-only canonical sync/current form source and public contact/dashboard check; preserve current report-access gaps, available prior-release metadata and historical evidence without treating them as current growth.
+- [x] Deliver `content/content-desk-2026-11-16-monday-handoff.md`, current-period blank scorecard CSV and internal source pack. ONE priority is accepted-form delivery/measurement verification; no repair or test submission approved/executed.
+- [x] Verify adult library Crafternoons November18 and Center Thanksgiving gathering November20; prepare complete FB/IG copy with fresh independent date capacity and image-rights hold. Five active posts plus conditional sports/fishing reach seven each; two community pairs would reach nine each, not scheduled.
+- [x] Record live Monica pair November19 instead of documented November21, reserve Thursday fishing independently and flag legacy November16/17 GBP phone/domain/hashtags and off-brand messaging. No existing post changed/canceled/duplicated.
+- [x] Preserve qualified no-post safety hold and Nov13 outdoor-burning restriction; retain no email/new workflow/paid-media/site release boundaries.
+- [ ] Agency decision on legacy grouped post IDs347610824 and347594305 before delivery: approve an exact correction/pause if desired. Do not infer permission to edit from this run.
+- [ ] Confirm whether current November19 Monica timing is intended before any reschedule; no duplicate November21 pair. Thursday fishing reservation remains one per FB/IG.
+- [ ] Resolve HubSpot readiness/confirmation/receipt and current GA4/GTM measurement evidence under authorized read-only access; reconcile an appropriate genuine inquiry or separately approved safe verification method. Existing baseline/export tasks remain open; do not claim broken submission or install a second event listener blind.
+- [ ] Community pairs require confirmed permitted topical images, publication-day event/capacity checks and current activation approval. Tuesday school research and Thursday fishing remain their sole existing lanes.
