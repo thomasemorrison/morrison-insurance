@@ -1,6 +1,6 @@
 # Morrison Insurance — full six-week social copy
 
-November 23, 2026–January 3, 2027. Prepared November 16, 2026 from existing produced materials only. **Review-ready, not approved, not an active schedule, and not an import file.** No external drafts, publication, automation changes, research or website edits were performed during assembly.
+November 23, 2026–January 3, 2027. Prepared November 16, 2026 from existing produced materials only. **Review-ready, not approved, not an active schedule, and not an import file.** Library assembly made no provider changes. The parent separately built and released the new website; public verification passed. No new social schedules are active from this campaign.
 
 ## How to use this library
 
@@ -8,13 +8,13 @@ The parent’s capacity-selected calendar is authoritative for every candidate d
 
 Four distinct topic pairs per week occupy only the selected Monday, Wednesday, Friday and Sunday acquisition rows: 24 full Facebook captions and 24 full Instagram captions. Hooks, media notes, citations, reply IDs and gates are production notes, not extra caption text. The 12 GBP drafts and 12 LinkedIn manual drafts below form option libraries; only parent-selected lighter slots are mapped. Legacy placements consume the inclusive two-per-week allowance. LinkedIn remains manual hold, including the established account/50+ follower and exact approval checks.
 
-All linked activations are gated. `/start-here`, `/prepare-for-a-conversation` and `/what-to-expect` are pending deployment and verified public release; hold every primary caption/button/Story that promises them. Existing guides are live **per the production brief**, not newly verified by this assembler, and need exact near-activation public/link/preview checks. Instagram never treats caption URLs as clickable. Profile-link claims require the actual reachable route; no profile edit is authorized. Use only complete, already-produced fallback copy with fresh approval, never an improvised link swap.
+The website-release gate is complete: `/start-here`, `/prepare-for-a-conversation` and `/what-to-expect` passed both-domain metadata/sitemap and live desktop/mobile checklist checks at 10:14–10:15 AM CST November 16. Social activation still requires the exact approved copy, media, channel dates and fresh capacity. Existing guides are live **per the production brief**, not newly verified by this assembler, and need exact near-activation public/link/preview checks. Instagram never treats caption URLs as clickable. Profile-link claims require the actual reachable route; no profile edit is authorized. Use only complete, already-produced fallback copy with fresh approval, never an improvised link swap.
 
-The parent is producing **24 original HTML-rendered checklist graphics**, one per topic pair. These are educational designs, not authentic staff/office/property/customer photographs, and no AI graphic is represented as a real photo. The default visual direction overrides the original still-photo suggestions for FB/IG only. Render-specific alt text below describes a graphic and remains subject to the actual parent render check. Original photo briefs are retained separately as unselected future alternatives. GBP still requires a separately approved authentic photograph and a supported, verified separate Learn more button; no phone, URL/domain or hashtags belong in its visible body. No URL-to-button exception is inherited.
+The completed set contains **24 original HTML-rendered checklist graphics**, one per topic pair, with checked files and alt text linked below. These are educational designs, not authentic staff/office/property/customer photographs, and no AI graphic is represented as a real photo. The default visual direction overrides the original still-photo suggestions for FB/IG only. Render-specific alt text below was checked against the completed graphics. Original photo briefs are retained separately as unselected future alternatives. GBP still requires a separately approved authentic photograph and a supported, verified separate Learn more button; no phone, URL/domain or hashtags belong in its visible body. No URL-to-button exception is inherited.
 
 All **12 staff scripts remain full and verbatim**, with their existing recording and subtitle plans. No authentic footage is available; these are recording-ready only. Each substitutes the named candidate creative independently on the approved channel, never adds a post. Week 3’s second video replaces Sunday; week 5’s second replaces Wednesday. All others retain their exact source assignment. Full channel caption reuse is supplied for complete copy; the two already-produced week-2 short companion captions remain held alternatives.
 
-Optional Stories replace a named post and count per chosen channel. They never run alongside the displaced acquisition feed item, auto-cross-post, or bypass capacity. Saturday prompts are conditional on no legacy award/community commitment, an actual fresh useful local need, exact approval/media, and current capacity. Tuesday sports and Thursday fishing remain untouched reservations requiring their own near-delivery sources and existing approval rules; no future scores, catches, weather, local events, hours or closures are invented here.
+Optional Stories replace a named post and each separately published Story counts against the chosen channel’s capacity; use the single-card fallback or omit extra frames if needed. They never run alongside the displaced acquisition feed item, auto-cross-post, or bypass capacity. Saturday prompts are conditional on no legacy award/community commitment, an actual fresh useful local need, exact approval/media, and current capacity. Tuesday sports and Thursday fishing remain untouched reservations requiring their own near-delivery sources and existing approval rules; no future scores, catches, weather, local events, hours or closures are invented here.
 
 **Capacity:** two placements per channel per local day; 7–10 Facebook and 7–10 Instagram weekly separately, inclusive of commitments/reservations; up to two GBP and LinkedIn each weekly inclusive of legacy. Parent snapshot counts are capacity envelopes, not promises that conditional/gated content will run. In particular, week 6 would deliver only six FB and six IG placements if its Saturday candidate is ineligible. Do not fill that gap with invented need or change the baseline counts.
 
@@ -40,7 +40,7 @@ Obtain separate exact-copy, format/media, destination and channel/date/time appr
 
 **Hook:** One question is a useful place to start.
 
-**Primary destination:** `/start-here` — pending deployment and verified public release; hold linked activation.
+**Primary destination:** `/start-here` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
 
 <a id="w1-mon-facebook"></a>
 
@@ -72,9 +72,9 @@ Begin a direct conversation with the general topic, not a photo of your paperwor
 Find Start Here through the website link in our profile, then choose the route that fits your question.
 ```
 
-**Default visual:** `W1-MON-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W1-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-01.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: One question is a useful place to start. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: One question is a useful place to start. Central question: Which part of this renewal should I look at first? Follow-up questions: What would you need from me to talk through this? What information would be useful next? Next step: Write your first question in your own words. Begin a direct conversation with the general topic. Privacy reminder: Keep policy numbers and document photos out of public comments. Note: Original editorial prompts; not customer quotes. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Await an authorized authentic photo in the real Morrison office: staff hand writing only ‘One renewal question’ on a fresh blank note beside an empty cream tabletop. No customers, policy papers, computer screen or identifying text. Warm natural light, plain green/cream/amber accents, everyday clothing if a person is visible. Frame 4:5 for FB/IG with room for the short hook. No asset produced in this task.
 
@@ -98,7 +98,7 @@ Find Start Here through the website link in our profile, then choose the route t
 
 **Hook:** Do I need to send all my paperwork first?
 
-**Primary destination:** `/prepare-for-a-conversation` — pending deployment and verified public release; hold linked activation.
+**Primary destination:** `/prepare-for-a-conversation` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
 
 <a id="w1-wed-facebook"></a>
 
@@ -128,9 +128,9 @@ You can write down what you want explained before deciding what paperwork to sha
 For an ungated checklist, open Prepare for a Conversation through the website link in our profile. Preparation can begin with your own short note.
 ```
 
-**Default visual:** `W1-WED-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W1-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-02.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: Do I need to send all my paperwork first? Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: Do I need to send all my paperwork first? Central question: What information would be useful for our conversation? Follow-up questions: Which pages do you need? How should I share them? Next step: Keep paperwork with you. Ask what is needed before deciding what to send. Privacy reminder: No policy or identity details in comments or social messages. Do not assume a social inbox is the right place for documents. Note: Preparation prompts; no promise of a document-free quote or review. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Await an authorized real-office photo of an empty chair and a blank notepad with the single staff-written question ‘What would be useful next?’ No renewal packets, document piles, customer belongings or visible screens. Everyday, welcoming working space, not a staged carrier advertisement. Crop 4:5; preserve readable contrast. No claim of office hours or staff availability.
 
@@ -188,9 +188,9 @@ Try: ‘Can you help me understand this deductible?’ Do not post the page or p
 Find our auto quote checklist in Resources through the website link in our profile.
 ```
 
-**Default visual:** `W1-FRI-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W1-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-03.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: Where do I find the details I want explained? Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: Where do I find the details I want explained? Central question: Where do I find the details I want explained? Follow-up questions: Can you help me understand this deductible? Which details should be lined up before comparing the price? Next step: Keep your declarations page for your own reference. Choose one heading to ask about. Privacy reminder: Do not post your declarations page or policy details. Ask how to share anything needed directly. Note: TDI: the declarations page summarizes coverages, dollar limits and deductibles. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Await an authentic staff photo at the real office holding three plain cards staff has handwritten ‘Coverages’, ‘Limits’ and ‘Deductibles’. Cards are topic labels, not mock policies. Show no real or imitation declarations page, customer paperwork, names, numbers or screens. Keep everyday clothing and soft natural light. 4:5 crop; short question above cards if approved.
 
@@ -214,7 +214,7 @@ Find our auto quote checklist in Resources through the website link in our profi
 
 **Hook:** How will I know what happens next?
 
-**Primary destination:** `/what-to-expect` — pending deployment and verified public release; hold linked activation.
+**Primary destination:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
 
 <a id="w1-sun-facebook"></a>
 
@@ -246,9 +246,9 @@ Keep policy details and documents out of comments and social messages.
 Find What to Expect through the website link in our profile for a plain-language look at getting started. Save your question for the actual conversation.
 ```
 
-**Default visual:** `W1-SUN-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W1-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-04.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: How will I know what happens next? Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: How will I know what happens next? Central question: How will I know what happens next? Follow-up questions: What is the next step, and who should I speak with? When should I check back? Next step: Save these questions for the end of a first conversation. Confirm what information is useful next. Privacy reminder: Keep policy details and documents out of comments and social messages. Note: No office-hours, availability or response-time promise. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Await an authorized authentic Morrison staff photo at a cleared office table with a handwritten note containing only ‘Next step?’ and ‘When should I check back?’ No clock, schedule, calendar, customer, paperwork or implied staffed-on-Sunday message. Natural light; everyday office context. 4:5 crop. Capture date need not be the proposed posting day; do not imply it is.
 
@@ -284,7 +284,7 @@ Please keep policy numbers, identity details and document photos out of public c
 Start Here offers a way to choose a starting route for a renewal or another insurance question. Confirm any next-step timing during the actual conversation. You do not need to tell your whole story in public to find a place to begin.
 ```
 
-**Separate CTA metadata, never body:** Learn more → https://morrison-ins.net/start-here. pending deployment and verified public release; hold linked activation. Supported separate field and full individual body/button/media preview required; no unapproved URL-to-button workaround.
+**Separate CTA metadata, never body:** Learn more → https://morrison-ins.net/start-here. Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Supported separate field and full individual body/button/media preview required; no unapproved URL-to-button workaround.
 
 **Authentic photo required, not a checklist graphic:** Await a newly authorized authentic photo taken inside the real Morrison office of a staff hand and a blank note reading only ‘One question’. Use the actual cleared table and natural light; no user asset, stock photo, generated scene, customer, document, phone screen, schedule or personally identifying detail. Capture with staff permission; no face/name is required. Use the approved real photo only after checking what is actually in frame. No photo is produced or sourced here.
 
@@ -350,7 +350,7 @@ Morrison Insurance's ungated preparation page is a place to organize general que
 Preparation is not a coverage decision. Let the actual conversation establish what information and next steps are needed.
 ```
 
-**Destination metadata:** `/prepare-for-a-conversation` — pending deployment and verified public release; hold linked activation. Caption contains a link; recheck before any linked activation.
+**Destination metadata:** `/prepare-for-a-conversation` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Caption contains a link; recheck before any linked activation.
 
 **Optional media:** Optional authentic office notepad photo from a separately approved capture; clean blank surface, no documents or people without consent. Copy can remain text-only if manually approved. No asset obtained here.
 
@@ -380,7 +380,7 @@ Morrison Insurance's What to Expect page explains getting started and keeping pe
 A short first message can identify the general topic without attaching policy documents. Ask how any needed information should be provided. Keep your notes for the real conversation, where you can confirm the next step and its timing.
 ```
 
-**Destination metadata:** `/what-to-expect` — pending deployment and verified public release; hold linked activation. Caption contains a link; recheck before any linked activation.
+**Destination metadata:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Caption contains a link; recheck before any linked activation.
 
 **Optional media:** Optional approved authentic photograph of an empty office chair and a note reading only ‘Next step?’ No Sunday-staffing implication, calendar, clock or customer material. Text-only is an acceptable manual variant if approved; no asset obtained here.
 
@@ -648,7 +648,7 @@ Ask how to share any documents needed.
 
 **Alt text candidate:** A clear office table beneath text introducing a preparation checklist.
 
-**Destination/sticker metadata:** https://morrison-ins.net/prepare-for-a-conversation — pending deployment and verified public release; hold linked activation. Original approved no-sticker/fallback variants, if supplied above, require exact-copy selection and do not add volume. No Story assets are attached by assembler.
+**Destination/sticker metadata:** https://morrison-ins.net/prepare-for-a-conversation — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Original approved no-sticker/fallback variants, if supplied above, require exact-copy selection and do not add volume. No Story assets are attached by assembler.
 
 **Original source support:** W1:B1 — supplied source (/home/ubuntu/research/acquisition-build-2026-11-16/production-brief.md)
 
@@ -902,9 +902,9 @@ You can bring that question without deciding an insurance category first. Save t
 Keep addresses, belongings, and documents out of comments. One useful question is enough to begin.
 ```
 
-**Default visual:** `W2-MON-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W2-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-01.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: A building name is only the beginning. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: A building name is only the beginning. Central question: What happens inside the shed? Follow-up questions: What is each separate building used for now? Has that use changed? Next step: Make a private list: the building, its current use and what changed. Bring one use question. Privacy reminder: Keep addresses, values, serial numbers and photos of belongings out of comments. Note: TDI: home coverages vary by company. These prompts do not assign an insurance category. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic staff-made photo only after approval: an unfilled cream note card on a clear office desk, with the heading “Building / Current use / What changed.” Staff hand may point to the headings. No actual property photo or personal details; no claims that a shed pictured belongs to a customer. Green border and small amber underline; readable text with generous margins. This task supplies no image.
 
@@ -926,7 +926,7 @@ Keep addresses, belongings, and documents out of comments. One useful question i
 
 **Hook:** A plan and a completed change are different notes.
 
-**Primary destination:** `/prepare-for-a-conversation` — pending deployment and verified public release; hold linked activation.
+**Primary destination:** `/prepare-for-a-conversation` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
 
 <a id="w2-wed-facebook"></a>
 
@@ -984,9 +984,9 @@ A useful question is: “What would you need to understand this change, and when
 Save these prompts for your next conversation. They help describe a change, not decide coverage. Please leave addresses and project documents out of comments.
 ```
 
-**Default visual:** `W2-WED-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W2-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-02.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: A plan and a completed change are different notes. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: A plan and a completed change are different notes. Central question: Is the work planned, underway or finished? Follow-up questions: Will the space be used differently afterward? What would you need to understand this change, and when should we talk? Next step: Separate planned, underway and finished work in a private note. Confirm the next step directly. Privacy reminder: Keep project addresses, contractor documents and financial details out of comments. Note: Editorial prompts; no policy requirement, deadline or coverage result is asserted. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** New authentic staff photo of three blank index cards headed “Planned,” “Underway,” and “Finished” on an office table. A fourth unfilled card reads “Will the use change?” No fabricated project dates, contractor paperwork or customer story. Cream cards, green lettering and one amber tab; no promotional product imagery.
 
@@ -1012,7 +1012,7 @@ Save these prompts for your next conversation. They help describe a change, not 
 
 **Hook:** “Someone will stay here” leaves a few useful questions open.
 
-**Primary destination:** `/what-to-expect` — pending deployment and verified public release; hold linked activation.
+**Primary destination:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
 
 <a id="w2-fri-facebook"></a>
 
@@ -1070,9 +1070,9 @@ A first message can be simple: “I have a question about who will use part of m
 Save this wording for a private conversation. Keep guest names, travel dates, addresses, and payment details out of comments.
 ```
 
-**Default visual:** `W2-FRI-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W2-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-03.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: “Someone will stay here” leaves a few useful questions open. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: “Someone will stay here” leaves a few useful questions open. Central question: Is it an occasional visit or an ongoing arrangement? Follow-up questions: Is any payment involved? Has the plan started, or are you still considering it? Next step: Describe the plan privately before trying to label it. Ask what information to bring. Privacy reminder: Keep guest names, travel dates, addresses and payment details off social media. Note: Conversation prompts, not a rental classification or coverage answer. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic staff-made office photograph of a blank notebook with one handwritten general question: “Who will use the space?” Keep the rest of the page empty. No staged guest scene, house keys with address labels, booking screenshots, rental listings or implied real customer case. Staff consent and clean background required.
 
@@ -1096,7 +1096,7 @@ Save this wording for a private conversation. Keep guest names, travel dates, ad
 
 **Hook:** A rural address is not the whole description.
 
-**Primary destination:** `/start-here` — pending deployment and verified public release; hold linked activation.
+**Primary destination:** `/start-here` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
 
 <a id="w2-sun-facebook"></a>
 
@@ -1154,9 +1154,9 @@ Then choose one question about a routine or a recent change. You do not have to 
 Save that question for a conversation with your agent. Keep exact locations, animal counts, equipment details, and documents out of comments.
 ```
 
-**Default visual:** `W2-SUN-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W2-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-04.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: A rural address is not the whole description. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: A rural address is not the whole description. Central question: What happens on the land now? Follow-up questions: Is it living, animals, growing, storage or an activity involving sales? What routine or recent change do I want to understand? Next step: List the uses privately; more than one can go on your note. Choose one question for your agent. Privacy reminder: Keep exact locations, animal counts, equipment details and documents out of comments and social messages. Note: Editorial prompts; acreage and activities do not determine policy fit here. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** New authentic photograph of an unfilled staff-created paper checklist headed “What happens on the land?” with unchecked prompts “Daily use,” “Recent change,” and “One question.” Photograph at a cleared office desk. No aerial map, livestock counts, equipment inventory, branded supplier/customer identity or scenic stock image presented as Shelby County property.
 
@@ -1214,7 +1214,7 @@ A planned home project is easier to describe when you separate what is planned, 
 Ask your agent: “What information should I bring, and when should we talk about this change?” Confirm the next step during that conversation. You can begin with the general topic instead of sharing a project address, contractor documents, or financial details in public comments.
 ```
 
-**Separate CTA metadata, never body:** Learn more → https://morrison-ins.net/prepare-for-a-conversation. pending deployment and verified public release; hold linked activation. Supported separate field and full individual body/button/media preview required; no unapproved URL-to-button workaround.
+**Separate CTA metadata, never body:** Learn more → https://morrison-ins.net/prepare-for-a-conversation. Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Supported separate field and full individual body/button/media preview required; no unapproved URL-to-button workaround.
 
 **Authentic photo required, not a checklist graphic:** Staff must later photograph three unfilled paper cards at the real office, headed “Planned,” “Underway,” and “Finished.” Include no project dates, names, contractors, customer paperwork or actual house pictures. Warm cream/green with a small amber marker. Staff/location consent and final frame inspection required. This task creates no image.
 
@@ -1248,7 +1248,7 @@ These are preparation questions, not a statement about what any policy covers. W
 Keep employer details, client names, addresses, and documents off social media. You can start with one question without publishing your working life.
 ```
 
-**Destination metadata:** `/prepare-for-a-conversation` — pending deployment and verified public release; hold linked activation. Exact copy has no link/page promise; do not attach a new-page link silently.
+**Destination metadata:** `/prepare-for-a-conversation` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Exact copy has no link/page promise; do not attach a new-page link silently.
 
 **Optional media:** Optional authentic staff desk photo of a blank note card titled “What happens in this space?” No live laptop screen, employer logo, client paperwork or invented home-business scene. Text-only is acceptable after manual approval; no asset supplied.
 
@@ -1278,7 +1278,7 @@ Try a short private note: what is changing, whether it is planned or underway, a
 The next step is a conversation, not a conclusion in a comment thread. Confirm timing directly, and keep addresses, contracts, financial details, and other people's names private.
 ```
 
-**Destination metadata:** `/what-to-expect` — pending deployment and verified public release; hold linked activation. Exact copy has no link/page promise; do not attach a new-page link silently.
+**Destination metadata:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Exact copy has no link/page promise; do not attach a new-page link silently.
 
 **Optional media:** Optional authentic office photo of a blank folder beside a general handwritten card reading “What changed? What is my question?” No contract, customer document or fake case story. Text-only is acceptable after manual approval; no asset supplied.
 
@@ -1632,7 +1632,7 @@ These prompts do not decide coverage.
 
 **No verified link option:** Omit the link sticker; frame wording remains exactly as supplied and does not claim a page is live.
 
-**Destination/sticker metadata:** https://morrison-ins.net/prepare-for-a-conversation — pending deployment and verified public release; hold linked activation. Original approved no-sticker/fallback variants, if supplied above, require exact-copy selection and do not add volume. No Story assets are attached by assembler.
+**Destination/sticker metadata:** https://morrison-ins.net/prepare-for-a-conversation — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Original approved no-sticker/fallback variants, if supplied above, require exact-copy selection and do not add volume. No Story assets are attached by assembler.
 
 **Original source support:** W2:1 — Texas Department of Insurance — Homeowners insurance guide (https://www.tdi.texas.gov/pubs/consumer/cb025.html)
 
@@ -1844,9 +1844,9 @@ You do not have to understand every term before asking a question. Keep the actu
 Save this question for your next conversation.
 ```
 
-**Default visual:** `W3-MON-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W3-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-01.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: Before comparing the total, compare the lines. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: Before comparing the total, compare the lines. Central question: Are the same coverage lines being compared? Follow-up questions: Which lines are different? What would those differences mean for this comparison? Next step: Compare coverage names, dollar limits and listed deductibles privately before comparing totals. Privacy reminder: Keep quote pages, names and identifying numbers out of comments and social messages. Note: TDI: a policy’s declarations page summarizes coverages, limits and deductibles; it does not prove quotes match. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** New authentic overhead office photo of three cream question cards handwritten Coverage names, Limits and Deductibles on a plain green desk mat. A staff hand may point if consented. No printed quote, actual declarations page, customer file, screen or carrier logo. Warm natural light with a small amber pencil; no suits or staged client scene.
 
@@ -1904,9 +1904,9 @@ Write one question: “Can we check the driver and use information before compar
 Keep your notes private. A general question can start the conversation; ask the team how to handle any needed information next.
 ```
 
-**Default visual:** `W3-WED-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W3-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-02.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: Does this quote describe how your car is actually used? Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: Does this quote describe how your car is actually used? Central question: Does this quote describe how my car is actually used? Follow-up questions: Who does the proposed policy cover? Is anyone excluded? Next step: Ask to check the driver and use information before comparing quotes. Keep the details in your own notes. Privacy reminder: Do not post names, driving records or vehicle details. Ask how to handle needed information privately. Note: TDI supports asking about car use, who is covered and exclusions; no answer is assumed. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** New authentic staff-prepared note at an uncluttered office desk with only the questions Who is covered? and How is the car used? in handwriting. Photograph the blank question aid without a person if consent is unavailable. No vehicles, plates, identifiable driver, real application or invented mileage figure.
 
@@ -1964,9 +1964,9 @@ TDI's checklist asks whether price differs when paying in advance. Ask; do not a
 Keep dollar amounts, account information and quote pages out of comments or social messages. Understanding the comparison does not require a decision today.
 ```
 
-**Default visual:** `W3-FRI-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W3-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-03.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: What does the amount on the quote actually describe? Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: What does the amount on the quote actually describe? Central question: What does the amount on the quote actually describe? Follow-up questions: Is it the policy total, an initial payment or an installment? Can you walk me through the full quoted cost and payment schedule for the same period? Next step: Use three private headings: policy period, total quoted premium and payment questions. Privacy reminder: Keep dollar amounts, account details and quote pages off social media. Note: TDI suggests asking whether paying in advance changes price. Ask; do not assume. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** New authentic desk still of a staff-written blank comparison aid with headings Policy period, Total quoted premium and Payment questions. No amounts, dates, filled cells, insurer branding or financial documents. The blank aid must not resemble a fabricated customer quote. Green and cream paper with a small amber tab.
 
@@ -2026,9 +2026,9 @@ TDI says not to cancel the current policy until you get the new policy or a writ
 Keep documents and policy numbers private. Save this question: “What confirms the effective date before cancellation?”
 ```
 
-**Default visual:** `W3-SUN-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W3-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-04.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: A requested start date is something to confirm, not assume. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: A requested start date is something to confirm, not assume. Central question: What confirms the effective date before cancellation? Follow-up questions: When does the current policy end, including any applicable time? When does new coverage begin, and what written document confirms it? Next step: Ask the relevant insurer to confirm the actual timing and written proof. A quote alone is not confirmation. Privacy reminder: Keep policy numbers and documents out of comments and social messages. Note: TDI: do not cancel the current policy until you get the new policy or a written statement proving coverage. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** New authentic office photo of two cream cards labeled Current policy ends? and New coverage begins? beside a third card labeled Written confirmation? No filled dates, policy papers, real calendar appointments or customer details. Photograph the question cards only; no suggestion that a particular transition is approved.
 
@@ -2638,9 +2638,9 @@ Keep the written request for a private conversation, not the comments. A useful 
 No need to share policy numbers, names or contract pages here. One clear question is a good place to begin.
 ```
 
-**Default visual:** `W4-MON-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W4-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-01.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: Start with the request, not a stack of paperwork. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: Start with the request, not a stack of paperwork. Central question: What information do you need to look at this request? Follow-up questions: Who is asking, and what did they request? What date did they give me? Next step: Keep the written certificate-of-insurance request available for a private conversation. Privacy reminder: Keep names, policy numbers and contract pages out of comments and social messages. Note: TDI: a certificate of insurance (COI) gives policy information; it does not change coverage. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic staff hands at a cleared Morrison office desk with three newly written editorial prompt cards: Who is asking? / What is requested? / What date? Cards contain no names, numbers, contract text or policy details. Warm green, cream and amber; casual office clothing; no suits or carrier branding. This is a preparation prop, not a customer example or COI. No image is supplied.
 
@@ -2699,9 +2699,9 @@ Keep customer names, addresses and employee details off the note you share socia
 Your next question can be simple: “What else would you need to understand this change?” You do not have to solve the policy question first.
 ```
 
-**Default visual:** `W4-WED-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W4-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-02.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: Describe the work now, not just the business name. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: Describe the work now, not just the business name. Central question: Does my business description still match the work I do? Follow-up questions: When did the change begin, or when is it expected? What else would you need to understand this change? Next step: On a private sheet, write: “We used to ____. Now we ____.” Keep the description general. Privacy reminder: No customer names, addresses, employee details or financial information in social messages. Note: Delivery work, equipment and customer visits are conversation topics, not coverage conclusions. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Photograph a consenting real staff member at a cleared office table, pointing to two blank index cards headed Before and Now. Do not fill in a fictional business story. Keep computer screens off-camera. Cream paper, green shirt or background accent and amber pencil. No external business locations or customers.
 
@@ -2763,9 +2763,9 @@ A certificate cannot change or extend the policy’s coverage. Extra words are n
 Please do not paste contract pages, policy numbers or customer names here. This post is a starting question—not confirmation that a job is covered or an agreement meets its requirements. Contract questions belong with the appropriate adviser.
 ```
 
-**Default visual:** `W4-FRI-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W4-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-03.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: A wording request is a question, not a coverage change. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: A wording request is a question, not a coverage change. Central question: Does this wording match what is actually in the policy? Follow-up questions: Can requested certificate wording change the policy? Does the business agreement meet my needs? Next step: Keep the exact wording request for a private conversation. Contract interpretation is a separate question. Privacy reminder: Do not paste contract pages, policy numbers or customer names into comments or social messages. Note: TDI: a COI cannot change or extend policy coverage. This card does not confirm contract compliance. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Real consenting staff member holding two editorial cards labeled Request and Policy, with no other text. Shoot in the actual office against a plain warm-green/cream background. No policy pages or sample certificates. Caption overlay uses the approved hook only. No contractual stamp, checkmark of approval or completed-document imagery.
 
@@ -2822,9 +2822,9 @@ Leave policy numbers, signatures, customer lists and contract pages out of comme
 Mention any requested date in the direct conversation and ask about timing; do not assume a turnaround. You can start with one question, not a full folder.
 ```
 
-**Default visual:** `W4-SUN-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W4-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-04.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: Ask where to send it before attaching it. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: Ask where to send it before attaching it. Central question: Where should I send business paperwork? Follow-up questions: What is the next step for this certificate request? What timing should I confirm for the requested date? Next step: Begin with the general topic. Ask Morrison’s team to confirm the document-sharing method before sending anything sensitive. Privacy reminder: No policy numbers, signatures, contract pages, customer lists or employee information in comments or social messages. Note: Editorial handoff prompts; no secure-channel or turnaround promise. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic staff hand beside a face-down, fully blank cream folder on a cleared office desk; the folder contains no documents. Add one editorial card: Ask where to send it. Do not display an email app, chat screenshot, form or a fabricated customer exchange.
 
@@ -3533,9 +3533,9 @@ For an auto question, TDI says the declaration page summarizes coverages, dollar
 From our profile’s website link, find the auto quote checklist in Resources. Start with one question; ask the team what would be useful next. No policy numbers or personal details in comments.
 ```
 
-**Default visual:** `W5-MON-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W5-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-01.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: Start with one question, not a stack of paperwork. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: Start with one question, not a stack of paperwork. Central question: What is one insurance question I want explained before year-end? Follow-up questions: Which word or date do I want to understand? What information would be useful next? Next step: Write the question on a blank sheet and leave room for the answer. Keep any auto page for your own reference. Privacy reminder: Do not post policy numbers, personal details or a photo of your declarations page. Note: For auto, TDI says the declaration page summarizes coverages, dollar limits and deductibles. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic staff-taken 4:5 still at a tidy Morrison desk. Photograph a plain cream sheet with only the editorial heading ‘One question’ and three empty lines; green pen beside it. No real question, policy, envelope, screen, calendar or identifiable customer material in frame. Warm natural light, plain clothes if hands appear, no suits or carrier signage. This is a preparation prop, not a customer document. No image created in this task.
 
@@ -3561,7 +3561,7 @@ From our profile’s website link, find the auto quote checklist in Resources. S
 
 **Hook:** A first message can explain the topic without exposing the paperwork.
 
-**Primary destination:** `/what-to-expect` — pending deployment and verified public release; hold linked activation.
+**Primary destination:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
 
 <a id="w5-wed-facebook"></a>
 
@@ -3591,9 +3591,9 @@ A general topic works: “I have a home insurance question. What is the best way
 From our profile’s website link, choose What to expect. You can start by asking about the process and confirming next-step timing, without putting your paperwork on display.
 ```
 
-**Default visual:** `W5-WED-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W5-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-02.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: A first message can explain the topic without exposing the paperwork. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: A first message can explain the topic without exposing the paperwork. Central question: What can I leave out of a first message? Follow-up questions: I have a home insurance question. What is the best way to begin? How should I provide any needed paperwork? Next step: Start with the topic. Say whether it is a new decision or help with something you already have. Privacy reminder: Leave out policy numbers, driver’s license details, birth dates, VINs and document photos. No identifiers in comments or social messages. Note: Editorial privacy prompts; no document channel is described as secure. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic staff-taken 4:5 photo of an approved staff member at a cleared desk holding an unmarked closed folder, with a separate cream card reading only ‘Start with the topic.’ Natural expression and ordinary work clothes; frame out all monitors, forms, desk-name plates and background customer identifiers. Do not stage a customer exchange or imply this is a secure document channel. No image created in this task.
 
@@ -3617,7 +3617,7 @@ From our profile’s website link, choose What to expect. You can start by askin
 
 **Hook:** Preparing a question does not have to become today’s appointment.
 
-**Primary destination:** `/prepare-for-a-conversation` — pending deployment and verified public release; hold linked activation.
+**Primary destination:** `/prepare-for-a-conversation` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
 
 <a id="w5-fri-facebook"></a>
 
@@ -3651,9 +3651,9 @@ From our profile’s website link, choose Prepare for a conversation. Keep ident
 If you have a deadline, share the date when you contact the team and confirm timing directly. This is not an office-hours announcement. You can begin with a question about the process, not a decision.
 ```
 
-**Default visual:** `W5-FRI-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W5-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-03.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: Preparing a question does not have to become today’s appointment. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: Preparing a question does not have to become today’s appointment. Central question: Can I get ready without arranging a conversation today? Follow-up questions: What part do I want explained? What next step do I want to ask about? Next step: Make a private topic note and set it aside. If you have a deadline, discuss it and confirm timing when you contact the team. Privacy reminder: Keep identifying details out of comments and social messages. Note: Preparation is not a decision today. This is not an office-hours announcement. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic staff-taken 4:5 close-up of a blank cream notepad on a clear table. Only the three generic sentence starters from the caption appear; no filled answers, personal dates, document details or holiday-hours sign. Green pen and small amber accent, without seasonal claims or staged customer material. No image created in this task.
 
@@ -3677,7 +3677,7 @@ If you have a deadline, share the date when you contact the team and confirm tim
 
 **Hook:** Choose the situation first; the paperwork can wait.
 
-**Primary destination:** `/start-here` — pending deployment and verified public release; hold linked activation.
+**Primary destination:** `/start-here` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
 
 <a id="w5-sun-facebook"></a>
 
@@ -3707,9 +3707,9 @@ From our profile’s website link, choose Start here and pick the situation that
 Keep the first message general. No policy numbers, claim details or document photos in comments or social messages. Ask the team what belongs in the next step. Choosing a route is not a commitment to buy.
 ```
 
-**Default visual:** `W5-SUN-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W5-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-04.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: Choose the situation first; the paperwork can wait. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: Choose the situation first; the paperwork can wait. Central question: Which starting point fits my question? Follow-up questions: Is it a renewal, property use, business paperwork or existing policy or claim help? Can you point me to the right starting place? Next step: Choose the situation first, then ask what information belongs in the next step. It is not a commitment to buy. Privacy reminder: Keep policy numbers, claim details and document photos out of comments and social messages. Note: Editorial routing prompts; no policy acceptance or claim outcome is promised. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic staff-taken 4:5 overhead photo of four cream cards on a clear desk, reading ‘Renewal question,’ ‘Property use,’ ‘Business paperwork’ and ‘Existing help.’ No customer documents or logos from other businesses. Include a green pen pointing between cards rather than at a recommended insurance product. This is an editorial routing prop, not evidence of a customer outcome. No image created in this task.
 
@@ -3745,7 +3745,7 @@ Leave space for an answer rather than trying to gather every document at once. K
 You can begin by asking about the process itself. If there is a deadline, discuss the date and confirm next-step timing directly. This update does not announce office hours or availability.
 ```
 
-**Separate CTA metadata, never body:** Learn more → https://morrison-ins.net/prepare-for-a-conversation. pending deployment and verified public release; hold linked activation. Supported separate field and full individual body/button/media preview required; no unapproved URL-to-button workaround.
+**Separate CTA metadata, never body:** Learn more → https://morrison-ins.net/prepare-for-a-conversation. Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Supported separate field and full individual body/button/media preview required; no unapproved URL-to-button workaround.
 
 **Authentic photo required, not a checklist graphic:** Have an approved Morrison staff member take a real horizontal 4:3 desk photo with a blank cream preparation sheet headed ‘My question’ and a green pen. No filled answers, personal data, screens, paperwork, customers, generated imagery or stock photo. Capture two crops on site for later selection; no image made in this task.
 
@@ -3775,7 +3775,7 @@ Keep policy numbers, driver’s license details, birth dates, VINs, claim detail
 You do not need to know the right insurance term to ask about the process. It is reasonable to ask what information would be useful and to confirm next-step timing during the actual conversation.
 ```
 
-**Separate CTA metadata, never body:** Learn more → https://morrison-ins.net/what-to-expect. pending deployment and verified public release; hold linked activation. Supported separate field and full individual body/button/media preview required; no unapproved URL-to-button workaround.
+**Separate CTA metadata, never body:** Learn more → https://morrison-ins.net/what-to-expect. Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Supported separate field and full individual body/button/media preview required; no unapproved URL-to-button workaround.
 
 **Authentic photo required, not a checklist graphic:** A different genuine horizontal 4:3 Morrison photo: a consenting staff member holding an unmarked closed folder at a completely cleared desk. Frame out monitors, files, customer names and other businesses. Plain clothes and natural light; no staged client, stock/generated person, or suggestion that the photo shows an actual private consultation. No image made in this task.
 
@@ -3809,7 +3809,7 @@ Our what-to-expect page outlines that first-message approach: https://morrison-i
 You can ask what information would be useful and confirm next-step timing directly. A first question does not have to be a decision, and social messages should stay general.
 ```
 
-**Destination metadata:** `/what-to-expect` — pending deployment and verified public release; hold linked activation. Caption contains a link; recheck before any linked activation.
+**Destination metadata:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Caption contains a link; recheck before any linked activation.
 
 **Optional media:** Text-only manual candidate. If an image is later approved, use an authentic blank-folder desk photograph, never real business paperwork or another business's identity. No image created or attached here.
 
@@ -3839,7 +3839,7 @@ Our start-here page groups those starting routes: https://morrison-ins.net/start
 If you are unsure, ask the team where to begin and what information would be useful. Keep identifying details out of comments and messages, and confirm timing in the actual conversation. This is a preparation step, not a promise about coverage, availability or an outcome.
 ```
 
-**Destination metadata:** `/start-here` — pending deployment and verified public release; hold linked activation. Caption contains a link; recheck before any linked activation.
+**Destination metadata:** `/start-here` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Caption contains a link; recheck before any linked activation.
 
 **Optional media:** Text-only manual candidate. An optional later authentic photo may show four generic routing cards, with no customer identity, filled paperwork or implied case result. No image created or attached here.
 
@@ -4414,7 +4414,7 @@ Choosing a route is not a commitment to buy.
 
 **Link sticker label:** Start here
 
-**Destination/sticker metadata:** https://morrison-ins.net/start-here — pending deployment and verified public release; hold linked activation. Original approved no-sticker/fallback variants, if supplied above, require exact-copy selection and do not add volume. No Story assets are attached by assembler.
+**Destination/sticker metadata:** https://morrison-ins.net/start-here — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain. Original approved no-sticker/fallback variants, if supplied above, require exact-copy selection and do not add volume. No Story assets are attached by assembler.
 
 **Original source support:** Original editorial preparation/privacy prompt; no independent insurance fact asserted. Context comes from the supplied production brief.
 
@@ -4617,9 +4617,9 @@ Keep the specifics in your own notes—not in comments or DMs. Ask Morrison how 
 Our auto quote checklist is a useful starting point. Find it through the profile link.
 ```
 
-**Default visual:** `W6-MON-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W6-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-01.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: Same car. Different routine? Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: Same car. Different routine? Central question: What has changed about how I use my car? Follow-up questions: What should we discuss about this change? What information do you need from me? Next step: Privately note a changed commute, who drives or possible work-related use. Ask how to share anything needed. Privacy reminder: Keep names, policy numbers, driver information and documents out of comments and social messages. Note: TDI supports asking about car use and exclusions. No coverage or pricing answer is assumed. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic, newly captured close-up of a consenting Morrison staff member’s hand placing an unfilled cream note card reading ‘What changed about my driving?’ beside a pen on a clear office desk. Warm green/cream/amber accents, everyday clothes if visible. No keys with identifying tags, vehicle plates, customer paperwork or screen. Compose separate 4:5 feed crops with comfortable text-safe space. Alt text: ‘A blank question card and pen on a clear desk.’ Video W6-VIDEO-1 can replace this still using these exact captions.
 
@@ -4678,9 +4678,9 @@ Then ask: “What should I explain before we discuss my policy?” A plan is a q
 Our home-versus-farm guide offers background through the profile link. Keep addresses, household details, photos, and paperwork out of comments and DMs. Ask Morrison how to share anything needed.
 ```
 
-**Default visual:** `W6-WED-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W6-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-02.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: What will that space be used for? Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: What will that space be used for? Central question: What should I explain before we discuss my policy? Follow-up questions: How is the room, shed or other space used today? What use am I considering next? Next step: Make two private notes: current use and a possible new use. You do not need a finished plan to ask a question. Privacy reminder: Keep addresses, household details, property photos and documents out of comments and social messages. Note: TDI: home coverages vary by company. A general article does not answer your particular situation. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic new staff-hands photograph at a cleared Morrison desk. Two empty cream cards have only the headings ‘Today’ and ‘Considering next’; place a pen between them. Do not fill in a real property story or depict a customer’s home. No satellite maps, addresses, family photos, files or screens. Warm green/cream/amber, plain tabletop, separate 4:5 crops. Alt text: ‘Two unfilled cards labeled Today and Considering next.’
 
@@ -4737,9 +4737,9 @@ Texas insurance guidance says not to cancel your current policy until you have t
 Our switching guide is available through the profile link. Keep dates, policy numbers, and documents out of comments and DMs. Confirm next-step timing directly; this is not a holiday-hours notice.
 ```
 
-**Default visual:** `W6-FRI-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W6-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-03.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: A new calendar. Your own policy dates. Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: A new calendar. Your own policy dates. Central question: What are my actual policy dates? Follow-up questions: Which deductible or coverage-limit detail needs explaining? What confirms new coverage before I request cancellation? Next step: Use your actual paperwork for a private reminder—not a guess based on January 1. Confirm follow-up timing directly. Privacy reminder: Do not post policy dates, numbers or paperwork. This is not a holiday-hours notice. Note: TDI: do not cancel the current policy until you have the new policy or a written statement proving coverage. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic close-up captured later at the Morrison office: consenting staff hand beside a blank planner page and an unfilled note headed ‘My policy dates / My question’. Do not insert a real date, renewal notice, insurer logo or January premium. A small ‘2027’ paper calendar tab may be an ordinary prop, but it must not imply every policy renews on January 1. No customer paperwork, screen or holiday-open signage. Warm green/cream/amber, 4:5 crops. Alt text: ‘An unfilled planner and a card for a policy-date question.’ Video W6-VIDEO-2 may replace the still with these exact captions.
 
@@ -4796,9 +4796,9 @@ For a paperwork request, ask: “What information do you need, how should I shar
 Our certificate-of-insurance guide offers background through the profile link. Keep customer names, contracts, financial details, and documents out of comments and DMs. Confirm the actual next step directly with Morrison.
 ```
 
-**Default visual:** `W6-SUN-CARD` — parent-produced original HTML-rendered checklist card for this hook/topic, not a photograph or authentic staff depiction. Actual asset path is awaiting the parent manifest.
+**Default visual:** `W6-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-04.html). Visual check passed; publication consent is separate.
 
-**Graphic alt text candidate:** Educational checklist graphic: What is decided—and what is still a possibility? Verify against the actual finished card, including its complete checklist wording.
+**Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: What is decided—and what is still a possibility? Central question: What is decided—and what is still a possibility? Follow-up questions: What information do you need, and how should I share it? When should I follow up? Next step: Separate confirmed work changes from ideas in private notes. Add the general purpose of any paperwork request. Privacy reminder: Keep customer names, contracts, financial details and documents out of comments and social messages. Note: Editorial prompts; no certificate issuance, contractual acceptance or turnaround promise. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
 **Original unselected future photo alternative:** Authentic new photograph of a consenting Morrison staff member’s hand setting down three blank note cards headed ‘Confirmed’, ‘Considering’, and ‘Next question’. Clear office desk, no contract, real certificate, customer name, account number or computer display. Plain-spoken service look, not a suited sales scene. Warm green/cream/amber, 4:5 crops. Alt text: ‘Three unfilled cards for confirmed plans, possible plans, and a next question.’
 

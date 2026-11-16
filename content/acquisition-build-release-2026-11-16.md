@@ -1,23 +1,33 @@
-# Question-led acquisition build — release record
+# Acquisition website build and release — November 16, 2026
 
-**Current status, November 16, 2026, 10:00 AM CST:** The website source is committed and pushed to GitHub as `8aaeb48fc0584ec46a620eb776aba54e070142e6`, and the managed project is fast-forwarded to that source. Public deployment has not yet been verified. New social content is a review-ready calendar, not an activated queue. Every existing social commitment is preserved.
+## Current state
 
-## What is built
+**The three new acquisition tools are live and independently verified.** After the deployment notification, the 10:14 AM CST check passed all three exact route titles, canonicals and Open Graph titles on both `morrison-ins.net` and `www.morrison-ins.net`, plus all three unique sitemap registrations. The live desktop/mobile route and checklist/tab/check/reset/PDF-link checks then passed at 10:15 AM without submitting a form.
 
-- `/start-here`: choose a real situation and go directly to a local person or optional preparation.
-- `/prepare-for-a-conversation`: accessible auto, home/rural and small-business checklists, in-page checkboxes and reset controls, browser print, and three ungated hosted one-page PDF downloads. No personal-data fields, uploads or submission.
-- `/what-to-expect`: a plain-language human handoff, the existing named team, privacy boundaries and an easy direct contact path. No response-time, savings or coverage guarantee.
+The source was built, integrated, tested, committed and pushed as **8aaeb48** to `thomasemorrison/morrison-insurance` main. The existing managed website was fast-forwarded from that verified source and tested again. Release-ready checkpoint: **3f3e0625**. The earlier 10:01 AM generic fallback was a pre-deployment observation, now superseded; there is no remaining Website panel Publish task for this build.
 
-The new links appear below the existing homepage hero, on Contact and Resources, across the shared service-page layout, and in navigation/footer. Existing pages, articles and forms remain. Three service-schema canonical destinations were corrected to the real domain, and an incorrect Texas workers' compensation requirement was corrected using TDI guidance.
+## Built and integrated
 
-## Checks passed
+- [Start Here](https://morrison-ins.net/start-here): choose the reader's situation, with immediate existing phone/email choices and preparation links.
+- [Prepare for a Conversation](https://morrison-ins.net/prepare-for-a-conversation): optional auto/renewal, home/rural and business checklists; interactive checked-item/reset behavior, local printing and three direct ungated PDF downloads. No personal-information fields, storage, upload or submission.
+- [What to Expect](https://morrison-ins.net/what-to-expect): existing local team, practical first-message and private document-sharing expectations, with no response-time, coverage or price guarantee.
 
-TypeScript, all **42 tests**, production build, raw production-preview title/canonical responses and unique sitemap registrations passed. All three pages were checked at 390px and 1440px widths with no horizontal overflow. Checklist topic selection, checkbox/reset progress and all three PDF buttons passed. Each hosted PDF returned HTTP 200 with a PDF signature and has one page. The proposed authentic building share image is accessible. Focused mobile and desktop previews were inspected.
+Shared pathway integrated into homepage, Contact, Resources, all four existing service pages, navigation and footer. Existing routes, articles, forms and committed social posts retained. New raw-response titles/descriptions/canonicals/Open Graph and sitemap URLs registered. Corrected two existing service schema URLs and the business-page workers' compensation wording while retaining those pages and their subjects. The shared preview image is existing local imagery; these utilities are not new blog articles with reused article heroes.
 
-The existing HubSpot form, CookieConsent, `client/index.html`, backend routers and package configuration have no source diff. No form was submitted; no lead success, consent or GA4/GTM behavior is claimed tested end to end. No Ads, billing, tracking event or account link changed.
+## Completed acceptance evidence
 
-## Deployment and follow-up
+TypeScript, **42 tests** and production build passed in canonical and managed workspaces. Six local desktop/mobile route previews and checklist/check/reset/print/PDF controls passed without a form submission. Raw production-build responses matched each new route's metadata and sitemap entry. All three hosted PDFs returned public PDF content and were each exactly one page. Mobile first-screen, desktop tool and expectation-page visual checks passed. New campaign graphics received separate render and visual checks.
 
-Save the existing project's release checkpoint, use the Website panel's Publish control, and then check the exact new titles/canonical tags on both public domains and the live sitemap. HTTP 200 alone does not prove these new routes were released. Confirm the visible interactive tool and public PDF links before any new campaign promotion is activated.
+Public checks subsequently passed six exact domain/route responses and both sitemaps. Six live mobile/desktop route checks confirmed canonical/contact/schema presence and no horizontal overflow; topic selection, checkbox totals, reset and all three direct PDF links passed. Evidence: `research/acquisition-build-2026-11-16/public-release.json` and `live-preview/checks.json` under `/home/ubuntu/`.
 
-GA4/GSC access, consent-respecting accepted-inquiry measurement and anonymous qualified lead reporting remain separate open gates. Indexing is not claimed requested. New social activation requires current-task approval, a fresh per-channel capacity check and the correct live destination; GBP additionally requires a real topical photo and individually verified button-only links. Authentic video scripts are not finished filmed videos. The Unified Content Desk remains the only recurring workflow.
+No changes to QuoteForm, CookieConsent, tracking initialization, HubSpot settings, GA4/GTM/Ads conversions, budgets, targeting, credentials, deployment settings or existing Metricool placements. Temporary local browser/production QA servers were stopped after testing; the managed website server remains untouched.
+
+## Remaining gates
+
+Search Console access remains unavailable, so no inspection, sitemap submission, indexing request or indexed-status claim is made. Live sitemap registration supports discovery but does not prove indexing or rankings.
+
+The six-week acquisition calendar and complete supporting copy/graphics are **review-ready**, not new active social schedules. Staff video scripts require real recordings and approval; GBP requires authentic topical photos and separately verified buttons; LinkedIn retains manual hold. Current capacity and all provider fields must be checked before any separately approved scheduling action. The website-release gate is closed, but that does not grant campaign publication permission.
+
+Actual accepted-form delivery and consent-aware lead measurement remain unverified. They need authorized access and separately approved acceptance testing; successful page builds and clickable contact choices are not proof of recorded qualified leads.
+
+See [launch guide](/home/ubuntu/morrison-insurance/content/acquisition-launch-guide-2026-11-16.md), [six-week operating calendar](/home/ubuntu/morrison-insurance/content/acquisition-six-week-calendar-2026-11-16.md), and [handling playbook](/home/ubuntu/morrison-insurance/content/acquisition-team-handling-playbook-2026-11-16.md).

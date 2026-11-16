@@ -492,3 +492,16 @@ Immediate legacy post approval, Monica timing, safety, indexing, partner privacy
 - [ ] Review one existing-page pilot combining optional practical preparation, a named human next step and confirmed service expectations after the inquiry-measurement gap is resolved. No duplicate home/rural URL, widget, software, new publishing lane or customer outreach approved.
 
 Prior weekly growth, legacy post, Monica timing, safety, partner privacy, indexing and paid-media holds remain unchanged. All benchmark adaptations are proposals only.
+
+
+## November 16 — requested acquisition rebuild and six-week launch package
+
+- [x] Execute the 9:38 AM direction: build three distinct utility pages and shared acquisition navigation, preserving every existing page, form and committed post. Push tested source 8aaeb48 and fast-forward the existing managed website.
+- [x] Pass TypeScript, 42 tests and production builds; check desktop/mobile routes, checklist/check/reset/print controls, all three one-page hosted PDFs and raw production metadata/sitemap. Protected HubSpot/consent/tracking files unchanged; no lead test submitted.
+- [x] Produce a full November 23–January 3 calendar, 24 FB/IG topic pairs, 12 GBP and 12 manual LinkedIn options, 12 real-staff recording scripts, six optional Story outlines and inquiry handling/scorecard materials. Current calendar has 120 inclusive slots, not 120 new schedules; weekly FB/IG envelopes 9,8,8,8,8,7 each, with conditional research anchors retained.
+- [x] Finish and visually check 24 distinct 1080x1350 topic graphics, attach exact JPEG/PNG/editable HTML and alt text to mapping/copy/CSV, preserve all original copy/dates/commitments, and build `content/acquisition-launch-package-2026-11-16.zip`. Scripts are not filmed videos; drawings are not GBP/staff-photo substitutes. Each separately published Story must fit channel capacity.
+- [x] Public release VERIFIED after deployment notification: at 10:14 AM all six exact domain/route responses and both sitemaps pass; 10:15 AM live phone/desktop tool, topic/check/reset/PDF-link checks pass without form submission. The earlier generic fallback is superseded; no further Publish action needed for this build. Google indexing is not established.
+- [ ] Choose and explicitly approve first-week campaign placements after fresh per-channel capacity; no new campaign social drafts/schedules activated here. Record authentic staff video if chosen, obtain topical privacy-reviewed GBP photos/buttons and retain manual LinkedIn hold.
+- [ ] Verify genuine accepted-form delivery, consent-aware tracking, GA4/GSC access and anonymous agency inquiry outcomes under separate authorized access/testing. New website tools are not proof of qualified leads or tracking repair.
+
+The question-led approach is adopted in the local social guide; no existing content removed, recurring timing/permissions changed, email/partner outreach or Ads spend initiated. Shared calendar history preserved locally; older pending project-file approval was not resubmitted. Temporary local QA servers stopped; the managed website server remains. See launch guide, complete copy, calendar and package for exact scope and remaining gates. Prior benchmark proposals are superseded only for this specifically requested website/content build; measurement and broader outreach/paid-media restrictions remain.
