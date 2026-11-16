@@ -1,14 +1,14 @@
 # Morrison Insurance — full six-week social copy
 
-November 23, 2026–January 3, 2027. Prepared November 16, 2026 from existing produced materials only. **Review-ready, not approved, not an active schedule, and not an import file.** Library assembly made no provider changes. The parent separately built and released the new website; public verification passed. No new social schedules are active from this campaign.
+November 23, 2026–January 3, 2027. **All 48 approved acquisition placements are scheduled: 24 Facebook and 24 Instagram, independently verified November 16 at 10:54 AM CST.** Provider state is PENDING, not published. Seven selected GBP Updates are loaded as inactive drafts (draft=true, autoPublish=false, no media), awaiting authentic TOPICAL photos and separately verified buttons; the November 2 exception is not inherited. LinkedIn is manual copy-only. See the [verified 48-post planner receipt](/home/ubuntu/morrison-insurance/content/acquisition-social-planner-2026-11-16.json), [seven inactive GBP draft receipts](/home/ubuntu/morrison-insurance/content/acquisition-gbp-drafts-2026-11-16.json), and [final scheduling handoff](/home/ubuntu/morrison-insurance/content/acquisition-social-scheduled-2026-11-16.md). Approved captions, source evidence, dates, legacy placements and inactive option libraries remain preserved. This document is not an import file.
 
 ## How to use this library
 
 The parent’s capacity-selected calendar is authoritative for every candidate date and time: /home/ubuntu/morrison-insurance/content/acquisition-calendar-plan-2026-11-16.json. All times are America/Chicago (CST). Original writer-suggested lighter-channel days/times are superseded only where a parent candidate row exists. An option with no selected row has **no assigned time** and remains held; it is not an extra post. Keep every committed website/social placement and the old review library unchanged.
 
-Four distinct topic pairs per week occupy only the selected Monday, Wednesday, Friday and Sunday acquisition rows: 24 full Facebook captions and 24 full Instagram captions. Hooks, media notes, citations, reply IDs and gates are production notes, not extra caption text. The 12 GBP drafts and 12 LinkedIn manual drafts below form option libraries; only parent-selected lighter slots are mapped. Legacy placements consume the inclusive two-per-week allowance. LinkedIn remains manual hold, including the established account/50+ follower and exact approval checks.
+Four distinct topic pairs per week occupy only the selected Monday, Wednesday, Friday and Sunday acquisition rows: 24 full Facebook captions and 24 full Instagram captions. Hooks, media notes, citations, reply IDs and gates are production notes, not extra caption text. The 12 GBP copy options and 12 LinkedIn manual-copy options below form libraries; seven selected GBP options are loaded as inactive provider drafts and five are not loaded; no new LinkedIn provider drafts or schedules exist. Only parent-selected lighter slots are mapped. Legacy placements consume the inclusive two-per-week allowance. LinkedIn remains manual hold, including the established account/50+ follower and exact approval checks.
 
-The website-release gate is complete: `/start-here`, `/prepare-for-a-conversation` and `/what-to-expect` passed both-domain metadata/sitemap and live desktop/mobile checklist checks at 10:14–10:15 AM CST November 16. Social activation still requires the exact approved copy, media, channel dates and fresh capacity. Existing guides are live **per the production brief**, not newly verified by this assembler, and need exact near-activation public/link/preview checks. Instagram never treats caption URLs as clickable. Profile-link claims require the actual reachable route; no profile edit is authorized. Use only complete, already-produced fallback copy with fresh approval, never an improvised link swap.
+The website-release gate passed at 10:14–10:15 AM CST November 16. The 48 selected FB/IG exact-caption, still-card, channel/time/capacity and imported-media checks are complete, with independent provider readback at 10:54 AM CST. The existing profile website www.morrison-ins.net and named navigation were confirmed without a profile edit. Instagram caption URLs are not clickable. Later substitutions or additions require separate approval and fresh checks; GBP buttons and authentic topical photos remain gated.
 
 The completed set contains **24 original HTML-rendered checklist graphics**, one per topic pair, with checked files and alt text linked below. These are educational designs, not authentic staff/office/property/customer photographs, and no AI graphic is represented as a real photo. The default visual direction overrides the original still-photo suggestions for FB/IG only. Render-specific alt text below was checked against the completed graphics. Original photo briefs are retained separately as unselected future alternatives. GBP still requires a separately approved authentic photograph and a supported, verified separate Learn more button; no phone, URL/domain or hashtags belong in its visible body. No URL-to-button exception is inherited.
 
@@ -16,19 +16,19 @@ All **12 staff scripts remain full and verbatim**, with their existing recording
 
 Optional Stories replace a named post and each separately published Story counts against the chosen channel’s capacity; use the single-card fallback or omit extra frames if needed. They never run alongside the displaced acquisition feed item, auto-cross-post, or bypass capacity. Saturday prompts are conditional on no legacy award/community commitment, an actual fresh useful local need, exact approval/media, and current capacity. Tuesday sports and Thursday fishing remain untouched reservations requiring their own near-delivery sources and existing approval rules; no future scores, catches, weather, local events, hours or closures are invented here.
 
-**Capacity:** two placements per channel per local day; 7–10 Facebook and 7–10 Instagram weekly separately, inclusive of commitments/reservations; up to two GBP and LinkedIn each weekly inclusive of legacy. Parent snapshot counts are capacity envelopes, not promises that conditional/gated content will run. In particular, week 6 would deliver only six FB and six IG placements if its Saturday candidate is ineligible. Do not fill that gap with invented need or change the baseline counts.
+**Current verified counts:** FB and IG each have actual scheduled totals **6, 6, 5, 6, 5, 4** across weeks 1–6 (legacy plus four new placements weekly). With two sports/fishing reservations per channel/week, capacity is **8, 8, 7, 8, 7, 6**; with conditional Saturdays the envelope is **9, 8, 8, 8, 8, 7**. Reservations and conditional Saturdays are **not active**. The 7–10 weekly target is not fully scheduled. The daily cap remains two per channel; GBP/LinkedIn remain up to two weekly inclusive of legacy.
 
 **Source correction:** TDI `cb030.html` is the Workers’ compensation insurance guide, not a general small-business guide. It supplies no general-business/COI claim. The official COI evidence is the TDI certificates FAQ (`https://www.tdi.texas.gov/certificates/faq.html`) and the originally cited TDI-hosted form. Original writers verified cited sources November 16, 2026; no research was rerun. Retain their narrow support and activation-time recheck gates. Original gate IDs and reply IDs are week-scoped, not globally interchangeable.
 
-## Before any later activation
+## After scheduling / before any later change or held-item activation
 
-Obtain separate exact-copy, format/media, destination and channel/date/time approval. Verify actual public route-specific release on both Morrison domains, mobile and metadata, plus ungated/no-personal-data preparation checklist behavior. A push, preview or HTTP 200 alone is not release evidence. Obtain authentic staff/photo consent where applicable, inspect actual media/alt and complete GBP button-only previews, refresh current per-channel inventory including omitted published items, old library, Stories and reservations, and preserve all commitments. After any separately authorized provider action, independently read back exact text, media, CTA, channel, date/time/timezone and status; PENDING is scheduled, not published. Verify accessible live output after publication. No tracking changes or claim that clicks/followers are leads is authorized.
+The selected 48 FB/IG placements have completed approval and independent exact-field readback; do not reschedule or duplicate them. After provider publication, verify accessible live output. For any later change, substitution or held-item activation, obtain its separate exact-copy/media/channel/time approval, fresh destination and per-channel capacity checks including legacy, Stories and reservations, and independent provider readback. GBP requires authentic TOPICAL media plus a separately supported/verified button; no inherited November 2 exception. LinkedIn remains manual copy-only. PENDING means scheduled, not published. No tracking changes or claim that clicks/followers are leads is authorized.
 
 ## Week 1 — 2026-11-23–2026-11-29
 
 **Theme:** Bring one renewal question; a first conversation without paperwork overload.
 
-**Preserved parent capacity envelope:** Facebook 9; Instagram 9; GBP 2; LinkedIn 2, including commitments and reservations.
+**Preserved parent capacity envelope:** Facebook 9; Instagram 9; GBP 2; LinkedIn 2, including commitments and reservations. Planning envelope only, not the actual scheduled count.
 
 **Original produced materials:** [week-1.md](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-1.md) and [week-1.json](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-1.json).
 
@@ -36,11 +36,13 @@ Obtain separate exact-copy, format/media, destination and channel/date/time appr
 
 ### W1-MON — Choose the one renewal question you want answered first
 
-**Assigned candidate:** Facebook 2026-11-23 16:00 CST; Instagram 2026-11-23 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-11-23 16:00 CST; Instagram 2026-11-23 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430346728](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=6180902717792997219) — UUID `6180902717792997219`; [Instagram post 430346817](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=4070390498538570508) — UUID `4070390498538570508`.
 
 **Hook:** One question is a useful place to start.
 
-**Primary destination:** `/start-here` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
+**Primary destination:** `/start-here` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; selected FB/IG approval/capacity/exact-media checks complete; provider publication pending.
 
 <a id="w1-mon-facebook"></a>
 
@@ -72,7 +74,7 @@ Begin a direct conversation with the general topic, not a photo of your paperwor
 Find Start Here through the website link in our profile, then choose the route that fits your question.
 ```
 
-**Default visual:** `W1-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-01.html). Visual check passed; publication consent is separate.
+**Default visual:** `W1-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-01.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: One question is a useful place to start. Central question: Which part of this renewal should I look at first? Follow-up questions: What would you need from me to talk through this? What information would be useful next? Next step: Write your first question in your own words. Begin a direct conversation with the general topic. Privacy reminder: Keep policy numbers and document photos out of public comments. Note: Original editorial prompts; not customer quotes. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -94,11 +96,13 @@ Find Start Here through the website link in our profile, then choose the route t
 
 ### W1-WED — Ask what information is needed next before sending paperwork
 
-**Assigned candidate:** Facebook 2026-11-25 16:00 CST; Instagram 2026-11-25 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-11-25 16:00 CST; Instagram 2026-11-25 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430346900](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=8758520659484429549) — UUID `8758520659484429549`; [Instagram post 430347012](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-5571106381511375796) — UUID `-5571106381511375796`.
 
 **Hook:** Do I need to send all my paperwork first?
 
-**Primary destination:** `/prepare-for-a-conversation` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
+**Primary destination:** `/prepare-for-a-conversation` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; selected FB/IG approval/capacity/exact-media checks complete; provider publication pending.
 
 <a id="w1-wed-facebook"></a>
 
@@ -128,7 +132,7 @@ You can write down what you want explained before deciding what paperwork to sha
 For an ungated checklist, open Prepare for a Conversation through the website link in our profile. Preparation can begin with your own short note.
 ```
 
-**Default visual:** `W1-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-02.html). Visual check passed; publication consent is separate.
+**Default visual:** `W1-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-02.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: Do I need to send all my paperwork first? Central question: What information would be useful for our conversation? Follow-up questions: Which pages do you need? How should I share them? Next step: Keep paperwork with you. Ask what is needed before deciding what to send. Privacy reminder: No policy or identity details in comments or social messages. Do not assume a social inbox is the right place for documents. Note: Preparation prompts; no promise of a document-free quote or review. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -152,7 +156,9 @@ For an ungated checklist, open Prepare for a Conversation through the website li
 
 ### W1-FRI — Find the coverages, limits and deductibles before asking a comparison question
 
-**Assigned candidate:** Facebook 2026-11-27 10:00 CST; Instagram 2026-11-27 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-11-27 10:00 CST; Instagram 2026-11-27 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430347160](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=5430087549024684028) — UUID `5430087549024684028`; [Instagram post 430347300](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=3963832252659945320) — UUID `3963832252659945320`.
 
 **Hook:** Where do I find the details I want explained?
 
@@ -188,7 +194,7 @@ Try: ‘Can you help me understand this deductible?’ Do not post the page or p
 Find our auto quote checklist in Resources through the website link in our profile.
 ```
 
-**Default visual:** `W1-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-03.html). Visual check passed; publication consent is separate.
+**Default visual:** `W1-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-03.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: Where do I find the details I want explained? Central question: Where do I find the details I want explained? Follow-up questions: Can you help me understand this deductible? Which details should be lined up before comparing the price? Next step: Keep your declarations page for your own reference. Choose one heading to ask about. Privacy reminder: Do not post your declarations page or policy details. Ask how to share anything needed directly. Note: TDI: the declarations page summarizes coverages, dollar limits and deductibles. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -210,11 +216,13 @@ Find our auto quote checklist in Resources through the website link in our profi
 
 ### W1-SUN — Ask who handles the next step and confirm timing in the real conversation
 
-**Assigned candidate:** Facebook 2026-11-29 10:00 CST; Instagram 2026-11-29 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-11-29 10:00 CST; Instagram 2026-11-29 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430347401](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=8549892388218947241) — UUID `8549892388218947241`; [Instagram post 430347574](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=7765977861598298346) — UUID `7765977861598298346`.
 
 **Hook:** How will I know what happens next?
 
-**Primary destination:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
+**Primary destination:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; selected FB/IG approval/capacity/exact-media checks complete; provider publication pending.
 
 <a id="w1-sun-facebook"></a>
 
@@ -246,7 +254,7 @@ Keep policy details and documents out of comments and social messages.
 Find What to Expect through the website link in our profile for a plain-language look at getting started. Save your question for the actual conversation.
 ```
 
-**Default visual:** `W1-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-04.html). Visual check passed; publication consent is separate.
+**Default visual:** `W1-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-01-topic-04.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: How will I know what happens next? Central question: How will I know what happens next? Follow-up questions: What is the next step, and who should I speak with? When should I check back? Next step: Save these questions for the end of a first conversation. Confirm what information is useful next. Privacy reminder: Keep policy details and documents out of comments and social messages. Note: No office-hours, availability or response-time promise. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -270,7 +278,9 @@ Find What to Expect through the website link in our profile for a plain-language
 
 #### W1-GBP-1 — Start with one renewal question.
 
-**Selection:** selected candidate; still held. 2026-11-25 13:00 CST — GBP
+**Selection:** selected and loaded as an INACTIVE draft, not scheduled (draft=true; autoPublish=false; no media). 2026-11-25 13:00 CST — GBP
+
+**Draft receipt:** [post 430339319](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-329809874376767082) — UUID `-329809874376767082`. Inactive draft; authentic TOPICAL photo and separately verified supported Learn more button required; November 2 URL-to-button exception is not inherited.
 
 **Type:** Update, not Offer/Event. **Exact visible body:** 710 characters, including whitespace. No URLs, phone numbers, domains or hashtags.
 
@@ -844,7 +854,7 @@ Verified support: Brand, existing-guide live status and proposed service-page pu
 
 **Theme:** Home/rural property use and changes worth discussing, not coverage conclusions
 
-**Preserved parent capacity envelope:** Facebook 8; Instagram 8; GBP 2; LinkedIn 2, including commitments and reservations.
+**Preserved parent capacity envelope:** Facebook 8; Instagram 8; GBP 2; LinkedIn 2, including commitments and reservations. Planning envelope only, not the actual scheduled count.
 
 **Original produced materials:** [week-2.md](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-2.md) and [week-2.json](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-2.json).
 
@@ -852,7 +862,9 @@ Verified support: Brand, existing-guide live status and proposed service-page pu
 
 ### W2-MON — What happens inside the shed? Describe use rather than rely on a building label.
 
-**Assigned candidate:** Facebook 2026-11-30 16:00 CST; Instagram 2026-11-30 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-11-30 16:00 CST; Instagram 2026-11-30 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430348733](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=8814317835074947620) — UUID `8814317835074947620`; [Instagram post 430348799](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=2605680509919972272) — UUID `2605680509919972272`.
 
 **Hook:** A building name is only the beginning.
 
@@ -902,7 +914,7 @@ You can bring that question without deciding an insurance category first. Save t
 Keep addresses, belongings, and documents out of comments. One useful question is enough to begin.
 ```
 
-**Default visual:** `W2-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-01.html). Visual check passed; publication consent is separate.
+**Default visual:** `W2-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-01.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: A building name is only the beginning. Central question: What happens inside the shed? Follow-up questions: What is each separate building used for now? Has that use changed? Next step: Make a private list: the building, its current use and what changed. Bring one use question. Privacy reminder: Keep addresses, values, serial numbers and photos of belongings out of comments. Note: TDI: home coverages vary by company. These prompts do not assign an insurance category. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -922,11 +934,13 @@ Keep addresses, belongings, and documents out of comments. One useful question i
 
 ### W2-WED — When is the change happening? Separate a repair, a planned change and a new use.
 
-**Assigned candidate:** Facebook 2026-12-02 16:00 CST; Instagram 2026-12-02 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-02 16:00 CST; Instagram 2026-12-02 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430348866](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=3659167870419422199) — UUID `3659167870419422199`; [Instagram post 430349057](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-712103643886303944) — UUID `-712103643886303944`.
 
 **Hook:** A plan and a completed change are different notes.
 
-**Primary destination:** `/prepare-for-a-conversation` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
+**Primary destination:** `/prepare-for-a-conversation` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; selected FB/IG approval/capacity/exact-media checks complete; provider publication pending.
 
 <a id="w2-wed-facebook"></a>
 
@@ -984,7 +998,7 @@ A useful question is: “What would you need to understand this change, and when
 Save these prompts for your next conversation. They help describe a change, not decide coverage. Please leave addresses and project documents out of comments.
 ```
 
-**Default visual:** `W2-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-02.html). Visual check passed; publication consent is separate.
+**Default visual:** `W2-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-02.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: A plan and a completed change are different notes. Central question: Is the work planned, underway or finished? Follow-up questions: Will the space be used differently afterward? What would you need to understand this change, and when should we talk? Next step: Separate planned, underway and finished work in a private note. Confirm the next step directly. Privacy reminder: Keep project addresses, contractor documents and financial details out of comments. Note: Editorial prompts; no policy requirement, deadline or coverage result is asserted. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -1008,11 +1022,13 @@ Save these prompts for your next conversation. They help describe a change, not 
 
 ### W2-FRI — Who will use the space? Describe guests, stays and payment without labeling the answer.
 
-**Assigned candidate:** Facebook 2026-12-04 10:00 CST; Instagram 2026-12-04 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-04 10:00 CST; Instagram 2026-12-04 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430349147](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=2737648002601339229) — UUID `2737648002601339229`; [Instagram post 430349207](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=5329254668452120566) — UUID `5329254668452120566`.
 
 **Hook:** “Someone will stay here” leaves a few useful questions open.
 
-**Primary destination:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
+**Primary destination:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; selected FB/IG approval/capacity/exact-media checks complete; provider publication pending.
 
 <a id="w2-fri-facebook"></a>
 
@@ -1070,7 +1086,7 @@ A first message can be simple: “I have a question about who will use part of m
 Save this wording for a private conversation. Keep guest names, travel dates, addresses, and payment details out of comments.
 ```
 
-**Default visual:** `W2-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-03.html). Visual check passed; publication consent is separate.
+**Default visual:** `W2-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-03.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: “Someone will stay here” leaves a few useful questions open. Central question: Is it an occasional visit or an ongoing arrangement? Follow-up questions: Is any payment involved? Has the plan started, or are you still considering it? Next step: Describe the plan privately before trying to label it. Ask what information to bring. Privacy reminder: Keep guest names, travel dates, addresses and payment details off social media. Note: Conversation prompts, not a rental classification or coverage answer. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -1092,11 +1108,13 @@ Save this wording for a private conversation. Keep guest names, travel dates, ad
 
 ### W2-SUN — What is the land actually used for? Start with routines, not an acreage label.
 
-**Assigned candidate:** Facebook 2026-12-06 10:00 CST; Instagram 2026-12-06 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-06 10:00 CST; Instagram 2026-12-06 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430349317](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-8623661008583440358) — UUID `-8623661008583440358`; [Instagram post 430349404](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=6310225907684036079) — UUID `6310225907684036079`.
 
 **Hook:** A rural address is not the whole description.
 
-**Primary destination:** `/start-here` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
+**Primary destination:** `/start-here` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; selected FB/IG approval/capacity/exact-media checks complete; provider publication pending.
 
 <a id="w2-sun-facebook"></a>
 
@@ -1154,7 +1172,7 @@ Then choose one question about a routine or a recent change. You do not have to 
 Save that question for a conversation with your agent. Keep exact locations, animal counts, equipment details, and documents out of comments.
 ```
 
-**Default visual:** `W2-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-04.html). Visual check passed; publication consent is separate.
+**Default visual:** `W2-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-02-topic-04.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: A rural address is not the whole description. Central question: What happens on the land now? Follow-up questions: Is it living, animals, growing, storage or an activity involving sales? What routine or recent change do I want to understand? Next step: List the uses privately; more than one can go on your note. Choose one question for your agent. Privacy reminder: Keep exact locations, animal counts, equipment details and documents out of comments and social messages. Note: Editorial prompts; acreage and activities do not determine policy fit here. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -1178,7 +1196,9 @@ Save that question for a conversation with your agent. Keep exact locations, ani
 
 #### W2-GBP-A — Describe the building's use, not just its name.
 
-**Selection:** selected candidate; still held. 2026-12-02 13:00 CST — GBP
+**Selection:** selected and loaded as an INACTIVE draft, not scheduled (draft=true; autoPublish=false; no media). 2026-12-02 13:00 CST — GBP
+
+**Draft receipt:** [post 430339700](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-7954540651271208011) — UUID `-7954540651271208011`. Inactive draft; authentic TOPICAL photo and separately verified supported Learn more button required; November 2 URL-to-button exception is not inherited.
 
 **Type:** Update, not Offer/Event. **Exact visible body:** 539 characters, including whitespace. No URLs, phone numbers, domains or hashtags.
 
@@ -1798,7 +1818,7 @@ Use boundary: Property-use lists, preparation questions, and conversation wordin
 
 **Theme:** Compare auto quote details and effective dates without promising savings.
 
-**Preserved parent capacity envelope:** Facebook 8; Instagram 8; GBP 2; LinkedIn 2, including commitments and reservations.
+**Preserved parent capacity envelope:** Facebook 8; Instagram 8; GBP 2; LinkedIn 2, including commitments and reservations. Planning envelope only, not the actual scheduled count.
 
 **Original produced materials:** [week-3.md](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-3.md) and [week-3.json](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-3.json).
 
@@ -1806,7 +1826,9 @@ Use boundary: Property-use lists, preparation questions, and conversation wordin
 
 ### W3-MON — Are the same coverage lines being compared?
 
-**Assigned candidate:** Facebook 2026-12-07 16:00 CST; Instagram 2026-12-07 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-07 16:00 CST; Instagram 2026-12-07 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430350041](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=29657229422118811) — UUID `29657229422118811`; [Instagram post 430350117](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=3994284033811628229) — UUID `3994284033811628229`.
 
 **Hook:** Before comparing the total, compare the lines.
 
@@ -1844,7 +1866,7 @@ You do not have to understand every term before asking a question. Keep the actu
 Save this question for your next conversation.
 ```
 
-**Default visual:** `W3-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-01.html). Visual check passed; publication consent is separate.
+**Default visual:** `W3-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-01.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: Before comparing the total, compare the lines. Central question: Are the same coverage lines being compared? Follow-up questions: Which lines are different? What would those differences mean for this comparison? Next step: Compare coverage names, dollar limits and listed deductibles privately before comparing totals. Privacy reminder: Keep quote pages, names and identifying numbers out of comments and social messages. Note: TDI: a policy’s declarations page summarizes coverages, limits and deductibles; it does not prove quotes match. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -1866,7 +1888,9 @@ Save this question for your next conversation.
 
 ### W3-WED — Does each quote describe the same drivers and car use?
 
-**Assigned candidate:** Facebook 2026-12-09 16:00 CST; Instagram 2026-12-09 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-09 16:00 CST; Instagram 2026-12-09 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430350319](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=7034291702514272082) — UUID `7034291702514272082`; [Instagram post 430350424](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-5317067289630653037) — UUID `-5317067289630653037`.
 
 **Hook:** Does this quote describe how your car is actually used?
 
@@ -1904,7 +1928,7 @@ Write one question: “Can we check the driver and use information before compar
 Keep your notes private. A general question can start the conversation; ask the team how to handle any needed information next.
 ```
 
-**Default visual:** `W3-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-02.html). Visual check passed; publication consent is separate.
+**Default visual:** `W3-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-02.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: Does this quote describe how your car is actually used? Central question: Does this quote describe how my car is actually used? Follow-up questions: Who does the proposed policy cover? Is anyone excluded? Next step: Ask to check the driver and use information before comparing quotes. Keep the details in your own notes. Privacy reminder: Do not post names, driving records or vehicle details. Ask how to handle needed information privately. Note: TDI supports asking about car use, who is covered and exclusions; no answer is assumed. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -1926,7 +1950,9 @@ Keep your notes private. A general question can start the conversation; ask the 
 
 ### W3-FRI — Is the displayed amount a comparable policy total or a payment?
 
-**Assigned candidate:** Facebook 2026-12-11 10:00 CST; Instagram 2026-12-11 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-11 10:00 CST; Instagram 2026-12-11 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430350640](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=4838589632973719063) — UUID `4838589632973719063`; [Instagram post 430350715](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=2656816776675934345) — UUID `2656816776675934345`.
 
 **Hook:** What does the amount on the quote actually describe?
 
@@ -1964,7 +1990,7 @@ TDI's checklist asks whether price differs when paying in advance. Ask; do not a
 Keep dollar amounts, account information and quote pages out of comments or social messages. Understanding the comparison does not require a decision today.
 ```
 
-**Default visual:** `W3-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-03.html). Visual check passed; publication consent is separate.
+**Default visual:** `W3-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-03.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: What does the amount on the quote actually describe? Central question: What does the amount on the quote actually describe? Follow-up questions: Is it the policy total, an initial payment or an installment? Can you walk me through the full quoted cost and payment schedule for the same period? Next step: Use three private headings: policy period, total quoted premium and payment questions. Privacy reminder: Keep dollar amounts, account details and quote pages off social media. Note: TDI suggests asking whether paying in advance changes price. Ask; do not assume. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -1988,7 +2014,9 @@ Keep dollar amounts, account information and quote pages out of comments or soci
 
 ### W3-SUN — What confirms the new effective date before canceling?
 
-**Assigned candidate:** Facebook 2026-12-13 10:00 CST; Instagram 2026-12-13 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-13 10:00 CST; Instagram 2026-12-13 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430350794](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-1726769001946070481) — UUID `-1726769001946070481`; [Instagram post 430350983](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=8439886000176515832) — UUID `8439886000176515832`.
 
 **Hook:** A requested start date is something to confirm, not assume.
 
@@ -2026,7 +2054,7 @@ TDI says not to cancel the current policy until you get the new policy or a writ
 Keep documents and policy numbers private. Save this question: “What confirms the effective date before cancellation?”
 ```
 
-**Default visual:** `W3-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-04.html). Visual check passed; publication consent is separate.
+**Default visual:** `W3-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-03-topic-04.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: A requested start date is something to confirm, not assume. Central question: What confirms the effective date before cancellation? Follow-up questions: When does the current policy end, including any applicable time? When does new coverage begin, and what written document confirms it? Next step: Ask the relevant insurer to confirm the actual timing and written proof. A quote alone is not confirmation. Privacy reminder: Keep policy numbers and documents out of comments and social messages. Note: TDI: do not cancel the current policy until you get the new policy or a written statement proving coverage. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -2050,7 +2078,9 @@ Keep documents and policy numbers private. Save this question: “What confirms 
 
 #### W3-GBP-1 — Compare the coverage lines before the totals.
 
-**Selection:** selected candidate; still held. 2026-12-09 13:00 CST — GBP
+**Selection:** selected and loaded as an INACTIVE draft, not scheduled (draft=true; autoPublish=false; no media). 2026-12-09 13:00 CST — GBP
+
+**Draft receipt:** [post 430339754](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=2690271713869185474) — UUID `2690271713869185474`. Inactive draft; authentic TOPICAL photo and separately verified supported Learn more button required; November 2 URL-to-button exception is not inherited.
 
 **Type:** Update, not Offer/Event. **Exact visible body:** 747 characters, including whitespace. No URLs, phone numbers, domains or hashtags.
 
@@ -2592,7 +2622,7 @@ Recheck: Re-read close to release during December 7–13, 2026. The questions do
 
 **Theme:** Business paperwork, certificates of insurance and changing operations; no contractual promises
 
-**Preserved parent capacity envelope:** Facebook 8; Instagram 8; GBP 2; LinkedIn 2, including commitments and reservations.
+**Preserved parent capacity envelope:** Facebook 8; Instagram 8; GBP 2; LinkedIn 2, including commitments and reservations. Planning envelope only, not the actual scheduled count.
 
 **Original produced materials:** [week-4.md](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-4.md) and [week-4.json](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-4.json).
 
@@ -2600,7 +2630,9 @@ Recheck: Re-read close to release during December 7–13, 2026. The questions do
 
 ### W4-MON — A COI request arrived: what should I clarify first?
 
-**Assigned candidate:** Facebook 2026-12-14 16:00 CST; Instagram 2026-12-14 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-14 16:00 CST; Instagram 2026-12-14 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430352058](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=7094395026883888671) — UUID `7094395026883888671`; [Instagram post 430352153](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6004531811401120674) — UUID `-6004531811401120674`.
 
 **Hook:** Start with the request, not a stack of paperwork.
 
@@ -2638,7 +2670,7 @@ Keep the written request for a private conversation, not the comments. A useful 
 No need to share policy numbers, names or contract pages here. One clear question is a good place to begin.
 ```
 
-**Default visual:** `W4-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-01.html). Visual check passed; publication consent is separate.
+**Default visual:** `W4-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-01.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: Start with the request, not a stack of paperwork. Central question: What information do you need to look at this request? Follow-up questions: Who is asking, and what did they request? What date did they give me? Next step: Keep the written certificate-of-insurance request available for a private conversation. Privacy reminder: Keep names, policy numbers and contract pages out of comments and social messages. Note: TDI: a certificate of insurance (COI) gives policy information; it does not change coverage. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -2660,7 +2692,9 @@ No need to share policy numbers, names or contract pages here. One clear questio
 
 ### W4-WED — The business changed: how can I describe what is different?
 
-**Assigned candidate:** Facebook 2026-12-16 16:00 CST; Instagram 2026-12-16 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-16 16:00 CST; Instagram 2026-12-16 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430352251](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-8618244386010936256) — UUID `-8618244386010936256`; [Instagram post 430352417](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-2489039421304782581) — UUID `-2489039421304782581`.
 
 **Hook:** Describe the work now, not just the business name.
 
@@ -2699,7 +2733,7 @@ Keep customer names, addresses and employee details off the note you share socia
 Your next question can be simple: “What else would you need to understand this change?” You do not have to solve the policy question first.
 ```
 
-**Default visual:** `W4-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-02.html). Visual check passed; publication consent is separate.
+**Default visual:** `W4-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-02.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: Describe the work now, not just the business name. Central question: Does my business description still match the work I do? Follow-up questions: When did the change begin, or when is it expected? What else would you need to understand this change? Next step: On a private sheet, write: “We used to ____. Now we ____.” Keep the description general. Privacy reminder: No customer names, addresses, employee details or financial information in social messages. Note: Delivery work, equipment and customer visits are conversation topics, not coverage conclusions. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -2726,7 +2760,9 @@ https://morrison-ins.net/prepare-for-a-conversation” — only after G3 and ren
 
 ### W4-FRI — Can requested certificate wording change the policy?
 
-**Assigned candidate:** Facebook 2026-12-18 10:00 CST; Instagram 2026-12-18 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-18 10:00 CST; Instagram 2026-12-18 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430352557](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-6452748688663099207) — UUID `-6452748688663099207`; [Instagram post 430352636](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-8165987716635342209) — UUID `-8165987716635342209`.
 
 **Hook:** A wording request is a question, not a coverage change.
 
@@ -2763,7 +2799,7 @@ A certificate cannot change or extend the policy’s coverage. Extra words are n
 Please do not paste contract pages, policy numbers or customer names here. This post is a starting question—not confirmation that a job is covered or an agreement meets its requirements. Contract questions belong with the appropriate adviser.
 ```
 
-**Default visual:** `W4-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-03.html). Visual check passed; publication consent is separate.
+**Default visual:** `W4-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-03.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: A wording request is a question, not a coverage change. Central question: Does this wording match what is actually in the policy? Follow-up questions: Can requested certificate wording change the policy? Does the business agreement meet my needs? Next step: Keep the exact wording request for a private conversation. Contract interpretation is a separate question. Privacy reminder: Do not paste contract pages, policy numbers or customer names into comments or social messages. Note: TDI: a COI cannot change or extend policy coverage. This card does not confirm contract compliance. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -2785,7 +2821,9 @@ Please do not paste contract pages, policy numbers or customer names here. This 
 
 ### W4-SUN — Where should business documents go, and what belongs in a first message?
 
-**Assigned candidate:** Facebook 2026-12-20 10:00 CST; Instagram 2026-12-20 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-20 10:00 CST; Instagram 2026-12-20 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430352712](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=8881884964387177512) — UUID `8881884964387177512`; [Instagram post 430352912](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=4785170058388982980) — UUID `4785170058388982980`.
 
 **Hook:** Ask where to send it before attaching it.
 
@@ -2822,7 +2860,7 @@ Leave policy numbers, signatures, customer lists and contract pages out of comme
 Mention any requested date in the direct conversation and ask about timing; do not assume a turnaround. You can start with one question, not a full folder.
 ```
 
-**Default visual:** `W4-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-04.html). Visual check passed; publication consent is separate.
+**Default visual:** `W4-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-04-topic-04.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: Ask where to send it before attaching it. Central question: Where should I send business paperwork? Follow-up questions: What is the next step for this certificate request? What timing should I confirm for the requested date? Next step: Begin with the general topic. Ask Morrison’s team to confirm the document-sharing method before sending anything sensitive. Privacy reminder: No policy numbers, signatures, contract pages, customer lists or employee information in comments or social messages. Note: Editorial handoff prompts; no secure-channel or turnaround promise. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -2853,7 +2891,9 @@ https://morrison-ins.net/what-to-expect” — only after G3 and renewed exact-c
 
 #### W4-GBP-1 — A certificate request: three things to clarify.
 
-**Selection:** selected candidate; still held. 2026-12-16 13:00 CST — GBP
+**Selection:** selected and loaded as an INACTIVE draft, not scheduled (draft=true; autoPublish=false; no media). 2026-12-16 13:00 CST — GBP
+
+**Draft receipt:** [post 430339830](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-2822997466591573900) — UUID `-2822997466591573900`. Inactive draft; authentic TOPICAL photo and separately verified supported Learn more button required; November 2 URL-to-button exception is not inherited.
 
 **Type:** Update, not Offer/Event. **Exact visible body:** 663 characters, including whitespace. No URLs, phone numbers, domains or hashtags.
 
@@ -3493,7 +3533,7 @@ Support: Equipment/inventory, deliveries and hiring are activity topics to discu
 
 **Theme:** Easy preparation before year-end; privacy and low-pressure human help
 
-**Preserved parent capacity envelope:** Facebook 8; Instagram 8; GBP 2; LinkedIn 2, including commitments and reservations.
+**Preserved parent capacity envelope:** Facebook 8; Instagram 8; GBP 2; LinkedIn 2, including commitments and reservations. Planning envelope only, not the actual scheduled count.
 
 **Original produced materials:** [week-5.md](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-5.md) and [week-5.json](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-5.json).
 
@@ -3501,7 +3541,9 @@ Support: Equipment/inventory, deliveries and hiring are activity topics to discu
 
 ### W5-MON — Which one question would make a conversation useful?
 
-**Assigned candidate:** Facebook 2026-12-21 16:00 CST; Instagram 2026-12-21 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-21 16:00 CST; Instagram 2026-12-21 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430353703](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=4310697404538768429) — UUID `4310697404538768429`; [Instagram post 430353805](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-2429862755876387890) — UUID `-2429862755876387890`.
 
 **Hook:** Start with one question, not a stack of paperwork.
 
@@ -3533,7 +3575,7 @@ For an auto question, TDI says the declaration page summarizes coverages, dollar
 From our profile’s website link, find the auto quote checklist in Resources. Start with one question; ask the team what would be useful next. No policy numbers or personal details in comments.
 ```
 
-**Default visual:** `W5-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-01.html). Visual check passed; publication consent is separate.
+**Default visual:** `W5-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-01.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: Start with one question, not a stack of paperwork. Central question: What is one insurance question I want explained before year-end? Follow-up questions: Which word or date do I want to understand? What information would be useful next? Next step: Write the question on a blank sheet and leave room for the answer. Keep any auto page for your own reference. Privacy reminder: Do not post policy numbers, personal details or a photo of your declarations page. Note: For auto, TDI says the declaration page summarizes coverages, dollar limits and deductibles. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -3557,11 +3599,13 @@ From our profile’s website link, find the auto quote checklist in Resources. S
 
 ### W5-WED — What can I leave out of a first message?
 
-**Assigned candidate:** Facebook 2026-12-23 16:00 CST; Instagram 2026-12-23 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-23 16:00 CST; Instagram 2026-12-23 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430353925](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=8770705119505564913) — UUID `8770705119505564913`; [Instagram post 430354038](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-7199303940824674789) — UUID `-7199303940824674789`.
 
 **Hook:** A first message can explain the topic without exposing the paperwork.
 
-**Primary destination:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
+**Primary destination:** `/what-to-expect` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; selected FB/IG approval/capacity/exact-media checks complete; provider publication pending.
 
 <a id="w5-wed-facebook"></a>
 
@@ -3591,7 +3635,7 @@ A general topic works: “I have a home insurance question. What is the best way
 From our profile’s website link, choose What to expect. You can start by asking about the process and confirming next-step timing, without putting your paperwork on display.
 ```
 
-**Default visual:** `W5-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-02.html). Visual check passed; publication consent is separate.
+**Default visual:** `W5-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-02.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: A first message can explain the topic without exposing the paperwork. Central question: What can I leave out of a first message? Follow-up questions: I have a home insurance question. What is the best way to begin? How should I provide any needed paperwork? Next step: Start with the topic. Say whether it is a new decision or help with something you already have. Privacy reminder: Leave out policy numbers, driver’s license details, birth dates, VINs and document photos. No identifiers in comments or social messages. Note: Editorial privacy prompts; no document channel is described as secure. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -3613,11 +3657,13 @@ From our profile’s website link, choose What to expect. You can start by askin
 
 ### W5-FRI — Can I get ready without arranging a conversation today?
 
-**Assigned candidate:** Facebook 2026-12-25 10:00 CST; Instagram 2026-12-25 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-25 10:00 CST; Instagram 2026-12-25 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430354131](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=123272071629062160) — UUID `123272071629062160`; [Instagram post 430354208](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=46799407752298898) — UUID `46799407752298898`.
 
 **Hook:** Preparing a question does not have to become today’s appointment.
 
-**Primary destination:** `/prepare-for-a-conversation` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
+**Primary destination:** `/prepare-for-a-conversation` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; selected FB/IG approval/capacity/exact-media checks complete; provider publication pending.
 
 <a id="w5-fri-facebook"></a>
 
@@ -3651,7 +3697,7 @@ From our profile’s website link, choose Prepare for a conversation. Keep ident
 If you have a deadline, share the date when you contact the team and confirm timing directly. This is not an office-hours announcement. You can begin with a question about the process, not a decision.
 ```
 
-**Default visual:** `W5-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-03.html). Visual check passed; publication consent is separate.
+**Default visual:** `W5-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-03.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: Preparing a question does not have to become today’s appointment. Central question: Can I get ready without arranging a conversation today? Follow-up questions: What part do I want explained? What next step do I want to ask about? Next step: Make a private topic note and set it aside. If you have a deadline, discuss it and confirm timing when you contact the team. Privacy reminder: Keep identifying details out of comments and social messages. Note: Preparation is not a decision today. This is not an office-hours announcement. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -3673,11 +3719,13 @@ If you have a deadline, share the date when you contact the team and confirm tim
 
 ### W5-SUN — Which help route fits my question?
 
-**Assigned candidate:** Facebook 2026-12-27 10:00 CST; Instagram 2026-12-27 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-27 10:00 CST; Instagram 2026-12-27 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430354298](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-7308144550559592899) — UUID `-7308144550559592899`; [Instagram post 430354378](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-7185900618152131383) — UUID `-7185900618152131383`.
 
 **Hook:** Choose the situation first; the paperwork can wait.
 
-**Primary destination:** `/start-here` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; separate social approval/capacity/media checks remain.
+**Primary destination:** `/start-here` — Live public release and mobile/desktop tool checks passed November 16, 2026 at 10:14–10:15 AM CST; selected FB/IG approval/capacity/exact-media checks complete; provider publication pending.
 
 <a id="w5-sun-facebook"></a>
 
@@ -3707,7 +3755,7 @@ From our profile’s website link, choose Start here and pick the situation that
 Keep the first message general. No policy numbers, claim details or document photos in comments or social messages. Ask the team what belongs in the next step. Choosing a route is not a commitment to buy.
 ```
 
-**Default visual:** `W5-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-04.html). Visual check passed; publication consent is separate.
+**Default visual:** `W5-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-05-topic-04.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: Choose the situation first; the paperwork can wait. Central question: Which starting point fits my question? Follow-up questions: Is it a renewal, property use, business paperwork or existing policy or claim help? Can you point me to the right starting place? Next step: Choose the situation first, then ask what information belongs in the next step. It is not a commitment to buy. Privacy reminder: Keep policy numbers, claim details and document photos out of comments and social messages. Note: Editorial routing prompts; no policy acceptance or claim outcome is promised. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -3733,7 +3781,9 @@ Keep the first message general. No policy numbers, claim details or document pho
 
 #### W5-GBP-1 — One question is a useful place to start.
 
-**Selection:** selected candidate; still held. 2026-12-23 13:00 CST — GBP
+**Selection:** selected and loaded as an INACTIVE draft, not scheduled (draft=true; autoPublish=false; no media). 2026-12-23 13:00 CST — GBP
+
+**Draft receipt:** [post 430339899](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-5458626155773341714) — UUID `-5458626155773341714`. Inactive draft; authentic TOPICAL photo and separately verified supported Learn more button required; November 2 URL-to-button exception is not inherited.
 
 **Type:** Update, not Offer/Event. **Exact visible body:** 657 characters, including whitespace. No URLs, phone numbers, domains or hashtags.
 
@@ -4570,7 +4620,7 @@ Used by: ["W5-MON"]
 
 **Theme:** New-year changes and renewal questions; no January price or trend predictions
 
-**Preserved parent capacity envelope:** Facebook 7; Instagram 7; GBP 2; LinkedIn 2, including commitments and reservations.
+**Preserved parent capacity envelope:** Facebook 7; Instagram 7; GBP 2; LinkedIn 2, including commitments and reservations. Planning envelope only, not the actual scheduled count.
 
 **Original produced materials:** [week-6.md](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-6.md) and [week-6.json](/home/ubuntu/research/acquisition-build-2026-11-16/weeks/week-6.json).
 
@@ -4578,7 +4628,9 @@ Used by: ["W5-MON"]
 
 ### W6-MON — What has changed about how I use my car, and what should I ask about that change?
 
-**Assigned candidate:** Facebook 2026-12-28 16:00 CST; Instagram 2026-12-28 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-28 16:00 CST; Instagram 2026-12-28 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430356233](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-8970128539255746647) — UUID `-8970128539255746647`; [Instagram post 430356431](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=8301694065464068457) — UUID `8301694065464068457`.
 
 **Hook:** Same car. Different routine?
 
@@ -4617,7 +4669,7 @@ Keep the specifics in your own notes—not in comments or DMs. Ask Morrison how 
 Our auto quote checklist is a useful starting point. Find it through the profile link.
 ```
 
-**Default visual:** `W6-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-01.html). Visual check passed; publication consent is separate.
+**Default visual:** `W6-MON-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-01.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-01.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-01.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with an unchecked question checklist. Hook: Same car. Different routine? Central question: What has changed about how I use my car? Follow-up questions: What should we discuss about this change? What information do you need from me? Next step: Privately note a changed commute, who drives or possible work-related use. Ask how to share anything needed. Privacy reminder: Keep names, policy numbers, driver information and documents out of comments and social messages. Note: TDI supports asking about car use and exclusions. No coverage or pricing answer is assumed. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -4639,7 +4691,9 @@ Our auto quote checklist is a useful starting point. Find it through the profile
 
 ### W6-WED — Is a planned use of my home or rural-property space different from how it is used today?
 
-**Assigned candidate:** Facebook 2026-12-30 16:00 CST; Instagram 2026-12-30 16:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2026-12-30 16:00 CST; Instagram 2026-12-30 16:15 CST
+
+**Exact planner receipts:** [Facebook post 430356726](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-8513643186899367384) — UUID `-8513643186899367384`; [Instagram post 430356798](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=5695913054206902520) — UUID `5695913054206902520`.
 
 **Hook:** What will that space be used for?
 
@@ -4678,7 +4732,7 @@ Then ask: “What should I explain before we discuss my policy?” A plan is a q
 Our home-versus-farm guide offers background through the profile link. Keep addresses, household details, photos, and paperwork out of comments and DMs. Ask Morrison how to share anything needed.
 ```
 
-**Default visual:** `W6-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-02.html). Visual check passed; publication consent is separate.
+**Default visual:** `W6-WED-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-02.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-02.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-02.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two side-by-side question panels. Hook: What will that space be used for? Central question: What should I explain before we discuss my policy? Follow-up questions: How is the room, shed or other space used today? What use am I considering next? Next step: Make two private notes: current use and a possible new use. You do not need a finished plan to ask a question. Privacy reminder: Keep addresses, household details, property photos and documents out of comments and social messages. Note: TDI: home coverages vary by company. A general article does not answer your particular situation. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -4700,7 +4754,9 @@ Our home-versus-farm guide offers background through the profile link. Keep addr
 
 ### W6-FRI — What are my actual policy dates, and which detail needs explaining before a renewal or switch?
 
-**Assigned candidate:** Facebook 2027-01-01 10:00 CST; Instagram 2027-01-01 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2027-01-01 10:00 CST; Instagram 2027-01-01 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430356909](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-4811708892505618624) — UUID `-4811708892505618624`; [Instagram post 430357013](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=8770320298385033249) — UUID `8770320298385033249`.
 
 **Hook:** A new calendar. Your own policy dates.
 
@@ -4737,7 +4793,7 @@ Texas insurance guidance says not to cancel your current policy until you have t
 Our switching guide is available through the profile link. Keep dates, policy numbers, and documents out of comments and DMs. Confirm next-step timing directly; this is not a holiday-hours notice.
 ```
 
-**Default visual:** `W6-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-03.html). Visual check passed; publication consent is separate.
+**Default visual:** `W6-FRI-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-03.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-03.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-03.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with two numbered conversation steps. Hook: A new calendar. Your own policy dates. Central question: What are my actual policy dates? Follow-up questions: Which deductible or coverage-limit detail needs explaining? What confirms new coverage before I request cancellation? Next step: Use your actual paperwork for a private reminder—not a guess based on January 1. Confirm follow-up timing directly. Privacy reminder: Do not post policy dates, numbers or paperwork. This is not a holiday-hours notice. Note: TDI: do not cancel the current policy until you have the new policy or a written statement proving coverage. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -4759,7 +4815,9 @@ Our switching guide is available through the profile link. Keep dates, policy nu
 
 ### W6-SUN — For a business paperwork conversation, which change is confirmed, which is tentative, and what should happen next?
 
-**Assigned candidate:** Facebook 2027-01-03 10:00 CST; Instagram 2027-01-03 10:15 CST
+**Scheduled placements (PENDING, independently verified):** Facebook 2027-01-03 10:00 CST; Instagram 2027-01-03 10:15 CST
+
+**Exact planner receipts:** [Facebook post 430357163](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=4743355399933939011) — UUID `4743355399933939011`; [Instagram post 430357233](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-2642716785084120675) — UUID `-2642716785084120675`.
 
 **Hook:** What is decided—and what is still a possibility?
 
@@ -4796,7 +4854,7 @@ For a paperwork request, ask: “What information do you need, how should I shar
 Our certificate-of-insurance guide offers background through the profile link. Keep customer names, contracts, financial details, and documents out of comments and DMs. Confirm the actual next step directly with Morrison.
 ```
 
-**Default visual:** `W6-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-04.html). Visual check passed; publication consent is separate.
+**Default visual:** `W6-SUN-CARD` — finished original educational graphic, not a photograph. [JPEG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-04.jpg) · [PNG](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-04.png) · [Editable HTML](/home/ubuntu/morrison-acquisition-assets/2026-11-16/topic-cards/week-06-topic-04.html). Approved still card scheduled on both assigned channels; exact imported media verified.
 
 **Checked graphic alt text:** Cream, green and amber typographic Morrison Insurance card with a dark-green central-question panel and privacy preparation prompts. Hook: What is decided—and what is still a possibility? Central question: What is decided—and what is still a possibility? Follow-up questions: What information do you need, and how should I share it? When should I follow up? Next step: Separate confirmed work changes from ideas in private notes. Add the general purpose of any paperwork request. Privacy reminder: Keep customer names, contracts, financial details and documents out of comments and social messages. Note: Editorial prompts; no certificate issuance, contractual acceptance or turnaround promise. Footer: Morrison Insurance, (936) 598-2791, Center · Shelby County · Deep East Texas. General questions. Not a coverage determination. No people or policy documents pictured.
 
@@ -4822,7 +4880,9 @@ Our certificate-of-insurance guide offers background through the profile link. K
 
 #### W6-GBP-1 — Has your driving routine changed?
 
-**Selection:** selected candidate; still held. 2026-12-30 13:00 CST — GBP
+**Selection:** selected and loaded as an INACTIVE draft, not scheduled (draft=true; autoPublish=false; no media). 2026-12-30 13:00 CST — GBP
+
+**Draft receipt:** [post 430339983](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-5449648869409535775) — UUID `-5449648869409535775`. Inactive draft; authentic TOPICAL photo and separately verified supported Learn more button required; November 2 URL-to-button exception is not inherited.
 
 **Type:** Update, not Offer/Event. **Exact visible body:** 644 characters, including whitespace. No URLs, phone numbers, domains or hashtags.
 
@@ -4852,7 +4912,9 @@ The auto quote checklist offers a starting point for organizing your question. K
 
 #### W6-GBP-2 — Use your own policy dates as the planning cue.
 
-**Selection:** selected candidate; still held. 2027-01-01 13:00 CST — GBP
+**Selection:** selected and loaded as an INACTIVE draft, not scheduled (draft=true; autoPublish=false; no media). 2027-01-01 13:00 CST — GBP
+
+**Draft receipt:** [post 430340052](https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-9030236222138923494) — UUID `-9030236222138923494`. Inactive draft; authentic TOPICAL photo and separately verified supported Learn more button required; November 2 URL-to-button exception is not inherited.
 
 **Type:** Update, not Offer/Event. **Exact visible body:** 660 characters, including whitespace. No URLs, phone numbers, domains or hashtags.
 
