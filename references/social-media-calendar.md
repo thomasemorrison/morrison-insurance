@@ -1,6 +1,6 @@
 # Morrison Insurance — Consolidated Social Media Plan
 
-**Last revised:** November 2, 2026, following the 1:37 PM CST direction  
+**Last revised:** November 16, 2026, following the new acquisition-build direction  
 **Primary platforms:** Facebook and Instagram  
 **Additional channels:** Google Business Profile as a separate compliant Update workflow; LinkedIn remains manual until the account has a stronger follower base. Both retain lighter review planning of up to two candidates per channel per week, with existing approval and publication gates.  
 **Scheduling rule:** Every proposed placement, including a Story, must be checked in Metricool immediately before it is recommended or scheduled. The hard ceiling is **two placements per channel per calendar day**, regardless of activity on other channels; **there is no combined cross-network daily cap**. Target **7–10 posts on Facebook and 7–10 posts on Instagram each week**, not 7–10 combined. The narrowly scoped safety/fishing publication exceptions recorded below remain unchanged. No other item is automatically scheduled or published; the limited gratitude series has the specific scheduling approval recorded below.
@@ -9,11 +9,17 @@
 
 ## Purpose and operating principle
 
-Morrison Insurance should be **the useful, recognizable Shelby County account that happens to be an insurance agency**. The account earns attention through local service, familiar places, outdoor and rural life, and plain-language help. It earns an inquiry only after it has demonstrated that it understands the community.
+Morrison Insurance should help a Shelby County or Deep East Texas reader recognize a real insurance question, understand the useful part, and choose an easy route to a local person. The new acquisition program does not assume that general local loyalty or a higher post count will create inquiries. Community service remains valuable, but insurance-question content and a clear conversation path now carry a deliberate share of the weekly mix.
 
-> **Content test:** Would someone in Shelby County find this useful, recognizable, or worth passing to a neighbor even if they were not shopping for insurance today? If not, it does not lead the calendar.
+> **Content test:** Does this help a real local reader know what to notice, prepare or ask—and make the next step clear without a product pitch, fear tactic or promise?
 
 This plan replaces the July 2026 two-post manual rotation. It aligns the Instagram audit with the active Weekday Content Desk, the weekly sports and fishing deliverables, current SEO work, and Morrison’s community-first brand requirements. It is a planning framework, not permission to post automatically.
+
+### Question-led acquisition program — built November 16
+
+Use `content/acquisition-six-week-calendar-2026-11-16.md`, its complete copy packet and the new `/start-here`, `/prepare-for-a-conversation` and `/what-to-expect` tools for November 23–January 3. Four weekly Facebook/Instagram topic pairs connect a useful insurance question to optional preparation and a visible human next step. Two genuine staff-video scripts per week replace those topic slots when recorded; finished factual cards are fallbacks, not pretend footage. Keep school/fishing anchors and every existing commitment unchanged. Do not duplicate future sports scores, lake conditions or events before fresh research.
+
+The prior percentage mix and local-loyalty tests below remain historical references, not instructions to suppress useful acquisition content or add filler. Measure relevant page visits, real questions, accepted inquiries and agreed next steps separately from likes and contact taps. The build does not change form behavior, consent, tracking, Ads, account links or publication permissions. New social copy is review-ready and requires genuine public-page verification plus ordinary image, per-channel capacity and approval gates before activation. The one Unified Content Desk remains the sole recurring workflow.
 
 ## Current cadence — approved November 2, 2026, 1:37 PM CST
 
@@ -104,7 +110,7 @@ The current aim is **7–10 useful posts per week on Facebook and 7–10 on Inst
 
 ## Content mix for a four-week cycle
 
-The mix preserves insurance expertise while putting community usefulness first. Apply it across the current **7–10 posts per week on each of Facebook and Instagram**, not as extra posts above that target. The target is a **90/10 value-to-direct-offer balance**; the direct-service portion should be used sparingly and only after a post has already provided something practical. Do not manufacture low-value content to meet a percentage or volume goal.
+The following percentage mix is the earlier local-loyalty approach, retained as history. The November 16 question-led acquisition calendar supersedes its percentage targets for new planning, while preserving every committed post. All content still needs real reader value, and the 7–10-per-channel weekly target and two-per-channel daily ceiling remain. Do not manufacture low-value content to meet a percentage or volume goal.
 
 | Pillar | Target share | What it should accomplish | Examples |
 |---|---:|---|---|
