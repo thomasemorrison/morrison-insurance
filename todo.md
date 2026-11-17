@@ -514,11 +514,22 @@ The question-led approach is adopted in the local social guide; no existing cont
 
 - [x] Complete five independent school checks and one targeted basketball correction pass; deliver the Morrison-only packet and Tuesday handoff. Proposed order Tenaha/Timpson/Shelbyville/Center/Joaquin; no graphics or production-rotation advance.
 - [x] Replace Center's disputed November 20 item with the independent November 19 Rusk middle-school girls listing, preserving paired starts and gyms. Correct Shelbyville's November 17 past-date error; retain its missing-gym limitation and complete football backup.
-- [x] Clarify Timpson's All Day label as missing time; the linked ticket page's 5 AM versus the PDF's 5:00 leaves its actual start unresolved. Hold the full carousel and caption drafts; no partial public roundup.
+- [x] Document the original Timpson All Day/5 AM ambiguity. At 10:02:29 AM the user confirmed the November 17 Douglass game is 5 PM and requested visible “5:00”; update the school entry and both complete captions, clear the factual hold for review and retain confirmation provenance.
 - [x] Refresh 6:47:41 AM provider inventory: five actual Facebook/five actual Instagram weekly, today 1/2 each; Thursday fishing reserved separately. November 10 sports and yesterday's cattle-feed pair are provider PUBLISHED; the garden pair remains PENDING. No layout, engagement or lead claim.
 - [x] Complete NWS/county/Forest Service/local safety checks with current-week PDF and freshness limits. No new material post, lifting amplification, burning encouragement, email or new workflow.
-- [ ] Obtain a current official Timpson start or another complete current supported item before full-carousel release. Keep the shared November 20 Center–Timpson time conflict excluded everywhere. No school contacted.
-- [ ] After facts clear and current production/activation approval, finish all five cards/captions/alt text and refresh capacity. The held batch has no time recommendation or Metricool draft.
-- [ ] Today's 10 AM teen-driver grouped row 347594305 needs explicit agency approval for any correction/pause, especially its GBP phone/domain/hashtags. Monday row 347610824 is already provider PUBLISHED; preserve that history rather than claim its pre-delivery decision remains actionable.
+- [x] Resolve the selected November 17 Timpson start by explicit team confirmation. Keep the different November 20 Center–Timpson time conflict excluded everywhere. No school contacted and no source webpage claimed corrected.
+- [x] Complete requested production at 11:29 AM: five proofed JPEGs/alt entries, same-day event checks and fresh capacity; full posting package ready. Activation remains separately unapproved and no Metricool draft or active schedule exists.
+- [x] At 10:03:35 AM row 347594305 is provider PUBLISHED on all four channels; at 10:05:35 AM its exact teen-driver caption/image is publicly visible through the Google link. The earlier pre-delivery task is past, not awaiting approval of a new draft. Save the user's differing Metricool view without diagnosing its cause. No edit, deletion or repost was made; Monday remains the separate earlier provider-verified record.
 
 Files: `content/content-desk-2026-11-17-tuesday-handoff.md` and `content/five-school-sports-2026-11-17.md`. Thursday Monica timing/overlap, fishing reservation, community image rights, acquisition GBP photos/buttons, measurement/indexing and paid-media holds remain unchanged. No new recurring task or publication permission.
+
+
+## November 17, 11:29 AM — five-school production complete
+
+- [x] Produce five equal 1080 × 1350 JPEGs and editable HTML under the current request. Order: Tenaha/Timpson/Shelbyville/Center/Joaquin, recorded as the produced week once.
+- [x] Proof each new card once; preserve Timpson's 5:00 without AM/PM and Joaquin's explicit November 13 recent-result label. No prior attachment was reopened.
+- [x] Recheck same-day Tenaha/Timpson sources and fresh Morrison capacity at 11:24 AM. Each channel has 1/2 today and five actual weekly; the proposed pair would make six actual each, with separate fishing reservation conditionally making seven.
+- [x] Upload and verify all five JPEGs; save exact Facebook/Instagram copy, media/alt mapping, source notes, readable package receipt and ZIP with editable HTML.
+- [ ] Activate only if explicitly requested. Refresh time/capacity and avoid backdating; apply Instagram AI disclosure to these AI-assisted cards. No provider draft or schedule was created during production.
+
+Delivery: `content/five-school-posts-ready-2026-11-17.md`, `content/five-school-posts-2026-11-17.zip`, and `/home/ubuntu/morrison-sports-assets/2026-11-17/`. Existing GBP/LinkedIn, community/fishing/Monica commitments, acquisition schedules, website, Ads, tracking, email and recurring permissions remain unchanged.
