@@ -508,3 +508,17 @@ Prior weekly growth, legacy post, Monica timing, safety, partner privacy, indexi
 - [ ] Verify genuine accepted-form delivery, consent-aware tracking, GA4/GSC access and anonymous agency inquiry outcomes under separate authorized access/testing. New website tools are not proof of qualified leads or tracking repair.
 
 The question-led approach is adopted in the local social guide; no existing content removed, recurring timing/permissions changed, email/partner outreach or Ads spend initiated. Shared calendar history preserved locally; older pending project-file approval was not resubmitted. Temporary local QA servers stopped; the managed website server remains. See launch guide, complete copy, calendar and package for exact scope and remaining gates. Prior benchmark proposals are superseded only for this specifically requested website/content build; measurement and broader outreach/paid-media restrictions remain.
+
+
+## November 17 — Tuesday Content Desk
+
+- [x] Complete five independent school checks and one targeted basketball correction pass; deliver the Morrison-only packet and Tuesday handoff. Proposed order Tenaha/Timpson/Shelbyville/Center/Joaquin; no graphics or production-rotation advance.
+- [x] Replace Center's disputed November 20 item with the independent November 19 Rusk middle-school girls listing, preserving paired starts and gyms. Correct Shelbyville's November 17 past-date error; retain its missing-gym limitation and complete football backup.
+- [x] Clarify Timpson's All Day label as missing time; the linked ticket page's 5 AM versus the PDF's 5:00 leaves its actual start unresolved. Hold the full carousel and caption drafts; no partial public roundup.
+- [x] Refresh 6:47:41 AM provider inventory: five actual Facebook/five actual Instagram weekly, today 1/2 each; Thursday fishing reserved separately. November 10 sports and yesterday's cattle-feed pair are provider PUBLISHED; the garden pair remains PENDING. No layout, engagement or lead claim.
+- [x] Complete NWS/county/Forest Service/local safety checks with current-week PDF and freshness limits. No new material post, lifting amplification, burning encouragement, email or new workflow.
+- [ ] Obtain a current official Timpson start or another complete current supported item before full-carousel release. Keep the shared November 20 Center–Timpson time conflict excluded everywhere. No school contacted.
+- [ ] After facts clear and current production/activation approval, finish all five cards/captions/alt text and refresh capacity. The held batch has no time recommendation or Metricool draft.
+- [ ] Today's 10 AM teen-driver grouped row 347594305 needs explicit agency approval for any correction/pause, especially its GBP phone/domain/hashtags. Monday row 347610824 is already provider PUBLISHED; preserve that history rather than claim its pre-delivery decision remains actionable.
+
+Files: `content/content-desk-2026-11-17-tuesday-handoff.md` and `content/five-school-sports-2026-11-17.md`. Thursday Monica timing/overlap, fishing reservation, community image rights, acquisition GBP photos/buttons, measurement/indexing and paid-media holds remain unchanged. No new recurring task or publication permission.
