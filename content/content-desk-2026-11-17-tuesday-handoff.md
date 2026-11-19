@@ -1,5 +1,7 @@
 # Tuesday Content Desk — November 17, 2026
 
+**Current activation update — November 17, 12:04:59 PM CST:** Facebook is scheduled for12:10PM and Instagram for12:15PM, both active non-drafts with autoPublish true and providerPENDING. [Actual schedule receipt](/home/ubuntu/morrison-insurance/content/five-school-carousel-scheduled-2026-11-17.md). Earlier preparation-only statements below are timestamped history, not the current queue status.
+
 **Updated at 11:29 AM CST: five finished school cards and both captions are ready; not scheduled.** The user confirmed Timpson's evening start at 10:02:29 AM and requested “5:00” without AM/PM. The [finished posting packet](/home/ubuntu/morrison-insurance/content/five-school-posts-ready-2026-11-17.md) contains five visually checked JPEGs, complete copy, media/alt mapping and the noon Facebook / 12:15 PM Instagram recommendation. No Metricool draft or scheduling write was made. Today's existing legacy GBP post was publicly verified at 10:05 AM; it was not created or changed by this run. Prepared by Manus AI for Morrison review.
 
 ## Sports: Timpson time confirmed by the team

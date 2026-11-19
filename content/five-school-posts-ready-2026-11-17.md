@@ -1,5 +1,7 @@
 # Five-school posts — ready for review
 
+**Current activation update — November 17, 12:04:59 PM CST:** Facebook is scheduled for12:10PM and Instagram for12:15PM, both active non-drafts with autoPublish true and providerPENDING. [Actual schedule receipt](/home/ubuntu/morrison-insurance/content/five-school-carousel-scheduled-2026-11-17.md). Earlier preparation-only statements below are timestamped history, not the current queue status.
+
 **Five finished 1080 × 1350 JPEGs and complete Facebook/Instagram copy. Not scheduled, not published.** Prepared November 17, 2026, for Morrison Insurance. These are original HTML-rendered cards matching the established school-palette references and layout—not edited Canva templates. No user attachment was reopened.
 
 The same-week order is **Tenaha → Timpson → Shelbyville → Center → Joaquin**. Timpson reads **5:00**, without AM/PM, as requested. All five final cards were visually checked for dates, opponents, starts, venue wording, unclipped text and equal dimensions. No school logos, athlete photographs or endorsements were invented.

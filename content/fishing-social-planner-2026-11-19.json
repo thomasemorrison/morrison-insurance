@@ -1,0 +1,203 @@
+{
+  "brandId": "6256215",
+  "timezone": "America/Chicago",
+  "authorization": "Existing October30 Thursday10AM Facebook/Instagram exception; approved unchanged November5 supplied graphic",
+  "pre_schedule_checked_at": "2026-11-19T06:35:21-06:00",
+  "independent_readback_at": "2026-11-19T06:36:29-06:00",
+  "status": "ACTIVE_SCHEDULES_PENDING_NOT_PUBLISHED",
+  "report_type": "Dated lake-conditions note; no verified fresh bite forecast",
+  "lake": {
+    "source": "https://waterdatafortexas.org/reservoirs/individual/toledo-bend",
+    "retrieved_at": "2026-11-19T06:34:11-06:00",
+    "observation_displayed": "2026-11-19 06:15",
+    "observation_timezone": "Page table does not label timezone; retained as displayed, not converted",
+    "type": "instantaneous",
+    "level_ft": 167.54,
+    "conservation_pool_ft": 172.0,
+    "difference_below_pool_ft": 4.46,
+    "rounded_difference_ft": 4.5,
+    "provisional": true,
+    "initial_extraction_stale": "November16; superseded by current direct no-cache page"
+  },
+  "image": {
+    "original": "/home/ubuntu/morrison-fishing-assets/FishingReportgeneric.png",
+    "public_url": "https://files.manuscdn.com/user_upload_by_module/session_file/310519663724333063/HiiYWMoCxJcuMnNk.png",
+    "unchanged": true,
+    "public_original_byte_match": true,
+    "attachment_not_reopened": true,
+    "alt": "Blue Toledo Bend Fishing Report graphic with a bass leaping from water and Morrison Insurance branding.",
+    "provenance_note": "User-supplied approved graphic, not a factual current-lake photograph; original AI history unknown, no generation or significant alteration by Manus in this reuse. Retain prior false disclosure setting without claiming proven origin."
+  },
+  "posts": [
+    {
+      "id": 434161260,
+      "uuid": "-5834498615065885391",
+      "publicationDate": {
+        "dateTime": "2026-11-19T10:00:00",
+        "timezone": "America/Chicago"
+      },
+      "creationDate": {
+        "dateTime": "2026-11-19T06:35:00",
+        "timezone": "America/Chicago"
+      },
+      "text": "Headed to Toledo Bend this weekend? Here's a lake-level check before you go.\n\nTWDB's November 19 morning reading puts the lake at 167.54 feet—about 4.5 feet below its 172-foot conservation pool. Data is provisional, so recheck the latest level and your chosen launch before heading out.\n\nTPWD's weekly fishing reports remain on hold. This is a dated lake-conditions note, not a fresh bite forecast.\n\nA practical reminder for trips between Texas lakes: drain water from your boat and onboard receptacles, and check TPWD's live-bait transport rules.\n\nFishing from the bank or a boat this weekend?\n\nLake level: https://waterdatafortexas.org/reservoirs/individual/toledo-bend\n\nTPWD reports: https://tpwd.texas.gov/fishboat/fish/action/reptform2.php?lake=TOLEDO+BEND&yearcat=current&archive=latest&Submit=Go\n\nBoat and bait guidance: https://tpwd.texas.gov/regulations/outdoor-annual/fishing/general-rules-regulations/possession-and-transport-of-exotic-aquatic-species\n\n#ToledoBend #ShelbyCountyTX #DeepEastTexas",
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-7892073104666940976.png"
+      ],
+      "mediaAltText": [
+        "Blue Toledo Bend Fishing Report graphic with a bass leaping from water and Morrison Insurance branding."
+      ],
+      "providers": [
+        {
+          "network": "facebook",
+          "status": "PENDING",
+          "detailedStatus": "Pending"
+        }
+      ],
+      "draft": false,
+      "autoPublish": true,
+      "shortener": false,
+      "facebookData": {
+        "type": "POST"
+      },
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-5834498615065885391"
+    },
+    {
+      "id": 434161293,
+      "uuid": "-1996171112774612174",
+      "publicationDate": {
+        "dateTime": "2026-11-19T10:00:00",
+        "timezone": "America/Chicago"
+      },
+      "creationDate": {
+        "dateTime": "2026-11-19T06:35:00",
+        "timezone": "America/Chicago"
+      },
+      "text": "Toledo Bend check-in · November 19\n\nThis morning's TWDB reading: 167.54 feet—about 4.5 feet below conservation pool. Provisional; check the latest level and your launch before heading out.\n\nTPWD's weekly reports remain on hold, so this is a lake-conditions note, not a bite forecast.\n\nMoving between Texas lakes? Drain boats and onboard receptacles, and check TPWD's live-bait rules.\n\nBank or boat this weekend?\n\nSources: TWDB; Texas Parks and Wildlife.\n\n#ToledoBend #ShelbyCountyTX #DeepEastTexas",
+      "media": [
+        "https://static.metricool.com/planner/202611/6256215-file-11676765419018836128.png"
+      ],
+      "mediaAltText": [
+        "Blue Toledo Bend Fishing Report graphic with a bass leaping from water and Morrison Insurance branding."
+      ],
+      "providers": [
+        {
+          "network": "instagram",
+          "status": "PENDING",
+          "detailedStatus": "Pending"
+        }
+      ],
+      "draft": false,
+      "autoPublish": true,
+      "shortener": false,
+      "instagramData": {
+        "autoPublish": true,
+        "type": "POST",
+        "showReelOnFeed": true,
+        "isAiGenerated": false,
+        "isPaidPartnership": false
+      },
+      "plannerUrl": "https://app.metricool.com/planner/calendar?blogId=6256215&openWithPostUuid=-1996171112774612174"
+    }
+  ],
+  "capacity": {
+    "before_today": {
+      "facebook": 1,
+      "instagram": 1
+    },
+    "before_reserved_fishing": {
+      "facebook": 1,
+      "instagram": 1
+    },
+    "after_today": {
+      "facebook": 2,
+      "instagram": 2
+    },
+    "after_remaining_today": {
+      "facebook": 0,
+      "instagram": 0
+    },
+    "after_extra_fishing_reservation": {
+      "facebook": 0,
+      "instagram": 0
+    },
+    "weekly_before": {
+      "facebook": 6,
+      "instagram": 6,
+      "gmb": 2,
+      "linkedin": 2
+    },
+    "weekly_after": {
+      "facebook": 7,
+      "instagram": 7,
+      "gmb": 2,
+      "linkedin": 2
+    },
+    "weekly_target_per_channel": "7–10 Facebook and 7–10 Instagram independently",
+    "daily_after": {
+      "2026-11-16": {
+        "facebook": 2,
+        "instagram": 2
+      },
+      "2026-11-17": {
+        "facebook": 2,
+        "instagram": 2
+      },
+      "2026-11-18": {
+        "facebook": 1,
+        "instagram": 1
+      },
+      "2026-11-19": {
+        "facebook": 2,
+        "instagram": 2
+      },
+      "2026-11-20": {
+        "facebook": 0,
+        "instagram": 0
+      },
+      "2026-11-21": {
+        "facebook": 0,
+        "instagram": 0
+      },
+      "2026-11-22": {
+        "facebook": 0,
+        "instagram": 0
+      }
+    },
+    "stories_returned": false,
+    "native_activity_not_returned": "Unavailable, not assumed zero; returned PUBLISHED records included",
+    "existing_monicas_spotlight": [
+      {
+        "network": "facebook",
+        "id": 414440058,
+        "uuid": "-8033641637859735636",
+        "time": "10:00",
+        "status": "PENDING"
+      },
+      {
+        "network": "instagram",
+        "id": 414440120,
+        "uuid": "-7651957368840763044",
+        "time": "10:15",
+        "status": "PENDING"
+      }
+    ],
+    "no_shared_cross_network_cap": true
+  },
+  "no_duplicate_fishing": true,
+  "no_legacy_changes": true,
+  "scope": "Only these two new authorized fishing schedules; no GBP/LinkedIn/email/website/Ads/tracking/contact or recurring change",
+  "verification_scope": "Exact field comparison to independent getScheduledPosts output; saved field-focused receipt, not a full raw provider response or native live-rendering inspection",
+  "stored_image_checks": [
+    {
+      "network": "facebook",
+      "http_status": 200,
+      "original_byte_match": true
+    },
+    {
+      "network": "instagram",
+      "http_status": 200,
+      "original_byte_match": true
+    }
+  ]
+}

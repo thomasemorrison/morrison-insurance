@@ -530,6 +530,34 @@ Files: `content/content-desk-2026-11-17-tuesday-handoff.md` and `content/five-sc
 - [x] Proof each new card once; preserve Timpson's 5:00 without AM/PM and Joaquin's explicit November 13 recent-result label. No prior attachment was reopened.
 - [x] Recheck same-day Tenaha/Timpson sources and fresh Morrison capacity at 11:24 AM. Each channel has 1/2 today and five actual weekly; the proposed pair would make six actual each, with separate fishing reservation conditionally making seven.
 - [x] Upload and verify all five JPEGs; save exact Facebook/Instagram copy, media/alt mapping, source notes, readable package receipt and ZIP with editable HTML.
-- [ ] Activate only if explicitly requested. Refresh time/capacity and avoid backdating; apply Instagram AI disclosure to these AI-assisted cards. No provider draft or schedule was created during production.
+- [x] Activate the finished pair after the current12:03request and freshchecks: Facebook12:10PM, Instagram12:15PM; both verified active at12:04:59PM, InstagramAI disclosure enabled. The earlier production-only state is historical.
 
 Delivery: `content/five-school-posts-ready-2026-11-17.md`, `content/five-school-posts-2026-11-17.zip`, and `/home/ubuntu/morrison-sports-assets/2026-11-17/`. Existing GBP/LinkedIn, community/fishing/Monica commitments, acquisition schedules, website, Ads, tracking, email and recurring permissions remain unchanged.
+
+
+## November 17, 12:04:59 PM — sports activation complete
+
+- [x] Respond to the user's current request to load the finished sports pair; fresh identity, same-day event and per-channel capacity checks, no duplicate draft.
+- [x] Create Facebook ID431825601 for12:10PM CST and Instagram ID431825642 for12:15PM CST. Exact prepared copy and five-card order retained; Timpson5:00 unchanged, InstagramAI disclosure enabled.
+- [x] Independently verify both active non-draft autoPublish schedules at12:04:59PM, providerPENDING; exact captions, stored media, fivealt entries, types and times pass. Ten storedJPEGs match originals. Today2/2each, weeklysixactualeach plus separate conditionalfishingreservation oneeach. No legacy post changed.
+- [x] November18 6:35:51AM readback confirms both November17 sports posts provider PUBLISHED with returned public links; no native layout/engagement claim, duplicate post or new monitor.
+
+Final receipt: `content/five-school-carousel-scheduled-2026-11-17.md`. Actual new UUIDs: Facebook8623780206577471069, Instagram-1494920680112306694. Earlier production-only “not scheduled” states are historical, superseded by this activation. All other gates and commitments remain unchanged.
+
+
+## November 18 — Wednesday internal check
+
+- [x] Complete official NWS/county/Forest Service/local safety scan, preserving source freshness and November13 fire restrictions. Current direct NWS payloads empty; no new actionable public proposal, no all-clear message or filler.
+- [x] Close yesterday's sports provider-delivery check; update canonical internal receipts to PUBLISHED. Today's already approved garden pair remains PENDING at10:00/10:15AM; do not duplicate it.
+- [x] Fresh per-channel inventory: today1/2each, weeklysixactualeach; separate source-gated Thursdayfishing reservation makes conditional seveneach. No schedule, cancellation, web/Ads/tracking/email/recurring change. Evidence retained in `/home/ubuntu/research/content-desk-2026-11-18/`.
+
+
+## November 19 — Thursday Content Desk
+
+- [x] Complete current NWS/county/Forest Service/local safety checks with explicit source dates; no qualifyingwarning ornewactionableproposal, no liftingamplification/burningencouragement/publicallclear.
+- [x] Verify current directTWDBNov19reading167.54ft; calculate4.46ftbelowconservationpool, publicrounded4.5ft. TPWDreportsremainonhold; use datedlakeconditionsfallback,notoldmonthlypatterns.
+- [x] PublicapprovedunchangedfishingPNGverifiedwithoutreopeninguserimage. CreateonlyauthorizedFBigpair10AMCentral; independent6:36:29AMreadback verifiesIDs434161260/434161293, exactcopy/media/alt/type/flags, providerPENDING. ExistingMonicapairunchanged. Today2/2each,week7actualeach; fishingreservationconsumedonce.
+- [x] ConfirmNovember18gardenpairproviderPUBLISHED fromfreshweekinventory; noduplicate, native-layoutorleadgrowthclaim.
+- [ ] Confirmactualfishingproviderdeliveryafter10AMwithinexistingContentDesk; do notcallPENDINGpublished orcreateanothermonitor. All unrelated gates remain.
+
+Exactreceipt: `content/fishing-social-planner-2026-11-19.json`. Handoff: `content/content-desk-2026-11-19-thursday-handoff.md`. No other social, email, website/Ads/tracking orrecurringsettingchange.

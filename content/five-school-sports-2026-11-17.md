@@ -1,5 +1,7 @@
 # Five-school sports — November 16–22, 2026
 
+**Current activation update — November 17, 12:04:59 PM CST:** Facebook is scheduled for12:10PM and Instagram for12:15PM, both active non-drafts with autoPublish true and providerPENDING. [Actual schedule receipt](/home/ubuntu/morrison-insurance/content/five-school-carousel-scheduled-2026-11-17.md). Earlier preparation-only statements below are timestamped history, not the current queue status.
+
 **Review-ready copy; Timpson time hold resolved by the Morrison team's confirmation. Not scheduled.** At **10:02:29 AM CST on November 17**, the user confirmed the game is **5 p.m., not 5 a.m.**, and requested **“5:00” without either designation** in the listing. That display is used below for Timpson only. This is team-confirmed information, not a correction newly found on the school website.
 
 **11:29 AM production update:** the user requested the posts at 11:23:32 AM. All five equal JPEG cards are now produced and visually proofed, with complete Facebook/Instagram copy and public media/alt mapping in the [finished posting packet](/home/ubuntu/morrison-insurance/content/five-school-posts-ready-2026-11-17.md). Important same-day Tenaha/Timpson listings were rechecked at approximately 11:24 AM. The other three findings retain this morning's source checks. No Metricool draft or scheduling write was made. Prepared by Manus AI for Morrison review.
