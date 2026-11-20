@@ -4,7 +4,10 @@
   "authorization": "Existing October30 Thursday10AM Facebook/Instagram exception; approved unchanged November5 supplied graphic",
   "pre_schedule_checked_at": "2026-11-19T06:35:21-06:00",
   "independent_readback_at": "2026-11-19T06:36:29-06:00",
-  "status": "ACTIVE_SCHEDULES_PENDING_NOT_PUBLISHED",
+  "status": "PROVIDER_PUBLISHED",
+  "publication_readback_at": "2026-11-20T06:33:57-06:00",
+  "publication_evidence_scope": "Independent getScheduledPosts readback of both unchanged UUIDs with provider PUBLISHED and public URLs; native live rendering, reach and leads not inspected",
+  "activation_status_history": "Both were PENDING at November19 06:36:29 readback; publication confirmed November20, no recreation or external edit",
   "report_type": "Dated lake-conditions note; no verified fresh bite forecast",
   "lake": {
     "source": "https://waterdatafortexas.org/reservoirs/individual/toledo-bend",
@@ -50,8 +53,10 @@
       "providers": [
         {
           "network": "facebook",
-          "status": "PENDING",
-          "detailedStatus": "Pending"
+          "status": "PUBLISHED",
+          "detailedStatus": "Published",
+          "id": "1681676456994337",
+          "publicUrl": "https://facebook.com/1540319534463364/posts/1681676456994337"
         }
       ],
       "draft": false,
@@ -83,8 +88,10 @@
       "providers": [
         {
           "network": "instagram",
-          "status": "PENDING",
-          "detailedStatus": "Pending"
+          "status": "PUBLISHED",
+          "detailedStatus": "Published",
+          "id": "https://www.instagram.com/p/Df7eepNDtjI/",
+          "publicUrl": "https://www.instagram.com/p/Df7eepNDtjI/"
         }
       ],
       "draft": false,
@@ -172,14 +179,18 @@
         "id": 414440058,
         "uuid": "-8033641637859735636",
         "time": "10:00",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publication_readback_at": "2026-11-20T06:33:57-06:00",
+        "publicUrl": "https://facebook.com/1540319534463364/posts/1681670966994886"
       },
       {
         "network": "instagram",
         "id": 414440120,
         "uuid": "-7651957368840763044",
         "time": "10:15",
-        "status": "PENDING"
+        "status": "PUBLISHED",
+        "publication_readback_at": "2026-11-20T06:33:57-06:00",
+        "publicUrl": "https://www.instagram.com/p/Df7fKi1jqJG/"
       }
     ],
     "no_shared_cross_network_cap": true
