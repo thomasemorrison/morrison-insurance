@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { Link, useLocation } from "wouter";
-import { Menu, X, Phone, ChevronDown, Smartphone } from "lucide-react";
+import { Menu, X, Phone, ChevronDown } from "lucide-react";
 import { BRAND, NAV_LINKS } from "@/lib/constants";
 
 export default function Header() {
@@ -42,17 +42,6 @@ export default function Header() {
             Serving East Texans Since 1923 · Shelby County &amp; Deep East Texas
           </span>
           <div className="flex items-center gap-4">
-            <a
-              href={BRAND.appUrl}
-              target="_blank"
-              rel="noopener noreferrer"
-              style={{ fontFamily: "Inter, sans-serif", fontWeight: 600, fontSize: "0.8125rem", color: "var(--amber-brand)" }}
-              className="flex items-center gap-1.5 hover:opacity-80 transition-opacity"
-            >
-              <Smartphone size={13} />
-              Free App
-            </a>
-            <span style={{ opacity: 0.3 }}>|</span>
             <a
               href={BRAND.phoneHref}
               style={{ fontFamily: "Inter, sans-serif", fontWeight: 600, fontSize: "0.8125rem" }}

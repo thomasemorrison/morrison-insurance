@@ -17,8 +17,6 @@ export const BRAND = {
     zip: "75935",
     full: "125 Shelbyville St., Center, TX 75935",
   },
-  appUrl: "https://www.morrison-insapp.com",
-  appTagline: "Your insurance agent in your pocket.",
   googleReviewUrl: "https://g.page/r/Cf5zlmlroBvYEBI/review",
   social: {
     facebook: "https://www.facebook.com/MorrisonInsuranceAgencyLLC",
