@@ -3,7 +3,6 @@ import { Link } from "wouter";
 import { Phone, Mail, MapPin, Clock, CheckCircle } from "lucide-react";
 import { BRAND, IMAGES } from "@/lib/constants";
 import QuoteForm from "@/components/QuoteForm";
-import AppBanner from "@/components/AppBanner";
 
 function useScrollFadeUp() {
   const ref = useRef<HTMLDivElement>(null);
@@ -693,9 +692,6 @@ export default function ContactPage() {
           </div>
         </div>
       </section>
-
-      {/* App promotion */}
-      <AppBanner variant="light" />
     </div>
   );
 }

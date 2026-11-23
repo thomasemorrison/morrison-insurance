@@ -2,7 +2,6 @@ import { useEffect, useRef, useState } from "react";
 import { Link } from "wouter";
 import { ArrowRight, CheckCircle, ChevronDown, ChevronUp } from "lucide-react";
 import QuoteForm from "./QuoteForm";
-import AppBanner from "./AppBanner";
 import { useSeoMeta } from "@/hooks/useSeoMeta";
 import AcquisitionPath from "./AcquisitionPath";
 
@@ -726,9 +725,6 @@ export default function ServicePageLayout(props: ServicePageProps) {
           </div>
         </div>
       </section>
-
-      {/* App promotion */}
-      <AppBanner variant="dark" />
     </div>
   );
 }
